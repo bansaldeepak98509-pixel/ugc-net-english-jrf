@@ -1,0 +1,907 @@
+{
+ "id": 10,
+ "title": "Research Methods and Materials in English",
+ "overview": "Is unit mein research ke types, hypothesis, primary/secondary sources, literature review, MLA Handbook 9th edition ke citation rules, APA/Chicago, plagiarism aur UGC rules, ethics, bibliography, textual criticism, thesis structure, archives aur digital humanities aate hain. NET mein MLA format, Latin abbreviations, UGC plagiarism levels, sources ki pehchaan aur research tools/thinkers ke matching sawaal zyada poochhe jaate hain.",
+ "topics": [
+  {
+   "title": "What is Research: Types and Approaches",
+   "points": [
+    "Research is a systematic, objective and verifiable inquiry to discover new facts or reinterpret known facts (vyavasthit khoj).",
+    "Basic (fundamental/pure) research builds theory and knowledge for its own sake; applied research solves an immediate practical problem.",
+    "Descriptive research describes 'what is' without manipulating variables; analytical research critically evaluates existing facts and information.",
+    "Conceptual research works with abstract ideas and theories (common in literature); empirical research relies on observation, experiment or data.",
+    "Exploratory research studies a little-known problem to form hypotheses; explanatory (causal) research tests cause-effect relations.",
+    "Historical research studies past records and documents; in literature it includes biographical, textual and literary-historical study.",
+    "Action research is done by practitioners (e.g. teachers) to improve their own practice; the term was coined by Kurt Lewin (1946).",
+    "Case study research is an in-depth study of one unit (a person, text, institution or event).",
+    "Longitudinal research studies the same subjects over a long period; cross-sectional research studies different subjects at one point in time.",
+    "Inductive method moves from particular observations to a general conclusion (Francis Bacon, Novum Organum, 1620); deductive method moves from a general premise to particular conclusions (Aristotelian syllogism).",
+    "Literary research is mostly qualitative, interpretive and library/archive based; it uses close reading, theory and historical contextualisation."
+   ]
+  },
+  {
+   "title": "Steps of the Research Process",
+   "points": [
+    "Usual sequence: identify area -> select and define problem -> review of literature -> formulate hypothesis/research questions -> research design -> data collection -> analysis -> interpretation -> report/thesis writing.",
+    "A good research problem is specific, original, researchable, significant and manageable within time and resources.",
+    "Research gap: the area not yet studied or insufficiently studied, identified through the literature review (jo kaam abhi tak nahi hua).",
+    "Research questions state what the study will answer; objectives state what the study aims to achieve.",
+    "Research design is the blueprint or plan of the whole study (data, method, analysis).",
+    "Scope defines what the study covers; delimitations are boundaries the researcher chooses; limitations are constraints beyond the researcher's control.",
+    "Synopsis (research proposal) is submitted before registration; it states title, problem, review, objectives, hypothesis, methodology, chapter plan and tentative bibliography.",
+    "Pilot study is a small trial run to test tools (e.g. a questionnaire) before the main study.",
+    "Interpretation means drawing meaning and generalisations from analysed data; it must not go beyond the evidence."
+   ]
+  },
+  {
+   "title": "Hypothesis",
+   "points": [
+    "A hypothesis is a tentative, testable statement or educated guess about the relationship between variables (ek asthayi anumaan jise test kiya ja sake).",
+    "Characteristics of a good hypothesis: clear, specific, testable/verifiable, consistent with known facts, simple (parsimonious) and related to the problem.",
+    "Null hypothesis (H0) states no relationship or no difference; alternative hypothesis (H1 or Ha) states that a relationship or difference exists.",
+    "Directional hypothesis predicts the direction of the effect; non-directional hypothesis only predicts that some difference exists.",
+    "Type I error: rejecting a true null hypothesis (false positive); Type II error: accepting a false null hypothesis (false negative).",
+    "Independent variable is the presumed cause; dependent variable is the presumed effect; extraneous/confounding variables distort results.",
+    "Karl Popper (The Logic of Scientific Discovery, 1934 German; English 1959): a scientific hypothesis must be falsifiable.",
+    "In literary research a hypothesis is often replaced by a thesis statement or research questions, since interpretation is not statistically tested.",
+    "Sources of hypothesis: theory, previous studies, observation, intuition and analogy."
+   ]
+  },
+  {
+   "title": "Primary, Secondary and Tertiary Sources",
+   "points": [
+    "Primary sources are original, first-hand materials: the literary text itself, manuscripts, letters, diaries, interviews, first editions, original documents.",
+    "Secondary sources analyse or interpret primary sources: critical books, journal articles, reviews, biographies, commentaries.",
+    "Tertiary sources compile or index primary and secondary sources: encyclopaedias, dictionaries, handbooks, bibliographies, indexes, databases.",
+    "For a thesis on Hamlet, the play is primary; A. C. Bradley's Shakespearean Tragedy (1904) is secondary; an encyclopaedia entry on Shakespeare is tertiary.",
+    "Whether a source is primary or secondary depends on the research question: a critic's essay becomes primary if the study is about that critic.",
+    "Reference works NET asks: Oxford English Dictionary (OED, first complete 1928, originally A New English Dictionary on Historical Principles; first editor James Murray).",
+    "Oxford Dictionary of National Biography (ODNB, 2004) succeeded the Dictionary of National Biography (DNB, ed. Leslie Stephen from 1885).",
+    "Cambridge Bibliography of English Literature (CBEL, 1940) and New CBEL; MLA International Bibliography indexes literary scholarship worldwide.",
+    "M. H. Abrams, A Glossary of Literary Terms (1957) and J. A. Cuddon, A Dictionary of Literary Terms (1977) are standard tertiary reference works.",
+    "Grey literature: unpublished or non-commercial material such as theses, reports, conference papers, working papers."
+   ]
+  },
+  {
+   "title": "Review of Literature",
+   "points": [
+    "Literature review is a critical survey of existing scholarship on the topic; it is not a mere summary or list of books.",
+    "Purposes: show familiarity with the field, find the research gap, avoid duplication, refine the problem, justify the study and locate it in a scholarly conversation.",
+    "It should be organised thematically, chronologically or methodologically, and should compare, evaluate and synthesise sources.",
+    "Narrative (traditional) review surveys literature selectively; systematic review follows a stated, replicable search and selection protocol.",
+    "Meta-analysis statistically combines results of many quantitative studies (term coined by Gene V. Glass, 1976).",
+    "In a thesis the review usually comes after the introduction and before methodology, or forms part of the introductory chapter.",
+    "Sources for review in India: Shodhganga (full-text Indian theses, INFLIBNET), Shodhgangotri (synopses), JSTOR, Project MUSE, MLA International Bibliography, Google Scholar.",
+    "Always cite every source reviewed; reproducing others' summaries without acknowledgement is plagiarism."
+   ]
+  },
+  {
+   "title": "MLA Handbook 9th Edition: Core Elements",
+   "points": [
+    "MLA Handbook, 9th edition, was published by the Modern Language Association in April 2021; 8th ed. 2016; 7th ed. 2009. The first MLA Handbook appeared in 1977.",
+    "MLA 8 (2016) introduced the 'container' model with core elements; MLA 9 keeps it and adds detailed guidance, including a chapter on inclusive language.",
+    "The nine core elements in order: 1 Author. 2 Title of source. 3 Title of container, 4 Other contributors, 5 Version, 6 Number, 7 Publisher, 8 Publication date, 9 Location.",
+    "Punctuation: a period after Author and after Title of source; commas between elements inside a container; a period at the end of the container.",
+    "A container is the larger whole that holds the source: a book holding an essay, a journal holding an article, a website holding a page, a TV series holding an episode. A source can have a second container (e.g. a database like JSTOR).",
+    "Titles of self-contained works (books, journals, films, websites) are in italics; titles of parts (articles, poems, short stories, chapters, episodes) are in quotation marks.",
+    "Other contributors use descriptive phrases written out: edited by, translated by, introduction by, directed by.",
+    "Version: e.g. 2nd ed., revised ed., King James Version, director's cut. Number: vol. 12, no. 3 for journals; season and episode numbers.",
+    "Publisher's city is normally omitted (since MLA 8); include it only for books published before 1900 or in special cases. Business words like Inc. and Company are dropped, and University Press is shortened to UP (e.g. Oxford UP).",
+    "Location: page numbers (p. 15 / pp. 15-30), DOI (preferred over URL), URL (without http:// or https://), or a physical place for an artwork or lecture.",
+    "Optional elements include date of original publication and date of access (Accessed 10 Jan. 2021.), recommended for undated web sources."
+   ]
+  },
+  {
+   "title": "MLA 9: Works Cited Format and Examples",
+   "points": [
+    "The list is titled Works Cited (centred, not bold, not italic); it includes only sources actually cited in the text. 'Works Consulted' includes others too.",
+    "Entries are arranged alphabetically by author's surname (or by title if no author, ignoring A, An, The).",
+    "Format: double-spaced throughout with a hanging indent of 0.5 inch (half inch) for every line after the first.",
+    "One author: Morrison, Toni. Beloved. Alfred A. Knopf, 1987.",
+    "Two authors: first author reversed, second in normal order joined by 'and': Gilbert, Sandra M., and Susan Gubar.",
+    "Three or more authors: first author's name followed by et al. (Smith, John, et al.).",
+    "Same author, more than one work: give the name in the first entry; later entries begin with three hyphens and a period (---.) and are alphabetised by title.",
+    "Journal article: Author. \"Title of Article.\" Journal Name, vol. 5, no. 2, 2019, pp. 45-67. JSTOR, doi or URL.",
+    "Essay in an edited book: Author. \"Essay.\" Book Title, edited by Editor Name, Publisher, Year, pp. 10-25.",
+    "Months longer than four letters are abbreviated in Works Cited (Jan., Feb., Aug., Sept., Oct., Nov., Dec.); May, June, July are written in full.",
+    "Titles use title case (major words capitalised) in MLA, unlike APA which uses sentence case for article and book titles."
+   ]
+  },
+  {
+   "title": "MLA 9: In-text Citation and Manuscript Format",
+   "points": [
+    "MLA uses parenthetical author-page citation: (Morrison 45) with no comma and no 'p.' between author and page.",
+    "If the author is named in the sentence, give only the page: Morrison argues that ... (45).",
+    "Two authors: (Gilbert and Gubar 78); three or more: (Smith et al. 23).",
+    "No author: use a shortened title in the parenthesis, in italics or quotation marks as the full title would be.",
+    "Two works by the same author: add a short title: (Eliot, Waste Land 12).",
+    "Poetry is cited by line numbers (lines 5-8 in the first citation, then numbers only); verse plays by act, scene, line: (Hamlet 3.1.56).",
+    "Block quotation: prose longer than four lines, or poetry longer than three lines, is set off, indented half an inch from the left margin, without quotation marks; the citation comes after the final punctuation.",
+    "Ellipsis (...) shows omission from a quotation; square brackets [ ] show the researcher's insertion; [sic] marks an error in the original.",
+    "Indirect source: cite with 'qtd. in' (quoted in): (qtd. in Brooks 42).",
+    "Paper format: 1-inch margins, double spacing, readable 12-point font (e.g. Times New Roman), header with surname and page number at top right, no separate title page unless required.",
+    "Notes: MLA allows footnotes or endnotes for bibliographic or content (explanatory) notes, marked by superscript numbers."
+   ]
+  },
+  {
+   "title": "APA, Chicago and Other Style Manuals",
+   "points": [
+    "APA (American Psychological Association) style, 7th edition, published October 2019; first APA guide 1929. Used in social sciences, education, psychology, linguistics.",
+    "APA uses author-date in-text citation: (Smith, 2020, p. 15); ampersand (&) for two authors inside parentheses: (Smith & Jones, 2020).",
+    "APA 7: et al. is used for three or more authors from the first citation; the reference list can include up to 20 authors.",
+    "APA list is titled References; titles of books and articles use sentence case; date comes right after the author: Smith, J. (2020).",
+    "Chicago Manual of Style (University of Chicago Press), first published 1906; 17th edition 2017; 18th edition 2024.",
+    "Chicago has two systems: notes and bibliography (footnotes/endnotes, preferred in humanities, history, literature) and author-date (sciences and social sciences).",
+    "Turabian: A Manual for Writers of Research Papers, Theses, and Dissertations by Kate L. Turabian, a student version of Chicago style (9th ed. 2018).",
+    "MHRA Style Guide (Modern Humanities Research Association, UK) is a footnote-based style used in British humanities.",
+    "Harvard referencing is a generic author-date system; Vancouver is a numbered system used in medicine; IEEE is numbered and used in engineering.",
+    "Bibliography (Chicago) lists all sources consulted; Works Cited (MLA) lists sources cited; References (APA) lists sources cited."
+   ]
+  },
+  {
+   "title": "Latin Abbreviations and Notes",
+   "points": [
+    "Ibid. (ibidem): in the same place, refers to the immediately preceding note.",
+    "Op. cit. (opere citato): in the work cited earlier; loc. cit. (loco citato): in the same place cited earlier (same page). MLA and Chicago now discourage op. cit. and loc. cit., preferring short-form notes.",
+    "Et al. (et alii): and others; etc. (et cetera): and so on; cf. (confer): compare; viz. (videlicet): namely; i.e. (id est): that is; e.g. (exempli gratia): for example.",
+    "Sic: thus, used in brackets to show an error is in the original; passim: here and there, throughout the work.",
+    "Et seq. (et sequens): and the following; N.B. (nota bene): note well; q.v. (quod vide): which see; idem: the same author.",
+    "Circa (c. or ca.): approximately, used with dates (c. 1340).",
+    "Fl. (floruit): flourished, used when birth and death dates are unknown.",
+    "n.d.: no date; n. pag.: no pagination (older MLA usage); MLA 9 simply omits unknown elements.",
+    "Footnotes appear at the foot of the page; endnotes are gathered at the end of the chapter or thesis."
+   ]
+  },
+  {
+   "title": "Plagiarism and UGC Regulations",
+   "points": [
+    "Plagiarism: presenting another person's words, ideas, data or work as one's own without acknowledgement (Latin plagiarius, kidnapper).",
+    "Types: direct/verbatim, paraphrase without credit, mosaic or patchwriting (term of Rebecca Moore Howard), self-plagiarism (reusing one's own published work), accidental plagiarism, and idea plagiarism.",
+    "UGC (Promotion of Academic Integrity and Prevention of Plagiarism in Higher Educational Institutions) Regulations, 2018 define levels of similarity.",
+    "Level 0: similarity up to 10% (minor, no penalty); Level 1: above 10% to 40%; Level 2: above 40% to 60%; Level 3: above 60%.",
+    "Under these regulations, common knowledge, quoted work with citation, references/bibliography, abstract/summary, and generic terms are excluded from similarity checks.",
+    "Penalties for students: Level 1 revise within 6 months; Level 2 revise within 12 months; Level 3 registration cancelled. Faculty penalties include withdrawal of manuscript and denial of increments.",
+    "Software: Turnitin, iThenticate, Urkund (later Ouriginal), Grammarly; in India, INFLIBNET's ShodhShuddhi initiative (2019) provides plagiarism software to universities.",
+    "Avoid plagiarism by quoting with quotation marks, paraphrasing in your own words with citation, keeping notes of sources and using reference managers.",
+    "Fabrication (inventing data), falsification (manipulating data) and plagiarism together are called FFP, the three major forms of research misconduct."
+   ]
+  },
+  {
+   "title": "Research and Publication Ethics",
+   "points": [
+    "Core ethical principles: honesty, objectivity, integrity, openness, respect for intellectual property, confidentiality and responsible publication.",
+    "Informed consent: participants must voluntarily agree after knowing the purpose, risks and their right to withdraw.",
+    "Landmark codes: Nuremberg Code (1947), Declaration of Helsinki (1964, World Medical Association), Belmont Report (1979, USA: respect for persons, beneficence, justice).",
+    "COPE (Committee on Publication Ethics), founded 1997 in the UK, gives guidelines on publication misconduct.",
+    "UGC made a 2-credit course on Research and Publication Ethics (RPE) compulsory in PhD coursework from 2019-20.",
+    "UGC-CARE (Consortium for Academic and Research Ethics) was set up by UGC in 2019 to maintain a reference list of quality journals.",
+    "Predatory journals charge fees and publish without genuine peer review; Jeffrey Beall's list (Beall's List) popularised the term.",
+    "Peer review types: single-blind (reviewer knows author), double-blind (neither knows the other), open review.",
+    "Authorship ethics: gift/honorary authorship and ghost authorship are unethical; duplicate (redundant) publication and salami slicing are misconduct.",
+    "Copyright protects the expression of ideas, not ideas themselves; fair use / fair dealing allows limited quotation for criticism and research. Indian Copyright Act, 1957."
+   ]
+  },
+  {
+   "title": "Bibliography and Textual Criticism",
+   "points": [
+    "Enumerative (systematic) bibliography lists books on a subject or by an author; analytical bibliography studies books as physical objects; descriptive bibliography gives a detailed physical description of a book; textual bibliography studies how transmission affected the text.",
+    "Ronald B. McKerrow, An Introduction to Bibliography for Literary Students (1927); Fredson Bowers, Principles of Bibliographical Description (1949).",
+    "W. W. Greg, 'The Rationale of Copy-Text' (1950-51): accidentals (spelling, punctuation) follow the copy-text, substantives may be emended. Developed further by Bowers and G. Thomas Tanselle (Greg-Bowers-Tanselle theory).",
+    "Jerome McGann, A Critique of Modern Textual Criticism (1983) and D. F. McKenzie, Bibliography and the Sociology of Texts (1986) stressed the social production of texts.",
+    "Karl Lachmann's method (19th century): build a stemma (family tree of manuscripts) to reconstruct the archetype.",
+    "Textual criticism stages: recension (selecting the most reliable evidence), examination, emendation (correcting errors).",
+    "Book formats by folding a sheet: folio (folded once, 2 leaves), quarto (twice, 4 leaves), octavo (three times, 8 leaves). Shakespeare's First Folio was published in 1623 by Heminges and Condell.",
+    "Incunabula: books printed before 1501; William Caxton set up the first printing press in England at Westminster in 1476.",
+    "Colophon: publication details at the end of a book; errata: list of errors; variorum edition: an edition recording variant readings and commentaries of many editors.",
+    "Short-Title Catalogue by A. W. Pollard and G. R. Redgrave (1926) lists English books 1475-1640; Donald Wing's catalogue covers 1641-1700; ESTC covers 1473-1800."
+   ]
+  },
+  {
+   "title": "Annotation, Abstract and Note-taking",
+   "points": [
+    "Annotation is a brief note added to a source: in an annotated bibliography each citation is followed by a paragraph (about 100-200 words).",
+    "Descriptive (informative) annotation summarises content; critical (evaluative) annotation also judges usefulness, reliability and relevance.",
+    "Marginalia are notes written in the margins of a book (e.g. Coleridge's famous marginalia).",
+    "An abstract is a concise summary of the whole work (purpose, method, findings, conclusion), usually 150-300 words, followed by 4-6 keywords.",
+    "Types of abstract: descriptive (states what the paper covers, no results) and informative (includes findings and conclusions).",
+    "An abstract is written in the past or present tense, contains no citations, and is written after the research is finished though it is placed at the beginning.",
+    "Summary condenses the content in one's own words; precis is a short exact summary keeping the original order and tone; paraphrase restates a passage in one's own words at about the same length.",
+    "Note-taking methods: index cards (bibliography cards and note cards), Cornell method, digital notes in Zotero or similar tools."
+   ]
+  },
+  {
+   "title": "Structure of Thesis and Research Paper",
+   "points": [
+    "Preliminary pages: title page, declaration, supervisor's certificate, acknowledgements, abstract, table of contents, list of abbreviations/tables.",
+    "Main body: Introduction (background, problem, objectives, hypothesis, methodology, chapter plan), Review of literature, analytical chapters, Conclusion (findings, limitations, scope for further research).",
+    "End matter: Works Cited/Bibliography, appendices, glossary, index; plagiarism report is now attached in Indian universities.",
+    "IMRaD structure for scientific papers: Introduction, Methods, Results, and Discussion.",
+    "Thesis statement: one or two sentences stating the central argument of the paper.",
+    "UGC (Minimum Standards and Procedures for Award of Ph.D. Degree) Regulations, 2022 replaced the 2016 regulations; they removed the earlier compulsory requirement of journal publication before thesis submission.",
+    "M.Phil. was discontinued under the National Education Policy 2020 and the UGC 2022 PhD regulations.",
+    "Umberto Eco, How to Write a Thesis (Italian 1977; English translation 2015) is a classic guide; other guides: Richard Altick, The Art of Literary Research (1963) and George Watson, The Literary Thesis (1970).",
+    "Wellek and Warren, Theory of Literature (1949) distinguished the extrinsic approach (biography, psychology, society) from the intrinsic approach (the work itself) to literary study.",
+    "Viva voce: the oral defence of the thesis before examiners."
+   ]
+  },
+  {
+   "title": "Archives and Archival Research",
+   "points": [
+    "An archive is a collection of historical records (manuscripts, letters, diaries, official papers) preserved for their enduring value.",
+    "Finding aids (catalogues, inventories) help locate materials; provenance is the history of ownership and custody of a document.",
+    "Archival documents: holograph/autograph (handwritten by the author), typescript, foul papers (author's working draft), fair copy, palimpsest (manuscript written over an erased earlier text).",
+    "Major libraries/archives: British Library (est. 1973), Bodleian Library, Oxford (opened 1602 by Thomas Bodley), Folger Shakespeare Library, Washington DC (1932), Harry Ransom Center (Texas), National Archives of India, New Delhi (founded 1891 as Imperial Record Department, Calcutta).",
+    "Michel Foucault, The Archaeology of Knowledge (1969): the archive is the system governing what can be said in a period.",
+    "Jacques Derrida, Archive Fever (Mal d'archive, 1995): the archive is shaped by power and the desire to preserve and forget.",
+    "Carolyn Steedman, Dust (2001) and Ann Laura Stoler, Along the Archival Grain (2009) are key works on archival theory; Stoler reads colonial archives 'along the grain'.",
+    "Oral history records spoken memories through interviews, important for subaltern, Dalit and Partition studies (e.g. Urvashi Butalia, The Other Side of Silence, 1998)."
+   ]
+  },
+  {
+   "title": "Digital Humanities and Research Tools",
+   "points": [
+    "Roberto Busa, an Italian Jesuit, began the Index Thomisticus (with IBM, from 1949), a concordance of Thomas Aquinas; he is called the father of humanities computing.",
+    "Franco Moretti coined 'distant reading' in 'Conjectures on World Literature' (2000); also Graphs, Maps, Trees (2005) and Distant Reading (2013); co-founded Stanford Literary Lab (2010).",
+    "Matthew Jockers, Macroanalysis (2013); Stephen Ramsay, Reading Machines (2011, algorithmic criticism); N. Katherine Hayles, How We Think (2012).",
+    "A Companion to Digital Humanities (2004), ed. Susan Schreibman, Ray Siemens and John Unsworth, helped popularise the term 'digital humanities' over 'humanities computing'.",
+    "TEI (Text Encoding Initiative, 1987) gives XML guidelines for encoding literary texts; stylometry uses statistics of style to settle authorship (Mosteller and Wallace on The Federalist Papers, 1964).",
+    "Digital archives: Project Gutenberg (1971, Michael Hart), Internet Archive (1996, Brewster Kahle) and its Wayback Machine, HathiTrust (2008), Rossetti Archive (Jerome McGann), William Blake Archive, EEBO, ECCO.",
+    "Tools: Voyant Tools (text analysis), Google Ngram Viewer (2010), AntConc (concordance), topic modelling (MALLET), GIS mapping.",
+    "Databases: JSTOR (1995), Project MUSE (1995), Scopus (Elsevier, 2004), Web of Science (Clarivate), Google Scholar (2004), MLA International Bibliography, Shodhganga (INFLIBNET, Gandhinagar).",
+    "Reference managers: Zotero (free, open source, 2006, George Mason University), Mendeley (2008, owned by Elsevier), EndNote (Clarivate).",
+    "Identifiers: ISBN (13 digits since 2007, earlier 10), ISSN (8 digits, for serials), DOI (Digital Object Identifier, permanent link for articles), ORCID (unique researcher ID, launched 2012).",
+    "Impact factor was devised by Eugene Garfield (Journal Citation Reports); h-index was proposed by physicist Jorge E. Hirsch (2005); i10-index is used by Google Scholar."
+   ]
+  },
+  {
+   "title": "Qualitative and Quantitative Methods",
+   "points": [
+    "Quantitative research uses numerical data, measurement, statistics and large samples; it is objective and seeks generalisation (rooted in positivism, Auguste Comte).",
+    "Qualitative research uses words, meanings, texts and experiences; it is interpretive, small-sample and in-depth (rooted in interpretivism, hermeneutics, phenomenology).",
+    "Mixed methods research combines both; triangulation uses multiple methods, sources or researchers to check findings (Norman Denzin, 1970).",
+    "Qualitative tools: interviews (structured, semi-structured, unstructured), focus groups, participant observation, ethnography, content analysis, discourse analysis, narrative analysis.",
+    "Grounded theory builds theory from data: Barney Glaser and Anselm Strauss, The Discovery of Grounded Theory (1967).",
+    "Thick description: Clifford Geertz, The Interpretation of Cultures (1973), borrowing the term from philosopher Gilbert Ryle.",
+    "Quantitative tools: questionnaire, survey, Likert scale (Rensis Likert, 1932, usually 5-point), experiments, statistical tests (t-test, chi-square, ANOVA), software SPSS; NVivo and ATLAS.ti are used for qualitative coding.",
+    "Probability sampling: simple random, systematic, stratified, cluster. Non-probability sampling: convenience, purposive (judgmental), quota, snowball.",
+    "Reliability means consistency of results on repetition; validity means the tool measures what it claims to measure.",
+    "Measures of central tendency: mean (average), median (middle value), mode (most frequent value).",
+    "Thomas Kuhn, The Structure of Scientific Revolutions (1962), introduced 'paradigm' and 'paradigm shift'; Hans-Georg Gadamer, Truth and Method (1960) is the key text of philosophical hermeneutics."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Research",
+   "pron": "रि-सर्च (ri-SURCH)",
+   "hindi": "किसी विषय पर व्यवस्थित तरीके से नई जानकारी खोजना।",
+   "net": "A systematic, careful and objective investigation to discover, interpret or revise facts, theories or applications."
+  },
+  {
+   "term": "Hypothesis",
+   "pron": "हाइ-पॉ-थि-सिस (hy-POTH-uh-sis)",
+   "hindi": "जाँचने लायक एक अस्थायी अनुमान।",
+   "net": "A tentative, testable proposition about the relationship between two or more variables, to be verified by research."
+  },
+  {
+   "term": "Null Hypothesis",
+   "pron": "नल हाइ-पॉ-थि-सिस (NULL hy-POTH-uh-sis)",
+   "hindi": "यह मान लेना कि कोई संबंध या अंतर नहीं है।",
+   "net": "H0: the hypothesis that there is no significant relationship or difference between variables; it is tested statistically for rejection."
+  },
+  {
+   "term": "Inductive Method",
+   "pron": "इन-डक-टिव (in-DUK-tiv)",
+   "hindi": "छोटे-छोटे उदाहरणों से बड़ा नियम निकालना।",
+   "net": "Reasoning from particular observations to general conclusions; associated with Francis Bacon's Novum Organum (1620)."
+  },
+  {
+   "term": "Deductive Method",
+   "pron": "डि-डक-टिव (di-DUK-tiv)",
+   "hindi": "बड़े नियम से छोटे निष्कर्ष तक पहुँचना।",
+   "net": "Reasoning from a general premise or theory to specific conclusions, as in the Aristotelian syllogism."
+  },
+  {
+   "term": "Action Research",
+   "pron": "ऐक्-शन रि-सर्च (AK-shun ri-SURCH)",
+   "hindi": "अपने ही काम को सुधारने के लिए की गई खोज।",
+   "net": "Practitioner-led cyclical research (plan, act, observe, reflect) aimed at improving practice; term coined by Kurt Lewin (1946)."
+  },
+  {
+   "term": "Primary Source",
+   "pron": "प्राइ-म-री सोर्स (PRY-muh-ree SORSS)",
+   "hindi": "मूल सामग्री, जैसे असली उपन्यास या पत्र।",
+   "net": "Original first-hand material such as a literary text, manuscript, letter, diary or document studied directly by the researcher."
+  },
+  {
+   "term": "Secondary Source",
+   "pron": "से-कन-ड-री सोर्स (SEK-un-dree SORSS)",
+   "hindi": "मूल सामग्री पर लिखी गई आलोचना या व्याख्या।",
+   "net": "A work that analyses, interprets or comments on primary sources, such as critical books, articles and biographies."
+  },
+  {
+   "term": "Tertiary Source",
+   "pron": "टर-शि-अ-री सोर्स (TUR-shee-air-ee SORSS)",
+   "hindi": "विश्वकोश या शब्दकोश जैसी संकलन सामग्री।",
+   "net": "A reference work that compiles or indexes primary and secondary sources: encyclopaedias, dictionaries, bibliographies."
+  },
+  {
+   "term": "Literature Review",
+   "pron": "लि-ट-रे-चर रि-व्यू (LIT-ruh-chur ri-VYOO)",
+   "hindi": "विषय पर पहले हुए काम की आलोचनात्मक समीक्षा।",
+   "net": "A critical, organised survey and synthesis of existing scholarship on a topic that identifies the research gap."
+  },
+  {
+   "term": "Research Gap",
+   "pron": "रि-सर्च गैप (ri-SURCH GAP)",
+   "hindi": "वह हिस्सा जिस पर अभी तक काम नहीं हुआ।",
+   "net": "An unexplored or insufficiently explored area in existing scholarship that justifies a new study."
+  },
+  {
+   "term": "Synopsis",
+   "pron": "सि-नॉप-सिस (si-NOP-sis)",
+   "hindi": "शोध की योजना का छोटा खाका।",
+   "net": "A brief research proposal outlining the topic, problem, objectives, review, methodology and chapter plan, submitted before registration."
+  },
+  {
+   "term": "Abstract",
+   "pron": "ऐब्-स्ट्रैक्ट (AB-strakt)",
+   "hindi": "पूरे शोध-पत्र का छोटा सार।",
+   "net": "A concise summary of a research work's purpose, method, findings and conclusion, usually 150-300 words, placed at the beginning."
+  },
+  {
+   "term": "Annotation",
+   "pron": "ऐ-नो-टे-शन (an-oh-TAY-shun)",
+   "hindi": "किसी स्रोत के साथ लिखा गया छोटा टिप्पणी-नोट।",
+   "net": "A brief descriptive or evaluative note accompanying a citation or written in a text's margin."
+  },
+  {
+   "term": "Annotated Bibliography",
+   "pron": "ऐ-नो-टे-टिड बिब-लि-ऑ-ग्र-फ़ी (AN-oh-tay-tid bib-lee-OG-ruh-fee)",
+   "hindi": "स्रोतों की सूची जिसमें हर एक के साथ छोटा विवरण हो।",
+   "net": "A list of citations each followed by a short paragraph that describes and/or evaluates the source."
+  },
+  {
+   "term": "Bibliography",
+   "pron": "बिब-लि-ऑ-ग्र-फ़ी (bib-lee-OG-ruh-fee)",
+   "hindi": "किताबों और स्रोतों की सूची; किताब का अध्ययन भी।",
+   "net": "A list of works on a subject or consulted for a study; also the study of books as physical objects (analytical/descriptive bibliography)."
+  },
+  {
+   "term": "Works Cited",
+   "pron": "वर्क्स साइ-टिड (WURKS SY-tid)",
+   "hindi": "केवल उन्हीं स्रोतों की सूची जिनका हवाला दिया गया।",
+   "net": "MLA's title for the alphabetical list of all sources actually cited in a paper, double-spaced with hanging indent."
+  },
+  {
+   "term": "Hanging Indent",
+   "pron": "हैंग-इंग इन-डेंट (HANG-ing IN-dent)",
+   "hindi": "पहली लाइन बाहर, बाकी लाइनें अंदर खिसकी हुई।",
+   "net": "Formatting in which the first line of an entry is flush left and subsequent lines are indented half an inch, used in MLA Works Cited."
+  },
+  {
+   "term": "Container",
+   "pron": "कन-टे-नर (kun-TAY-nur)",
+   "hindi": "वह बड़ा स्रोत जिसमें आपका लेख या भाग रखा है।",
+   "net": "MLA 8/9 term for the larger whole that holds a source, e.g. a journal, anthology, website or database."
+  },
+  {
+   "term": "Parenthetical Citation",
+   "pron": "पै-रन-थे-टि-कल साइ-टे-शन (pa-ren-THET-i-kul sy-TAY-shun)",
+   "hindi": "वाक्य के अंदर कोष्ठक में लेखक और पेज लिखना।",
+   "net": "A brief in-text reference in parentheses, e.g. (Morrison 45) in MLA or (Morrison, 1987, p. 45) in APA."
+  },
+  {
+   "term": "DOI",
+   "pron": "डी-ओ-आई (DEE-oh-EYE)",
+   "hindi": "किसी लेख का स्थायी ऑनलाइन पहचान नंबर।",
+   "net": "Digital Object Identifier: a permanent unique alphanumeric string assigned to a digital publication; MLA 9 prefers it to a URL."
+  },
+  {
+   "term": "Plagiarism",
+   "pron": "प्ले-ज-रि-ज़्म (PLAY-juh-riz-um)",
+   "hindi": "दूसरे के शब्द या विचार बिना श्रेय दिए अपना बताना।",
+   "net": "The use of another's words, ideas or work without acknowledgement, presented as one's own; from Latin plagiarius (kidnapper)."
+  },
+  {
+   "term": "Self-plagiarism",
+   "pron": "सेल्फ़ प्ले-ज-रि-ज़्म (SELF PLAY-juh-riz-um)",
+   "hindi": "अपना ही पहले छपा काम बिना बताए दोबारा इस्तेमाल करना।",
+   "net": "Reusing one's own previously published text or data without acknowledgement, including duplicate publication."
+  },
+  {
+   "term": "Patchwriting",
+   "pron": "पैच-राइ-टिंग (PATCH-ry-ting)",
+   "hindi": "स्रोत के वाक्यों में थोड़े शब्द बदलकर जोड़-तोड़ करना।",
+   "net": "Rebecca Moore Howard's term for copying from a source while deleting words or substituting synonyms; also called mosaic plagiarism."
+  },
+  {
+   "term": "Paraphrase",
+   "pron": "पै-र-फ़्रेज़ (PAIR-uh-frayz)",
+   "hindi": "किसी अंश को अपने शब्दों में फिर से कहना।",
+   "net": "A restatement of a passage in one's own words and structure, roughly of the same length, which still requires citation."
+  },
+  {
+   "term": "Ibid.",
+   "pron": "इ-बिड (IB-id)",
+   "hindi": "वही स्रोत जो ठीक पिछले नोट में था।",
+   "net": "Abbreviation of Latin ibidem, 'in the same place', referring to the source cited in the immediately preceding note."
+  },
+  {
+   "term": "Op. cit.",
+   "pron": "ऑप सिट (OP SIT)",
+   "hindi": "पहले बताई गई उसी किताब में।",
+   "net": "Opere citato, 'in the work cited': refers to a work by the same author cited earlier but not immediately before."
+  },
+  {
+   "term": "Sic",
+   "pron": "सिक (SIK)",
+   "hindi": "मूल में ऐसा ही लिखा है, गलती मेरी नहीं।",
+   "net": "Latin 'thus': inserted in square brackets in a quotation to show that an error or oddity is in the original."
+  },
+  {
+   "term": "Copy-text",
+   "pron": "कॉ-पी टेक्स्ट (KOP-ee TEKST)",
+   "hindi": "संपादन के लिए आधार बनाया गया मूल पाठ।",
+   "net": "The early text chosen as the basis of a critical edition; W. W. Greg's 'The Rationale of Copy-Text' (1950) governs its use."
+  },
+  {
+   "term": "Textual Criticism",
+   "pron": "टेक्-स्चु-अल क्रि-टि-सि-ज़्म (TEKS-choo-ul KRIT-i-siz-um)",
+   "hindi": "किसी रचना का सबसे शुद्ध पाठ तय करना।",
+   "net": "The scholarly discipline of establishing the most authoritative text of a work by comparing manuscripts and editions."
+  },
+  {
+   "term": "Stemma",
+   "pron": "स्टे-मा (STEM-uh)",
+   "hindi": "पांडुलिपियों का वंश-वृक्ष।",
+   "net": "A family-tree diagram showing relationships among surviving manuscripts of a text, used in Lachmann's method."
+  },
+  {
+   "term": "Emendation",
+   "pron": "ई-मेन-डे-शन (ee-men-DAY-shun)",
+   "hindi": "पाठ की गलती का सुधार।",
+   "net": "A correction introduced by an editor into a text where the transmitted reading is judged corrupt."
+  },
+  {
+   "term": "Variorum Edition",
+   "pron": "वै-रि-ओ-रम (vair-ee-OR-um)",
+   "hindi": "ऐसा संस्करण जिसमें कई संपादकों के पाठ और टिप्पणियाँ हों।",
+   "net": "An edition that records variant readings and the notes of previous editors and commentators."
+  },
+  {
+   "term": "Incunabula",
+   "pron": "इन-क्यू-नै-ब्यू-ला (in-kyoo-NAB-yoo-luh)",
+   "hindi": "1501 से पहले छपी शुरुआती किताबें।",
+   "net": "Books printed in Europe before 1501, in the infancy of printing; Latin for 'cradle' or 'swaddling clothes'."
+  },
+  {
+   "term": "Colophon",
+   "pron": "कॉ-ल-फ़न (KOL-uh-fon)",
+   "hindi": "किताब के अंत में छपाई की जानकारी।",
+   "net": "A statement, usually at the end of a book, giving the printer, place and date of printing; also a publisher's emblem."
+  },
+  {
+   "term": "Palimpsest",
+   "pron": "पै-लिम्प-सेस्ट (PAL-imp-sest)",
+   "hindi": "मिटाकर दोबारा लिखी गई पांडुलिपि।",
+   "net": "A manuscript page whose original writing was scraped off and written over, with traces of the earlier text still visible."
+  },
+  {
+   "term": "Provenance",
+   "pron": "प्रॉ-व-नन्स (PROV-uh-nunss)",
+   "hindi": "किसी दस्तावेज़ के मालिकाना हक़ का इतिहास।",
+   "net": "The documented origin and chain of ownership or custody of a manuscript, book or archival record."
+  },
+  {
+   "term": "Archive",
+   "pron": "आर-काइव (AR-kyv)",
+   "hindi": "पुराने दस्तावेज़ों का संग्रह।",
+   "net": "A collection of historical records preserved for their enduring value; in Foucault, the system governing what can be said."
+  },
+  {
+   "term": "Distant Reading",
+   "pron": "डिस-टेंट री-डिंग (DIS-tunt REE-ding)",
+   "hindi": "कंप्यूटर से हज़ारों किताबों का एक साथ पैटर्न देखना।",
+   "net": "Franco Moretti's term (2000) for studying literature through computational analysis of large corpora rather than close reading of few texts."
+  },
+  {
+   "term": "Digital Humanities",
+   "pron": "डि-जि-टल ह्यू-मै-नि-टीज़ (DIJ-i-tul hyoo-MAN-i-teez)",
+   "hindi": "साहित्य और मानविकी में कंप्यूटर का प्रयोग।",
+   "net": "A field applying computational tools and methods (encoding, text mining, mapping, archives) to humanities research; earlier 'humanities computing'."
+  },
+  {
+   "term": "Stylometry",
+   "pron": "स्टाइ-लॉ-मि-ट्री (sty-LOM-uh-tree)",
+   "hindi": "लेखन-शैली को आँकड़ों से मापना।",
+   "net": "The statistical analysis of literary style, often used to determine authorship."
+  },
+  {
+   "term": "Triangulation",
+   "pron": "ट्राइ-ऐंग-ग्यू-ले-शन (try-ang-gyoo-LAY-shun)",
+   "hindi": "कई तरीकों से एक ही बात को जाँचना।",
+   "net": "Use of multiple methods, data sources, theories or investigators to cross-check findings (Norman Denzin, 1970)."
+  },
+  {
+   "term": "Thick Description",
+   "pron": "थिक डिस-क्रिप-शन (THIK di-SKRIP-shun)",
+   "hindi": "किसी घटना का संदर्भ सहित गहरा वर्णन।",
+   "net": "Clifford Geertz's term (The Interpretation of Cultures, 1973), borrowed from Gilbert Ryle, for describing behaviour along with its cultural context and meaning."
+  },
+  {
+   "term": "Grounded Theory",
+   "pron": "ग्राउन्-डिड थि-अ-री (GROWN-did THEER-ee)",
+   "hindi": "आँकड़ों से धीरे-धीरे सिद्धांत बनाना।",
+   "net": "Qualitative method of generating theory inductively from data, introduced by Glaser and Strauss (1967)."
+  },
+  {
+   "term": "Likert Scale",
+   "pron": "लि-कर्ट स्केल (LIK-urt SKAYL)",
+   "hindi": "सहमत-असहमत के 5 स्तरों वाला पैमाना।",
+   "net": "A rating scale (usually 5 points, strongly agree to strongly disagree) for measuring attitudes, devised by Rensis Likert (1932)."
+  },
+  {
+   "term": "Reliability",
+   "pron": "रि-लाइ-अ-बि-लि-टी (ri-ly-uh-BIL-i-tee)",
+   "hindi": "बार-बार करने पर एक जैसा परिणाम।",
+   "net": "The consistency and stability of a research instrument's results over repeated applications."
+  },
+  {
+   "term": "Validity",
+   "pron": "व-लि-डि-टी (vuh-LID-i-tee)",
+   "hindi": "जो मापना है वही सही से मापना।",
+   "net": "The extent to which a tool or study measures what it claims to measure and its conclusions are sound."
+  },
+  {
+   "term": "Peer Review",
+   "pron": "पीयर रि-व्यू (PEER ri-VYOO)",
+   "hindi": "छपने से पहले विशेषज्ञों द्वारा जाँच।",
+   "net": "Evaluation of a manuscript by independent experts in the field before publication; may be single-blind, double-blind or open."
+  },
+  {
+   "term": "Predatory Journal",
+   "pron": "प्रे-ड-टो-री जर-नल (PRED-uh-tor-ee JUR-nul)",
+   "hindi": "पैसा लेकर बिना असली जाँच के छापने वाली पत्रिका।",
+   "net": "An exploitative publication that charges fees without genuine peer review or editorial standards; term popularised by Jeffrey Beall."
+  },
+  {
+   "term": "h-index",
+   "pron": "एच इन-डेक्स (AYCH IN-deks)",
+   "hindi": "शोधकर्ता के लेखों और उनके हवालों का माप।",
+   "net": "Jorge Hirsch's metric (2005): a researcher has index h if h of their papers have each been cited at least h times."
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "The 9th edition of the MLA Handbook was published in:",
+   "options": [
+    "2009",
+    "2016",
+    "2021",
+    "2024"
+   ],
+   "answer": 2,
+   "exp": "MLA Handbook 9th edition appeared in April 2021; the 8th was 2016."
+  },
+  {
+   "q": "Which is the correct order of MLA core elements?",
+   "options": [
+    "Author, Title of source, Title of container, Other contributors, Version, Number, Publisher, Publication date, Location",
+    "Author, Title of container, Title of source, Publisher, Version, Number, Location, Publication date, Other contributors",
+    "Title of source, Author, Publisher, Container, Date, Location, Version, Number, Contributors",
+    "Author, Publication date, Title of source, Container, Publisher, Location, Version, Number, Contributors"
+   ],
+   "answer": 0,
+   "exp": "MLA 8/9 list nine core elements in this exact order."
+  },
+  {
+   "q": "In MLA style, how is an in-text citation of page 45 of Toni Morrison's Beloved written?",
+   "options": [
+    "(Morrison, 45)",
+    "(Morrison p. 45)",
+    "(Morrison, 1987, p. 45)",
+    "(Morrison 45)"
+   ],
+   "answer": 3,
+   "exp": "MLA uses author and page with no comma and no 'p.'; (Morrison, 1987, p. 45) is APA style."
+  },
+  {
+   "q": "In MLA Works Cited, a source by three or more authors is listed as:",
+   "options": [
+    "All authors' names in full",
+    "First author's name followed by et al.",
+    "First two authors followed by et al.",
+    "Only the title, without authors"
+   ],
+   "answer": 1,
+   "exp": "MLA 9: give the first author reversed, then et al."
+  },
+  {
+   "q": "In MLA format, the Works Cited entries use:",
+   "options": [
+    "Single spacing and first-line indent",
+    "Double spacing and hanging indent of half an inch",
+    "Double spacing and no indentation",
+    "Single spacing and hanging indent of one inch"
+   ],
+   "answer": 1,
+   "exp": "Works Cited is double-spaced with a 0.5-inch hanging indent."
+  },
+  {
+   "q": "According to MLA, which of the following titles should be placed in quotation marks rather than italics?",
+   "options": [
+    "A novel",
+    "A journal",
+    "A film",
+    "A poem in an anthology"
+   ],
+   "answer": 3,
+   "exp": "Parts of larger works (poems, articles, stories) take quotation marks; self-contained works are italicised."
+  },
+  {
+   "q": "In MLA, a prose quotation is set off as a block quotation when it runs more than:",
+   "options": [
+    "Two lines",
+    "Three lines",
+    "Four lines",
+    "Ten lines"
+   ],
+   "answer": 2,
+   "exp": "Prose over four lines (poetry over three) becomes an indented block quotation."
+  },
+  {
+   "q": "Which month is NOT abbreviated in an MLA Works Cited entry?",
+   "options": [
+    "January",
+    "September",
+    "December",
+    "June"
+   ],
+   "answer": 3,
+   "exp": "May, June and July are written in full; longer months are abbreviated."
+  },
+  {
+   "q": "Assertion (A): MLA 9 recommends a DOI over a URL when both are available.\nReason (R): A DOI is a permanent identifier that does not change even if the web address changes.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0,
+   "exp": "MLA prefers the DOI precisely because it is stable."
+  },
+  {
+   "q": "Match the style manual with its discipline:\na. APA  b. MLA  c. Chicago author-date  d. Vancouver\ni. Medicine  ii. Psychology and social sciences  iii. Literature and languages  iv. Sciences and social sciences",
+   "options": [
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-i, b-iii, c-ii, d-iv"
+   ],
+   "answer": 0,
+   "exp": "APA: social sciences; MLA: languages and literature; Chicago author-date: sciences; Vancouver: medicine."
+  },
+  {
+   "q": "The 7th edition of the APA Publication Manual was published in:",
+   "options": [
+    "2009",
+    "2017",
+    "2019",
+    "2021"
+   ],
+   "answer": 2,
+   "exp": "APA 7 was released in October 2019."
+  },
+  {
+   "q": "The Chicago Manual of Style's 'notes and bibliography' system is preferred in:",
+   "options": [
+    "Natural sciences",
+    "Humanities such as literature and history",
+    "Engineering",
+    "Medicine"
+   ],
+   "answer": 1,
+   "exp": "Chicago offers notes-bibliography for humanities and author-date for sciences."
+  },
+  {
+   "q": "'Ibid.' in a footnote means:",
+   "options": [
+    "Compare",
+    "Here and there",
+    "In the work cited earlier",
+    "In the same place as the preceding note"
+   ],
+   "answer": 3,
+   "exp": "Ibidem refers to the source of the immediately preceding note."
+  },
+  {
+   "q": "Match the abbreviation with its meaning:\na. cf.  b. viz.  c. passim  d. sic\ni. thus  ii. compare  iii. namely  iv. here and there",
+   "options": [
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iv, b-iii, c-ii, d-i"
+   ],
+   "answer": 0,
+   "exp": "cf. = confer, viz. = videlicet, passim = throughout, sic = thus."
+  },
+  {
+   "q": "Under the UGC Regulations 2018 on plagiarism, a similarity of up to 10% falls in:",
+   "options": [
+    "Level 0",
+    "Level 1",
+    "Level 2",
+    "Level 3"
+   ],
+   "answer": 0,
+   "exp": "Up to 10% is Level 0, a minor similarity with no penalty."
+  },
+  {
+   "q": "Under the UGC Regulations 2018, a student's thesis with above 60% similarity attracts:",
+   "options": [
+    "Revision within six months",
+    "Revision within one year",
+    "Cancellation of registration",
+    "No penalty"
+   ],
+   "answer": 2,
+   "exp": "Level 3 (above 60%) leads to cancellation of registration for the programme."
+  },
+  {
+   "q": "ShodhGanga, the repository of Indian theses, is maintained by:",
+   "options": [
+    "NAAC",
+    "ICSSR",
+    "NCERT",
+    "INFLIBNET"
+   ],
+   "answer": 3,
+   "exp": "INFLIBNET Centre, Gandhinagar runs ShodhGanga."
+  },
+  {
+   "q": "Which of the following is a primary source for a study of Wordsworth's poetry?",
+   "options": [
+    "A. C. Bradley's lecture on Wordsworth",
+    "The Prelude",
+    "An encyclopaedia entry on Romanticism",
+    "A journal article on The Prelude"
+   ],
+   "answer": 1,
+   "exp": "The literary text itself is the primary source."
+  },
+  {
+   "q": "An encyclopaedia or a bibliography is classified as a:",
+   "options": [
+    "Primary source",
+    "Secondary source",
+    "Tertiary source",
+    "Grey literature"
+   ],
+   "answer": 2,
+   "exp": "Reference works that compile other sources are tertiary."
+  },
+  {
+   "q": "A hypothesis stating that there is no difference between two groups is called:",
+   "options": [
+    "Alternative hypothesis",
+    "Directional hypothesis",
+    "Research question",
+    "Null hypothesis"
+   ],
+   "answer": 3,
+   "exp": "H0, the null hypothesis, assumes no relationship or difference."
+  },
+  {
+   "q": "Rejecting a null hypothesis when it is actually true is:",
+   "options": [
+    "Type I error",
+    "Type II error",
+    "Sampling error",
+    "Random error"
+   ],
+   "answer": 0,
+   "exp": "A Type I error is a false positive."
+  },
+  {
+   "q": "Who coined the term 'distant reading'?",
+   "options": [
+    "Roberto Busa",
+    "Franco Moretti",
+    "Matthew Jockers",
+    "N. Katherine Hayles"
+   ],
+   "answer": 1,
+   "exp": "Moretti introduced it in 'Conjectures on World Literature' (2000)."
+  },
+  {
+   "q": "The Index Thomisticus, regarded as the beginning of humanities computing, was started by:",
+   "options": [
+    "Franco Moretti",
+    "Jerome McGann",
+    "Tim Berners-Lee",
+    "Roberto Busa"
+   ],
+   "answer": 3,
+   "exp": "Father Roberto Busa began it with IBM in 1949."
+  },
+  {
+   "q": "'The Rationale of Copy-Text' (1950) was written by:",
+   "options": [
+    "Fredson Bowers",
+    "R. B. McKerrow",
+    "W. W. Greg",
+    "Jerome McGann"
+   ],
+   "answer": 2,
+   "exp": "W. W. Greg's essay distinguished substantives from accidentals."
+  },
+  {
+   "q": "Arrange in chronological order: (i) McKerrow, An Introduction to Bibliography for Literary Students (ii) Greg, 'The Rationale of Copy-Text' (iii) McGann, A Critique of Modern Textual Criticism (iv) Bowers, Principles of Bibliographical Description",
+   "options": [
+    "i, iv, ii, iii",
+    "i, ii, iv, iii",
+    "iv, i, ii, iii",
+    "ii, i, iv, iii"
+   ],
+   "answer": 0,
+   "exp": "1927, 1949, 1950, 1983."
+  },
+  {
+   "q": "Books printed before 1501 are known as:",
+   "options": [
+    "Palimpsests",
+    "Incunabula",
+    "Folios",
+    "Holographs"
+   ],
+   "answer": 1,
+   "exp": "Incunabula are books from the infancy of printing, before 1501."
+  },
+  {
+   "q": "'Thick description' as a method of interpretation is associated with:",
+   "options": [
+    "Clifford Geertz",
+    "Thomas Kuhn",
+    "Karl Popper",
+    "Barney Glaser"
+   ],
+   "answer": 0,
+   "exp": "Geertz used it in The Interpretation of Cultures (1973), borrowing from Gilbert Ryle."
+  },
+  {
+   "q": "Which of the following is a non-probability sampling technique?",
+   "options": [
+    "Stratified sampling",
+    "Cluster sampling",
+    "Systematic sampling",
+    "Snowball sampling"
+   ],
+   "answer": 3,
+   "exp": "Snowball sampling relies on referrals, not random selection."
+  },
+  {
+   "q": "Match the tool or concept with its originator:\na. h-index  b. Likert scale  c. Action research  d. Impact factor\ni. Rensis Likert  ii. Jorge Hirsch  iii. Eugene Garfield  iv. Kurt Lewin",
+   "options": [
+    "a-ii, b-i, c-iv, d-iii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iv, b-i, c-ii, d-iii"
+   ],
+   "answer": 0,
+   "exp": "Hirsch (2005), Likert (1932), Lewin (1946), Garfield (JCR)."
+  },
+  {
+   "q": "Which of the following is open-source reference management software?",
+   "options": [
+    "EndNote",
+    "Turnitin",
+    "Zotero",
+    "iThenticate"
+   ],
+   "answer": 2,
+   "exp": "Zotero is free and open source; Turnitin and iThenticate check plagiarism."
+  }
+ ]
+}
