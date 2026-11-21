@@ -1,0 +1,2537 @@
+{
+ "id": 5,
+ "pyq_focus": [
+  "Unit 5 se sabse zyada sawal 'book-author-year' type ke aate hain: Saussure 1916, Chomsky 1957 aur 1965, Austin 1962, Searle 1969, Grice 1975, Halliday ki books.",
+  "Match-the-following bahut common hai: method aur founder (Silent Way-Gattegno, Suggestopedia-Lozanov, TPR-Asher, CLL-Curran) aur concept aur linguist.",
+  "ELT aur SLA se lagbhag har paper mein kuch na kuch: Krashen ke 5 hypotheses, Selinker ka interlanguage, Corder ka error analysis, Prabhu ka TBLT, Hymes ka communicative competence.",
+  "Phonetics-phonology mein seedhe fact: RP ke 44 phonemes, place aur manner of articulation, voiced/voiceless, minimal pair, allophone, schwa.",
+  "Speech acts aur Grice ke maxims par 'which is NOT' aur assertion-reason sawal aate hain; Searle ki 5 categories ke examples pehchaanna seekho.",
+  "History of English mein chronology: 449, 1066, 1362, 1476, 1611, 1755, 1884 - dates ko line se yaad karo; Grimm's Law, Great Vowel Shift, Old Norse words.",
+  "Sociolinguistics: diglossia (Ferguson 1959), Labov 1966, Bernstein ke codes, Kachru ke circles, pidgin vs creole, code-switching vs code-mixing.",
+  "Testing: validity vs reliability, washback, formative vs summative, norm vs criterion-referenced, cloze - definitions par sawal.",
+  "Taiyari ka tarika: har topic ki 'naam - book - saal' table banao, roz 20 MCQ lagao, match wale pairs flash-card se revise karo aur galat sawalon ki list rakho."
+ ],
+ "easy": [
+  {
+   "title": "Ferdinand de Saussure and Structuralism",
+   "story": "Socho ek cricket team hai. Rules ki book sabke liye same hai - yeh langue hai. Har player jo maidan par asal mein khelta hai - woh parole hai. Saussure (Swiss, 1857-1913) ne kaha language ek system hai, jaise chess: har mohre ki value uski jagah se hoti hai. 'Gaay' shabd ki awaaz (signifier) aur dimaag mein gaay ki tasveer (signified) ka rishta arbitrary hai - English mein 'cow', Hindi mein 'gaay'. Unki Course in General Linguistics (1916) unke marne ke baad students ke notes se Bally aur Sechehaye ne chhaapi.",
+   "trick": "'Saas-Bahu 1916': Langue = Saas ke rules (sabke liye), Parole = Bahu ka asli bolna. Editors 'Bali aur Sachi' = Bally aur Sechehaye. Synchronic = 'sync' = ek hi time, Diachronic = 'dia' = time ke aar-paar."
+  },
+  {
+   "title": "Noam Chomsky and Generative Grammar",
+   "story": "Chhota bachcha bina sikhaaye naye-naye sentences bana leta hai - yeh kaise? Chomsky ne kaha dimaag mein ek built-in grammar machine hai: LAD aur Universal Grammar. Bhasha ka andar wala gyaan = competence, bolte waqt jo nikla = performance. 'Colorless green ideas sleep furiously' grammar mein sahi hai par matlab bekaar. 1957 mein Syntactic Structures aayi, 1959 mein unhone Skinner ke Verbal Behavior ki review mein behaviourism ko kaata, 1965 mein Aspects of the Theory of Syntax aayi.",
+   "trick": "'57-59-65': 57 mein Syntax, 59 mein Skinner ki pitaai, 65 mein Aspects. C-P = Competence pehle, Performance baad mein - jaise Chomsky ka C."
+  },
+  {
+   "title": "M. A. K. Halliday and Functional Linguistics",
+   "story": "Halliday kehte the bhasha ek auzaar hai jo samaaj mein kaam karta hai - 'social semiotic'. Iske teen kaam (metafunctions): ideational (duniya ki baat batana), interpersonal (rishta banana), textual (baat ko jod kar text banana). Shaadi ke card mein Field = kya ho raha hai (shaadi), Tenor = kaun kisse baat kar raha hai (family se mehmaan), Mode = likha hua card. Halliday J. R. Firth ke shishya the. Ruqaiya Hasan ke saath Cohesion in English (1976) likhi.",
+   "trick": "Metafunctions 'I-I-T' = Ideational, Interpersonal, Textual - IIT jaisa! Register 'FTM' = Field, Tenor, Mode = 'Phir Tum Mile'."
+  },
+  {
+   "title": "Speech Act Theory: Austin and Searle",
+   "story": "Pandit ji bolte hain 'Main tumhe pati-patni ghoshit karta hoon' - bolte hi shaadi ho gayi! Yeh performative hai: bolna hi karna hai. Austin (How to Do Things with Words, 1962) ne teen level diye: locution (bolna), illocution (iraada, jaise warning dena), perlocution (asar, jaise saamne wala darr gaya). Searle (Speech Acts, 1969) ne illocution ki 5 categories banayi. 'Namak pass karoge?' sawaal lagta hai par asal mein request hai - indirect speech act.",
+   "trick": "Searle ke 5 = 'Ram Didi Ko Ek Dosa' = Representatives, Directives, Commissives, Expressives, Declarations. Austin ke L-I-P = 'LIPs' se bolo, Iraada rakho, Parinaam dekho."
+  },
+  {
+   "title": "Grice, Politeness and Pragmatics",
+   "story": "Dost se poocha 'Exam kaisa gaya?' aur woh bola 'Canteen ka samosa achha tha.' Seedha jawab nahi diya, par tum samajh gaye ki exam bura gaya - yeh implicature hai. Grice ne kaha baat-cheet mein hum cooperate karte hain (Cooperative Principle) aur 4 maxims maante hain: Quantity, Quality, Relation, Manner. Khule aam maxim todna = flouting. Brown aur Levinson ne 'face' yaani izzat bachane wali politeness samjhayi.",
+   "trick": "4 maxims 'QQRM' = 'Kuch Kuch Rishta Mast' (Quantity, Quality, Relation, Manner). Logic and Conversation 1975 = '75 mein Grice ne gappe maare'."
+  },
+  {
+   "title": "Phonetics",
+   "story": "Phonetics awaaz ka science hai: munh se awaaz kaise banti hai (articulatory), hawa mein kaise jaati hai (acoustic), kaan kaise sunta hai (auditory). 'Pa' bolo to dono honth milte hain - bilabial. 'Ka' bolo to jeebh ka pichhla hissa upar - velar. Gale par haath rakh kar 'zzz' bolo, kaanpan hoga - voiced; 'sss' mein nahi - voiceless. RP English mein 44 sounds hain: 24 consonants aur 20 vowels. Sabse common vowel schwa /ə/ hai, jaise 'about' ka pehla 'a'.",
+   "trick": "'44 = 24 + 20', aur 20 = 12 pure + 8 diphthong = '12 mahine, 8 din ki chhutti'. Daniel Jones = Cardinal Vowels - 'Cardinal' yaani bade padri, sab vowels ke guru."
+  },
+  {
+   "title": "Phonology",
+   "story": "Phonology dekhta hai ki kaunsi awaaz matlab badalti hai. 'Pin' aur 'bin' mein sirf p aur b ka fark hai aur matlab badal gaya, toh /p/ aur /b/ alag phonemes hain (minimal pair). 'Pin' ka p hawa ke jhonke ke saath aata hai, 'spin' ka bina - par matlab same, toh yeh allophones hain. Jaise ek hi ladka ghar mein 'Golu' aur school mein 'Rahul' - insaan ek, roop do. 'Ten boys' jaldi bolo to 'tem boys' - assimilation.",
+   "trick": "Phoneme /slash/ mein, allophone [bracket] mein: 'Slash = asli family, Bracket = bhes badla roop'. Trubetzkoy 1939 = Prague ka 'Phono baba'."
+  },
+  {
+   "title": "Morphology and Word Formation",
+   "story": "Shabd ko Lego blocks ki tarah todo: 'unhappiness' = un + happy + ness. Sabse chhota matlab wala block = morpheme. 'Book' akela khada ho sakta hai (free), '-s' akela nahi (bound). Smoke + fog = smog (blending), influenza se flu (clipping), editor se edit (back-formation). Google naam se 'to google' kriya ban gayi - yeh conversion hai.",
+   "trick": "8 inflections: 'teen S, teen verb, do compare' = -s plural, -'s possessive, -s 3rd person; -ed, -en, -ing; -er, -est. Portmanteau = Lewis Carroll ka 'suitcase' jismein do matlab band."
+  },
+  {
+   "title": "Syntax",
+   "story": "Syntax shabdon ko line mein lagane ka niyam hai, jaise train ke dibbe sahi kram mein. English mein order SVO hai: 'Ram eats mangoes'; Hindi mein SOV: 'Ram aam khaata hai'. Sentence ko chhote tukdon mein todna IC analysis hai (Bloomfield). Chomsky ne rule diya: S -> NP + VP. 'Visiting relatives can be boring' ke do matlab hain - structural ambiguity. 'The house that Jack built' jaisa sentence badhta hi jaata hai - recursion.",
+   "trick": "Quirk ke 7 patterns sab 'SV' se shuru: SV, SVO, SVC, SVA, SVOO, SVOC, SVOA = 'Sab Vidyarthi' ke saath extra dabbe. English SVO, Hindi SOV."
+  },
+  {
+   "title": "Semantics",
+   "story": "Semantics matlab 'meaning ki padhai'. 'Rose' ek 'flower' hai - rose hyponym, flower superordinate, jaise 'aam' ek 'phal'. Garam-thanda gradable antonyms, zinda-murda complementary, kharidna-bechna converse. Bank (nadi ka kinara) aur bank (paise wala) homonym hain; head (sir) aur head of department polysemy hai. Subah ka taara aur shaam ka taara dono Venus hain - Frege ka sense vs reference.",
+   "trick": "Leech ke 7 meanings 'Chai Coffee Samosa Aur Roti Chhole Thali' = Conceptual, Connotative, Social, Affective, Reflected, Collocative, Thematic. Ogden-Richards 1923 = 'triangle wale dost'."
+  },
+  {
+   "title": "Sociolinguistics",
+   "story": "Ghar par dadi se Haryanvi, college mein Hindi-English mix (Hinglish = code-mixing), office mein formal English - ek hi insaan, bhasha ke alag roop. Ferguson ne kaha kuch samaaj mein ek High (formal) aur ek Low (ghar wali) variety saath chalti hai - diglossia (1959). Labov ne New York ki dukaanon mein 'fourth floor' ka /r/ suna (1966). Kachru ke circles mein India Outer Circle mein hai. Sapir-Whorf kehte hain bhasha soch ko shape karti hai.",
+   "trick": "Kram yaad: 'Phir Lassi Bina Lassi nahi' = Ferguson 1959, Labov 1966, Bernstein 1971, Lakoff 1975. Pidgin = 'pehla, bina maa ka'; Creole = 'pidgin jo kisi ki maa-boli ban gaya'."
+  },
+  {
+   "title": "History of the English Language",
+   "story": "English West Germanic bhasha hai, Indo-European parivaar ki beti - Sanskrit ki door ki cousin (William Jones ne 1786 mein Calcutta mein bataya). Lagbhag 449 AD mein Angles, Saxons aur Jutes Britain aaye - Old English shuru. Vikings ne 'they, sky, egg' jaise shabd diye; 1066 mein Normans aaye aur French ke dher shabd laaye. Caxton ki press (1476), King James Bible (1611), Johnson ki Dictionary (1755) - standard English bana. Great Vowel Shift mein lambi vowels munh mein upar khisak gayi.",
+   "trick": "Periods: Old 450, Middle 1100, Modern 1500 = 'saadhe chaar, gyarah, pandrah' sau. 'Grimm ne pater ko father banaya' = p > f."
+  },
+  {
+   "title": "ELT Methods: GTM, Direct Method, ALM and Humanistic Methods",
+   "story": "Purane school mein grammar ka rule ratao aur Hindi mein translate karo - yeh Grammar Translation Method hai. Phir Berlitz jaise logon ne kaha mother tongue band, seedha English - Direct Method. World War II mein army ke liye ALM aaya: 'repeat after me', drill par drill, tote jaisa (behaviourism). Phir humanistic methods aaye: Silent Way (teacher chup, Gattegno), Suggestopedia (music ke saath relax, Lozanov), TPR (Asher - 'Stand up!' bolo aur khade ho jao), CLL (Curran - teacher counsellor).",
+   "trick": "'Gattegno Goonga, Lozanov Lori (music), Asher Action, Curran Counsellor'. ALM = 'Army ka tota'."
+  },
+  {
+   "title": "CLT, TBLT, Krashen and SLA Theories",
+   "story": "CLT kehta hai: grammar thoda galat ho to chalega, baat samjha do - fluency pehle. Dell Hymes ne 1972 mein 'communicative competence' shabd diya. Prabhu ne Bangalore mein tasks se padhaya, jaise train timetable dekh kar jawab nikalna (information gap). Krashen bole: bachcha apne level se thoda aage wala input samjhe (i+1) aur dar na ho (low affective filter), to bhasha khud aa jaati hai. Selinker ne learner ki beech wali bhasha ko 'interlanguage' kaha.",
+   "trick": "Krashen ke 5 = 'AMNIA' = Acquisition-learning, Monitor, Natural order, Input, Affective filter. i+1 = 'ek seedhi upar'."
+  },
+  {
+   "title": "Language Testing and Evaluation",
+   "story": "Test ek tarazu hai. Tarazu sahi cheez tole - validity; har baar same wazan bataaye - reliability. Board exam ke darr se teacher sirf exam wala padhaye - washback. Saal ke beech ke chhote tests = formative, aakhri exam = summative. Cloze test mein har kuch shabd ke baad ek shabd gayab hota hai, bachcha bharta hai. Doosron se compare karna = norm-referenced; fixed cut-off se = criterion-referenced.",
+   "trick": "'VRPW' = Validity, Reliability, Practicality, Washback = 'Vahi Ram Pass Wala'. Cloze = Taylor (1953) - 'darzi (tailor) ne khaali jagah silai'."
+  },
+  {
+   "title": "Grammar and Usage (English in Use)",
+   "story": "Grammar do tarah ki: prescriptive (dadaji jaisi - 'aise bolo!', Lowth 1762) aur descriptive (reporter jaisi - log jaise bolte hain waisa likho). 'Neither the teacher nor the students were present' - verb paas wale subject ki baat maanta hai. 'No sooner... than' aur 'Hardly... when' pakki jodi hain. 'If I were rich' - second conditional mein 'were'. Indian English ki galtiyan: 'discuss about', 'return back', 'cousin brother'.",
+   "trick": "'No sooner - THAN, Hardly - WHEN' = 'Nathan aur Hardwin do dost'. 'Lest' ke baad 'should', 'not' kabhi nahi."
+  }
+ ],
+ "works": [
+  {
+   "author": "Ferdinand de Saussure",
+   "work": "Course in General Linguistics",
+   "year": "1916",
+   "type": "theory text",
+   "note": "Posthumous; langue/parole, sign, synchronic/diachronic; ed. Bally and Sechehaye"
+  },
+  {
+   "author": "Edward Sapir",
+   "work": "Language: An Introduction to the Study of Speech",
+   "year": "1921",
+   "type": "book",
+   "note": "Defines language as purely human, non-instinctive communication"
+  },
+  {
+   "author": "Leonard Bloomfield",
+   "work": "Language",
+   "year": "1933",
+   "type": "book",
+   "note": "Bible of American structuralism; behaviourist; IC analysis"
+  },
+  {
+   "author": "Bernard Bloch and George L. Trager",
+   "work": "Outline of Linguistic Analysis",
+   "year": "1942",
+   "type": "book",
+   "note": "Language as system of arbitrary vocal symbols"
+  },
+  {
+   "author": "Kenneth L. Pike",
+   "work": "Phonemics",
+   "year": "1947",
+   "type": "book",
+   "note": "American structuralist phonemic analysis; Pike later coined emic/etic"
+  },
+  {
+   "author": "Zellig Harris",
+   "work": "Methods in Structural Linguistics",
+   "year": "1951",
+   "type": "book",
+   "note": "Distributional structuralism; Chomsky's teacher"
+  },
+  {
+   "author": "Charles F. Hockett",
+   "work": "A Course in Modern Linguistics",
+   "year": "1958",
+   "type": "book",
+   "note": "Structuralist textbook; Hockett later listed design features"
+  },
+  {
+   "author": "Charles F. Hockett",
+   "work": "The Origin of Speech",
+   "year": "1960",
+   "type": "essay",
+   "note": "Design features of human language, e.g. displacement, duality"
+  },
+  {
+   "author": "B. F. Skinner",
+   "work": "Verbal Behavior",
+   "year": "1957",
+   "type": "book",
+   "note": "Behaviourist account of language; attacked by Chomsky"
+  },
+  {
+   "author": "Noam Chomsky",
+   "work": "Syntactic Structures",
+   "year": "1957",
+   "type": "theory text",
+   "note": "Launched transformational generative grammar"
+  },
+  {
+   "author": "Noam Chomsky",
+   "work": "A Review of B. F. Skinner's Verbal Behavior",
+   "year": "1959",
+   "type": "essay",
+   "note": "In journal Language; demolished behaviourist view of acquisition"
+  },
+  {
+   "author": "Noam Chomsky",
+   "work": "Aspects of the Theory of Syntax",
+   "year": "1965",
+   "type": "theory text",
+   "note": "Standard Theory: competence/performance, deep/surface structure"
+  },
+  {
+   "author": "Noam Chomsky",
+   "work": "Cartesian Linguistics",
+   "year": "1966",
+   "type": "book",
+   "note": "Traces rationalist roots of generative grammar to Descartes"
+  },
+  {
+   "author": "Noam Chomsky",
+   "work": "Language and Mind",
+   "year": "1968",
+   "type": "book",
+   "note": "Lectures on language as a window to the mind"
+  },
+  {
+   "author": "Noam Chomsky and Morris Halle",
+   "work": "The Sound Pattern of English",
+   "year": "1968",
+   "type": "theory text",
+   "note": "SPE; founded generative phonology"
+  },
+  {
+   "author": "Noam Chomsky",
+   "work": "Lectures on Government and Binding",
+   "year": "1981",
+   "type": "theory text",
+   "note": "GB theory; Principles and Parameters framework"
+  },
+  {
+   "author": "Noam Chomsky",
+   "work": "Knowledge of Language",
+   "year": "1986",
+   "type": "book",
+   "note": "I-language vs E-language; Plato's problem"
+  },
+  {
+   "author": "Noam Chomsky",
+   "work": "The Minimalist Program",
+   "year": "1995",
+   "type": "theory text",
+   "note": "Latest major Chomskyan model"
+  },
+  {
+   "author": "Eric Lenneberg",
+   "work": "Biological Foundations of Language",
+   "year": "1967",
+   "type": "book",
+   "note": "Critical Period Hypothesis for language acquisition"
+  },
+  {
+   "author": "N. S. Trubetzkoy",
+   "work": "Principles of Phonology (Grundzuge der Phonologie)",
+   "year": "1939",
+   "type": "theory text",
+   "note": "Prague School phonology; posthumous"
+  },
+  {
+   "author": "Roman Jakobson and Morris Halle",
+   "work": "Fundamentals of Language",
+   "year": "1956",
+   "type": "book",
+   "note": "Distinctive features; metaphor vs metonymy poles"
+  },
+  {
+   "author": "Roman Jakobson",
+   "work": "Linguistics and Poetics",
+   "year": "1960",
+   "type": "essay",
+   "note": "Six functions of language; poetic function"
+  },
+  {
+   "author": "J. R. Firth",
+   "work": "Papers in Linguistics 1934-1951",
+   "year": "1957",
+   "type": "book",
+   "note": "London School; context of situation, collocation"
+  },
+  {
+   "author": "Bronislaw Malinowski",
+   "work": "The Problem of Meaning in Primitive Languages",
+   "year": "1923",
+   "type": "essay",
+   "note": "Supplement to The Meaning of Meaning; coined phatic communion"
+  },
+  {
+   "author": "M. A. K. Halliday, Angus McIntosh and Peter Strevens",
+   "work": "The Linguistic Sciences and Language Teaching",
+   "year": "1964",
+   "type": "book",
+   "note": "Applied linguistics classic; registers in language teaching"
+  },
+  {
+   "author": "M. A. K. Halliday",
+   "work": "Learning How to Mean",
+   "year": "1975",
+   "type": "book",
+   "note": "Seven functions of child language"
+  },
+  {
+   "author": "M. A. K. Halliday and Ruqaiya Hasan",
+   "work": "Cohesion in English",
+   "year": "1976",
+   "type": "book",
+   "note": "Reference, substitution, ellipsis, conjunction, lexical cohesion"
+  },
+  {
+   "author": "M. A. K. Halliday",
+   "work": "Language as Social Semiotic",
+   "year": "1978",
+   "type": "book",
+   "note": "Language as social semiotic; field, tenor, mode"
+  },
+  {
+   "author": "M. A. K. Halliday",
+   "work": "An Introduction to Functional Grammar",
+   "year": "1985",
+   "type": "book",
+   "note": "Systemic Functional Grammar; three metafunctions"
+  },
+  {
+   "author": "Charles Morris",
+   "work": "Foundations of the Theory of Signs",
+   "year": "1938",
+   "type": "theory text",
+   "note": "Divided semiotics into syntax, semantics, pragmatics"
+  },
+  {
+   "author": "J. L. Austin",
+   "work": "How to Do Things with Words",
+   "year": "1962",
+   "type": "theory text",
+   "note": "Speech acts; William James Lectures, Harvard, 1955"
+  },
+  {
+   "author": "John R. Searle",
+   "work": "Speech Acts: An Essay in the Philosophy of Language",
+   "year": "1969",
+   "type": "theory text",
+   "note": "Systematised speech act theory; felicity conditions"
+  },
+  {
+   "author": "John R. Searle",
+   "work": "Indirect Speech Acts",
+   "year": "1975",
+   "type": "essay",
+   "note": "'Can you pass the salt?' type requests"
+  },
+  {
+   "author": "John R. Searle",
+   "work": "Expression and Meaning",
+   "year": "1979",
+   "type": "book",
+   "note": "Five classes: representatives, directives, commissives, expressives, declarations"
+  },
+  {
+   "author": "Jacques Derrida",
+   "work": "Signature Event Context",
+   "year": "1972",
+   "type": "essay",
+   "note": "Critique of Austin; began Derrida-Searle debate"
+  },
+  {
+   "author": "H. P. Grice",
+   "work": "Meaning",
+   "year": "1957",
+   "type": "essay",
+   "note": "Natural vs non-natural meaning"
+  },
+  {
+   "author": "H. P. Grice",
+   "work": "Logic and Conversation",
+   "year": "1975",
+   "type": "essay",
+   "note": "Cooperative Principle, four maxims, implicature"
+  },
+  {
+   "author": "H. P. Grice",
+   "work": "Studies in the Way of Words",
+   "year": "1989",
+   "type": "book",
+   "note": "Collected essays including Logic and Conversation"
+  },
+  {
+   "author": "Erving Goffman",
+   "work": "Interaction Ritual",
+   "year": "1967",
+   "type": "book",
+   "note": "Includes 'On Face-Work'; source of the concept face"
+  },
+  {
+   "author": "Penelope Brown and Stephen C. Levinson",
+   "work": "Politeness: Some Universals in Language Usage",
+   "year": "1987",
+   "type": "theory text",
+   "note": "Positive/negative face, FTAs; first version 1978"
+  },
+  {
+   "author": "Geoffrey Leech",
+   "work": "Principles of Pragmatics",
+   "year": "1983",
+   "type": "book",
+   "note": "Politeness Principle with six maxims"
+  },
+  {
+   "author": "Stephen C. Levinson",
+   "work": "Pragmatics",
+   "year": "1983",
+   "type": "book",
+   "note": "Standard textbook: deixis, implicature, presupposition, speech acts"
+  },
+  {
+   "author": "Dan Sperber and Deirdre Wilson",
+   "work": "Relevance: Communication and Cognition",
+   "year": "1986",
+   "type": "theory text",
+   "note": "Relevance Theory; optimal relevance"
+  },
+  {
+   "author": "George Yule",
+   "work": "Pragmatics",
+   "year": "1996",
+   "type": "book",
+   "note": "Introductory pragmatics textbook (Oxford)"
+  },
+  {
+   "author": "George Yule",
+   "work": "The Study of Language",
+   "year": "1985",
+   "type": "book",
+   "note": "Popular introductory linguistics textbook"
+  },
+  {
+   "author": "Michel Breal",
+   "work": "Essai de semantique",
+   "year": "1897",
+   "type": "book",
+   "note": "Founded semantics; coined 'semantique' in 1883"
+  },
+  {
+   "author": "Gottlob Frege",
+   "work": "On Sense and Reference",
+   "year": "1892",
+   "type": "essay",
+   "note": "Sinn vs Bedeutung; morning star/evening star"
+  },
+  {
+   "author": "C. K. Ogden and I. A. Richards",
+   "work": "The Meaning of Meaning",
+   "year": "1923",
+   "type": "book",
+   "note": "Semantic triangle: symbol, thought, referent"
+  },
+  {
+   "author": "Geoffrey Leech",
+   "work": "Semantics",
+   "year": "1974",
+   "type": "book",
+   "note": "Seven types of meaning"
+  },
+  {
+   "author": "F. R. Palmer",
+   "work": "Semantics: A New Outline",
+   "year": "1976",
+   "type": "book",
+   "note": "Standard introductory semantics text"
+  },
+  {
+   "author": "John Lyons",
+   "work": "Introduction to Theoretical Linguistics",
+   "year": "1968",
+   "type": "book",
+   "note": "Classic general linguistics textbook"
+  },
+  {
+   "author": "John Lyons",
+   "work": "Semantics",
+   "year": "1977",
+   "type": "book",
+   "note": "Two-volume standard work on semantics"
+  },
+  {
+   "author": "Henry Sweet",
+   "work": "A Handbook of Phonetics",
+   "year": "1877",
+   "type": "book",
+   "note": "Early scientific phonetics; Reform Movement figure"
+  },
+  {
+   "author": "Henry Sweet",
+   "work": "A New English Grammar",
+   "year": "1891",
+   "type": "book",
+   "note": "Historical-descriptive grammar of English"
+  },
+  {
+   "author": "Henry Sweet",
+   "work": "The Practical Study of Languages",
+   "year": "1899",
+   "type": "book",
+   "note": "Reform Movement language-teaching guide"
+  },
+  {
+   "author": "Daniel Jones",
+   "work": "English Pronouncing Dictionary",
+   "year": "1917",
+   "type": "dictionary",
+   "note": "Standard RP pronunciation dictionary"
+  },
+  {
+   "author": "Daniel Jones",
+   "work": "An Outline of English Phonetics",
+   "year": "1918",
+   "type": "book",
+   "note": "RP description; Cardinal Vowels"
+  },
+  {
+   "author": "A. C. Gimson",
+   "work": "An Introduction to the Pronunciation of English",
+   "year": "1962",
+   "type": "book",
+   "note": "Standard RP phonetics text"
+  },
+  {
+   "author": "Peter Ladefoged",
+   "work": "A Course in Phonetics",
+   "year": "1975",
+   "type": "book",
+   "note": "Standard articulatory phonetics textbook"
+  },
+  {
+   "author": "T. Balasubramanian",
+   "work": "A Textbook of English Phonetics for Indian Students",
+   "year": "1981",
+   "type": "book",
+   "note": "Phonetics for Indian learners; popular in Indian universities"
+  },
+  {
+   "author": "Peter Roach",
+   "work": "English Phonetics and Phonology",
+   "year": "1983",
+   "type": "book",
+   "note": "Standard course book on RP"
+  },
+  {
+   "author": "Lewis Carroll",
+   "work": "Through the Looking-Glass",
+   "year": "1871",
+   "type": "novel",
+   "note": "Humpty Dumpty explains 'portmanteau' words"
+  },
+  {
+   "author": "Sir William Jones",
+   "work": "The Third Anniversary Discourse",
+   "year": "1786",
+   "type": "lecture",
+   "note": "Asiatic Society, Calcutta; Sanskrit kin to Greek, Latin"
+  },
+  {
+   "author": "Jacob Grimm",
+   "work": "Deutsche Grammatik",
+   "year": "1819",
+   "type": "book",
+   "note": "Second edition (1822) set out Grimm's Law"
+  },
+  {
+   "author": "Bede",
+   "work": "Ecclesiastical History of the English People",
+   "year": "731",
+   "type": "history",
+   "note": "Records Angles, Saxons, Jutes arrival c. 449"
+  },
+  {
+   "author": "Translators under King James I",
+   "work": "The Authorised (King James) Version of the Bible",
+   "year": "1611",
+   "type": "scripture translation",
+   "note": "Shaped Early Modern English prose"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "A Dictionary of the English Language",
+   "year": "1755",
+   "type": "dictionary",
+   "note": "First great English dictionary; illustrative quotations"
+  },
+  {
+   "author": "James Murray (ed.) and others",
+   "work": "A New English Dictionary on Historical Principles (OED)",
+   "year": "1884-1928",
+   "type": "dictionary",
+   "note": "Became the Oxford English Dictionary"
+  },
+  {
+   "author": "Otto Jespersen",
+   "work": "Growth and Structure of the English Language",
+   "year": "1905",
+   "type": "book",
+   "note": "Classic history of English; coined Great Vowel Shift"
+  },
+  {
+   "author": "Otto Jespersen",
+   "work": "A Modern English Grammar on Historical Principles",
+   "year": "1909-1949",
+   "type": "book",
+   "note": "Seven-volume historical grammar"
+  },
+  {
+   "author": "Otto Jespersen",
+   "work": "Language: Its Nature, Development and Origin",
+   "year": "1922",
+   "type": "book",
+   "note": "Theories of language origin, e.g. bow-wow, pooh-pooh"
+  },
+  {
+   "author": "Otto Jespersen",
+   "work": "The Philosophy of Grammar",
+   "year": "1924",
+   "type": "book",
+   "note": "Rank theory; notional vs syntactic categories"
+  },
+  {
+   "author": "A. C. Baugh",
+   "work": "A History of the English Language",
+   "year": "1935",
+   "type": "book",
+   "note": "Standard history; later editions with Thomas Cable"
+  },
+  {
+   "author": "David Crystal",
+   "work": "The Cambridge Encyclopedia of the English Language",
+   "year": "1995",
+   "type": "reference book",
+   "note": "Comprehensive reference on English"
+  },
+  {
+   "author": "David Crystal",
+   "work": "English as a Global Language",
+   "year": "1997",
+   "type": "book",
+   "note": "Spread of English worldwide"
+  },
+  {
+   "author": "Robert Lowth",
+   "work": "A Short Introduction to English Grammar",
+   "year": "1762",
+   "type": "grammar",
+   "note": "Prescriptive grammar; 'Two Negatives in English destroy one another'"
+  },
+  {
+   "author": "Lindley Murray",
+   "work": "English Grammar",
+   "year": "1795",
+   "type": "grammar",
+   "note": "Most widely used prescriptive grammar of its era"
+  },
+  {
+   "author": "H. W. Fowler",
+   "work": "A Dictionary of Modern English Usage",
+   "year": "1926",
+   "type": "usage guide",
+   "note": "Classic usage guide"
+  },
+  {
+   "author": "Randolph Quirk, Sidney Greenbaum, Geoffrey Leech, Jan Svartvik",
+   "work": "A Grammar of Contemporary English",
+   "year": "1972",
+   "type": "grammar",
+   "note": "Descriptive reference grammar; precursor of CGEL"
+  },
+  {
+   "author": "Randolph Quirk and Sidney Greenbaum",
+   "work": "A University Grammar of English",
+   "year": "1973",
+   "type": "grammar",
+   "note": "Shorter student version of 1972 grammar"
+  },
+  {
+   "author": "Geoffrey Leech and Jan Svartvik",
+   "work": "A Communicative Grammar of English",
+   "year": "1975",
+   "type": "grammar",
+   "note": "Grammar organised by communicative use"
+  },
+  {
+   "author": "Randolph Quirk, Sidney Greenbaum, Geoffrey Leech, Jan Svartvik",
+   "work": "A Comprehensive Grammar of the English Language",
+   "year": "1985",
+   "type": "grammar",
+   "note": "CGEL; clause elements SVOCA, seven clause patterns"
+  },
+  {
+   "author": "A. J. Thomson and A. V. Martinet",
+   "work": "A Practical English Grammar",
+   "year": "1960",
+   "type": "grammar",
+   "note": "Popular learner's grammar"
+  },
+  {
+   "author": "Michael Swan",
+   "work": "Practical English Usage",
+   "year": "1980",
+   "type": "usage guide",
+   "note": "Learner-focused usage reference"
+  },
+  {
+   "author": "A. S. Hornby",
+   "work": "A Guide to Patterns and Usage in English",
+   "year": "1954",
+   "type": "grammar",
+   "note": "Verb patterns for learners"
+  },
+  {
+   "author": "A. S. Hornby",
+   "work": "Oxford Advanced Learner's Dictionary (first published as A Learner's Dictionary of Current English)",
+   "year": "1948",
+   "type": "dictionary",
+   "note": "First major learner's dictionary"
+  },
+  {
+   "author": "Benjamin Lee Whorf",
+   "work": "Language, Thought, and Reality",
+   "year": "1956",
+   "type": "book",
+   "note": "Posthumous essays; linguistic relativity, Hopi"
+  },
+  {
+   "author": "Charles A. Ferguson",
+   "work": "Diglossia",
+   "year": "1959",
+   "type": "essay",
+   "note": "High and Low varieties; in journal Word"
+  },
+  {
+   "author": "Joshua Fishman",
+   "work": "Bilingualism with and without Diglossia; Diglossia with and without Bilingualism",
+   "year": "1967",
+   "type": "essay",
+   "note": "Extended Ferguson's diglossia"
+  },
+  {
+   "author": "William Labov",
+   "work": "The Social Stratification of English in New York City",
+   "year": "1966",
+   "type": "book",
+   "note": "Department store /r/ study; variationist sociolinguistics"
+  },
+  {
+   "author": "William Labov",
+   "work": "Sociolinguistic Patterns",
+   "year": "1972",
+   "type": "book",
+   "note": "Collected variationist studies"
+  },
+  {
+   "author": "Basil Bernstein",
+   "work": "Class, Codes and Control",
+   "year": "1971",
+   "type": "book",
+   "note": "Restricted and elaborated codes"
+  },
+  {
+   "author": "Dell Hymes",
+   "work": "On Communicative Competence",
+   "year": "1972",
+   "type": "essay",
+   "note": "Coined communicative competence against Chomsky"
+  },
+  {
+   "author": "John J. Gumperz and Dell Hymes (eds.)",
+   "work": "Directions in Sociolinguistics: The Ethnography of Communication",
+   "year": "1972",
+   "type": "edited book",
+   "note": "Ethnography of communication; Hymes' SPEAKING model"
+  },
+  {
+   "author": "Dell Hymes",
+   "work": "Foundations in Sociolinguistics",
+   "year": "1974",
+   "type": "book",
+   "note": "Ethnographic approach to language use"
+  },
+  {
+   "author": "John J. Gumperz",
+   "work": "Discourse Strategies",
+   "year": "1982",
+   "type": "book",
+   "note": "Interactional sociolinguistics; contextualisation cues, code-switching"
+  },
+  {
+   "author": "Peter Trudgill",
+   "work": "The Social Differentiation of English in Norwich",
+   "year": "1974",
+   "type": "book",
+   "note": "Norwich study; covert prestige"
+  },
+  {
+   "author": "Peter Trudgill",
+   "work": "Sociolinguistics: An Introduction to Language and Society",
+   "year": "1974",
+   "type": "book",
+   "note": "Popular Penguin introduction"
+  },
+  {
+   "author": "Robin Lakoff",
+   "work": "Language and Woman's Place",
+   "year": "1975",
+   "type": "book",
+   "note": "Founding text of language and gender"
+  },
+  {
+   "author": "Deborah Tannen",
+   "work": "You Just Don't Understand",
+   "year": "1990",
+   "type": "book",
+   "note": "Gender differences in conversation"
+  },
+  {
+   "author": "Ronald Wardhaugh",
+   "work": "An Introduction to Sociolinguistics",
+   "year": "1986",
+   "type": "book",
+   "note": "Widely used sociolinguistics textbook"
+  },
+  {
+   "author": "Braj B. Kachru",
+   "work": "The Indianization of English",
+   "year": "1983",
+   "type": "book",
+   "note": "English in India as a nativised variety"
+  },
+  {
+   "author": "Braj B. Kachru",
+   "work": "Standards, Codification and Sociolinguistic Realism",
+   "year": "1985",
+   "type": "essay",
+   "note": "Three Concentric Circles: Inner, Outer, Expanding"
+  },
+  {
+   "author": "Braj B. Kachru",
+   "work": "The Alchemy of English",
+   "year": "1986",
+   "type": "book",
+   "note": "Spread and functions of non-native Englishes"
+  },
+  {
+   "author": "Thomas Babington Macaulay",
+   "work": "Minute on Indian Education",
+   "year": "1835",
+   "type": "official minute",
+   "note": "English education in India; 'single shelf' remark"
+  },
+  {
+   "author": "Kothari Commission (Education Commission)",
+   "work": "Education and National Development",
+   "year": "1966",
+   "type": "report",
+   "note": "Report of 1964-66 Commission; Three-Language Formula"
+  },
+  {
+   "author": "NCERT",
+   "work": "National Curriculum Framework",
+   "year": "2005",
+   "type": "policy document",
+   "note": "Multilingualism as resource; constructivist pedagogy"
+  },
+  {
+   "author": "Wilhelm Vietor",
+   "work": "Der Sprachunterricht muss umkehren! (Language Teaching Must Start Afresh!)",
+   "year": "1882",
+   "type": "pamphlet",
+   "note": "Manifesto of the Reform Movement"
+  },
+  {
+   "author": "Francois Gouin",
+   "work": "L'art d'enseigner et d'etudier les langues",
+   "year": "1880",
+   "type": "book",
+   "note": "Series Method; English translation 1892"
+  },
+  {
+   "author": "Harold E. Palmer",
+   "work": "The Principles of Language-Study",
+   "year": "1921",
+   "type": "book",
+   "note": "Oral Approach; forerunner of Situational Language Teaching"
+  },
+  {
+   "author": "Michael West",
+   "work": "A General Service List of English Words",
+   "year": "1953",
+   "type": "word list",
+   "note": "About 2000 most useful words for learners"
+  },
+  {
+   "author": "Charles C. Fries",
+   "work": "Teaching and Learning English as a Foreign Language",
+   "year": "1945",
+   "type": "book",
+   "note": "Michigan oral approach; basis of ALM"
+  },
+  {
+   "author": "Robert Lado",
+   "work": "Linguistics Across Cultures",
+   "year": "1957",
+   "type": "book",
+   "note": "Contrastive Analysis Hypothesis"
+  },
+  {
+   "author": "Robert Lado",
+   "work": "Language Testing",
+   "year": "1961",
+   "type": "book",
+   "note": "Discrete-point testing"
+  },
+  {
+   "author": "William F. Mackey",
+   "work": "Language Teaching Analysis",
+   "year": "1965",
+   "type": "book",
+   "note": "Analysis of methods: selection, gradation, presentation, repetition"
+  },
+  {
+   "author": "C. J. Dodson",
+   "work": "Language Teaching and the Bilingual Method",
+   "year": "1967",
+   "type": "book",
+   "note": "Bilingual Method; controlled mother-tongue use"
+  },
+  {
+   "author": "Caleb Gattegno",
+   "work": "Teaching Foreign Languages in Schools: The Silent Way",
+   "year": "1963",
+   "type": "book",
+   "note": "Silent Way; Cuisenaire rods, Fidel charts"
+  },
+  {
+   "author": "Charles A. Curran",
+   "work": "Counseling-Learning: A Whole-Person Model for Education",
+   "year": "1972",
+   "type": "book",
+   "note": "Basis of Community Language Learning"
+  },
+  {
+   "author": "James J. Asher",
+   "work": "Learning Another Language Through Actions",
+   "year": "1977",
+   "type": "book",
+   "note": "Total Physical Response"
+  },
+  {
+   "author": "Georgi Lozanov",
+   "work": "Suggestology and Outlines of Suggestopedy",
+   "year": "1978",
+   "type": "book",
+   "note": "Suggestopedia; relaxation, music, desuggestion"
+  },
+  {
+   "author": "D. A. Wilkins",
+   "work": "Linguistics in Language Teaching",
+   "year": "1972",
+   "type": "book",
+   "note": "'Without vocabulary nothing can be conveyed'"
+  },
+  {
+   "author": "J. A. van Ek",
+   "work": "The Threshold Level",
+   "year": "1975",
+   "type": "book",
+   "note": "Council of Europe notional-functional specification"
+  },
+  {
+   "author": "D. A. Wilkins",
+   "work": "Notional Syllabuses",
+   "year": "1976",
+   "type": "book",
+   "note": "Notional-functional syllabus; basis of CLT"
+  },
+  {
+   "author": "H. G. Widdowson",
+   "work": "Teaching Language as Communication",
+   "year": "1978",
+   "type": "book",
+   "note": "Usage vs use; CLT classic"
+  },
+  {
+   "author": "John Munby",
+   "work": "Communicative Syllabus Design",
+   "year": "1978",
+   "type": "book",
+   "note": "Needs analysis; Communication Needs Processor"
+  },
+  {
+   "author": "C. J. Brumfit and K. Johnson (eds.)",
+   "work": "The Communicative Approach to Language Teaching",
+   "year": "1979",
+   "type": "edited book",
+   "note": "Key CLT readings"
+  },
+  {
+   "author": "Michael Canale and Merrill Swain",
+   "work": "Theoretical Bases of Communicative Approaches to Second Language Teaching and Testing",
+   "year": "1980",
+   "type": "essay",
+   "note": "Grammatical, sociolinguistic, strategic competence"
+  },
+  {
+   "author": "H. Douglas Brown",
+   "work": "Principles of Language Learning and Teaching",
+   "year": "1980",
+   "type": "book",
+   "note": "Standard SLA and pedagogy textbook"
+  },
+  {
+   "author": "H. H. Stern",
+   "work": "Fundamental Concepts of Language Teaching",
+   "year": "1983",
+   "type": "book",
+   "note": "Comprehensive survey of language teaching theory"
+  },
+  {
+   "author": "Jeremy Harmer",
+   "work": "The Practice of English Language Teaching",
+   "year": "1983",
+   "type": "book",
+   "note": "ELT methodology; ESA model"
+  },
+  {
+   "author": "Jack C. Richards and Theodore S. Rodgers",
+   "work": "Approaches and Methods in Language Teaching",
+   "year": "1986",
+   "type": "book",
+   "note": "Approach, design, procedure framework for methods"
+  },
+  {
+   "author": "Diane Larsen-Freeman",
+   "work": "Techniques and Principles in Language Teaching",
+   "year": "1986",
+   "type": "book",
+   "note": "Survey of methods with classroom examples"
+  },
+  {
+   "author": "N. S. Prabhu",
+   "work": "Second Language Pedagogy",
+   "year": "1987",
+   "type": "book",
+   "note": "Bangalore Project; task-based teaching"
+  },
+  {
+   "author": "Tom Hutchinson and Alan Waters",
+   "work": "English for Specific Purposes",
+   "year": "1987",
+   "type": "book",
+   "note": "Learning-centred approach to ESP"
+  },
+  {
+   "author": "David Nunan",
+   "work": "Designing Tasks for the Communicative Classroom",
+   "year": "1989",
+   "type": "book",
+   "note": "Task design for TBLT"
+  },
+  {
+   "author": "Jane Willis",
+   "work": "A Framework for Task-Based Learning",
+   "year": "1996",
+   "type": "book",
+   "note": "Pre-task, task cycle, language focus"
+  },
+  {
+   "author": "Rod Ellis",
+   "work": "The Study of Second Language Acquisition",
+   "year": "1994",
+   "type": "book",
+   "note": "Comprehensive SLA survey"
+  },
+  {
+   "author": "Rod Ellis",
+   "work": "Task-based Language Learning and Teaching",
+   "year": "2003",
+   "type": "book",
+   "note": "Research-based account of TBLT"
+  },
+  {
+   "author": "Michael Lewis",
+   "work": "The Lexical Approach",
+   "year": "1993",
+   "type": "book",
+   "note": "Language as grammaticalised lexis; chunks"
+  },
+  {
+   "author": "B. Kumaravadivelu",
+   "work": "The Postmethod Condition",
+   "year": "1994",
+   "type": "essay",
+   "note": "TESOL Quarterly; postmethod pedagogy"
+  },
+  {
+   "author": "B. Kumaravadivelu",
+   "work": "Beyond Methods: Macrostrategies for Language Teaching",
+   "year": "2003",
+   "type": "book",
+   "note": "Ten macrostrategies; particularity, practicality, possibility"
+  },
+  {
+   "author": "S. Pit Corder",
+   "work": "The Significance of Learners' Errors",
+   "year": "1967",
+   "type": "essay",
+   "note": "Founded Error Analysis; errors vs mistakes"
+  },
+  {
+   "author": "S. Pit Corder",
+   "work": "Introducing Applied Linguistics",
+   "year": "1973",
+   "type": "book",
+   "note": "Applied linguistics textbook"
+  },
+  {
+   "author": "Larry Selinker",
+   "work": "Interlanguage",
+   "year": "1972",
+   "type": "essay",
+   "note": "Interlanguage and fossilization"
+  },
+  {
+   "author": "Stephen Krashen",
+   "work": "Second Language Acquisition and Second Language Learning",
+   "year": "1981",
+   "type": "book",
+   "note": "Acquisition vs learning; Monitor"
+  },
+  {
+   "author": "Stephen Krashen",
+   "work": "Principles and Practice in Second Language Acquisition",
+   "year": "1982",
+   "type": "book",
+   "note": "Five hypotheses of the Monitor Model"
+  },
+  {
+   "author": "Stephen Krashen and Tracy Terrell",
+   "work": "The Natural Approach",
+   "year": "1983",
+   "type": "book",
+   "note": "Comprehension-based method from Krashen's theory"
+  },
+  {
+   "author": "Merrill Swain",
+   "work": "Communicative competence: some roles of comprehensible input and comprehensible output",
+   "year": "1985",
+   "type": "essay",
+   "note": "Output Hypothesis"
+  },
+  {
+   "author": "Richard Schmidt",
+   "work": "The Role of Consciousness in Second Language Learning",
+   "year": "1990",
+   "type": "essay",
+   "note": "Noticing Hypothesis"
+  },
+  {
+   "author": "Michael Long",
+   "work": "The Role of the Linguistic Environment in Second Language Acquisition",
+   "year": "1996",
+   "type": "essay",
+   "note": "Updated Interaction Hypothesis"
+  },
+  {
+   "author": "L. S. Vygotsky",
+   "work": "Mind in Society",
+   "year": "1978",
+   "type": "book",
+   "note": "Zone of Proximal Development; English collection"
+  },
+  {
+   "author": "David Wood, Jerome Bruner and Gail Ross",
+   "work": "The Role of Tutoring in Problem Solving",
+   "year": "1976",
+   "type": "essay",
+   "note": "Introduced the term scaffolding"
+  },
+  {
+   "author": "Benjamin Bloom (ed.)",
+   "work": "Taxonomy of Educational Objectives",
+   "year": "1956",
+   "type": "book",
+   "note": "Bloom's Taxonomy of cognitive domain"
+  },
+  {
+   "author": "Wilson L. Taylor",
+   "work": "Cloze Procedure: A New Tool for Measuring Readability",
+   "year": "1953",
+   "type": "essay",
+   "note": "Introduced the cloze test"
+  },
+  {
+   "author": "John B. Carroll and Stanley Sapon",
+   "work": "Modern Language Aptitude Test (MLAT)",
+   "year": "1959",
+   "type": "test",
+   "note": "Standard language aptitude test"
+  },
+  {
+   "author": "J. B. Heaton",
+   "work": "Writing English Language Tests",
+   "year": "1975",
+   "type": "book",
+   "note": "Practical test construction guide"
+  },
+  {
+   "author": "Arthur Hughes",
+   "work": "Testing for Language Teachers",
+   "year": "1989",
+   "type": "book",
+   "note": "Validity, reliability, backwash for teachers"
+  },
+  {
+   "author": "Lyle F. Bachman",
+   "work": "Fundamental Considerations in Language Testing",
+   "year": "1990",
+   "type": "book",
+   "note": "Communicative language ability model"
+  },
+  {
+   "author": "Lyle F. Bachman and Adrian S. Palmer",
+   "work": "Language Testing in Practice",
+   "year": "1996",
+   "type": "book",
+   "note": "Test usefulness framework"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "Language is a system of signs that express ideas.",
+   "by": "Ferdinand de Saussure",
+   "source": "Course in General Linguistics, 1916"
+  },
+  {
+   "quote": "The linguistic sign unites, not a thing and a name, but a concept and a sound-image.",
+   "by": "Ferdinand de Saussure",
+   "source": "Course in General Linguistics, 1916"
+  },
+  {
+   "quote": "The bond between the signifier and the signified is arbitrary.",
+   "by": "Ferdinand de Saussure",
+   "source": "Course in General Linguistics, 1916"
+  },
+  {
+   "quote": "In language there are only differences without positive terms.",
+   "by": "Ferdinand de Saussure",
+   "source": "Course in General Linguistics, 1916"
+  },
+  {
+   "quote": "Language is a purely human and non-instinctive method of communicating ideas, emotions and desires by means of a system of voluntarily produced symbols.",
+   "by": "Edward Sapir",
+   "source": "Language, 1921"
+  },
+  {
+   "quote": "The 'real world' is to a large extent unconsciously built up on the language habits of the group.",
+   "by": "Edward Sapir",
+   "source": "The Status of Linguistics as a Science, 1929"
+  },
+  {
+   "quote": "We dissect nature along lines laid down by our native languages.",
+   "by": "Benjamin Lee Whorf",
+   "source": "Science and Linguistics, 1940"
+  },
+  {
+   "quote": "A language is a system of arbitrary vocal symbols by means of which a social group co-operates.",
+   "by": "Bernard Bloch and George L. Trager",
+   "source": "Outline of Linguistic Analysis, 1942"
+  },
+  {
+   "quote": "Language may be defined as the expression of thought by means of speech-sounds.",
+   "by": "Henry Sweet",
+   "source": "The History of Language, 1900"
+  },
+  {
+   "quote": "I will consider a language to be a set (finite or infinite) of sentences, each finite in length and constructed out of a finite set of elements.",
+   "by": "Noam Chomsky",
+   "source": "Syntactic Structures, 1957"
+  },
+  {
+   "quote": "Colorless green ideas sleep furiously.",
+   "by": "Noam Chomsky",
+   "source": "Syntactic Structures, 1957"
+  },
+  {
+   "quote": "Linguistic theory is concerned primarily with an ideal speaker-listener, in a completely homogeneous speech-community, who knows its language perfectly.",
+   "by": "Noam Chomsky",
+   "source": "Aspects of the Theory of Syntax, 1965"
+  },
+  {
+   "quote": "There are rules of use without which the rules of grammar would be useless.",
+   "by": "Dell Hymes",
+   "source": "On Communicative Competence, 1972"
+  },
+  {
+   "quote": "You shall know a word by the company it keeps.",
+   "by": "J. R. Firth",
+   "source": "A Synopsis of Linguistic Theory 1930-1955, 1957"
+  },
+  {
+   "quote": "Phatic communion: a type of speech in which ties of union are created by a mere exchange of words.",
+   "by": "Bronislaw Malinowski",
+   "source": "The Problem of Meaning in Primitive Languages, 1923"
+  },
+  {
+   "quote": "The concept of cohesion is a semantic one; it refers to relations of meaning that exist within the text, and that define it as a text.",
+   "by": "M. A. K. Halliday and Ruqaiya Hasan",
+   "source": "Cohesion in English, 1976"
+  },
+  {
+   "quote": "The poetic function projects the principle of equivalence from the axis of selection into the axis of combination.",
+   "by": "Roman Jakobson",
+   "source": "Linguistics and Poetics, 1960"
+  },
+  {
+   "quote": "The uttering of the sentence is, or is a part of, the doing of an action.",
+   "by": "J. L. Austin",
+   "source": "How to Do Things with Words, 1962"
+  },
+  {
+   "quote": "I name this ship the Queen Elizabeth.",
+   "by": "J. L. Austin (example of a performative)",
+   "source": "How to Do Things with Words, 1962"
+  },
+  {
+   "quote": "Speaking a language is engaging in a (highly complex) rule-governed form of behavior.",
+   "by": "John R. Searle",
+   "source": "Speech Acts, 1969"
+  },
+  {
+   "quote": "Make your conversational contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged.",
+   "by": "H. P. Grice",
+   "source": "Logic and Conversation, 1975 (Cooperative Principle)"
+  },
+  {
+   "quote": "Try to make your contribution one that is true. Do not say what you believe to be false.",
+   "by": "H. P. Grice",
+   "source": "Logic and Conversation, 1975 (Maxim of Quality)"
+  },
+  {
+   "quote": "Be perspicuous: avoid obscurity of expression, avoid ambiguity, be brief, be orderly.",
+   "by": "H. P. Grice",
+   "source": "Logic and Conversation, 1975 (Maxim of Manner)"
+  },
+  {
+   "quote": "Face: the positive social value a person effectively claims for himself by the line others assume he has taken during a particular contact.",
+   "by": "Erving Goffman",
+   "source": "On Face-Work, 1955 (in Interaction Ritual, 1967)"
+  },
+  {
+   "quote": "Face is the public self-image that every member wants to claim for himself.",
+   "by": "Penelope Brown and Stephen C. Levinson",
+   "source": "Politeness, 1987"
+  },
+  {
+   "quote": "Every act of ostensive communication communicates a presumption of its own optimal relevance.",
+   "by": "Dan Sperber and Deirdre Wilson",
+   "source": "Relevance: Communication and Cognition, 1986"
+  },
+  {
+   "quote": "You see it's like a portmanteau - there are two meanings packed up into one word.",
+   "by": "Lewis Carroll (Humpty Dumpty)",
+   "source": "Through the Looking-Glass, 1871"
+  },
+  {
+   "quote": "I am not yet so lost in lexicography as to forget that words are the daughters of earth, and that things are the sons of heaven.",
+   "by": "Samuel Johnson",
+   "source": "Preface to A Dictionary of the English Language, 1755"
+  },
+  {
+   "quote": "Two Negatives in English destroy one another, or are equivalent to an Affirmative.",
+   "by": "Robert Lowth",
+   "source": "A Short Introduction to English Grammar, 1762"
+  },
+  {
+   "quote": "A language is a dialect with an army and navy.",
+   "by": "Max Weinreich (popularised the saying)",
+   "source": "YIVO lecture, 1945"
+  },
+  {
+   "quote": "A single shelf of a good European library was worth the whole native literature of India and Arabia.",
+   "by": "Thomas Babington Macaulay",
+   "source": "Minute on Indian Education, 1835"
+  },
+  {
+   "quote": "A class of persons Indian in blood and colour, but English in taste, in opinions, in morals and in intellect.",
+   "by": "Thomas Babington Macaulay",
+   "source": "Minute on Indian Education, 1835"
+  },
+  {
+   "quote": "Language teaching must start afresh!",
+   "by": "Wilhelm Vietor",
+   "source": "Der Sprachunterricht muss umkehren!, 1882 (title)"
+  },
+  {
+   "quote": "Those elements that are similar to his native language will be simple for him, and those elements that are different will be difficult.",
+   "by": "Robert Lado",
+   "source": "Linguistics Across Cultures, 1957"
+  },
+  {
+   "quote": "The making of errors is a device the learner uses in order to learn.",
+   "by": "S. Pit Corder",
+   "source": "The Significance of Learners' Errors, 1967"
+  },
+  {
+   "quote": "While without grammar very little can be conveyed, without vocabulary nothing can be conveyed.",
+   "by": "D. A. Wilkins",
+   "source": "Linguistics in Language Teaching, 1972"
+  },
+  {
+   "quote": "We acquire by understanding input that contains structure a little beyond our current level of competence (i + 1).",
+   "by": "Stephen Krashen",
+   "source": "Principles and Practice in Second Language Acquisition, 1982"
+  },
+  {
+   "quote": "Language consists of grammaticalised lexis, not lexicalised grammar.",
+   "by": "Michael Lewis",
+   "source": "The Lexical Approach, 1993"
+  },
+  {
+   "quote": "The zone of proximal development is the distance between the actual developmental level as determined by independent problem solving and the level of potential development as determined through problem solving under adult guidance or in collaboration with more capable peers.",
+   "by": "L. S. Vygotsky",
+   "source": "Mind in Society, 1978"
+  },
+  {
+   "quote": "Teaching should be subordinated to learning.",
+   "by": "Caleb Gattegno",
+   "source": "Principle of the Silent Way (Richards and Rodgers summary)"
+  }
+ ],
+ "people": [
+  {
+   "name": "Ferdinand de Saussure",
+   "where": "Course in General Linguistics (1916)",
+   "note": "Swiss father of modern linguistics and structuralism; langue/parole, sign"
+  },
+  {
+   "name": "Charles Bally and Albert Sechehaye",
+   "where": "Editors of Saussure's Course in General Linguistics (1916)",
+   "note": "Compiled the Course from students' lecture notes"
+  },
+  {
+   "name": "Charles Sanders Peirce",
+   "where": "American philosopher; semiotics (late 19th century)",
+   "note": "Icon, index, symbol; founder of American semiotics"
+  },
+  {
+   "name": "Edward Sapir",
+   "where": "Language (1921)",
+   "note": "American anthropological linguist; Sapir-Whorf hypothesis"
+  },
+  {
+   "name": "Benjamin Lee Whorf",
+   "where": "Language, Thought, and Reality (1956)",
+   "note": "Linguistic relativity; studied Hopi"
+  },
+  {
+   "name": "Leonard Bloomfield",
+   "where": "Language (1933)",
+   "note": "Leader of American structuralism; behaviourist; IC analysis"
+  },
+  {
+   "name": "Zellig Harris",
+   "where": "Methods in Structural Linguistics (1951)",
+   "note": "Distributional analysis; teacher of Chomsky"
+  },
+  {
+   "name": "Charles F. Hockett",
+   "where": "A Course in Modern Linguistics (1958); The Origin of Speech (1960)",
+   "note": "Design features of human language"
+  },
+  {
+   "name": "Kenneth L. Pike",
+   "where": "Phonemics (1947)",
+   "note": "Coined emic and etic; tagmemics"
+  },
+  {
+   "name": "N. S. Trubetzkoy",
+   "where": "Principles of Phonology (1939)",
+   "note": "Prague School; founder of functional phonology"
+  },
+  {
+   "name": "Roman Jakobson",
+   "where": "Linguistics and Poetics (1960)",
+   "note": "Prague School; distinctive features; six functions of language"
+  },
+  {
+   "name": "Vilem Mathesius",
+   "where": "Founder of the Prague Linguistic Circle (1926)",
+   "note": "Functional sentence perspective; theme and rheme"
+  },
+  {
+   "name": "Noam Chomsky",
+   "where": "Syntactic Structures (1957); Aspects (1965)",
+   "note": "TGG; competence/performance; LAD; Universal Grammar"
+  },
+  {
+   "name": "Morris Halle",
+   "where": "The Sound Pattern of English (1968, with Chomsky)",
+   "note": "Generative phonology"
+  },
+  {
+   "name": "B. F. Skinner",
+   "where": "Verbal Behavior (1957)",
+   "note": "Behaviourist psychologist; operant conditioning; basis of ALM"
+  },
+  {
+   "name": "Eric Lenneberg",
+   "where": "Biological Foundations of Language (1967)",
+   "note": "Critical Period Hypothesis"
+  },
+  {
+   "name": "J. R. Firth",
+   "where": "Papers in Linguistics 1934-1951 (1957)",
+   "note": "London School; context of situation; collocation"
+  },
+  {
+   "name": "Bronislaw Malinowski",
+   "where": "The Problem of Meaning in Primitive Languages (1923)",
+   "note": "Anthropologist; coined phatic communion; context of situation"
+  },
+  {
+   "name": "M. A. K. Halliday",
+   "where": "Language as Social Semiotic (1978); An Introduction to Functional Grammar (1985)",
+   "note": "Founder of Systemic Functional Linguistics"
+  },
+  {
+   "name": "Ruqaiya Hasan",
+   "where": "Cohesion in English (1976, with Halliday)",
+   "note": "Cohesion; cohesive devices"
+  },
+  {
+   "name": "J. L. Austin",
+   "where": "How to Do Things with Words (1962)",
+   "note": "Oxford philosopher; performatives; locution, illocution, perlocution"
+  },
+  {
+   "name": "John R. Searle",
+   "where": "Speech Acts (1969)",
+   "note": "Systematised speech acts; five illocutionary classes"
+  },
+  {
+   "name": "H. P. Grice",
+   "where": "Logic and Conversation (1975)",
+   "note": "Cooperative Principle; four maxims; implicature"
+  },
+  {
+   "name": "Charles Morris",
+   "where": "Foundations of the Theory of Signs (1938)",
+   "note": "Syntax, semantics, pragmatics division"
+  },
+  {
+   "name": "Geoffrey Leech",
+   "where": "Semantics (1974); Principles of Pragmatics (1983)",
+   "note": "Seven types of meaning; Politeness Principle"
+  },
+  {
+   "name": "Penelope Brown and Stephen C. Levinson",
+   "where": "Politeness (1978/1987)",
+   "note": "Face, face-threatening acts, politeness strategies"
+  },
+  {
+   "name": "Erving Goffman",
+   "where": "Interaction Ritual (1967)",
+   "note": "Sociologist; concept of face"
+  },
+  {
+   "name": "Dan Sperber and Deirdre Wilson",
+   "where": "Relevance (1986)",
+   "note": "Relevance Theory"
+  },
+  {
+   "name": "Michel Breal",
+   "where": "Essai de semantique (1897)",
+   "note": "Coined the term semantics"
+  },
+  {
+   "name": "Gottlob Frege",
+   "where": "On Sense and Reference (1892)",
+   "note": "Sense vs reference; morning star/evening star"
+  },
+  {
+   "name": "C. K. Ogden and I. A. Richards",
+   "where": "The Meaning of Meaning (1923)",
+   "note": "Semantic triangle"
+  },
+  {
+   "name": "Eleanor Rosch",
+   "where": "Prototype theory (1970s)",
+   "note": "Category membership by best examples"
+  },
+  {
+   "name": "Henry Sweet",
+   "where": "A Handbook of Phonetics (1877)",
+   "note": "Phonetician; Reform Movement; model for Shaw's Higgins"
+  },
+  {
+   "name": "Daniel Jones",
+   "where": "An Outline of English Phonetics (1918)",
+   "note": "Cardinal Vowels; English Pronouncing Dictionary"
+  },
+  {
+   "name": "A. C. Gimson",
+   "where": "An Introduction to the Pronunciation of English (1962)",
+   "note": "Standard description of RP"
+  },
+  {
+   "name": "Sir William Jones",
+   "where": "Third Anniversary Discourse (1786)",
+   "note": "Pointed out Sanskrit's kinship with Greek and Latin"
+  },
+  {
+   "name": "Jacob Grimm",
+   "where": "Deutsche Grammatik (2nd ed. 1822)",
+   "note": "Grimm's Law: First Germanic Consonant Shift"
+  },
+  {
+   "name": "Karl Verner",
+   "where": "Verner's Law (formulated 1875)",
+   "note": "Explained exceptions to Grimm's Law by accent position"
+  },
+  {
+   "name": "Otto Jespersen",
+   "where": "Growth and Structure of the English Language (1905)",
+   "note": "Danish grammarian; coined Great Vowel Shift"
+  },
+  {
+   "name": "Robert Lowth",
+   "where": "A Short Introduction to English Grammar (1762)",
+   "note": "Prescriptive grammarian"
+  },
+  {
+   "name": "Randolph Quirk",
+   "where": "A Comprehensive Grammar of the English Language (1985, with others)",
+   "note": "Descriptive grammar of English"
+  },
+  {
+   "name": "Charles A. Ferguson",
+   "where": "Diglossia (1959)",
+   "note": "Introduced diglossia: High and Low varieties"
+  },
+  {
+   "name": "Joshua Fishman",
+   "where": "Bilingualism with and without Diglossia (1967)",
+   "note": "Extended diglossia; sociology of language"
+  },
+  {
+   "name": "William Labov",
+   "where": "The Social Stratification of English in New York City (1966)",
+   "note": "Father of variationist sociolinguistics"
+  },
+  {
+   "name": "Basil Bernstein",
+   "where": "Class, Codes and Control (1971)",
+   "note": "Restricted and elaborated codes"
+  },
+  {
+   "name": "Dell Hymes",
+   "where": "On Communicative Competence (1972)",
+   "note": "Communicative competence; SPEAKING model; ethnography of communication"
+  },
+  {
+   "name": "Peter Trudgill",
+   "where": "The Social Differentiation of English in Norwich (1974)",
+   "note": "Norwich study; covert prestige"
+  },
+  {
+   "name": "Robin Lakoff",
+   "where": "Language and Woman's Place (1975)",
+   "note": "Language and gender"
+  },
+  {
+   "name": "Howard Giles",
+   "where": "Communication Accommodation Theory (1970s)",
+   "note": "Convergence and divergence in speech"
+  },
+  {
+   "name": "Braj B. Kachru",
+   "where": "The Alchemy of English (1986)",
+   "note": "Three Concentric Circles of English; Indian English"
+  },
+  {
+   "name": "Grammar Translation Method - Karl Plotz, Seidenstucker, Ollendorf",
+   "where": "19th-century Prussian schools",
+   "note": "Rules, translation, reading and writing, mother tongue used"
+  },
+  {
+   "name": "Reform Movement - Henry Sweet, Wilhelm Vietor, Paul Passy",
+   "where": "Vietor's pamphlet (1882)",
+   "note": "Primacy of speech and phonetics"
+  },
+  {
+   "name": "Direct Method - Maximilian Berlitz, Francois Gouin, L. Sauveur",
+   "where": "Berlitz schools (1878); Gouin's Series Method (1880)",
+   "note": "Target language only, no translation, inductive grammar"
+  },
+  {
+   "name": "Oral Approach / Situational Language Teaching - Harold Palmer, A. S. Hornby",
+   "where": "Palmer, The Principles of Language-Study (1921)",
+   "note": "Structures practised in situations; British tradition"
+  },
+  {
+   "name": "Michael West",
+   "where": "A General Service List of English Words (1953)",
+   "note": "Vocabulary control; New Method Readers"
+  },
+  {
+   "name": "Audio-Lingual Method - Charles C. Fries, Robert Lado",
+   "where": "US Army programme in WWII; Fries (1945)",
+   "note": "Structural linguistics plus behaviourism; drills, habit formation"
+  },
+  {
+   "name": "Robert Lado",
+   "where": "Linguistics Across Cultures (1957); Language Testing (1961)",
+   "note": "Contrastive Analysis Hypothesis; discrete-point testing"
+  },
+  {
+   "name": "Silent Way - Caleb Gattegno",
+   "where": "Teaching Foreign Languages in Schools: The Silent Way (1963)",
+   "note": "Teacher silent; Cuisenaire rods; Fidel charts"
+  },
+  {
+   "name": "Community Language Learning - Charles A. Curran",
+   "where": "Counseling-Learning (1972)",
+   "note": "Teacher as knower/counsellor, learner as client"
+  },
+  {
+   "name": "Suggestopedia - Georgi Lozanov",
+   "where": "Suggestology and Outlines of Suggestopedy (1978)",
+   "note": "Bulgarian; relaxation, baroque music, desuggestion"
+  },
+  {
+   "name": "Total Physical Response - James J. Asher",
+   "where": "Learning Another Language Through Actions (1977)",
+   "note": "Commands obeyed with body movements"
+  },
+  {
+   "name": "Bilingual Method - C. J. Dodson",
+   "where": "Language Teaching and the Bilingual Method (1967)",
+   "note": "Controlled use of mother tongue for meaning"
+  },
+  {
+   "name": "Communicative Language Teaching - D. A. Wilkins, H. G. Widdowson, Christopher Brumfit",
+   "where": "Notional Syllabuses (1976); Teaching Language as Communication (1978)",
+   "note": "Meaning and fluency; notional-functional syllabus"
+  },
+  {
+   "name": "Canale and Swain",
+   "where": "Theoretical Bases of Communicative Approaches (1980)",
+   "note": "Grammatical, sociolinguistic, strategic competence; discourse added 1983"
+  },
+  {
+   "name": "Task-Based Language Teaching - N. S. Prabhu, Jane Willis, David Nunan, Rod Ellis",
+   "where": "Prabhu, Second Language Pedagogy (1987); Willis (1996)",
+   "note": "Bangalore Project 1979-84; information, reasoning, opinion gap"
+  },
+  {
+   "name": "Natural Approach - Stephen Krashen and Tracy Terrell",
+   "where": "The Natural Approach (1983)",
+   "note": "Monitor Model; i+1; affective filter"
+  },
+  {
+   "name": "Larry Selinker",
+   "where": "Interlanguage (1972)",
+   "note": "Interlanguage; fossilization"
+  },
+  {
+   "name": "S. Pit Corder",
+   "where": "The Significance of Learners' Errors (1967)",
+   "note": "Error Analysis; errors vs mistakes"
+  },
+  {
+   "name": "SLA hypotheses - Michael Long, Merrill Swain, Richard Schmidt",
+   "where": "Interaction (1981/1996); Output (1985); Noticing (1990)",
+   "note": "Interaction, output and noticing in acquisition"
+  },
+  {
+   "name": "L. S. Vygotsky",
+   "where": "Mind in Society (1978)",
+   "note": "Zone of Proximal Development; sociocultural theory"
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "Chomsky's distinction between a speaker's knowledge of language and its actual use is:",
+   "options": [
+    "Langue and parole",
+    "Competence and performance",
+    "Deep and surface structure",
+    "Theme and rheme"
+   ],
+   "answer": 1,
+   "exp": "Aspects of the Theory of Syntax (1965) mein competence = knowledge, performance = use."
+  },
+  {
+   "q": "The term 'communicative competence' was proposed by:",
+   "options": [
+    "Dell Hymes",
+    "Noam Chomsky",
+    "Stephen Krashen",
+    "H. G. Widdowson"
+   ],
+   "answer": 0,
+   "exp": "Dell Hymes ne Chomsky ke 'competence' ke jawab mein yeh concept diya (On Communicative Competence, 1972)."
+  },
+  {
+   "q": "Saussure described the linguistic sign as having two sides:",
+   "options": [
+    "Sense and reference",
+    "Denotation and connotation",
+    "Signifier and signified",
+    "Syntagm and paradigm"
+   ],
+   "answer": 2,
+   "exp": "Sign = signifier (sound-image) + signified (concept); dono ka rishta arbitrary hai."
+  },
+  {
+   "q": "Utterances like 'I name this ship Queen Elizabeth', which do something rather than describe, were called by Austin:",
+   "options": [
+    "Constatives",
+    "Implicatures",
+    "Presuppositions",
+    "Performatives"
+   ],
+   "answer": 3,
+   "exp": "Austin ne constative (true/false statement) aur performative (action karne wala) mein farq kiya."
+  },
+  {
+   "q": "In Searle's taxonomy, a promise is an example of a:",
+   "options": [
+    "Commissive",
+    "Directive",
+    "Declaration",
+    "Expressive"
+   ],
+   "answer": 0,
+   "exp": "Commissive mein speaker khud ko future action se baandhta hai, jaise promise ya vow."
+  },
+  {
+   "q": "Brown and Levinson's politeness theory is built on the concept of:",
+   "options": [
+    "Turn-taking",
+    "Face",
+    "Cohesion",
+    "Deixis"
+   ],
+   "answer": 1,
+   "exp": "Politeness: Some Universals in Language Usage (1987) - positive face aur negative face."
+  },
+  {
+   "q": "Words like 'here', 'now', 'I' and 'you', whose meaning depends on context, illustrate:",
+   "options": [
+    "Hyponymy",
+    "Polysemy",
+    "Deixis",
+    "Ellipsis"
+   ],
+   "answer": 2,
+   "exp": "Deixis = context par nirbhar 'pointing' words: person, place, time deixis."
+  },
+  {
+   "q": "Which of the following is a voiceless labio-dental fricative?",
+   "options": [
+    "/v/",
+    "/θ/",
+    "/s/",
+    "/f/"
+   ],
+   "answer": 3,
+   "exp": "/f/ voiceless labio-dental fricative hai; /v/ uska voiced pair hai."
+  },
+  {
+   "q": "The vowel sound in the unstressed first syllable of 'about' is:",
+   "options": [
+    "Schwa /ə/",
+    "/æ/",
+    "/ʌ/",
+    "/ɑː/"
+   ],
+   "answer": 0,
+   "exp": "Schwa English ka sabse common weak vowel hai, unstressed syllables mein aata hai."
+  },
+  {
+   "q": "The sound /ŋ/ as at the end of 'sing' is a:",
+   "options": [
+    "Velar plosive",
+    "Velar nasal",
+    "Alveolar nasal",
+    "Palatal approximant"
+   ],
+   "answer": 1,
+   "exp": "/ŋ/ velar nasal hai; English mein yeh word ke shuru mein nahi aata."
+  },
+  {
+   "q": "'Ship' and 'sheep' differ in only one sound and form a:",
+   "options": [
+    "Homophone",
+    "Free variation",
+    "Minimal pair",
+    "Allomorph"
+   ],
+   "answer": 2,
+   "exp": "Minimal pair do words jo ek hi phoneme se alag hon; yeh phonemes prove karta hai."
+  },
+  {
+   "q": "The smallest meaningful unit of language is the:",
+   "options": [
+    "Phoneme",
+    "Syllable",
+    "Lexeme",
+    "Morpheme"
+   ],
+   "answer": 3,
+   "exp": "Morpheme = smallest unit of meaning; phoneme = smallest unit of sound (meaning nahi)."
+  },
+  {
+   "q": "In the word 'unhappiness', 'un-' and '-ness' are:",
+   "options": [
+    "Bound morphemes",
+    "Free morphemes",
+    "Roots",
+    "Allophones"
+   ],
+   "answer": 0,
+   "exp": "Prefix aur suffix akele nahi aa sakte, isliye bound morphemes; 'happy' free morpheme hai."
+  },
+  {
+   "q": "'Laser' and 'NATO', pronounced as words, are examples of:",
+   "options": [
+    "Blending",
+    "Acronyms",
+    "Clipping",
+    "Back-formation"
+   ],
+   "answer": 1,
+   "exp": "Initials se bana aur word ki tarah bola jaaye to acronym; BBC jaisa letter-by-letter initialism hai."
+  },
+  {
+   "q": "'Flu' from 'influenza' and 'lab' from 'laboratory' are examples of:",
+   "options": [
+    "Coinage",
+    "Conversion",
+    "Clipping",
+    "Compounding"
+   ],
+   "answer": 2,
+   "exp": "Lambe word ka hissa kaatna = clipping."
+  },
+  {
+   "q": "Using 'google' as a verb ('Google it') from a noun is an example of:",
+   "options": [
+    "Derivation",
+    "Borrowing",
+    "Blending",
+    "Conversion"
+   ],
+   "answer": 3,
+   "exp": "Bina affix ke word class badalna = conversion (zero derivation)."
+  },
+  {
+   "q": "'Rose' is a hyponym of 'flower'; 'flower' is therefore the:",
+   "options": [
+    "Superordinate (hypernym)",
+    "Synonym",
+    "Antonym",
+    "Meronym"
+   ],
+   "answer": 0,
+   "exp": "Hyponymy mein upar wala general term superordinate/hypernym kehlata hai."
+  },
+  {
+   "q": "A pidgin that becomes the native language of a community is called a:",
+   "options": [
+    "Dialect",
+    "Creole",
+    "Register",
+    "Lingua franca"
+   ],
+   "answer": 1,
+   "exp": "Pidgin ka koi native speaker nahi hota; jab bachche ise mother tongue bana lein to creole."
+  },
+  {
+   "q": "William Labov's 1966 study of the social stratification of English was carried out in:",
+   "options": [
+    "London",
+    "Belfast",
+    "New York City",
+    "Norwich"
+   ],
+   "answer": 2,
+   "exp": "The Social Stratification of English in New York City (1966); department store /r/ study."
+  },
+  {
+   "q": "Old English is generally dated from about:",
+   "options": [
+    "1066 to 1476",
+    "1100 to 1500",
+    "1500 to 1700",
+    "450 to 1100"
+   ],
+   "answer": 3,
+   "exp": "Old English c. 450-1100, Middle English c. 1100-1500, Early Modern c. 1500-1700."
+  },
+  {
+   "q": "The first major Germanic sound change that distinguishes Germanic from other Indo-European languages is described by:",
+   "options": [
+    "Verner's Law",
+    "Grimm's Law",
+    "The Great Vowel Shift",
+    "i-mutation"
+   ],
+   "answer": 1,
+   "exp": "Grimm's Law (Jacob Grimm, 1822): p>f, t>θ, k>h, jaise Latin pater, English father."
+  },
+  {
+   "q": "Chaucer wrote in which period of English?",
+   "options": [
+    "Old English",
+    "Early Modern English",
+    "Middle English",
+    "Late Modern English"
+   ],
+   "answer": 2,
+   "exp": "Chaucer (d. 1400) Middle English ka sabse bada kavi; London dialect."
+  },
+  {
+   "q": "Who published the first printed book in England, at Westminster?",
+   "options": [
+    "Wynkyn de Worde",
+    "Richard Mulcaster",
+    "William Tyndale",
+    "William Caxton"
+   ],
+   "answer": 3,
+   "exp": "Caxton ne 1476 mein Westminster mein press lagaya; isse spelling standard hone lagi."
+  },
+  {
+   "q": "'The Practical Study of Languages' (1899), a key text of the Reform Movement, was written by:",
+   "options": [
+    "Henry Sweet",
+    "Daniel Jones",
+    "Otto Jespersen",
+    "Wilhelm Vietor"
+   ],
+   "answer": 0,
+   "exp": "Henry Sweet ki The Practical Study of Languages (1899) Reform Movement ka mukhya granth hai."
+  },
+  {
+   "q": "Which method forbids the use of the mother tongue and teaches through demonstration and oral interaction, often linked with Berlitz schools?",
+   "options": [
+    "Grammar-Translation Method",
+    "Direct Method",
+    "Bilingual Method",
+    "Silent Way"
+   ],
+   "answer": 1,
+   "exp": "Direct Method: sirf target language, mother tongue nahi; Berlitz schools mein popular."
+  },
+  {
+   "q": "Cuisenaire rods are associated with:",
+   "options": [
+    "Suggestopedia",
+    "Total Physical Response",
+    "The Silent Way",
+    "Community Language Learning"
+   ],
+   "answer": 2,
+   "exp": "Caleb Gattegno ki Silent Way mein coloured rods aur Fidel charts use hote hain."
+  },
+  {
+   "q": "Krashen's 'i + 1' refers to:",
+   "options": [
+    "The Monitor",
+    "The affective filter",
+    "The natural order",
+    "Comprehensible input"
+   ],
+   "answer": 3,
+   "exp": "Input Hypothesis: learner ke current level (i) se thoda upar (i+1) wala comprehensible input."
+  },
+  {
+   "q": "Lev Vygotsky's 'Zone of Proximal Development' refers to:",
+   "options": [
+    "What a learner can do with help but not yet alone",
+    "The critical period for acquisition",
+    "A learner's stable errors",
+    "The gap between L1 and L2"
+   ],
+   "answer": 0,
+   "exp": "ZPD = jo bachcha akele nahi par madad (scaffolding) se kar sake."
+  },
+  {
+   "q": "The Critical Period Hypothesis for language acquisition is chiefly associated with:",
+   "options": [
+    "B. F. Skinner",
+    "Eric Lenneberg",
+    "Jean Piaget",
+    "Robert Lado"
+   ],
+   "answer": 1,
+   "exp": "Lenneberg, Biological Foundations of Language (1967)."
+  },
+  {
+   "q": "Skinner's behaviourist account of language, 'Verbal Behavior' (1957), was famously reviewed and attacked by:",
+   "options": [
+    "Leonard Bloomfield",
+    "Roman Jakobson",
+    "Noam Chomsky",
+    "Edward Sapir"
+   ],
+   "answer": 2,
+   "exp": "Chomsky ka review (1959) behaviourism ke against turning point maana jaata hai."
+  },
+  {
+   "q": "The Contrastive Analysis Hypothesis, comparing L1 and L2 to predict difficulty, is associated with:",
+   "options": [
+    "Pit Corder",
+    "Larry Selinker",
+    "Michael Long",
+    "Robert Lado"
+   ],
+   "answer": 3,
+   "exp": "Robert Lado, Linguistics Across Cultures (1957)."
+  },
+  {
+   "q": "A test that measures what it is intended to measure is said to have:",
+   "options": [
+    "Validity",
+    "Reliability",
+    "Practicality",
+    "Washback"
+   ],
+   "answer": 0,
+   "exp": "Validity = sahi cheez naapna; reliability = baar baar same result dena."
+  },
+  {
+   "q": "A test in which every nth word of a passage is deleted for the learner to restore is a:",
+   "options": [
+    "Dictation",
+    "Cloze test",
+    "C-test",
+    "Multiple-choice test"
+   ],
+   "answer": 1,
+   "exp": "Cloze (W. L. Taylor, 1953) mein har nth word delete hota hai."
+  },
+  {
+   "q": "A test that compares a candidate's performance with that of other candidates is:",
+   "options": [
+    "Criterion-referenced",
+    "Diagnostic",
+    "Norm-referenced",
+    "Achievement"
+   ],
+   "answer": 2,
+   "exp": "Norm-referenced = doosron se tulna (rank); criterion-referenced = fixed standard se tulna."
+  },
+  {
+   "q": "Choose the grammatically correct sentence:",
+   "options": [
+    "He is senior than me.",
+    "He is more senior than me.",
+    "He is senior from me.",
+    "He is senior to me."
+   ],
+   "answer": 3,
+   "exp": "Latin-origin comparatives (senior, junior, superior, prefer) ke saath 'to' aata hai, 'than' nahi."
+  },
+  {
+   "q": "Choose the sentence with correct subject-verb agreement:",
+   "options": [
+    "Each of the boys has done his homework.",
+    "Each of the boys have done their homework.",
+    "Each of the boys have done his homework.",
+    "Each of the boy has done his homework."
+   ],
+   "answer": 0,
+   "exp": "'Each of + plural noun' ke baad singular verb aata hai."
+  },
+  {
+   "q": "Choose the correct form: 'If I ___ you, I would accept the offer.'",
+   "options": [
+    "am",
+    "were",
+    "was being",
+    "will be"
+   ],
+   "answer": 1,
+   "exp": "Unreal/hypothetical condition mein formal English 'If I were' (subjunctive) leti hai."
+  },
+  {
+   "q": "Identify the correct sentence:",
+   "options": [
+    "I am knowing the answer.",
+    "She is having a car.",
+    "I have been living here since 2015.",
+    "He is belonging to Delhi."
+   ],
+   "answer": 2,
+   "exp": "Stative verbs (know, have=possess, belong) continuous mein nahi aate; 'since' ke saath perfect continuous sahi."
+  },
+  {
+   "q": "Choose the correct article usage:",
+   "options": [
+    "He is a honest man.",
+    "She is an university student.",
+    "He bought an one-way ticket.",
+    "It was an hour-long meeting."
+   ],
+   "answer": 3,
+   "exp": "Article sound se tay hota hai: 'hour' silent h (an), 'university/one' consonant sound (a)."
+  },
+  {
+   "q": "In 'The man who came yesterday is my uncle', the clause 'who came yesterday' is a:",
+   "options": [
+    "Relative (adjective) clause",
+    "Noun clause",
+    "Adverb clause",
+    "Main clause"
+   ],
+   "answer": 0,
+   "exp": "'who' noun 'man' ko describe karta hai, isliye relative/adjective clause."
+  },
+  {
+   "q": "Match the books with their authors: (a) Language (1921) (b) Language (1933) (c) Cours de linguistique generale (1916) (d) Course in Modern Linguistics (1958) | (i) Saussure (ii) Hockett (iii) Sapir (iv) Bloomfield",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "answer": 1,
+   "exp": "Sapir - Language (1921); Bloomfield - Language (1933); Hockett - A Course in Modern Linguistics (1958)."
+  },
+  {
+   "q": "Match the terms with the linguists who introduced them: (a) Interlanguage (b) Diglossia (c) Affective filter (d) Restricted code | (i) Krashen (ii) Bernstein (iii) Selinker (iv) Ferguson",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Selinker 1972, Ferguson 1959, Krashen, Bernstein."
+  },
+  {
+   "q": "Match the place of articulation with the sound: (a) Bilabial (b) Dental (c) Velar (d) Glottal | (i) /k/ (ii) /h/ (iii) /m/ (iv) /θ/",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "answer": 3,
+   "exp": "/m/ bilabial, /θ/ dental, /k/ velar, /h/ glottal."
+  },
+  {
+   "q": "Match the word-formation process with the example: (a) Blending (b) Back-formation (c) Compounding (d) Borrowing | (i) babysit from babysitter (ii) motel (iii) bungalow (iv) blackboard",
+   "options": [
+    "a-i, b-ii, c-iv, d-iii",
+    "a-ii, b-i, c-iii, d-iv",
+    "a-ii, b-i, c-iv, d-iii",
+    "a-ii, b-iv, c-i, d-iii"
+   ],
+   "answer": 2,
+   "exp": "motel = motor+hotel (blend); babysit (back-formation); blackboard (compound); bungalow Hindi/Bengali se borrowing."
+  },
+  {
+   "q": "Match Searle's speech act categories with examples: (a) Representative (b) Directive (c) Expressive (d) Declaration | (i) 'I apologise' (ii) 'I now pronounce you husband and wife' (iii) 'The earth is round' (iv) 'Please close the door'",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Statement = representative; request = directive; apology = expressive; pronouncing marriage = declaration."
+  },
+  {
+   "q": "Match Grice's maxims with what they demand: (a) Quantity (b) Quality (c) Relation (d) Manner | (i) Be relevant (ii) Be clear and avoid ambiguity (iii) Be as informative as required (iv) Do not say what you believe false",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "answer": 3,
+   "exp": "Quantity = jitna zaroori; Quality = sach; Relation = relevant; Manner = clear."
+  },
+  {
+   "q": "Match the method with its key feature: (a) Audio-Lingual Method (b) Suggestopedia (c) Total Physical Response (d) Community Language Learning | (i) Counselling and the learner as client (ii) Pattern drills and habit formation (iii) Baroque music and relaxation (iv) Responding to commands with actions",
+   "options": [
+    "a-iii, b-ii, c-iv, d-i",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-ii, b-iii, c-i, d-iv"
+   ],
+   "answer": 1,
+   "exp": "ALM drills; Lozanov music; Asher commands; Curran counselling."
+  },
+  {
+   "q": "Match the book with its author: (a) How to Do Things with Words (b) Speech Acts (c) Principles of Pragmatics (d) Cohesion in English | (i) Leech (ii) Halliday and Hasan (iii) Austin (iv) Searle",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "answer": 2,
+   "exp": "Austin 1962, Searle 1969, Leech 1983, Halliday and Hasan 1976."
+  },
+  {
+   "q": "Match the language with the English loanword it gave: (a) French (b) Old Norse (c) Hindi (d) Arabic | (i) shampoo (ii) algebra (iii) beef (iv) sky",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 0,
+   "exp": "beef (French boeuf), sky (Norse), shampoo (Hindi champo), algebra (Arabic al-jabr)."
+  },
+  {
+   "q": "Match the type of test with its purpose: (a) Placement test (b) Diagnostic test (c) Achievement test (d) Proficiency test | (i) Measures general ability regardless of any course (ii) Identifies specific strengths and weaknesses (iii) Puts learners in the right level (iv) Measures what was learnt in a course",
+   "options": [
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-iii, b-ii, c-iv, d-i"
+   ],
+   "answer": 3,
+   "exp": "Placement = level; diagnostic = kamzori; achievement = course; proficiency = general ability (e.g. IELTS)."
+  },
+  {
+   "q": "Assertion (A): The relationship between the signifier and the signified is arbitrary. Reason (R): There is no natural connection between the sound sequence 'tree' and the concept of a tree.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Saussure: arbitrariness ka matlab hi yahi hai ki sound aur concept ka koi natural link nahi; R, A ko explain karta hai."
+  },
+  {
+   "q": "Assertion (A): Allophones of a phoneme can change the meaning of a word. Reason (R): Allophones occur in complementary distribution or free variation.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Allophones meaning nahi badalte, isliye A false; R sahi hai."
+  },
+  {
+   "q": "Assertion (A): English spelling is often not phonetic. Reason (R): The Great Vowel Shift changed the pronunciation of long vowels after spelling had begun to be fixed by printing.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Printing (1476 ke baad) se spelling jam gayi aur GVS se pronunciation badal gaya; isiliye mismatch."
+  },
+  {
+   "q": "Assertion (A): English has a large number of French-derived words in the fields of law, government and food. Reason (R): English belongs to the Germanic branch of the Indo-European family.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach hain, par Germanic hona French words ki wajah nahi; wajah Norman Conquest (1066) hai."
+  },
+  {
+   "q": "Assertion (A): The Audio-Lingual Method stresses drills and habit formation. Reason (R): It was based on Chomsky's transformational-generative grammar.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "ALM behaviourism aur structural linguistics par based tha, Chomsky par nahi; R false."
+  },
+  {
+   "q": "Assertion (A): In a creole there are native speakers. Reason (R): A pidgin has no native speakers.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach hain, par pidgin mein native speaker na hona creole mein native speaker hone ki wajah nahi batata."
+  },
+  {
+   "q": "Assertion (A): Grice's maxims are rules that speakers always obey. Reason (R): Conversational implicature often arises when a speaker flouts a maxim.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Maxims hamesha follow nahi hote, isliye A false; flouting se implicature banta hai, R true."
+  },
+  {
+   "q": "Assertion (A): A test can be reliable without being valid. Reason (R): Reliability concerns consistency of results, while validity concerns whether the test measures what it should.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Consistent result dena (reliability) sahi cheez naapne (validity) ki guarantee nahi; R hi A ko explain karta hai."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Searle, Speech Acts (ii) Brown and Levinson, Politeness (iii) Austin, How to Do Things with Words (iv) Grice, Logic and Conversation",
+   "options": [
+    "(iii), (iv), (i), (ii)",
+    "(i), (iii), (iv), (ii)",
+    "(iii), (i), (ii), (iv)",
+    "(iii), (i), (iv), (ii)"
+   ],
+   "answer": 3,
+   "exp": "Austin 1962, Searle 1969, Grice 1975, Brown and Levinson 1987."
+  },
+  {
+   "q": "Arrange Chomsky's works in chronological order: (i) Aspects of the Theory of Syntax (ii) The Minimalist Program (iii) Syntactic Structures (iv) Lectures on Government and Binding",
+   "options": [
+    "(iii), (i), (iv), (ii)",
+    "(i), (iii), (iv), (ii)",
+    "(iii), (iv), (i), (ii)",
+    "(iii), (i), (ii), (iv)"
+   ],
+   "answer": 0,
+   "exp": "1957, 1965, 1981, 1995."
+  },
+  {
+   "q": "Arrange these language teaching methods in the order in which they emerged: (i) Communicative Language Teaching (ii) Direct Method (iii) Grammar-Translation Method (iv) Audio-Lingual Method",
+   "options": [
+    "(ii), (iii), (iv), (i)",
+    "(iii), (ii), (iv), (i)",
+    "(iii), (iv), (ii), (i)",
+    "(iii), (ii), (i), (iv)"
+   ],
+   "answer": 1,
+   "exp": "GTM 19th century, Direct Method late 19th, ALM 1950s, CLT 1970s."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Caxton's printing press at Westminster (ii) Statute of Pleading (iii) Authorised (King James) Version of the Bible (iv) Norman Conquest",
+   "options": [
+    "(iv), (i), (ii), (iii)",
+    "(ii), (iv), (i), (iii)",
+    "(iv), (ii), (i), (iii)",
+    "(iv), (ii), (iii), (i)"
+   ],
+   "answer": 2,
+   "exp": "1066, 1362, 1476, 1611."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Halliday, Language as Social Semiotic (ii) Bloomfield, Language (iii) Chomsky, Syntactic Structures (iv) Saussure, Course in General Linguistics",
+   "options": [
+    "(iv), (iii), (ii), (i)",
+    "(ii), (iv), (iii), (i)",
+    "(iv), (ii), (i), (iii)",
+    "(iv), (ii), (iii), (i)"
+   ],
+   "answer": 3,
+   "exp": "1916, 1933, 1957, 1978."
+  },
+  {
+   "q": "Arrange these SLA works in chronological order: (i) Selinker, Interlanguage (ii) Lado, Linguistics Across Cultures (iii) Krashen, Principles and Practice in Second Language Acquisition (iv) Corder, The Significance of Learners' Errors",
+   "options": [
+    "(ii), (iv), (i), (iii)",
+    "(iv), (ii), (i), (iii)",
+    "(ii), (i), (iv), (iii)",
+    "(ii), (iv), (iii), (i)"
+   ],
+   "answer": 0,
+   "exp": "1957, 1967, 1972, 1982."
+  },
+  {
+   "q": "Arrange these dictionaries in chronological order: (i) Johnson's Dictionary of the English Language (ii) Cawdrey's A Table Alphabeticall (iii) First part of the Oxford English Dictionary (A New English Dictionary) (iv) Webster's An American Dictionary of the English Language",
+   "options": [
+    "(i), (ii), (iv), (iii)",
+    "(ii), (i), (iv), (iii)",
+    "(ii), (iv), (i), (iii)",
+    "(ii), (i), (iii), (iv)"
+   ],
+   "answer": 1,
+   "exp": "1604, 1755, 1828, 1884."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "/z/ is a voiceless alveolar fricative.",
+    "/ʃ/ is a palatal plosive.",
+    "/l/ is an alveolar lateral approximant.",
+    "/w/ is a dental fricative."
+   ],
+   "answer": 2,
+   "exp": "/z/ voiced hai, /ʃ/ palato-alveolar fricative, /w/ labial-velar approximant; sirf /l/ wala statement sahi."
+  },
+  {
+   "q": "Identify the correct statement about M. A. K. Halliday:",
+   "options": [
+    "He proposed the theory of Universal Grammar.",
+    "His textual metafunction deals with social relations between speakers.",
+    "He wrote Syntactic Structures.",
+    "He developed Systemic Functional Linguistics."
+   ],
+   "answer": 3,
+   "exp": "Halliday = Systemic Functional Linguistics; social relations interpersonal metafunction hai; UG aur Syntactic Structures Chomsky ke."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "The Norman Conquest of 1066 brought a large number of French words into English.",
+    "Old Norse words entered English mainly through the Normans.",
+    "Shakespeare wrote in Middle English.",
+    "Johnson's Dictionary was published in 1604."
+   ],
+   "answer": 0,
+   "exp": "Norse words Viking/Danish settlers se aaye; Shakespeare Early Modern English; Johnson 1755."
+  },
+  {
+   "q": "Identify the correct statement about assessment:",
+   "options": [
+    "Summative assessment is carried out continuously to guide day-to-day teaching.",
+    "Formative assessment takes place during a course to give feedback and improve learning.",
+    "Washback is always negative.",
+    "A norm-referenced test measures performance against a fixed criterion."
+   ],
+   "answer": 1,
+   "exp": "Formative = course ke dauran feedback; summative = end mein; washback positive bhi ho sakta hai."
+  },
+  {
+   "q": "Which of the following sentences is grammatically correct?",
+   "options": [
+    "One of my friend live in Delhi.",
+    "He did not went to school.",
+    "Mathematics is my favourite subject.",
+    "The news are very good today."
+   ],
+   "answer": 2,
+   "exp": "Mathematics aur news dikhne mein plural par singular verb lete hain; one of + plural noun, did + base verb."
+  }
+ ]
+}

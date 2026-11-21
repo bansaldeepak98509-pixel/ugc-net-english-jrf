@@ -1,0 +1,2586 @@
+{
+ "id": 9,
+ "pyq_focus": [
+  "Is unit se NET mein sabse zyada theorist-work matching aata hai: kaun sa book kisne likha (Of Grammatology - Derrida, Orientalism - Said, Gender Trouble - Butler).",
+  "Coined terms bahut puchhe jaate hain: differance, episteme, interpellation, gynocriticism, ecriture feminine, intertextuality, hybridity, historiographic metafiction, heteroglossia, chronotope.",
+  "Famous quotes ka source pucha jaata hai: 'There is nothing outside the text', 'incredulity toward metanarratives', 'Always historicize!', 'The subaltern cannot speak'.",
+  "Chronology questions aate hain: books ko saal ke hisaab se arrange karna (Second Sex 1949 se Gender Trouble 1990 tak). Har major book ka saal yaad rakho.",
+  "Assertion-Reason mein concept ki samajh check hoti hai, jaise Saussure ka arbitrary sign, Lacan ka unconscious as language, Althusser ka ISA.",
+  "Feminism aur Postcolonialism se har saal 2-3 sawaal pakke hain; Showalter ke 3 phases, Spivak, Bhabha, Fanon, Ngugi ko achhe se padho.",
+  "Naye topics (Ecocriticism, Queer theory, Postmodernism) se 2018 ke baad sawaal badhe hain: Rueckert, Glotfelty, Buell, Sedgwick, de Lauretis, Baudrillard.",
+  "Preparation tip: har theorist ke liye ek card banao - 2 books + saal + 1 coined term + 1 quote. Is file ke works, quotes aur people lists ko roz revise karo."
+ ],
+ "easy": [
+  {
+   "title": "Structuralism and Narratology: Saussure, Levi-Strauss, Jakobson, Genette",
+   "story": "Socho cricket ke rules. Ek akela ball ka koi matlab nahi, matlab tab banta hai jab poora game ka system ho. Saussure ne kaha bhasha bhi aisi hi hai: 'kutta' shabd aur asli kutte ka rishta manmana (arbitrary) hai, aur har shabd ka matlab doosre shabdon se farak se aata hai. Langue poora system hai, parole ek baar bola gaya vaakya. Levi-Strauss ne yahi trick myths par lagayi (mythemes), Propp ne folk tales ke 31 functions gine, aur Genette ne kahani sunane ke tareeqe (focalization, order, voice) ka hisaab lagaya.",
+   "trick": "'SaLe JaGe Pro' - Saussure 1916 (Course), Levi-Strauss 1958 (Structural Anthropology), Jakobson 1956/1960, Genette 1972 (Narrative Discourse), Propp 1928 (31 functions). Todorov ne 'narratology' naam rakha - 'Todo-rov ne naam todd ke rakha'."
+  },
+  {
+   "title": "Roland Barthes: from structuralism to post-structuralism",
+   "story": "Barthes pehle structuralist the, phir khud hi structure todne lage. Mythologies mein unhone dikhaya ki ek magazine cover par salute karta Black soldier ek 'myth' banata hai - France ki empire achhi hai. Phir 1967 mein bole 'Author mar gaya' - matlab kahani ka matlab likhne wale ki marzi se nahi, padhne wale se banta hai, jaise WhatsApp forward ka matlab har koi apne hisaab se nikalta hai. S/Z mein Balzac ki Sarrasine ko 5 codes mein toda, aur readerly (aaram se padho) vs writerly (khud matlab banao) text ka farak bataya.",
+   "trick": "Barthes ka ladder: 'Myth-57, Death-67, S/Z-70, Pleasure-73, Camera-80'. S/Z ke 5 codes: 'HP SSC' - Hermeneutic, Proairetic, Semic, Symbolic, Cultural."
+  },
+  {
+   "title": "Post-structuralism and Deconstruction: Jacques Derrida",
+   "story": "Dictionary mein ek shabd ka matlab dekho, wahan aur shabd milte hain, unka matlab dekho to aur shabd - matlab kabhi final nahi hota. Derrida ne isse 'differance' kaha: matlab alag bhi hota hai aur aage tal bhi jaata hai. Unhone kaha Western philosophy speech ko writing se upar rakhti hai (logocentrism) aur aise hi 'man upar, woman neeche' jaise jode banati hai. Deconstruction in jodon ko ulat-palat karke dikhata hai ki text khud apne khilaaf bolta hai. 1966 mein Johns Hopkins wala paper aur 1967 ki teen books se yeh shuru hua.",
+   "trick": "'66 mein khel (Play), 67 mein teen kitaabein (Grammatology, Writing and Difference, Speech and Phenomena)'. Differance mein 'a' sirf likhne mein dikhta hai, bolne mein nahi - 'a = andar chhupa'."
+  },
+  {
+   "title": "Michel Foucault: discourse, power, knowledge",
+   "story": "School mein teacher sab bachchon ko dekh sakti hai, par bachche nahi jaante kab dekha ja raha hai, isliye sab khud hi seedhe baithte hain. Foucault ne isse Panopticon kaha - power sirf danda nahi, woh hamein andar se discipline sikhati hai. Unke liye power aur knowledge saath chalte hain: jo 'pagal', 'mareez' ya 'apradhi' kehlata hai, woh discourse banata hai. Har yug ka apna knowledge ka dhaancha hota hai jise woh episteme kehte hain.",
+   "trick": "Foucault ka time-table: 'Madness 61, Clinic 63, Order 66, Archaeology 69, Discipline 75, Sexuality 76' - 'Pagal-Doctor-Order-Khudai-Jail-Sex'."
+  },
+  {
+   "title": "Psychoanalytic criticism: Freud, Jung, Bloom",
+   "story": "Freud kehte the hamare mann mein ek chhupa basement hai - unconscious - jahan dabaye hue sapne aur ichchhayein rehti hain. Sapne unhe chhupa ke dikhate hain: condensation (kai cheezein ek mein) aur displacement (dhyan doosri cheez par). Jung ne kaha poori insaaniyat ka ek common basement hai - collective unconscious - jismein archetypes hain jaise hero, maa, shadow. Harold Bloom ne kaha bada kavi apne purane guru-kavi se darr kar unhe jaan-bujh kar galat padhta hai - The Anxiety of Influence.",
+   "trick": "Freud = 'Dream 1900', Jung = 'Jungle of Archetypes', Bloom 1973 ke 6 ratios: 'CTK DAA' - Clinamen, Tessera, Kenosis, Daemonization, Askesis, Apophrades."
+  },
+  {
+   "title": "Jacques Lacan",
+   "story": "Chhota bachcha pehli baar mirror mein apne aap ko dekh kar khush hota hai - 'yeh main hoon, poora aur perfect!' - par asal mein woh abhi theek se chal bhi nahi sakta. Lacan ne isse mirror stage kaha: hamara 'main' ek galatfehmi se shuru hota hai. Phir bachcha bhasha seekhta hai aur Symbolic order mein aata hai, jahan papa ka niyam (Name-of-the-Father) chalta hai. Lacan ke liye unconscious bhi ek bhasha ki tarah bana hai.",
+   "trick": "Teen orders ka 'ISR' = 'Imaginary, Symbolic, Real' - socho 'ISRO' ka rocket bina O ke. Mirror stage 1936/1949, Ecrits 1966."
+  },
+  {
+   "title": "Marxist criticism: Althusser, Macherey, Williams and the Frankfurt School",
+   "story": "Marx ne kaha paisa aur kaam (base) upar ki cheezon - kala, dharm, kanoon (superstructure) - ko shape deta hai. Althusser ne bataya ki school, family, TV jaise Ideological State Apparatuses hamein chupchaap 'achha nagrik' banate hain - jaise kisi ne 'Oye!' bola aur tum mud gaye, yahi interpellation hai. Macherey ne kaha text jo nahi bolta, woh bhi important hai. Raymond Williams ne kaha 'culture is ordinary', aur Frankfurt School ne movies-music ki 'culture industry' ki aalochna ki.",
+   "trick": "'Al-ISA-70' - Althusser ka ISA essay 1970. 'Gramsci = Gram-hegemony' (sahmati se raaj). 'Benjamin ki aura kho gayi photocopy mein' (1935/36)."
+  },
+  {
+   "title": "Marxist criticism: Terry Eagleton and Fredric Jameson",
+   "story": "Eagleton British hain jinhone sabke liye Literary Theory: An Introduction (1983) likhi - unke hisaab se 'literature' koi pakki cheez nahi, logon ki pasand-napasand se banta hai. Jameson American hain jinka naara hai 'Always historicize!' - har kahani ke peeche itihaas dekho. Jameson ne postmodernism ko 'late capitalism ka cultural logic' kaha, jaise mall mein sab kuch chamkila par gehraai nahi. Unhone third-world novels ko 'national allegory' bhi kaha.",
+   "trick": "'E-83, J-81' - Eagleton ki Intro 1983, Jameson ki Political Unconscious 1981. Jameson = 'Jam-history' - har cheez ko itihaas ke jam mein daalo."
+  },
+  {
+   "title": "Reader-response and Reception theory",
+   "story": "Ek hi film ko dadi, papa aur aap alag-alag tarah samajhte ho - yahi reader-response hai. Iser kehte hain text mein khaali jagah (gaps) hoti hai jo reader bharta hai. Jauss kehte hain har zamane ke padhne walon ki ek 'horizon of expectations' hoti hai. Stanley Fish kehte hain matlab akele reader se nahi, 'interpretive community' (jaise ek class ya group) se banta hai.",
+   "trick": "'I-J-F' = 'Iser ke gaps, Jauss ka horizon, Fish ki community'. Rosenblatt ka 'transaction' - jaise UPI transaction, dono taraf se lena-dena."
+  },
+  {
+   "title": "Feminist criticism: Beauvoir, Showalter, Gilbert and Gubar",
+   "story": "Beauvoir ne 1949 mein kaha ladki paida nahi hoti, samaj use 'aurat' banata hai, aur aurat ko 'Other' bana deta hai. Showalter ne women's writing ke teen phase bataye - Feminine (nakal), Feminist (virodh), Female (apni pehchaan). Gilbert aur Gubar ne kaha 19th century ki lekhikaon ne apna gussa 'pagal aurat' jaise Jane Eyre ki Bertha ke zariye dikhaya. Kate Millett ne Sexual Politics mein male writers ki aalochna ki.",
+   "trick": "Showalter ke phases: 'FFF = 1840-1880-1920' - 'Fashion, Fight, Freedom'. Madwoman 1979 - 'Attic mein 79 seedhiyan'."
+  },
+  {
+   "title": "French feminism and Judith Butler",
+   "story": "French feminists ne kaha bhasha khud mardana hai, isliye aurat ko apne sharir aur apni tarah se likhna chahiye - Cixous ne isse ecriture feminine kaha ('white ink' se likhna). Kristeva ne semiotic (maa jaisi lay, rhythm) aur symbolic (papa jaisa niyam) ka farak bataya. Irigaray ne kaha aurat ki sexuality ek nahi, anek hai. Judith Butler ne kaha gender roz ki acting jaisa hai - jaise roz same uniform pehen ke role nibhana - yahi performativity hai.",
+   "trick": "'Cixous ki Medusa hansti hai (1975), Kristeva ki Horror (1980), Irigaray ka Speculum (1974), Butler ka Trouble (1990)'."
+  },
+  {
+   "title": "Postcolonialism: Said, Spivak, Bhabha",
+   "story": "Angrezon ne kitaabon mein 'East' ko jadui, aalsi aur rahasyamay dikhaya - Said ne kaha yeh Orient asli nahi, West ka banaya hua hai (Orientalism, 1978). Spivak ne poocha kya sabse neeche dabaya hua insaan, subaltern, apni baat keh sakta hai, aur sati ka udaharan diya. Bhabha ne kaha colonized log angrezon ki nakal karte hain par 'bilkul same nahi' - is mimicry aur hybridity se colonial power hil jaati hai. Teeno ko postcolonial theory ki 'Holy Trinity' kehte hain.",
+   "trick": "'SSB = Said 78, Spivak 85/88, Bhabha 94' - jaise SSB interview, teeno pass karne padte hain."
+  },
+  {
+   "title": "Postcolonialism: Fanon, Ngugi and others",
+   "story": "Fanon Martinique ke doctor the jinhone dekha ki colonized insaan 'safed mask' pehen ke jeena seekh leta hai - Black Skin, White Masks (1952). The Wretched of the Earth (1961) mein unhone azaadi ki ladaai par likha, preface Sartre ka hai. Ngugi ne kaha apni maa-bhasha mein likho, isliye English chhod ke Gikuyu mein likhne lage - Decolonising the Mind (1986). Achebe ne Conrad ke Heart of Darkness ko racist kaha.",
+   "trick": "'Fanon ke 52 masks, 61 wretched' aur 'Ngugi 86 - English ko alvida'. Empire Writes Back (1989) = 'ATG' - Ashcroft, Griffiths, Tiffin."
+  },
+  {
+   "title": "New Historicism and Cultural Materialism",
+   "story": "Shakespeare ka play padhte waqt uske zamane ke akhbaar, sarkari order, doctor ki diary bhi saath padho - yahi New Historicism hai. Greenblatt ne kaha sarkar thoda vidroh hone deti hai taaki use control kar sake (subversion-containment). Montrose ne kaha 'texts ki historicity aur history ki textuality'. British Cultural Materialism (Dollimore, Sinfield) Marxist hai aur kehta hai purane text ko aaj ki rajneeti ke liye use karo.",
+   "trick": "'Greenblatt 82 mein naam, Political Shakespeare 85 mein kaam' - America = containment, Britain = dissidence."
+  },
+  {
+   "title": "Ecocriticism",
+   "story": "Jaise hum kahani mein hero-heroine ko dekhte hain, ecocriticism nadi, jungle, mausam aur jaanwaron ko dekhta hai. Rueckert ne 1978 mein yeh shabd banaya, aur Glotfelty ne kaha yeh literature aur physical environment ke rishte ka adhyayan hai. Buell ne Thoreau par likha, Jonathan Bate ne Wordsworth ko 'green' kavi dikhaya. Amitav Ghosh ne poocha ki climate change hamare novels mein kyun nahi dikhta.",
+   "trick": "'R-78, G-96' - Rueckert ne naam rakha, Glotfelty ne Reader banaya. 'Naess = Deep, d'Eaubonne = Eco-feminism'."
+  },
+  {
+   "title": "Postmodernism: Lyotard, Baudrillard, Hutcheon",
+   "story": "Pehle log maante the ek badi kahani sab samjha degi - jaise progress ya science. Lyotard ne kaha postmodern insaan aisi grand stories par shak karta hai aur chhoti-chhoti kahaniyon par jeeta hai. Baudrillard ne kaha aaj copy asli se zyada asli lagti hai - jaise Instagram filter wali photo - yahi hyperreality hai. Hutcheon ne woh novels pehchane jo itihaas likhte hue khud par hanste hain - historiographic metafiction, jaise Midnight's Children.",
+   "trick": "'L-79, B-81, H-88' - Lyotard ki Condition, Baudrillard ka Simulacra, Hutcheon ki Poetics. 'Disneyland nakli dikhaya taaki baaki America asli lage'."
+  },
+  {
+   "title": "Mikhail Bakhtin and the Bakhtin Circle",
+   "story": "Ek shaadi mein chacha, mama, dost, pandit sab apni-apni bhasha bolte hain - novel bhi aisa hi hai, Bakhtin ne isse heteroglossia kaha. Dostoevsky ke novels mein har character ki awaaz azaad hai, author sab par haavi nahi - yeh polyphony hai. Holi jaisa tyohaar jismein raja-praja ka farak mit jaata hai - Bakhtin isse carnivalesque kehte hain (Rabelais par). Time aur space ka jod chronotope hai, jaise 'road' kahani mein milne ka time-space.",
+   "trick": "'Dosto 29/63 = Polyphony, Rabelais 65 = Carnival, Dialogic 75/81 = Heteroglossia + Chronotope'. Bakhtin = 'Baat-chit' (dialogism)."
+  },
+  {
+   "title": "Queer theory",
+   "story": "Samaj maan ke chalta hai ki har koi straight hai aur ladka-ladki ka role fix hai - isse heteronormativity kehte hain. Queer theory kehti hai sexuality aur gender fixed label nahi, samaj ke banaye hue hain. Foucault ne kaha 'homosexual' ek identity ke roop mein 19th century mein bana. Sedgwick ne male dosti ke andar ke rishton (homosocial desire) aur 'closet' ki baat ki, aur Teresa de Lauretis ne 1990 mein 'queer theory' naam diya.",
+   "trick": "'Sedgwick 85 Between Men, 90 Closet; de Lauretis 90/91 naam; Butler 90 Trouble' - 1990 queer theory ka janam saal."
+  }
+ ],
+ "works": [
+  {
+   "author": "Ferdinand de Saussure",
+   "work": "Course in General Linguistics",
+   "year": "1916",
+   "type": "linguistics book",
+   "note": "Posthumous; langue/parole, signifier/signified, arbitrary sign"
+  },
+  {
+   "author": "Claude Levi-Strauss",
+   "work": "The Structural Study of Myth",
+   "year": "1955",
+   "type": "essay",
+   "note": "Mythemes; Oedipus myth read through binary oppositions"
+  },
+  {
+   "author": "Claude Levi-Strauss",
+   "work": "Structural Anthropology",
+   "year": "1958",
+   "type": "theory book",
+   "note": "Structuralism applied to kinship and myth"
+  },
+  {
+   "author": "Roman Jakobson",
+   "work": "Two Aspects of Language and Two Types of Aphasic Disturbances",
+   "year": "1956",
+   "type": "essay",
+   "note": "Metaphor (selection) vs metonymy (combination)"
+  },
+  {
+   "author": "Roman Jakobson",
+   "work": "Linguistics and Poetics",
+   "year": "1960",
+   "type": "essay",
+   "note": "Six functions of language; poetic function"
+  },
+  {
+   "author": "Vladimir Propp",
+   "work": "Morphology of the Folktale",
+   "year": "1928",
+   "type": "theory book",
+   "note": "31 functions, 7 spheres of action; English 1958"
+  },
+  {
+   "author": "A. J. Greimas",
+   "work": "Structural Semantics",
+   "year": "1966",
+   "type": "theory book",
+   "note": "Actantial model of six actants"
+  },
+  {
+   "author": "Tzvetan Todorov",
+   "work": "Grammaire du Decameron",
+   "year": "1969",
+   "type": "theory book",
+   "note": "Coined the term narratology"
+  },
+  {
+   "author": "Tzvetan Todorov",
+   "work": "The Fantastic: A Structural Approach to a Literary Genre",
+   "year": "1970",
+   "type": "theory book",
+   "note": "Fantastic as hesitation between uncanny and marvellous"
+  },
+  {
+   "author": "Gerard Genette",
+   "work": "Narrative Discourse (Figures III)",
+   "year": "1972",
+   "type": "theory book",
+   "note": "Order, duration, frequency, mood, voice; focalization"
+  },
+  {
+   "author": "Jonathan Culler",
+   "work": "Structuralist Poetics",
+   "year": "1975",
+   "type": "theory book",
+   "note": "Literary competence of the reader"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "Writing Degree Zero",
+   "year": "1953",
+   "type": "theory book",
+   "note": "Neutral, 'zero degree' writing; ecriture"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "Mythologies",
+   "year": "1957",
+   "type": "essays",
+   "note": "Myth as second-order sign; Paris-Match soldier"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "The Death of the Author",
+   "year": "1967",
+   "type": "essay",
+   "note": "Birth of the reader; author replaced by scriptor"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "S/Z",
+   "year": "1970",
+   "type": "theory book",
+   "note": "Five codes; readerly vs writerly; reads Balzac's Sarrasine"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "From Work to Text",
+   "year": "1971",
+   "type": "essay",
+   "note": "Work held in hand, text held in language"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "The Pleasure of the Text",
+   "year": "1973",
+   "type": "theory book",
+   "note": "Plaisir vs jouissance"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "Camera Lucida",
+   "year": "1980",
+   "type": "book",
+   "note": "Photography: studium vs punctum"
+  },
+  {
+   "author": "Jacques Derrida",
+   "work": "Structure, Sign and Play in the Discourse of the Human Sciences",
+   "year": "1966",
+   "type": "lecture-essay",
+   "note": "Johns Hopkins; birth of post-structuralism in America"
+  },
+  {
+   "author": "Jacques Derrida",
+   "work": "Of Grammatology",
+   "year": "1967",
+   "type": "theory book",
+   "note": "Logocentrism; 'nothing outside the text'; Spivak translated 1976"
+  },
+  {
+   "author": "Jacques Derrida",
+   "work": "Writing and Difference",
+   "year": "1967",
+   "type": "essays",
+   "note": "Contains 'Structure, Sign and Play'"
+  },
+  {
+   "author": "Jacques Derrida",
+   "work": "Dissemination",
+   "year": "1972",
+   "type": "essays",
+   "note": "Contains 'Plato's Pharmacy' on pharmakon"
+  },
+  {
+   "author": "Jacques Derrida",
+   "work": "Margins of Philosophy",
+   "year": "1972",
+   "type": "essays",
+   "note": "Contains 'Differance' and 'Signature Event Context'"
+  },
+  {
+   "author": "Paul de Man",
+   "work": "Blindness and Insight",
+   "year": "1971",
+   "type": "essays",
+   "note": "Critics' insight comes through their blindness"
+  },
+  {
+   "author": "Paul de Man",
+   "work": "Allegories of Reading",
+   "year": "1979",
+   "type": "theory book",
+   "note": "Rhetoric and aporia in Rousseau, Nietzsche, Rilke, Proust"
+  },
+  {
+   "author": "J. Hillis Miller",
+   "work": "The Critic as Host",
+   "year": "1977",
+   "type": "essay",
+   "note": "Yale deconstruction; host and parasite"
+  },
+  {
+   "author": "Michel Foucault",
+   "work": "Madness and Civilization (Histoire de la folie)",
+   "year": "1961",
+   "type": "history-theory book",
+   "note": "The 'great confinement' of the mad"
+  },
+  {
+   "author": "Michel Foucault",
+   "work": "The Order of Things",
+   "year": "1966",
+   "type": "history-theory book",
+   "note": "Epistemes; man as a recent invention"
+  },
+  {
+   "author": "Michel Foucault",
+   "work": "What Is an Author?",
+   "year": "1969",
+   "type": "lecture-essay",
+   "note": "The author-function"
+  },
+  {
+   "author": "Michel Foucault",
+   "work": "Discipline and Punish: The Birth of the Prison",
+   "year": "1975",
+   "type": "theory book",
+   "note": "Panopticon; disciplinary power"
+  },
+  {
+   "author": "Michel Foucault",
+   "work": "The History of Sexuality, Vol. 1",
+   "year": "1976",
+   "type": "theory book",
+   "note": "Repressive hypothesis rejected; biopower"
+  },
+  {
+   "author": "Sigmund Freud",
+   "work": "The Interpretation of Dreams",
+   "year": "1900",
+   "type": "psychoanalytic book",
+   "note": "Dream-work: condensation, displacement"
+  },
+  {
+   "author": "Sigmund Freud",
+   "work": "The Uncanny",
+   "year": "1919",
+   "type": "essay",
+   "note": "Das Unheimliche; Hoffmann's 'The Sandman'"
+  },
+  {
+   "author": "Sigmund Freud",
+   "work": "Beyond the Pleasure Principle",
+   "year": "1920",
+   "type": "book",
+   "note": "Death drive; fort-da game"
+  },
+  {
+   "author": "Ernest Jones",
+   "work": "Hamlet and Oedipus",
+   "year": "1949",
+   "type": "critical book",
+   "note": "Hamlet's delay as Oedipus complex"
+  },
+  {
+   "author": "Northrop Frye",
+   "work": "Anatomy of Criticism",
+   "year": "1957",
+   "type": "theory book",
+   "note": "Archetypal criticism; four mythoi"
+  },
+  {
+   "author": "Harold Bloom",
+   "work": "The Anxiety of Influence",
+   "year": "1973",
+   "type": "theory book",
+   "note": "Strong poets, misprision, six revisionary ratios"
+  },
+  {
+   "author": "Norman Holland",
+   "work": "5 Readers Reading",
+   "year": "1975",
+   "type": "theory book",
+   "note": "Identity theme of readers"
+  },
+  {
+   "author": "Jacques Lacan",
+   "work": "The Mirror Stage as Formative of the Function of the I",
+   "year": "1949",
+   "type": "paper",
+   "note": "Infant's misrecognition; first given 1936"
+  },
+  {
+   "author": "Jacques Lacan",
+   "work": "Seminar on The Purloined Letter",
+   "year": "1956",
+   "type": "seminar-essay",
+   "note": "Poe's tale as movement of the signifier"
+  },
+  {
+   "author": "Jacques Lacan",
+   "work": "Ecrits",
+   "year": "1966",
+   "type": "collected papers",
+   "note": "Return to Freud via Saussure"
+  },
+  {
+   "author": "Laura Mulvey",
+   "work": "Visual Pleasure and Narrative Cinema",
+   "year": "1975",
+   "type": "essay",
+   "note": "The male gaze in film"
+  },
+  {
+   "author": "Georg Lukacs",
+   "work": "The Historical Novel",
+   "year": "1937",
+   "type": "critical book",
+   "note": "Scott and critical realism"
+  },
+  {
+   "author": "Antonio Gramsci",
+   "work": "Prison Notebooks",
+   "year": "1929-35",
+   "type": "notebooks",
+   "note": "Hegemony; subaltern; organic intellectual"
+  },
+  {
+   "author": "Theodor Adorno and Max Horkheimer",
+   "work": "Dialectic of Enlightenment",
+   "year": "1944",
+   "type": "theory book",
+   "note": "Culture industry; revised 1947"
+  },
+  {
+   "author": "Walter Benjamin",
+   "work": "The Work of Art in the Age of Mechanical Reproduction",
+   "year": "1935",
+   "type": "essay",
+   "note": "Loss of aura; published 1936"
+  },
+  {
+   "author": "Louis Althusser",
+   "work": "Ideology and Ideological State Apparatuses",
+   "year": "1970",
+   "type": "essay",
+   "note": "Interpellation; ISA vs RSA"
+  },
+  {
+   "author": "Pierre Macherey",
+   "work": "A Theory of Literary Production",
+   "year": "1966",
+   "type": "theory book",
+   "note": "Silences and the not-said of texts"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Culture and Society 1780-1950",
+   "year": "1958",
+   "type": "critical book",
+   "note": "Keywords industry, democracy, class, art, culture"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "The Country and the City",
+   "year": "1973",
+   "type": "critical book",
+   "note": "Pastoral myth; also read in ecocriticism"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Marxism and Literature",
+   "year": "1977",
+   "type": "theory book",
+   "note": "Dominant, residual, emergent; cultural materialism"
+  },
+  {
+   "author": "Stuart Hall",
+   "work": "Encoding/Decoding",
+   "year": "1973",
+   "type": "essay",
+   "note": "Dominant, negotiated, oppositional readings"
+  },
+  {
+   "author": "Terry Eagleton",
+   "work": "Criticism and Ideology",
+   "year": "1976",
+   "type": "theory book",
+   "note": "Modes of production and ideologies of text"
+  },
+  {
+   "author": "Terry Eagleton",
+   "work": "Literary Theory: An Introduction",
+   "year": "1983",
+   "type": "theory book",
+   "note": "Literature has no essence; ends with Political Criticism"
+  },
+  {
+   "author": "Fredric Jameson",
+   "work": "The Political Unconscious",
+   "year": "1981",
+   "type": "theory book",
+   "note": "'Always historicize!'; three horizons"
+  },
+  {
+   "author": "Fredric Jameson",
+   "work": "Third-World Literature in the Era of Multinational Capital",
+   "year": "1986",
+   "type": "essay",
+   "note": "National allegory; answered by Aijaz Ahmad"
+  },
+  {
+   "author": "Fredric Jameson",
+   "work": "Postmodernism, or, The Cultural Logic of Late Capitalism",
+   "year": "1991",
+   "type": "theory book",
+   "note": "Essay 1984; pastiche as blank parody"
+  },
+  {
+   "author": "Aijaz Ahmad",
+   "work": "In Theory: Classes, Nations, Literatures",
+   "year": "1992",
+   "type": "critical book",
+   "note": "Marxist critique of Jameson and Said"
+  },
+  {
+   "author": "Louise Rosenblatt",
+   "work": "The Reader, the Text, the Poem",
+   "year": "1978",
+   "type": "theory book",
+   "note": "Transactional theory; efferent vs aesthetic reading"
+  },
+  {
+   "author": "Hans-Georg Gadamer",
+   "work": "Truth and Method",
+   "year": "1960",
+   "type": "philosophy book",
+   "note": "Fusion of horizons; hermeneutics"
+  },
+  {
+   "author": "Wayne Booth",
+   "work": "The Rhetoric of Fiction",
+   "year": "1961",
+   "type": "critical book",
+   "note": "Coined implied author"
+  },
+  {
+   "author": "Umberto Eco",
+   "work": "The Role of the Reader",
+   "year": "1979",
+   "type": "theory book",
+   "note": "Model reader; open vs closed texts"
+  },
+  {
+   "author": "Hans Robert Jauss",
+   "work": "Literary History as a Challenge to Literary Theory",
+   "year": "1967",
+   "type": "lecture-essay",
+   "note": "Horizon of expectations; Konstanz inaugural lecture"
+  },
+  {
+   "author": "Wolfgang Iser",
+   "work": "The Implied Reader",
+   "year": "1972",
+   "type": "theory book",
+   "note": "English 1974; reader fills gaps"
+  },
+  {
+   "author": "Wolfgang Iser",
+   "work": "The Act of Reading",
+   "year": "1976",
+   "type": "theory book",
+   "note": "English 1978; blanks, wandering viewpoint"
+  },
+  {
+   "author": "Stanley Fish",
+   "work": "Surprised by Sin: The Reader in Paradise Lost",
+   "year": "1967",
+   "type": "critical book",
+   "note": "Reader's experience of Milton's epic"
+  },
+  {
+   "author": "Stanley Fish",
+   "work": "Is There a Text in This Class?",
+   "year": "1980",
+   "type": "theory book",
+   "note": "Interpretive communities"
+  },
+  {
+   "author": "Judith Fetterley",
+   "work": "The Resisting Reader",
+   "year": "1978",
+   "type": "critical book",
+   "note": "Feminist resisting reader of American fiction"
+  },
+  {
+   "author": "Mary Wollstonecraft",
+   "work": "A Vindication of the Rights of Woman",
+   "year": "1792",
+   "type": "treatise",
+   "note": "Precursor feminist text"
+  },
+  {
+   "author": "Virginia Woolf",
+   "work": "A Room of One's Own",
+   "year": "1929",
+   "type": "essay",
+   "note": "Money and a room; Shakespeare's sister Judith"
+  },
+  {
+   "author": "Simone de Beauvoir",
+   "work": "The Second Sex",
+   "year": "1949",
+   "type": "philosophy book",
+   "note": "Woman as Other; one becomes a woman"
+  },
+  {
+   "author": "Betty Friedan",
+   "work": "The Feminine Mystique",
+   "year": "1963",
+   "type": "book",
+   "note": "The problem that has no name"
+  },
+  {
+   "author": "Kate Millett",
+   "work": "Sexual Politics",
+   "year": "1970",
+   "type": "critical book",
+   "note": "Attacks Lawrence, Miller, Mailer, Genet"
+  },
+  {
+   "author": "Adrienne Rich",
+   "work": "When We Dead Awaken: Writing as Re-Vision",
+   "year": "1971",
+   "type": "essay",
+   "note": "Re-vision as act of survival"
+  },
+  {
+   "author": "Ellen Moers",
+   "work": "Literary Women",
+   "year": "1976",
+   "type": "critical book",
+   "note": "Female Gothic; great women writers"
+  },
+  {
+   "author": "Elaine Showalter",
+   "work": "A Literature of Their Own",
+   "year": "1977",
+   "type": "critical book",
+   "note": "Feminine, Feminist, Female phases"
+  },
+  {
+   "author": "Elaine Showalter",
+   "work": "Towards a Feminist Poetics",
+   "year": "1979",
+   "type": "essay",
+   "note": "Coined gynocritics"
+  },
+  {
+   "author": "Elaine Showalter",
+   "work": "Feminist Criticism in the Wilderness",
+   "year": "1981",
+   "type": "essay",
+   "note": "Four models of difference"
+  },
+  {
+   "author": "Sandra Gilbert and Susan Gubar",
+   "work": "The Madwoman in the Attic",
+   "year": "1979",
+   "type": "critical book",
+   "note": "Angel and monster; anxiety of authorship"
+  },
+  {
+   "author": "Adrienne Rich",
+   "work": "Compulsory Heterosexuality and Lesbian Existence",
+   "year": "1980",
+   "type": "essay",
+   "note": "Lesbian continuum; compulsory heterosexuality"
+  },
+  {
+   "author": "bell hooks",
+   "work": "Ain't I a Woman: Black Women and Feminism",
+   "year": "1981",
+   "type": "book",
+   "note": "Race and gender together"
+  },
+  {
+   "author": "Alice Walker",
+   "work": "In Search of Our Mothers' Gardens",
+   "year": "1983",
+   "type": "essays",
+   "note": "Defines womanism"
+  },
+  {
+   "author": "Chandra Talpade Mohanty",
+   "work": "Under Western Eyes",
+   "year": "1984",
+   "type": "essay",
+   "note": "Critique of Western feminist 'Third World Woman'"
+  },
+  {
+   "author": "Toril Moi",
+   "work": "Sexual/Textual Politics",
+   "year": "1985",
+   "type": "theory book",
+   "note": "Anglo-American vs French feminism"
+  },
+  {
+   "author": "Helene Cixous",
+   "work": "The Laugh of the Medusa",
+   "year": "1975",
+   "type": "essay",
+   "note": "Ecriture feminine; write in white ink"
+  },
+  {
+   "author": "Helene Cixous and Catherine Clement",
+   "work": "The Newly Born Woman",
+   "year": "1975",
+   "type": "theory book",
+   "note": "Contains 'Sorties' on patriarchal binaries"
+  },
+  {
+   "author": "Julia Kristeva",
+   "work": "Word, Dialogue and Novel",
+   "year": "1966",
+   "type": "essay",
+   "note": "Coins intertextuality from Bakhtin; printed 1967"
+  },
+  {
+   "author": "Julia Kristeva",
+   "work": "Revolution in Poetic Language",
+   "year": "1974",
+   "type": "theory book",
+   "note": "Semiotic vs symbolic; chora"
+  },
+  {
+   "author": "Julia Kristeva",
+   "work": "Powers of Horror",
+   "year": "1980",
+   "type": "theory book",
+   "note": "Abjection"
+  },
+  {
+   "author": "Luce Irigaray",
+   "work": "Speculum of the Other Woman",
+   "year": "1974",
+   "type": "theory book",
+   "note": "Got her expelled from Lacan's school"
+  },
+  {
+   "author": "Luce Irigaray",
+   "work": "This Sex Which Is Not One",
+   "year": "1977",
+   "type": "theory book",
+   "note": "Plural female sexuality; parler-femme"
+  },
+  {
+   "author": "Monique Wittig",
+   "work": "One Is Not Born a Woman",
+   "year": "1981",
+   "type": "essay",
+   "note": "Lesbian is not a woman"
+  },
+  {
+   "author": "Judith Butler",
+   "work": "Gender Trouble",
+   "year": "1990",
+   "type": "theory book",
+   "note": "Gender performativity"
+  },
+  {
+   "author": "Judith Butler",
+   "work": "Bodies That Matter",
+   "year": "1993",
+   "type": "theory book",
+   "note": "Materiality of sex; citationality"
+  },
+  {
+   "author": "Edward Said",
+   "work": "Orientalism",
+   "year": "1978",
+   "type": "theory book",
+   "note": "Orient as European construction; Foucault and Gramsci"
+  },
+  {
+   "author": "Edward Said",
+   "work": "The World, the Text, and the Critic",
+   "year": "1983",
+   "type": "essays",
+   "note": "Worldliness of texts; secular criticism"
+  },
+  {
+   "author": "Edward Said",
+   "work": "Culture and Imperialism",
+   "year": "1993",
+   "type": "theory book",
+   "note": "Contrapuntal reading; Mansfield Park"
+  },
+  {
+   "author": "Gayatri Chakravorty Spivak",
+   "work": "Three Women's Texts and a Critique of Imperialism",
+   "year": "1985",
+   "type": "essay",
+   "note": "Jane Eyre, Wide Sargasso Sea, Frankenstein"
+  },
+  {
+   "author": "Gayatri Chakravorty Spivak",
+   "work": "Can the Subaltern Speak?",
+   "year": "1988",
+   "type": "essay",
+   "note": "Sati; epistemic violence; first version 1985"
+  },
+  {
+   "author": "Gayatri Chakravorty Spivak",
+   "work": "In Other Worlds",
+   "year": "1987",
+   "type": "essays",
+   "note": "Includes translation of Mahasweta Devi's 'Draupadi'"
+  },
+  {
+   "author": "Gayatri Chakravorty Spivak",
+   "work": "A Critique of Postcolonial Reason",
+   "year": "1999",
+   "type": "theory book",
+   "note": "Native informant"
+  },
+  {
+   "author": "Homi K. Bhabha",
+   "work": "Of Mimicry and Man",
+   "year": "1984",
+   "type": "essay",
+   "note": "Almost the same, but not quite"
+  },
+  {
+   "author": "Homi K. Bhabha",
+   "work": "Signs Taken for Wonders",
+   "year": "1985",
+   "type": "essay",
+   "note": "Hybridity; the English book in colonial India"
+  },
+  {
+   "author": "Homi K. Bhabha (ed.)",
+   "work": "Nation and Narration",
+   "year": "1990",
+   "type": "essay collection",
+   "note": "Nation as narrative"
+  },
+  {
+   "author": "Homi K. Bhabha",
+   "work": "The Location of Culture",
+   "year": "1994",
+   "type": "theory book",
+   "note": "Hybridity, Third Space, unhomely"
+  },
+  {
+   "author": "Aime Cesaire",
+   "work": "Discourse on Colonialism",
+   "year": "1950",
+   "type": "essay",
+   "note": "Colonization equals 'thingification'; Negritude"
+  },
+  {
+   "author": "Frantz Fanon",
+   "work": "Black Skin, White Masks",
+   "year": "1952",
+   "type": "theory book",
+   "note": "Psychology of colonial racism"
+  },
+  {
+   "author": "Frantz Fanon",
+   "work": "The Wretched of the Earth",
+   "year": "1961",
+   "type": "theory book",
+   "note": "Preface by Sartre; anti-colonial violence"
+  },
+  {
+   "author": "Chinua Achebe",
+   "work": "An Image of Africa: Racism in Conrad's Heart of Darkness",
+   "year": "1975",
+   "type": "lecture-essay",
+   "note": "Conrad called a racist"
+  },
+  {
+   "author": "Ngugi wa Thiong'o et al.",
+   "work": "On the Abolition of the English Department",
+   "year": "1968",
+   "type": "essay",
+   "note": "Nairobi; centre African literature"
+  },
+  {
+   "author": "Ngugi wa Thiong'o",
+   "work": "Decolonising the Mind",
+   "year": "1986",
+   "type": "theory book",
+   "note": "Farewell to English; writes in Gikuyu"
+  },
+  {
+   "author": "Ranajit Guha (ed.)",
+   "work": "Subaltern Studies I",
+   "year": "1982",
+   "type": "history volume",
+   "note": "Subaltern Studies collective begins"
+  },
+  {
+   "author": "Benedict Anderson",
+   "work": "Imagined Communities",
+   "year": "1983",
+   "type": "book",
+   "note": "Nation as imagined community; print capitalism"
+  },
+  {
+   "author": "Bill Ashcroft, Gareth Griffiths, Helen Tiffin",
+   "work": "The Empire Writes Back",
+   "year": "1989",
+   "type": "theory book",
+   "note": "Abrogation and appropriation; english vs English"
+  },
+  {
+   "author": "Robert Young",
+   "work": "White Mythologies",
+   "year": "1990",
+   "type": "theory book",
+   "note": "Writing history and the West"
+  },
+  {
+   "author": "Clifford Geertz",
+   "work": "The Interpretation of Cultures",
+   "year": "1973",
+   "type": "anthropology book",
+   "note": "Thick description"
+  },
+  {
+   "author": "Hayden White",
+   "work": "Metahistory",
+   "year": "1973",
+   "type": "theory book",
+   "note": "History as narrative emplotment"
+  },
+  {
+   "author": "Stephen Greenblatt",
+   "work": "Renaissance Self-Fashioning: From More to Shakespeare",
+   "year": "1980",
+   "type": "critical book",
+   "note": "Founding New Historicist book"
+  },
+  {
+   "author": "Stephen Greenblatt",
+   "work": "Invisible Bullets",
+   "year": "1981",
+   "type": "essay",
+   "note": "Subversion and containment; Harriot and Henry IV"
+  },
+  {
+   "author": "Stephen Greenblatt",
+   "work": "Towards a Poetics of Culture",
+   "year": "1987",
+   "type": "essay",
+   "note": "Prefers 'cultural poetics'"
+  },
+  {
+   "author": "Stephen Greenblatt",
+   "work": "Shakespearean Negotiations",
+   "year": "1988",
+   "type": "critical book",
+   "note": "Social energy; 'desire to speak with the dead'"
+  },
+  {
+   "author": "Louis Montrose",
+   "work": "Professing the Renaissance: The Poetics and Politics of Culture",
+   "year": "1989",
+   "type": "essay",
+   "note": "Historicity of texts, textuality of history"
+  },
+  {
+   "author": "Jonathan Dollimore",
+   "work": "Radical Tragedy",
+   "year": "1984",
+   "type": "critical book",
+   "note": "Cultural materialist reading of Jacobean drama"
+  },
+  {
+   "author": "Jonathan Dollimore and Alan Sinfield (eds)",
+   "work": "Political Shakespeare",
+   "year": "1985",
+   "type": "essay collection",
+   "note": "Key text of Cultural Materialism"
+  },
+  {
+   "author": "Rachel Carson",
+   "work": "Silent Spring",
+   "year": "1962",
+   "type": "non-fiction",
+   "note": "Pesticides; founding environmental text"
+  },
+  {
+   "author": "Joseph Meeker",
+   "work": "The Comedy of Survival",
+   "year": "1972",
+   "type": "critical book",
+   "note": "Coined literary ecology"
+  },
+  {
+   "author": "Arne Naess",
+   "work": "The Shallow and the Deep, Long-Range Ecology Movement",
+   "year": "1973",
+   "type": "essay",
+   "note": "Coined deep ecology"
+  },
+  {
+   "author": "William Rueckert",
+   "work": "Literature and Ecology: An Experiment in Ecocriticism",
+   "year": "1978",
+   "type": "essay",
+   "note": "First use of ecocriticism"
+  },
+  {
+   "author": "Jonathan Bate",
+   "work": "Romantic Ecology",
+   "year": "1991",
+   "type": "critical book",
+   "note": "Wordsworth and the environmental tradition"
+  },
+  {
+   "author": "Lawrence Buell",
+   "work": "The Environmental Imagination",
+   "year": "1995",
+   "type": "critical book",
+   "note": "Thoreau and American nature writing"
+  },
+  {
+   "author": "Cheryll Glotfelty and Harold Fromm (eds)",
+   "work": "The Ecocriticism Reader",
+   "year": "1996",
+   "type": "anthology",
+   "note": "Defines ecocriticism"
+  },
+  {
+   "author": "Greg Garrard",
+   "work": "Ecocriticism",
+   "year": "2004",
+   "type": "book",
+   "note": "New Critical Idiom; pollution, wilderness, apocalypse"
+  },
+  {
+   "author": "Lawrence Buell",
+   "work": "The Future of Environmental Criticism",
+   "year": "2005",
+   "type": "critical book",
+   "note": "First and second wave ecocriticism"
+  },
+  {
+   "author": "Timothy Morton",
+   "work": "Ecology without Nature",
+   "year": "2007",
+   "type": "theory book",
+   "note": "Dark ecology"
+  },
+  {
+   "author": "Rob Nixon",
+   "work": "Slow Violence and the Environmentalism of the Poor",
+   "year": "2011",
+   "type": "critical book",
+   "note": "Slow violence"
+  },
+  {
+   "author": "Amitav Ghosh",
+   "work": "The Great Derangement",
+   "year": "2016",
+   "type": "non-fiction",
+   "note": "Climate change and the unthinkable in fiction"
+  },
+  {
+   "author": "John Barth",
+   "work": "The Literature of Exhaustion",
+   "year": "1967",
+   "type": "essay",
+   "note": "Used-up forms of fiction"
+  },
+  {
+   "author": "Ihab Hassan",
+   "work": "The Dismemberment of Orpheus",
+   "year": "1971",
+   "type": "critical book",
+   "note": "Literature of silence; modern vs postmodern"
+  },
+  {
+   "author": "Jean-Francois Lyotard",
+   "work": "The Postmodern Condition: A Report on Knowledge",
+   "year": "1979",
+   "type": "theory book",
+   "note": "Incredulity toward metanarratives; English 1984"
+  },
+  {
+   "author": "John Barth",
+   "work": "The Literature of Replenishment",
+   "year": "1980",
+   "type": "essay",
+   "note": "Postmodernism renews fiction"
+  },
+  {
+   "author": "Jurgen Habermas",
+   "work": "Modernity: An Incomplete Project",
+   "year": "1980",
+   "type": "lecture-essay",
+   "note": "Defends Enlightenment modernity"
+  },
+  {
+   "author": "Gilles Deleuze and Felix Guattari",
+   "work": "A Thousand Plateaus",
+   "year": "1980",
+   "type": "theory book",
+   "note": "Rhizome"
+  },
+  {
+   "author": "Jean Baudrillard",
+   "work": "Simulacra and Simulation",
+   "year": "1981",
+   "type": "theory book",
+   "note": "Hyperreality; precession of simulacra"
+  },
+  {
+   "author": "Brian McHale",
+   "work": "Postmodernist Fiction",
+   "year": "1987",
+   "type": "critical book",
+   "note": "Ontological dominant"
+  },
+  {
+   "author": "Linda Hutcheon",
+   "work": "A Poetics of Postmodernism",
+   "year": "1988",
+   "type": "theory book",
+   "note": "Historiographic metafiction"
+  },
+  {
+   "author": "P. N. Medvedev",
+   "work": "The Formal Method in Literary Scholarship",
+   "year": "1928",
+   "type": "theory book",
+   "note": "Bakhtin Circle critique of Formalism"
+  },
+  {
+   "author": "Mikhail Bakhtin",
+   "work": "Problems of Dostoevsky's Art",
+   "year": "1929",
+   "type": "critical book",
+   "note": "Polyphonic novel; revised 1963 as Poetics"
+  },
+  {
+   "author": "V. N. Voloshinov",
+   "work": "Marxism and the Philosophy of Language",
+   "year": "1929",
+   "type": "theory book",
+   "note": "Bakhtin Circle; sign as ideological"
+  },
+  {
+   "author": "Mikhail Bakhtin",
+   "work": "Discourse in the Novel",
+   "year": "1934-35",
+   "type": "essay",
+   "note": "Heteroglossia; centripetal vs centrifugal"
+  },
+  {
+   "author": "Mikhail Bakhtin",
+   "work": "Forms of Time and of the Chronotope in the Novel",
+   "year": "1937-38",
+   "type": "essay",
+   "note": "Chronotope"
+  },
+  {
+   "author": "Mikhail Bakhtin",
+   "work": "Rabelais and His World",
+   "year": "1965",
+   "type": "critical book",
+   "note": "Carnivalesque, grotesque realism"
+  },
+  {
+   "author": "Mikhail Bakhtin",
+   "work": "The Dialogic Imagination",
+   "year": "1975",
+   "type": "essays",
+   "note": "English 1981, ed. Holquist; four essays"
+  },
+  {
+   "author": "Gayle Rubin",
+   "work": "The Traffic in Women",
+   "year": "1975",
+   "type": "essay",
+   "note": "Sex/gender system"
+  },
+  {
+   "author": "Eve Kosofsky Sedgwick",
+   "work": "Between Men",
+   "year": "1985",
+   "type": "critical book",
+   "note": "Homosocial desire; erotic triangles"
+  },
+  {
+   "author": "Eve Kosofsky Sedgwick",
+   "work": "Epistemology of the Closet",
+   "year": "1990",
+   "type": "theory book",
+   "note": "Homo/heterosexual definition; Axiom 1"
+  },
+  {
+   "author": "Teresa de Lauretis",
+   "work": "Queer Theory: Lesbian and Gay Sexualities",
+   "year": "1991",
+   "type": "journal issue",
+   "note": "differences issue; coined queer theory"
+  },
+  {
+   "author": "Michael Warner (ed.)",
+   "work": "Fear of a Queer Planet",
+   "year": "1993",
+   "type": "essay collection",
+   "note": "Popularised heteronormativity"
+  },
+  {
+   "author": "Lee Edelman",
+   "work": "No Future",
+   "year": "2004",
+   "type": "theory book",
+   "note": "Reproductive futurism; queer death drive"
+  },
+  {
+   "author": "Jasbir Puar",
+   "work": "Terrorist Assemblages",
+   "year": "2007",
+   "type": "theory book",
+   "note": "Homonationalism"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "In language there are only differences without positive terms.",
+   "by": "Ferdinand de Saussure",
+   "source": "Course in General Linguistics (1916)"
+  },
+  {
+   "quote": "The linguistic sign unites, not a thing and a name, but a concept and a sound-image.",
+   "by": "Ferdinand de Saussure",
+   "source": "Course in General Linguistics (1916)"
+  },
+  {
+   "quote": "The bond between the signifier and the signified is arbitrary.",
+   "by": "Ferdinand de Saussure",
+   "source": "Course in General Linguistics (1916)"
+  },
+  {
+   "quote": "The poetic function projects the principle of equivalence from the axis of selection into the axis of combination.",
+   "by": "Roman Jakobson",
+   "source": "Linguistics and Poetics (1960)"
+  },
+  {
+   "quote": "The birth of the reader must be at the cost of the death of the Author.",
+   "by": "Roland Barthes",
+   "source": "The Death of the Author (1967)"
+  },
+  {
+   "quote": "The text is a tissue of quotations drawn from the innumerable centres of culture.",
+   "by": "Roland Barthes",
+   "source": "The Death of the Author (1967)"
+  },
+  {
+   "quote": "There is nothing outside the text (il n'y a pas de hors-texte).",
+   "by": "Jacques Derrida",
+   "source": "Of Grammatology (1967)"
+  },
+  {
+   "quote": "The absence of the transcendental signified extends the domain and the play of signification infinitely.",
+   "by": "Jacques Derrida",
+   "source": "Structure, Sign and Play in the Discourse of the Human Sciences (1966)"
+  },
+  {
+   "quote": "Man is an invention of recent date. And one perhaps nearing its end.",
+   "by": "Michel Foucault",
+   "source": "The Order of Things (1966)"
+  },
+  {
+   "quote": "What difference does it make who is speaking?",
+   "by": "Michel Foucault",
+   "source": "What Is an Author? (1969)"
+  },
+  {
+   "quote": "Visibility is a trap.",
+   "by": "Michel Foucault",
+   "source": "Discipline and Punish (1975)"
+  },
+  {
+   "quote": "Where there is power, there is resistance.",
+   "by": "Michel Foucault",
+   "source": "The History of Sexuality, Vol. 1 (1976)"
+  },
+  {
+   "quote": "The sodomite had been a temporary aberration; the homosexual was now a species.",
+   "by": "Michel Foucault",
+   "source": "The History of Sexuality, Vol. 1 (1976)"
+  },
+  {
+   "quote": "Where id was, there ego shall be.",
+   "by": "Sigmund Freud",
+   "source": "New Introductory Lectures on Psycho-Analysis (1933)"
+  },
+  {
+   "quote": "Poetic history is held to be indistinguishable from poetic influence, since strong poets make that history by misreading one another, so as to clear imaginative space for themselves.",
+   "by": "Harold Bloom",
+   "source": "The Anxiety of Influence (1973)"
+  },
+  {
+   "quote": "The unconscious is structured like a language.",
+   "by": "Jacques Lacan",
+   "source": "Ecrits and Seminars (1950s-60s)"
+  },
+  {
+   "quote": "Man's desire is the desire of the Other.",
+   "by": "Jacques Lacan",
+   "source": "Ecrits (1966)"
+  },
+  {
+   "quote": "Ideology represents the imaginary relationship of individuals to their real conditions of existence.",
+   "by": "Louis Althusser",
+   "source": "Ideology and Ideological State Apparatuses (1970)"
+  },
+  {
+   "quote": "Ideology has no history.",
+   "by": "Louis Althusser",
+   "source": "Ideology and Ideological State Apparatuses (1970)"
+  },
+  {
+   "quote": "Culture is ordinary.",
+   "by": "Raymond Williams",
+   "source": "Culture Is Ordinary (1958)"
+  },
+  {
+   "quote": "There is no document of civilization which is not at the same time a document of barbarism.",
+   "by": "Walter Benjamin",
+   "source": "Theses on the Philosophy of History (1940)"
+  },
+  {
+   "quote": "Always historicize!",
+   "by": "Fredric Jameson",
+   "source": "The Political Unconscious (1981)"
+  },
+  {
+   "quote": "Pastiche is thus blank parody, a statue with blind eyeballs.",
+   "by": "Fredric Jameson",
+   "source": "Postmodernism, or, The Cultural Logic of Late Capitalism (1984/1991)"
+  },
+  {
+   "quote": "Literature is a kind of writing which, in the words of Roman Jakobson, represents an 'organized violence committed on ordinary speech'.",
+   "by": "Terry Eagleton",
+   "source": "Literary Theory: An Introduction (1983)"
+  },
+  {
+   "quote": "Interpretive communities are made up of those who share interpretive strategies not for reading but for writing texts.",
+   "by": "Stanley Fish",
+   "source": "Is There a Text in This Class? (1980)"
+  },
+  {
+   "quote": "One is not born, but rather becomes, a woman.",
+   "by": "Simone de Beauvoir",
+   "source": "The Second Sex (1949)"
+  },
+  {
+   "quote": "A woman must have money and a room of her own if she is to write fiction.",
+   "by": "Virginia Woolf",
+   "source": "A Room of One's Own (1929)"
+  },
+  {
+   "quote": "Is a pen a metaphorical penis?",
+   "by": "Sandra Gilbert and Susan Gubar",
+   "source": "The Madwoman in the Attic (1979)"
+  },
+  {
+   "quote": "Woman must write her self.",
+   "by": "Helene Cixous",
+   "source": "The Laugh of the Medusa (1975)"
+  },
+  {
+   "quote": "Any text is constructed as a mosaic of quotations; any text is the absorption and transformation of another.",
+   "by": "Julia Kristeva",
+   "source": "Word, Dialogue and Novel (1966)"
+  },
+  {
+   "quote": "Gender is the repeated stylization of the body, a set of repeated acts within a highly rigid regulatory frame that congeal over time to produce the appearance of substance.",
+   "by": "Judith Butler",
+   "source": "Gender Trouble (1990)"
+  },
+  {
+   "quote": "There is no gender identity behind the expressions of gender; that identity is performatively constituted by the very 'expressions' that are said to be its results.",
+   "by": "Judith Butler",
+   "source": "Gender Trouble (1990)"
+  },
+  {
+   "quote": "The Orient was almost a European invention.",
+   "by": "Edward Said",
+   "source": "Orientalism (1978)"
+  },
+  {
+   "quote": "The subaltern cannot speak.",
+   "by": "Gayatri Chakravorty Spivak",
+   "source": "Can the Subaltern Speak? (1988)"
+  },
+  {
+   "quote": "White men are saving brown women from brown men.",
+   "by": "Gayatri Chakravorty Spivak",
+   "source": "Can the Subaltern Speak? (1988)"
+  },
+  {
+   "quote": "Colonial mimicry is the desire for a reformed, recognizable Other, as a subject of a difference that is almost the same, but not quite.",
+   "by": "Homi K. Bhabha",
+   "source": "Of Mimicry and Man (1984), in The Location of Culture (1994)"
+  },
+  {
+   "quote": "For the black man there is only one destiny. And it is white.",
+   "by": "Frantz Fanon",
+   "source": "Black Skin, White Masks (1952)"
+  },
+  {
+   "quote": "Each generation must, out of relative obscurity, discover its mission, fulfil it, or betray it.",
+   "by": "Frantz Fanon",
+   "source": "The Wretched of the Earth (1961)"
+  },
+  {
+   "quote": "Language carries culture, and culture carries, particularly through orature and literature, the entire body of values by which we come to perceive ourselves and our place in the world.",
+   "by": "Ngugi wa Thiong'o",
+   "source": "Decolonising the Mind (1986)"
+  },
+  {
+   "quote": "Conrad was a thoroughgoing racist.",
+   "by": "Chinua Achebe",
+   "source": "An Image of Africa (1975 lecture, revised 1977)"
+  },
+  {
+   "quote": "I began with the desire to speak with the dead.",
+   "by": "Stephen Greenblatt",
+   "source": "Shakespearean Negotiations (1988)"
+  },
+  {
+   "quote": "The historicity of texts and the textuality of history.",
+   "by": "Louis Montrose",
+   "source": "Professing the Renaissance (1989)"
+  },
+  {
+   "quote": "Ecocriticism is the study of the relationship between literature and the physical environment.",
+   "by": "Cheryll Glotfelty",
+   "source": "Introduction to The Ecocriticism Reader (1996)"
+  },
+  {
+   "quote": "Simplifying to the extreme, I define postmodern as incredulity toward metanarratives.",
+   "by": "Jean-Francois Lyotard",
+   "source": "The Postmodern Condition (1979)"
+  },
+  {
+   "quote": "The territory no longer precedes the map, nor does it survive it. It is nevertheless the map that precedes the territory.",
+   "by": "Jean Baudrillard",
+   "source": "Simulacra and Simulation (1981)"
+  },
+  {
+   "quote": "Disneyland is presented as imaginary in order to make us believe that the rest is real.",
+   "by": "Jean Baudrillard",
+   "source": "Simulacra and Simulation (1981)"
+  },
+  {
+   "quote": "The word in language is half someone else's.",
+   "by": "Mikhail Bakhtin",
+   "source": "Discourse in the Novel (1934-35), in The Dialogic Imagination"
+  },
+  {
+   "quote": "People are different from each other.",
+   "by": "Eve Kosofsky Sedgwick",
+   "source": "Epistemology of the Closet (1990), Axiom 1"
+  }
+ ],
+ "people": [
+  {
+   "name": "Ferdinand de Saussure",
+   "where": "Course in General Linguistics (1916)",
+   "note": "Swiss linguist; father of structuralism and semiology"
+  },
+  {
+   "name": "Claude Levi-Strauss",
+   "where": "Structural Anthropology (1958)",
+   "note": "French anthropologist; mythemes and binary oppositions in myth"
+  },
+  {
+   "name": "Roman Jakobson",
+   "where": "Linguistics and Poetics (1960)",
+   "note": "Russian-American linguist; metaphor/metonymy poles, six functions of language"
+  },
+  {
+   "name": "Vladimir Propp",
+   "where": "Morphology of the Folktale (1928)",
+   "note": "Russian folklorist; 31 functions of Russian fairy tales"
+  },
+  {
+   "name": "A. J. Greimas",
+   "where": "Structural Semantics (1966)",
+   "note": "Lithuanian-French semiotician; actantial model and semiotic square"
+  },
+  {
+   "name": "Tzvetan Todorov",
+   "where": "Grammaire du Decameron (1969)",
+   "note": "Bulgarian-French theorist; coined narratology"
+  },
+  {
+   "name": "Gerard Genette",
+   "where": "Narrative Discourse (1972)",
+   "note": "French narratologist; focalization, diegesis levels"
+  },
+  {
+   "name": "Jonathan Culler",
+   "where": "Structuralist Poetics (1975)",
+   "note": "American critic; literary competence"
+  },
+  {
+   "name": "Roland Barthes",
+   "where": "Mythologies (1957), S/Z (1970)",
+   "note": "French semiotician; Death of the Author, readerly/writerly"
+  },
+  {
+   "name": "Jacques Derrida",
+   "where": "Of Grammatology (1967)",
+   "note": "French philosopher; founder of deconstruction, differance"
+  },
+  {
+   "name": "Paul de Man",
+   "where": "Allegories of Reading (1979)",
+   "note": "Belgian-American Yale critic; rhetoric and aporia"
+  },
+  {
+   "name": "J. Hillis Miller",
+   "where": "The Critic as Host (1977)",
+   "note": "Yale School deconstructionist"
+  },
+  {
+   "name": "Michel Foucault",
+   "where": "Discipline and Punish (1975)",
+   "note": "French historian of ideas; discourse, power/knowledge, episteme"
+  },
+  {
+   "name": "Sigmund Freud",
+   "where": "The Interpretation of Dreams (1900)",
+   "note": "Founder of psychoanalysis; unconscious, Oedipus complex"
+  },
+  {
+   "name": "Carl Jung",
+   "where": "Analytical psychology",
+   "note": "Swiss psychiatrist; collective unconscious and archetypes"
+  },
+  {
+   "name": "Ernest Jones",
+   "where": "Hamlet and Oedipus (1949)",
+   "note": "Freud's biographer; Oedipal reading of Hamlet"
+  },
+  {
+   "name": "Northrop Frye",
+   "where": "Anatomy of Criticism (1957)",
+   "note": "Canadian critic; archetypal or myth criticism"
+  },
+  {
+   "name": "Harold Bloom",
+   "where": "The Anxiety of Influence (1973)",
+   "note": "American critic; strong poets, misprision, revisionary ratios"
+  },
+  {
+   "name": "Norman Holland",
+   "where": "5 Readers Reading (1975)",
+   "note": "American psychoanalytic reader-response critic; identity theme"
+  },
+  {
+   "name": "Jacques Lacan",
+   "where": "Ecrits (1966)",
+   "note": "French psychoanalyst; mirror stage, Imaginary-Symbolic-Real"
+  },
+  {
+   "name": "Laura Mulvey",
+   "where": "Visual Pleasure and Narrative Cinema (1975)",
+   "note": "British film theorist; coined the male gaze"
+  },
+  {
+   "name": "Slavoj Zizek",
+   "where": "The Sublime Object of Ideology (1989)",
+   "note": "Slovenian thinker; popularises Lacan through popular culture"
+  },
+  {
+   "name": "Louis Althusser",
+   "where": "Ideology and Ideological State Apparatuses (1970)",
+   "note": "French Marxist; interpellation, ISA/RSA"
+  },
+  {
+   "name": "Pierre Macherey",
+   "where": "A Theory of Literary Production (1966)",
+   "note": "Althusser's student; silences and the not-said"
+  },
+  {
+   "name": "Georg Lukacs",
+   "where": "The Historical Novel (1937)",
+   "note": "Hungarian Marxist; champion of realism, critic of modernism"
+  },
+  {
+   "name": "Antonio Gramsci",
+   "where": "Prison Notebooks (1929-35)",
+   "note": "Italian Marxist; hegemony, subaltern"
+  },
+  {
+   "name": "Raymond Williams",
+   "where": "Marxism and Literature (1977)",
+   "note": "Welsh critic; structure of feeling, cultural materialism"
+  },
+  {
+   "name": "Theodor Adorno",
+   "where": "Dialectic of Enlightenment (1944/47, with Horkheimer)",
+   "note": "Frankfurt School; culture industry"
+  },
+  {
+   "name": "Walter Benjamin",
+   "where": "The Work of Art in the Age of Mechanical Reproduction (1935/36)",
+   "note": "German critic; loss of aura"
+  },
+  {
+   "name": "Stuart Hall",
+   "where": "Encoding/Decoding (1973)",
+   "note": "Birmingham cultural studies; preferred, negotiated, oppositional readings"
+  },
+  {
+   "name": "Terry Eagleton",
+   "where": "Literary Theory: An Introduction (1983)",
+   "note": "British Marxist critic; literature as ideology"
+  },
+  {
+   "name": "Fredric Jameson",
+   "where": "The Political Unconscious (1981)",
+   "note": "American Marxist; Always historicize, late capitalism"
+  },
+  {
+   "name": "Louise Rosenblatt",
+   "where": "The Reader, the Text, the Poem (1978)",
+   "note": "American; transactional theory, efferent vs aesthetic reading"
+  },
+  {
+   "name": "Wolfgang Iser",
+   "where": "The Act of Reading (1976)",
+   "note": "Konstanz School; implied reader, gaps"
+  },
+  {
+   "name": "Hans Robert Jauss",
+   "where": "Literary History as a Challenge to Literary Theory (1967)",
+   "note": "Konstanz School; horizon of expectations"
+  },
+  {
+   "name": "Stanley Fish",
+   "where": "Is There a Text in This Class? (1980)",
+   "note": "American; interpretive communities, affective stylistics"
+  },
+  {
+   "name": "Umberto Eco",
+   "where": "The Role of the Reader (1979)",
+   "note": "Italian semiotician; open and closed texts, model reader"
+  },
+  {
+   "name": "Wayne Booth",
+   "where": "The Rhetoric of Fiction (1961)",
+   "note": "Chicago critic; implied author, unreliable narrator"
+  },
+  {
+   "name": "Simone de Beauvoir",
+   "where": "The Second Sex (1949)",
+   "note": "French existentialist; woman as the Other"
+  },
+  {
+   "name": "Kate Millett",
+   "where": "Sexual Politics (1970)",
+   "note": "American feminist; patriarchy in male writers"
+  },
+  {
+   "name": "Elaine Showalter",
+   "where": "A Literature of Their Own (1977)",
+   "note": "American; gynocriticism, three phases"
+  },
+  {
+   "name": "Sandra Gilbert and Susan Gubar",
+   "where": "The Madwoman in the Attic (1979)",
+   "note": "American feminist critics; anxiety of authorship"
+  },
+  {
+   "name": "Alice Walker",
+   "where": "In Search of Our Mothers' Gardens (1983)",
+   "note": "African American novelist; coined womanism"
+  },
+  {
+   "name": "Helene Cixous",
+   "where": "The Laugh of the Medusa (1975)",
+   "note": "French feminist; ecriture feminine"
+  },
+  {
+   "name": "Julia Kristeva",
+   "where": "Revolution in Poetic Language (1974)",
+   "note": "Bulgarian-French; intertextuality, semiotic/symbolic, abjection"
+  },
+  {
+   "name": "Luce Irigaray",
+   "where": "This Sex Which Is Not One (1977)",
+   "note": "Belgian-French feminist; parler-femme, mimicry"
+  },
+  {
+   "name": "Judith Butler",
+   "where": "Gender Trouble (1990)",
+   "note": "American philosopher; gender performativity"
+  },
+  {
+   "name": "Edward Said",
+   "where": "Orientalism (1978)",
+   "note": "Palestinian-American; Orientalism, contrapuntal reading"
+  },
+  {
+   "name": "Gayatri Chakravorty Spivak",
+   "where": "Can the Subaltern Speak? (1988)",
+   "note": "Indian theorist; subaltern, strategic essentialism, translated Derrida"
+  },
+  {
+   "name": "Homi K. Bhabha",
+   "where": "The Location of Culture (1994)",
+   "note": "Indian-born theorist; hybridity, mimicry, Third Space"
+  },
+  {
+   "name": "Frantz Fanon",
+   "where": "The Wretched of the Earth (1961)",
+   "note": "Martinican psychiatrist; colonial psychology, decolonization"
+  },
+  {
+   "name": "Ngugi wa Thiong'o",
+   "where": "Decolonising the Mind (1986)",
+   "note": "Kenyan writer; abandoned English for Gikuyu"
+  },
+  {
+   "name": "Chinua Achebe",
+   "where": "An Image of Africa (1975)",
+   "note": "Nigerian novelist; called Conrad a racist"
+  },
+  {
+   "name": "Aime Cesaire",
+   "where": "Discourse on Colonialism (1950)",
+   "note": "Martinican poet; co-founder of Negritude"
+  },
+  {
+   "name": "Ranajit Guha",
+   "where": "Subaltern Studies (from 1982)",
+   "note": "Indian historian; founded Subaltern Studies group"
+  },
+  {
+   "name": "Stephen Greenblatt",
+   "where": "Renaissance Self-Fashioning (1980)",
+   "note": "American; coined New Historicism, cultural poetics"
+  },
+  {
+   "name": "Louis Montrose",
+   "where": "Professing the Renaissance (1989)",
+   "note": "New Historicist; historicity of texts, textuality of history"
+  },
+  {
+   "name": "Clifford Geertz",
+   "where": "The Interpretation of Cultures (1973)",
+   "note": "American anthropologist; thick description"
+  },
+  {
+   "name": "Hayden White",
+   "where": "Metahistory (1973)",
+   "note": "American historian; history as emplotted narrative"
+  },
+  {
+   "name": "Jonathan Dollimore and Alan Sinfield",
+   "where": "Political Shakespeare (1985)",
+   "note": "British cultural materialists"
+  },
+  {
+   "name": "William Rueckert",
+   "where": "Literature and Ecology (1978)",
+   "note": "American critic; coined ecocriticism"
+  },
+  {
+   "name": "Cheryll Glotfelty",
+   "where": "The Ecocriticism Reader (1996)",
+   "note": "American; co-edited the first ecocriticism anthology, ASLE co-founder"
+  },
+  {
+   "name": "Lawrence Buell",
+   "where": "The Environmental Imagination (1995)",
+   "note": "American; waves of ecocriticism"
+  },
+  {
+   "name": "Jonathan Bate",
+   "where": "Romantic Ecology (1991)",
+   "note": "British; green reading of Wordsworth"
+  },
+  {
+   "name": "Jean-Francois Lyotard",
+   "where": "The Postmodern Condition (1979)",
+   "note": "French; incredulity toward metanarratives"
+  },
+  {
+   "name": "Jean Baudrillard",
+   "where": "Simulacra and Simulation (1981)",
+   "note": "French; simulacra and hyperreality"
+  },
+  {
+   "name": "Linda Hutcheon",
+   "where": "A Poetics of Postmodernism (1988)",
+   "note": "Canadian; historiographic metafiction"
+  },
+  {
+   "name": "Mikhail Bakhtin",
+   "where": "The Dialogic Imagination (1975/1981)",
+   "note": "Russian; dialogism, heteroglossia, carnivalesque, chronotope"
+  },
+  {
+   "name": "Eve Kosofsky Sedgwick",
+   "where": "Epistemology of the Closet (1990)",
+   "note": "American; homosocial desire, founder of queer theory"
+  },
+  {
+   "name": "Teresa de Lauretis",
+   "where": "differences special issue (1991)",
+   "note": "Italian-American; coined queer theory"
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "Writing Degree Zero (1953) was written by:",
+   "options": [
+    "Roland Barthes",
+    "Jacques Derrida",
+    "Michel Foucault",
+    "Jacques Lacan"
+   ],
+   "answer": 0,
+   "exp": "Barthes ki pehli kitaab, 1953 - writing ki 'zero degree' style."
+  },
+  {
+   "q": "'The World of Wrestling' is the opening essay of:",
+   "options": [
+    "Image-Music-Text",
+    "S/Z",
+    "Mythologies",
+    "The Pleasure of the Text"
+   ],
+   "answer": 2,
+   "exp": "Barthes ki Mythologies (1957) mein wrestling, wine, toys par essays hain."
+  },
+  {
+   "q": "Gerard Genette's Narrative Discourse is built mainly on a reading of:",
+   "options": [
+    "Flaubert's Madame Bovary",
+    "Joyce's Ulysses",
+    "Proust's In Search of Lost Time",
+    "Cervantes's Don Quixote"
+   ],
+   "answer": 2,
+   "exp": "Genette ne order, duration, frequency, mood, voice Proust par samjhaaye."
+  },
+  {
+   "q": "In Genette's terms, a narrator who is also a character in the story he tells is:",
+   "options": [
+    "Heterodiegetic",
+    "Homodiegetic",
+    "Extradiegetic only",
+    "Metadiegetic"
+   ],
+   "answer": 1,
+   "exp": "Homo = same: narrator kahani ke andar maujood hai."
+  },
+  {
+   "q": "How many functions does Vladimir Propp identify in Morphology of the Folktale?",
+   "options": [
+    "36",
+    "7",
+    "21",
+    "31"
+   ],
+   "answer": 3,
+   "exp": "Propp: 31 functions aur 7 spheres of action."
+  },
+  {
+   "q": "In Of Grammatology Derrida develops the logic of the 'supplement' through a reading of:",
+   "options": [
+    "Hegel",
+    "Plato",
+    "Rousseau",
+    "Husserl"
+   ],
+   "answer": 2,
+   "exp": "Rousseau writing ko speech ka 'dangerous supplement' kehte hain."
+  },
+  {
+   "q": "Derrida's essay 'Plato's Pharmacy' appears in:",
+   "options": [
+    "Margins of Philosophy",
+    "Writing and Difference",
+    "Dissemination",
+    "Positions"
+   ],
+   "answer": 2,
+   "exp": "Dissemination (1972) mein pharmakon = dawa bhi, zeher bhi."
+  },
+  {
+   "q": "Allegories of Reading (1979) was written by:",
+   "options": [
+    "J. Hillis Miller",
+    "Paul de Man",
+    "Geoffrey Hartman",
+    "Harold Bloom"
+   ],
+   "answer": 1,
+   "exp": "Paul de Man, Yale School ka deconstructionist."
+  },
+  {
+   "q": "The concept of the 'author function' is proposed in Foucault's:",
+   "options": [
+    "What Is an Author?",
+    "The Order of Things",
+    "The Archaeology of Knowledge",
+    "Madness and Civilization"
+   ],
+   "answer": 0,
+   "exp": "'What Is an Author?' (1969) - author ek discourse ka function hai."
+  },
+  {
+   "q": "In The History of Sexuality, Volume 1, Foucault questions:",
+   "options": [
+    "The death drive",
+    "The repressive hypothesis",
+    "The mirror stage",
+    "The anxiety of influence"
+   ],
+   "answer": 1,
+   "exp": "Foucault: Victorian daur mein sex dabaaya nahi, uske baare mein discourse badha."
+  },
+  {
+   "q": "Which of the following is NOT one of Harold Bloom's revisionary ratios?",
+   "options": [
+    "Tessera",
+    "Clinamen",
+    "Catharsis",
+    "Kenosis"
+   ],
+   "answer": 2,
+   "exp": "Bloom ke 6 ratios: clinamen, tessera, kenosis, daemonization, askesis, apophrades. Catharsis Aristotle ka hai."
+  },
+  {
+   "q": "For Carl Jung, archetypes reside in the:",
+   "options": [
+    "Superego",
+    "Personal unconscious",
+    "Collective unconscious",
+    "Symbolic order"
+   ],
+   "answer": 2,
+   "exp": "Jung: archetypes poori insaaniyat ke saanjhe collective unconscious mein."
+  },
+  {
+   "q": "Which of the following is NOT one of Lacan's three orders?",
+   "options": [
+    "The Real",
+    "The Imaginary",
+    "The Symbolic",
+    "The Semiotic"
+   ],
+   "answer": 3,
+   "exp": "Semiotic Kristeva ka term hai; Lacan: Imaginary, Symbolic, Real."
+  },
+  {
+   "q": "Lacan's seminar, critiqued by Derrida in 'The Purveyor of Truth', reads:",
+   "options": [
+    "Poe's The Purloined Letter",
+    "Hoffmann's The Sandman",
+    "James's The Turn of the Screw",
+    "Poe's The Fall of the House of Usher"
+   ],
+   "answer": 0,
+   "exp": "Lacan ka Seminar on 'The Purloined Letter'; Derrida ne jawab diya."
+  },
+  {
+   "q": "Freud's essay 'The Uncanny' (1919) discusses:",
+   "options": [
+    "Sophocles's Oedipus Rex",
+    "Shakespeare's Hamlet",
+    "Hoffmann's The Sandman",
+    "Jensen's Gradiva"
+   ],
+   "answer": 2,
+   "exp": "Uncanny = jaana-pehchaana jo ajeeb lage; Sandman ki kahani."
+  },
+  {
+   "q": "Which of the following is a Repressive State Apparatus for Althusser?",
+   "options": [
+    "The church",
+    "The police",
+    "The school",
+    "The family"
+   ],
+   "answer": 1,
+   "exp": "RSA force se chalta hai (police, army); church, school, family ISA hain."
+  },
+  {
+   "q": "The concept of 'structure of feeling' is associated with:",
+   "options": [
+    "Terry Eagleton",
+    "Raymond Williams",
+    "Georg Lukacs",
+    "Lucien Goldmann"
+   ],
+   "answer": 1,
+   "exp": "Williams: ek daur ka jiya hua anubhav, structure of feeling."
+  },
+  {
+   "q": "The term 'culture industry' was introduced by:",
+   "options": [
+    "Benjamin and Brecht",
+    "Adorno and Horkheimer",
+    "Marcuse and Fromm",
+    "Habermas and Lukacs"
+   ],
+   "answer": 1,
+   "exp": "Dialectic of Enlightenment mein 'The Culture Industry' chapter."
+  },
+  {
+   "q": "The decline of the 'aura' of the artwork is discussed by:",
+   "options": [
+    "Antonio Gramsci",
+    "Theodor Adorno",
+    "Herbert Marcuse",
+    "Walter Benjamin"
+   ],
+   "answer": 3,
+   "exp": "Benjamin, 'The Work of Art in the Age of Mechanical Reproduction' (1936)."
+  },
+  {
+   "q": "Hegemony as rule by consent rather than force is a key concept of:",
+   "options": [
+    "Georg Lukacs",
+    "Louis Althusser",
+    "Antonio Gramsci",
+    "Pierre Macherey"
+   ],
+   "answer": 2,
+   "exp": "Gramsci ki Prison Notebooks."
+  },
+  {
+   "q": "Fredric Jameson describes postmodern pastiche as:",
+   "options": [
+    "Blank parody",
+    "Historiographic metafiction",
+    "A simulacrum of the third order",
+    "Carnival laughter"
+   ],
+   "answer": 0,
+   "exp": "Jameson: pastiche = bina vyangya ki nakal, 'blank parody'."
+  },
+  {
+   "q": "Criticism and Ideology (1976) was written by:",
+   "options": [
+    "Pierre Macherey",
+    "Raymond Williams",
+    "Terry Eagleton",
+    "Fredric Jameson"
+   ],
+   "answer": 2,
+   "exp": "Eagleton ki 1976 ki Marxist kitaab."
+  },
+  {
+   "q": "The idea that the reader fills 'gaps' or 'blanks' in the text is central to:",
+   "options": [
+    "Wolfgang Iser",
+    "Hans Robert Jauss",
+    "Stanley Fish",
+    "Norman Holland"
+   ],
+   "answer": 0,
+   "exp": "Iser: The Implied Reader, The Act of Reading."
+  },
+  {
+   "q": "The concept of 'interpretive communities' belongs to:",
+   "options": [
+    "Wolfgang Iser",
+    "Stanley Fish",
+    "Hans Robert Jauss",
+    "Jonathan Culler"
+   ],
+   "answer": 1,
+   "exp": "Fish: meaning reader ki community tay karti hai."
+  },
+  {
+   "q": "Iser and Jauss are associated with the:",
+   "options": [
+    "Geneva School",
+    "Konstanz School",
+    "Yale School",
+    "Chicago School"
+   ],
+   "answer": 1,
+   "exp": "Dono Konstanz University (Germany) se - reception theory."
+  },
+  {
+   "q": "Norman Holland's psychoanalytic reader-response theory centres on the reader's:",
+   "options": [
+    "Horizon of expectations",
+    "Identity theme",
+    "Interpretive community",
+    "Implied reader"
+   ],
+   "answer": 1,
+   "exp": "Holland, 5 Readers Reading (1975)."
+  },
+  {
+   "q": "In The Second Sex, Beauvoir argues that man is the Subject and woman is:",
+   "options": [
+    "The Other",
+    "The Abject",
+    "The subaltern",
+    "The Real"
+   ],
+   "answer": 0,
+   "exp": "'He is the Subject, he is the Absolute - she is the Other.'"
+  },
+  {
+   "q": "Showalter coined 'gynocriticism' in the essay:",
+   "options": [
+    "A Literature of Their Own",
+    "Towards a Feminist Poetics",
+    "Sexual Politics",
+    "The Madwoman in the Attic"
+   ],
+   "answer": 1,
+   "exp": "Towards a Feminist Poetics (1979): gynocritics = women as writers."
+  },
+  {
+   "q": "Which writer is NOT among those attacked in Kate Millett's Sexual Politics?",
+   "options": [
+    "Norman Mailer",
+    "D. H. Lawrence",
+    "Henry Miller",
+    "Virginia Woolf"
+   ],
+   "answer": 3,
+   "exp": "Millett ne Lawrence, Miller, Mailer aur Genet ki aalochana ki."
+  },
+  {
+   "q": "The title The Madwoman in the Attic refers to a character from:",
+   "options": [
+    "Wuthering Heights",
+    "Jane Eyre",
+    "Middlemarch",
+    "Frankenstein"
+   ],
+   "answer": 1,
+   "exp": "Bertha Mason, Rochester ki pagal patni, attic mein band."
+  },
+  {
+   "q": "Kristeva's distinction between the semiotic and the symbolic is developed in:",
+   "options": [
+    "Revolution in Poetic Language",
+    "Speculum of the Other Woman",
+    "Gender Trouble",
+    "The Newly Born Woman"
+   ],
+   "answer": 0,
+   "exp": "Revolution in Poetic Language (1974)."
+  },
+  {
+   "q": "Bodies That Matter (1993) was written by:",
+   "options": [
+    "Luce Irigaray",
+    "Eve Kosofsky Sedgwick",
+    "Judith Butler",
+    "Monique Wittig"
+   ],
+   "answer": 2,
+   "exp": "Butler ki Gender Trouble ke baad ki kitaab."
+  },
+  {
+   "q": "Said's notion of Orientalism as a discourse draws chiefly on:",
+   "options": [
+    "Jacques Lacan",
+    "Jacques Derrida",
+    "Michel Foucault",
+    "Roland Barthes"
+   ],
+   "answer": 2,
+   "exp": "Said ne Foucault ka discourse aur Gramsci ka hegemony use kiya."
+  },
+  {
+   "q": "In Culture and Imperialism, Said reads the Antigua plantation in:",
+   "options": [
+    "Mansfield Park",
+    "Emma",
+    "Persuasion",
+    "Pride and Prejudice"
+   ],
+   "answer": 0,
+   "exp": "Sir Thomas Bertram ki Antigua estate - contrapuntal reading."
+  },
+  {
+   "q": "Who translated Derrida's Of Grammatology into English (1976)?",
+   "options": [
+    "Homi K. Bhabha",
+    "Gayatri Chakravorty Spivak",
+    "Barbara Johnson",
+    "Alan Bass"
+   ],
+   "answer": 1,
+   "exp": "Spivak ka lamba translator's preface mashhoor hai."
+  },
+  {
+   "q": "The concept of the 'Third Space' of enunciation belongs to:",
+   "options": [
+    "Frantz Fanon",
+    "Edward Said",
+    "Gayatri Spivak",
+    "Homi K. Bhabha"
+   ],
+   "answer": 3,
+   "exp": "Bhabha, The Location of Culture (1994): hybridity, Third Space."
+  },
+  {
+   "q": "The preface to Fanon's The Wretched of the Earth was written by:",
+   "options": [
+    "Albert Memmi",
+    "Albert Camus",
+    "Aime Cesaire",
+    "Jean-Paul Sartre"
+   ],
+   "answer": 3,
+   "exp": "Sartre ne 1961 mein preface likha."
+  },
+  {
+   "q": "In Decolonising the Mind, Ngugi announces he will write in:",
+   "options": [
+    "Igbo",
+    "Swahili",
+    "Yoruba",
+    "Gikuyu"
+   ],
+   "answer": 3,
+   "exp": "Ngugi ne English chhodkar Gikuyu apnaayi."
+  },
+  {
+   "q": "Negritude is chiefly associated with:",
+   "options": [
+    "Edward Said and Gayatri Spivak",
+    "Frantz Fanon and Albert Memmi",
+    "Chinua Achebe and Wole Soyinka",
+    "Aime Cesaire and Leopold Senghor"
+   ],
+   "answer": 3,
+   "exp": "Cesaire aur Senghor - Black identity ka French-language movement."
+  },
+  {
+   "q": "The term 'strategic essentialism' is associated with:",
+   "options": [
+    "Gayatri Spivak",
+    "Homi Bhabha",
+    "Judith Butler",
+    "Julia Kristeva"
+   ],
+   "answer": 0,
+   "exp": "Spivak: political maqsad ke liye kuch der identity ko ek maan lena."
+  },
+  {
+   "q": "Match the theorists with their terms: (a) Derrida (b) Foucault (c) Althusser (d) Bhabha -- (i) interpellation (ii) differance (iii) hybridity (iv) episteme",
+   "options": [
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iv, b-ii, c-i, d-iii",
+    "a-ii, b-i, c-iv, d-iii",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 0,
+   "exp": "Derrida-differance, Foucault-episteme, Althusser-interpellation, Bhabha-hybridity."
+  },
+  {
+   "q": "Match the works with their authors: (a) Simulacra and Simulation (b) The Postmodern Condition (c) A Poetics of Postmodernism (d) Postmodernism, or, The Cultural Logic of Late Capitalism -- (i) Lyotard (ii) Jameson (iii) Baudrillard (iv) Hutcheon",
+   "options": [
+    "a-iv, b-i, c-iii, d-ii",
+    "a-i, b-iii, c-iv, d-ii",
+    "a-iii, b-i, c-ii, d-iv",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "answer": 3,
+   "exp": "Baudrillard 1981, Lyotard 1979, Hutcheon 1988, Jameson 1991."
+  },
+  {
+   "q": "Match the ecocritics with their works: (a) Cheryll Glotfelty (b) William Rueckert (c) Lawrence Buell (d) Greg Garrard -- (i) The Environmental Imagination (ii) Literature and Ecology: An Experiment in Ecocriticism (iii) Ecocriticism (New Critical Idiom) (iv) The Ecocriticism Reader (co-edited)",
+   "options": [
+    "a-iv, b-ii, c-i, d-iii",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-i, b-ii, c-iv, d-iii"
+   ],
+   "answer": 0,
+   "exp": "Glotfelty-Reader 1996, Rueckert-1978 essay, Buell-1995, Garrard-2004."
+  },
+  {
+   "q": "Match the Bakhtin-circle texts with what they are known for: (a) Problems of Dostoevsky's Poetics (b) Rabelais and His World (c) The Dialogic Imagination (d) Marxism and the Philosophy of Language -- (i) heteroglossia (ii) published under V. N. Voloshinov's name (iii) polyphony (iv) carnival",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "answer": 2,
+   "exp": "Dostoevsky-polyphony, Rabelais-carnival, Dialogic-heteroglossia, Voloshinov ke naam se Marxism and the Philosophy of Language."
+  },
+  {
+   "q": "Match the critics with their works or phrases: (a) Stephen Greenblatt (b) Louis Montrose (c) Jonathan Dollimore (d) Alan Sinfield -- (i) Radical Tragedy (ii) Renaissance Self-Fashioning (iii) Faultlines (iv) 'the textuality of history and the historicity of texts'",
+   "options": [
+    "a-ii, b-iv, c-i, d-iii",
+    "a-ii, b-i, c-iv, d-iii",
+    "a-iv, b-ii, c-i, d-iii",
+    "a-ii, b-iv, c-iii, d-i"
+   ],
+   "answer": 0,
+   "exp": "Greenblatt 1980, Montrose ka mashhoor phrase, Dollimore 1984, Sinfield 1992."
+  },
+  {
+   "q": "Match the thinkers with their works: (a) Freud (b) Jung (c) Lacan (d) Bloom -- (i) Ecrits (ii) The Interpretation of Dreams (iii) The Anxiety of Influence (iv) The Archetypes and the Collective Unconscious",
+   "options": [
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iv, b-ii, c-i, d-iii",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-ii, b-i, c-iv, d-iii"
+   ],
+   "answer": 2,
+   "exp": "Freud 1900, Jung archetypes, Lacan 1966, Bloom 1973."
+  },
+  {
+   "q": "Match the feminist critics with their works: (a) Toril Moi (b) Elaine Showalter (c) Kate Millett (d) Adrienne Rich -- (i) Sexual Politics (ii) Compulsory Heterosexuality and Lesbian Existence (iii) Sexual/Textual Politics (iv) A Literature of Their Own",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-i, b-iv, c-iii, d-ii",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-iv, b-iii, c-i, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Moi 1985, Showalter 1977, Millett 1970, Rich 1980."
+  },
+  {
+   "q": "Match the narratologists with their concepts: (a) Genette (b) Greimas (c) Propp (d) Todorov -- (i) actantial model (ii) focalization (iii) coined 'narratology' (iv) functions of the folktale",
+   "options": [
+    "a-ii, b-i, c-iii, d-iv",
+    "a-i, b-ii, c-iv, d-iii",
+    "a-ii, b-i, c-iv, d-iii",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "answer": 2,
+   "exp": "Genette-focalization, Greimas-actants, Propp-31 functions, Todorov-narratologie (1969)."
+  },
+  {
+   "q": "Match the queer theorists with their concepts: (a) Eve Kosofsky Sedgwick (b) Teresa de Lauretis (c) Michael Warner (d) Lee Edelman -- (i) heteronormativity (ii) homosocial desire (iii) reproductive futurism (iv) coined the term 'queer theory'",
+   "options": [
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iv, b-ii, c-i, d-iii",
+    "a-ii, b-i, c-iv, d-iii",
+    "a-ii, b-iv, c-i, d-iii"
+   ],
+   "answer": 3,
+   "exp": "Sedgwick-Between Men, de Lauretis-1990/91, Warner-heteronormativity, Edelman-No Future."
+  },
+  {
+   "q": "Match the Marxist critics with their works: (a) Georg Lukacs (b) Lucien Goldmann (c) Pierre Macherey (d) Walter Benjamin -- (i) The Hidden God (ii) The Historical Novel (iii) A Theory of Literary Production (iv) Illuminations",
+   "options": [
+    "a-ii, b-iii, c-i, d-iv",
+    "a-i, b-ii, c-iii, d-iv",
+    "a-ii, b-i, c-iii, d-iv",
+    "a-ii, b-i, c-iv, d-iii"
+   ],
+   "answer": 2,
+   "exp": "Lukacs-Historical Novel, Goldmann-Hidden God, Macherey-Literary Production, Benjamin-Illuminations."
+  },
+  {
+   "q": "Assertion (A): Saussure holds that the linguistic sign is arbitrary. Reason (R): There is no natural or necessary link between the signifier and the signified.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "R hi batata hai sign arbitrary kyon hai."
+  },
+  {
+   "q": "Assertion (A): Derrida's 'differance' combines the senses of 'to differ' and 'to defer'. Reason (R): Derrida holds that meaning is fully present in speech.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "A sahi; R galat - Derrida logocentrism aur presence ko hi challenge karte hain."
+  },
+  {
+   "q": "Assertion (A): Frantz Fanon wrote Black Skin, White Masks. Reason (R): Fanon was born in Martinique.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach, par janm-sthaan kitaab likhne ki wajah nahi."
+  },
+  {
+   "q": "Assertion (A): Showalter's gynocriticism studies women as writers. Reason (R): Showalter's A Literature of Their Own was published in 1990.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "A sahi; A Literature of Their Own 1977 mein aayi."
+  },
+  {
+   "q": "Assertion (A): In Discipline and Punish, Foucault argues that power is held only by the sovereign. Reason (R): Foucault sees power as diffuse and productive, circulating through institutions.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Foucault ke liye power har jagah failaa hua hai, sirf raja ke paas nahi."
+  },
+  {
+   "q": "Assertion (A): For Bhabha, colonial mimicry is ambivalent and can menace colonial authority. Reason (R): Mimicry produces a subject who is 'almost the same, but not quite'.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "'Not quite' wala farak hi mimicry ko khatarnaak banata hai."
+  },
+  {
+   "q": "Assertion (A): Cheryll Glotfelty coined the term 'ecocriticism' in 1996. Reason (R): Glotfelty co-edited The Ecocriticism Reader.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Term William Rueckert ne 1978 mein diya; R sahi hai."
+  },
+  {
+   "q": "Assertion (A): Ngugi wa Thiong'o wrote Decolonising the Mind. Reason (R): Ngugi was born in Kenya.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach, par R A ko explain nahi karta."
+  },
+  {
+   "q": "Arrange in chronological order: (i) S/Z (ii) Course in General Linguistics (iii) Structural Anthropology (iv) Morphology of the Folktale",
+   "options": [
+    "iv, ii, iii, i",
+    "ii, iv, iii, i",
+    "ii, iii, iv, i",
+    "ii, iv, i, iii"
+   ],
+   "answer": 1,
+   "exp": "1916, 1928, 1958, 1970."
+  },
+  {
+   "q": "Arrange Foucault's works in chronological order: (i) Discipline and Punish (ii) The Order of Things (iii) The History of Sexuality, Vol. 1 (iv) Madness and Civilization",
+   "options": [
+    "iv, ii, iii, i",
+    "ii, iv, i, iii",
+    "iv, ii, i, iii",
+    "iv, i, ii, iii"
+   ],
+   "answer": 2,
+   "exp": "1961, 1966, 1975, 1976."
+  },
+  {
+   "q": "Arrange in chronological order: (i) The Madwoman in the Attic (ii) A Room of One's Own (iii) Gender Trouble (iv) Sexual Politics",
+   "options": [
+    "iv, ii, i, iii",
+    "ii, iv, i, iii",
+    "ii, i, iv, iii",
+    "ii, iv, iii, i"
+   ],
+   "answer": 1,
+   "exp": "1929, 1970, 1979, 1990."
+  },
+  {
+   "q": "Arrange in chronological order: (i) The Location of Culture (ii) Black Skin, White Masks (iii) Can the Subaltern Speak? (iv) Orientalism",
+   "options": [
+    "ii, iv, iii, i",
+    "iv, ii, iii, i",
+    "ii, iii, iv, i",
+    "ii, iv, i, iii"
+   ],
+   "answer": 0,
+   "exp": "1952, 1978, 1988, 1994."
+  },
+  {
+   "q": "Arrange in chronological order: (i) A Poetics of Postmodernism (ii) Postmodernism, or, The Cultural Logic of Late Capitalism (iii) Simulacra and Simulation (iv) The Postmodern Condition",
+   "options": [
+    "iii, iv, i, ii",
+    "iv, iii, i, ii",
+    "iv, iii, ii, i",
+    "iv, i, iii, ii"
+   ],
+   "answer": 1,
+   "exp": "1979, 1981, 1988, 1991."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Ecrits (ii) Beyond the Pleasure Principle (iii) The Anxiety of Influence (iv) The Interpretation of Dreams",
+   "options": [
+    "iv, ii, i, iii",
+    "ii, iv, i, iii",
+    "iv, i, ii, iii",
+    "iv, ii, iii, i"
+   ],
+   "answer": 0,
+   "exp": "1900, 1920, 1966, 1973."
+  },
+  {
+   "q": "Arrange in chronological order: (i) The Ecocriticism Reader (ii) Silent Spring (iii) The Environmental Imagination (iv) Rueckert's 'Literature and Ecology: An Experiment in Ecocriticism'",
+   "options": [
+    "ii, iii, iv, i",
+    "iv, ii, iii, i",
+    "ii, iv, i, iii",
+    "ii, iv, iii, i"
+   ],
+   "answer": 3,
+   "exp": "1962, 1978, 1995, 1996."
+  },
+  {
+   "q": "Identify the correct statement:",
+   "options": [
+    "Propp's Morphology analyses Greek tragedies.",
+    "Saussure's Course in General Linguistics was published in his lifetime.",
+    "Levi-Strauss coined the term 'narratology'.",
+    "Jakobson links metaphor with the axis of selection and metonymy with the axis of combination."
+   ],
+   "answer": 3,
+   "exp": "Course 1916 mein maut ke baad chhapi; narratology Todorov ka; Propp ne Russian folktales padhi."
+  },
+  {
+   "q": "Identify the correct statement:",
+   "options": [
+    "New Historicism excludes non-literary texts.",
+    "Stephen Greenblatt coined 'cultural materialism'.",
+    "Political Shakespeare was edited by Greenblatt and Montrose.",
+    "Raymond Williams used the term 'cultural materialism'."
+   ],
+   "answer": 3,
+   "exp": "Political Shakespeare - Dollimore aur Sinfield; Greenblatt ne 'New Historicism' kaha."
+  },
+  {
+   "q": "Identify the correct statement:",
+   "options": [
+    "Spivak's 'Can the Subaltern Speak?' discusses the abolition of sati.",
+    "Said's Orientalism was published in 1968.",
+    "Bhabha wrote The Wretched of the Earth.",
+    "Ngugi's Decolonising the Mind argues for writing African literature in English."
+   ],
+   "answer": 0,
+   "exp": "Orientalism 1978; Wretched - Fanon; Ngugi ne English chhodi."
+  },
+  {
+   "q": "Identify the correct statement:",
+   "options": [
+    "Irigaray wrote 'The Laugh of the Medusa'.",
+    "Cixous, Irigaray and Kristeva are commonly grouped as French feminists.",
+    "Kristeva wrote This Sex Which Is Not One.",
+    "Butler's Gender Trouble appeared in 1979."
+   ],
+   "answer": 1,
+   "exp": "Medusa - Cixous; This Sex - Irigaray; Gender Trouble 1990."
+  },
+  {
+   "q": "Identify the correct statement:",
+   "options": [
+    "Rabelais and His World is a study of the Romantic lyric.",
+    "Bakhtin coined the term 'intertextuality'.",
+    "Bakhtin took Tolstoy's novels as the model of polyphony.",
+    "Bakhtin's 'chronotope' means the fusion of time and space in narrative."
+   ],
+   "answer": 3,
+   "exp": "Intertextuality - Kristeva; polyphony - Dostoevsky; Rabelais - carnival."
+  }
+ ]
+}

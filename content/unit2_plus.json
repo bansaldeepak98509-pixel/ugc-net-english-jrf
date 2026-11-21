@@ -1,0 +1,2524 @@
+{
+ "id": 2,
+ "pyq_focus": [
+  "Unit 2 (Poetry) se NET mein har paper mein 8-12 sawaal aate hain, isliye yeh sabse scoring unit hai.",
+  "Sabse zyada poochha jata hai: poem kis poet ki hai, famous line kis poem ki hai, aur collection kis saal chhapa.",
+  "Chronology wale sawaal (Milton, Pope, Romantic, Victorian, Yeats ke collections) almost har saal aate hain - saal yaad karo, kam se kam decade.",
+  "Match-the-following mein poet-poem, poem-character (Belinda, Achitophel, Sporus, Satan, Duke of Ferrara) aur stanza-poem jodne ko kehte hain.",
+  "Prosody aur forms bhi pakke hain: sonnet types, ottava rima, terza rima, Spenserian stanza, villanelle, sprung rhythm, metrical feet.",
+  "Romantic poets (Wordsworth ka Preface, Keats ki letters, Shelley ka Defence) aur Eliot-Yeats-Pound ka modern poetry sabse heavy area hai.",
+  "Indian English (Ezekiel, Ramanujan, Kamala Das, Kolatkar, Mahapatra) aur postcolonial (Walcott, Soyinka, Brathwaite) se 2018 ke baad zyada sawaal aaye hain.",
+  "Assertion-Reason mein dhyan do: dono sahi hon to bhi check karo ki R sach mein A ko explain karta hai ya nahi.",
+  "Taiyari ka tareeka: har din ek age padho, phir isi file ke works, quotes aur people ko flashcard ki tarah revise karo, aur MCQs do baar lagao."
+ ],
+ "easy": [
+  {
+   "title": "Old English Poetry (c. 450-1066)",
+   "story": "Bahut purane zamane mein England mein log aag ke paas baith kar veer yoddhaon ki kahaniyan gaate the, jaise hamare gaon mein Alha-Udal gaaye jaate hain. Sabse badi kahani Beowulf hai - ek hero jo Grendel naam ke rakshas, uski maa aur aakhir mein ek dragon se ladta hai. Is kavita mein rhyme nahi hoti, ek hi aawaz se shuru hone wale shabd (alliteration) baar baar aate hain. Samudra ko 'whale-road' kehte the - isko kenning kehte hain. Caedmon's Hymn sabse purani English kavita hai jo Bede ne likh kar bachayi.",
+   "trick": "'Bade Gande Dragon' = Beowulf ne Grendel, (Grendel ki maa) aur Dragon ko mara; aur 'C se Caedmon, C se sabse Pehla' yaad rakho."
+  },
+  {
+   "title": "Middle English Poetry (1066-c. 1500, excluding Chaucer)",
+   "story": "1066 mein Normans aaye aur French bolne lage, to English thodi badal gayi - jaise Hindi mein Angrezi shabd ghus gaye. Is daur mein bahadur knights ki kahaniyan (romance) chalti thi. Sir Gawain and the Green Knight mein ek hara aadmi kehta hai 'meri gardan kaato, ek saal baad main tumhari kaatunga'. Langland ki Piers Plowman ek sapne ki kahani hai jisme garib kisaan sabse achha insaan hai. Gower ne Confessio Amantis likhi.",
+   "trick": "'Green Gawain, Sapna Langland, Gower ka Confession' - Gawain hara, Langland sapne mein, Gower confession karta hai."
+  },
+  {
+   "title": "Geoffrey Chaucer (c. 1343-1400)",
+   "story": "Chaucer ko English poetry ka 'baap' kehte hain (Dryden ne yeh kaha). Socho ek bus mein alag alag log tirth yatra par ja rahe hain - knight, miller, Wife of Bath, Pardoner - aur time pass ke liye har koi ek kahani sunata hai. Yahi The Canterbury Tales hai. Host Harry Bailly kehta hai jiski kahani sabse achhi hogi use free khana milega. Troilus and Criseyde ek dukhi prem kahani hai jo rhyme royal mein hai.",
+   "trick": "'CT = Canterbury Tales = Chalti Train ki kahaniyan'; 'RR = Rhyme Royal = Raja ka ababbcc'."
+  },
+  {
+   "title": "Renaissance and Elizabethan Poetry",
+   "story": "Renaissance matlab nayi roshni - Italy se sonnet England aaya, jaise bahar se naya fashion aata hai. Wyatt aur Surrey sonnet laye, aur Surrey ne blank verse (bina rhyme ki pentameter) shuru ki. Spenser ne The Faerie Queene likhi jisme har knight ek guna (virtue) hai. Sidney ne Astrophil and Stella sonnets likhe aur Shakespeare ne 154 sonnets. Marlowe ne 'Come live with me and be my love' likha.",
+   "trick": "'Wyatt-Surrey Sonnet laaye, Surrey ne Sur bina rhyme ka (blank verse)'; Shakespeare ke sonnet = 154 = 'ek sau chauvan, ladki-ladka dono ke naam'."
+  },
+  {
+   "title": "Metaphysical and Cavalier Poets",
+   "story": "Metaphysical poet ajeeb, dimaagi tulna karte the - Donne kehta hai do premi compass ke do pairon jaise hain, ek ghoomta hai to doosra bhi jhukta hai. Isko conceit kehte hain. Dr Johnson ne inka naam 'metaphysical poets' rakha. Herbert, Vaughan, Crashaw dharmik kavitayein likhte the. Cavalier poets (Herrick, Lovelace) raja ke saathi the aur halki-phulki prem kavitayein likhte the: 'Gather ye rosebuds while ye may' - jab tak jawani hai maze karo.",
+   "trick": "'Donne ka Dimaag, Herrick ki Hasi' - Metaphysical = dimaag wale conceit, Cavalier = masti wale gaane."
+  },
+  {
+   "title": "John Milton (1608-1674)",
+   "story": "Milton andha ho gaya tha phir bhi usne sahayakon ko bol kar Paradise Lost likhwayi. Yeh Adam-Eve ke swarg se nikaale jaane ki kahani hai, aur Satan ka character itna dumdaar hai ki log use hi hero samajh lete hain. Pehle edition mein 10 books thi, baad mein 12. Lycidas uske dost Edward King ke doobne par likha shok-geet hai. Samson Agonistes mein andha Samson hai - bilkul Milton jaisa.",
+   "trick": "'Comus-Lycidas-Lost-Samson' = 'Kal Lado, Lo Saza' (1634, 1637, 1667, 1671) - order yaad rahega."
+  },
+  {
+   "title": "Neoclassical (Restoration and Augustan) and Transitional Poetry",
+   "story": "Is daur mein kavita bahut niyam se chalti thi, jaise school ki uniform - har do line rhyme karti thi (heroic couplet). Dryden aur Pope ne logon ka mazaak udane wali kavita (satire) likhi. Pope ki The Rape of the Lock mein ek ladki Belinda ke baalon ki lat kaatne ko itna bada bana diya jaise koi mahayuddh ho - yeh mock-epic hai. Baad mein Gray, Collins, Cowper aaye jinmein prakriti aur dukh wapas aane laga - inhe transitional ya pre-Romantic kehte hain.",
+   "trick": "'Dryden-Pope = Dono Pakke Couplet wale'; 'Baal ki lat = Belinda ki lat = Rape of the Lock'."
+  },
+  {
+   "title": "Romantic Poetry I: Blake, Wordsworth, Coleridge",
+   "story": "1798 mein Wordsworth aur Coleridge ne Lyrical Ballads chhapi aur kaha - kavita aam aadmi ki bhasha mein, gaon aur prakriti ke baare mein ho. Wordsworth ko daffodils aur pahad pasand the, Coleridge ko jaadu aur rahasya, jaise Ancient Mariner jo albatross maar kar musibat mein padta hai. Blake ne bachpan ki masoomiyat (Innocence) aur duniya ki kadwahat (Experience) ke geet likhe - Lamb aur Tyger. Yeh sab feelings ko sabse upar rakhte the.",
+   "trick": "'1798 = Lyrical Ballads = Romantic ka janamdin'; Blake = 'Lamb masoom, Tyger khatarnak'."
+  },
+  {
+   "title": "Romantic Poetry II: Byron, Shelley, Keats",
+   "story": "Yeh teeno jawani mein hi chal base - jaise teen tez tare jo jaldi bujh gaye. Byron bagawati aur mazakiya tha, Don Juan aur Childe Harold likhe. Shelley krantikaari tha - 'If Winter comes, can Spring be far behind?' Keats sundarta ka pujari tha aur 1819 mein usne mahaan odes likhe; 25 saal mein TB se mar gaya. Shelley ne Keats ki maut par Adonais likha.",
+   "trick": "'BSK = Bada Sundar Kavi': Byron 1824, Shelley 1822, Keats 1821 mein mare - ulta order: K-S-B."
+  },
+  {
+   "title": "Victorian Poetry",
+   "story": "Queen Victoria ke raaj mein science aur dharm ki ladai chal rahi thi, isliye kavita mein shak aur chinta aayi. Tennyson ne dost Hallam ki maut par In Memoriam likha. Browning ne dramatic monologue ko mashhoor kiya - My Last Duchess mein Duke apni maari hui biwi ki tasveer dikha raha hai. Arnold ki Dover Beach mein vishwas ka samundar peechhe hat raha hai. Hopkins ne sprung rhythm banaya.",
+   "trick": "'TBA = Tennyson-Browning-Arnold = Victorian ki Top Bench Army'; Browning = 'Bolta akela, sunta chupchaap' (dramatic monologue)."
+  },
+  {
+   "title": "Modern Poetry (1900-1939): Yeats, Eliot, Pound, Imagism, War Poets",
+   "story": "Pehle vishwa yuddh ke baad duniya toot-phoot gayi, aur kavita bhi tukdon mein likhi jane lagi. Eliot ki The Waste Land ek toota hua shehar hai jahan April sabse kroor mahina hai. Pound ne kaha 'Make it new' aur Imagism mein chhoti, saaf tasveer jaisi kavita likhi. Yeats Irish poet tha jisne kaha 'Things fall apart'. Owen jaise sainik kaviyon ne yuddh ki sachchai dikhayi.",
+   "trick": "'YEP = Yeats, Eliot, Pound - Modern ke teen YEP!'; Nobel: Yeats 1923, Eliot 1948 - '23 ka jawan, 48 ka budhaa'."
+  },
+  {
+   "title": "Thirties and Post-War British Poetry",
+   "story": "1930s mein Auden aur uske dost (Spender, MacNeice, Day-Lewis) politics aur samaj par likhte the - jaise college ke left-wing dost. Dylan Thomas bahut bhaavuk aur sangeetmay tha - 'Do not go gentle into that good night' apne bimaar pita ke liye. 1950s mein Movement ke poet (Larkin) bilkul seedhi, aam zindagi ki baat karte the. Ted Hughes janwaron ki taaqat aur Heaney Ireland ki mitti ke baare mein likhte the.",
+   "trick": "'Auden ka Group, Larkin ka Movement, Heaney ka Digging' - teen daur teen naam."
+  },
+  {
+   "title": "American Poetry",
+   "story": "America ki kavita ne apni alag pehchaan banayi. Whitman ne free verse mein poore desh ko gale lagaya - 'I celebrate myself'. Emily Dickinson ghar mein band rehkar chhoti chhoti dash wali kavitayein likhti rahi. Frost gaon ke raaston aur deewaron ki baat karta hai. Baad mein Ginsberg ke Beat poets aur Plath, Lowell jaise confessional poets ne apne dard ko khul kar likha.",
+   "trick": "'Whitman = Wide (khula free verse), Dickinson = Dash, Frost = Farm' - teen W-D-F."
+  },
+  {
+   "title": "Indian English Poetry",
+   "story": "Angrezon ke zamane mein Indian logon ne bhi English mein kavita shuru ki. Derozio pehle bade kavi the, Toru Dutt ne Our Casuarina Tree likha, aur Sarojini Naidu 'Nightingale of India' kehlayin. Tagore ko Gitanjali par 1913 mein Nobel mila. Azaadi ke baad Nissim Ezekiel ne modern Indian English poetry shuru ki - Night of the Scorpion mein maa ko bichhu kaat leta hai. Kamala Das, Ramanujan aur Kolatkar (Jejuri) bhi zaroori hain.",
+   "trick": "'DTS-TE' = Derozio, Toru, Sarojini, Tagore, Ezekiel - purane se naye tak; Ezekiel ka bichhu, Kolatkar ka mandir (Jejuri)."
+  },
+  {
+   "title": "Postcolonial and Commonwealth Poetry",
+   "story": "Jin deshon par angrezon ka raaj tha - Caribbean, Africa, Australia - wahan ke kaviyon ne English mein apni kahani boli, jaise koi ghar ki boli mein sasural ki shikayat kare. Walcott (St Lucia) ne Omeros mein Homer ki kahani Caribbean machhuaron par likhi aur 1992 mein Nobel jeeta. Soyinka ki Telephone Conversation mein ek angrez makaan-malkin rang poochhti hai. Brathwaite ne 'nation language' ki baat ki. Okot p'Bitek ki Lawino apne pati Ocol ke angrezi tareekon par taane maarti hai.",
+   "trick": "'Walcott = Waves (Caribbean samundar), Soyinka = Sound (telephone), Lawino = Lady ki shikayat'."
+  },
+  {
+   "title": "Prosody and Metre",
+   "story": "Kavita ki chaal ko metre kehte hain, jaise dil ki dhadkan 'da-DUM da-DUM'. Ek kamzor aur ek zor wala syllable mile to iamb banta hai, ulta ho to trochee. Paanch iamb ek line mein = iambic pentameter, jo English ki sabse common line hai. Bina rhyme ki iambic pentameter ko blank verse kehte hain. Line ke beech ka ruk-na caesura hai, aur line ka agli line mein beh jana enjambment.",
+   "trick": "'Iamb = i-AM (main hoon), Trochee = TRO-chee (pehle zor)'; 'Anapaest = 2 chhote 1 bada, Dactyl = ungli jaisa: 1 bada 2 chhote'."
+  },
+  {
+   "title": "Poetic Forms, Stanzas and Genres",
+   "story": "Kavita ke alag alag dibbe hote hain, jaise tiffin ke khane. Sonnet 14 line ka dibba hai, villanelle 19 line ka jisme do lines baar baar aati hain. Ode kisi cheez ki tareef ka lamba geet hai, elegy maut par shok-geet. Ottava rima mein 8 line (abababcc), terza rima mein teen-teen line ki zanjeer. Mock-epic chhoti baat ko mahakavya jaisa bada bana deta hai.",
+   "trick": "'14 Sonnet, 19 Villanelle, 39 Sestina' - 'Ek Chaar, Ek Nau, Teen Nau'; 'Ottava = Octo = 8'."
+  }
+ ],
+ "works": [
+  {
+   "author": "Anonymous",
+   "work": "Beowulf",
+   "year": "c. 8th-10th century",
+   "type": "epic poem",
+   "note": "Longest Old English epic; Grendel, his mother, dragon; single manuscript"
+  },
+  {
+   "author": "Caedmon",
+   "work": "Caedmon's Hymn",
+   "year": "c. 670",
+   "type": "religious poem",
+   "note": "Earliest recorded Old English poem, preserved by Bede"
+  },
+  {
+   "author": "Anonymous",
+   "work": "The Dream of the Rood",
+   "year": "c. 8th century",
+   "type": "dream-vision poem",
+   "note": "The Cross speaks; Vercelli Book; lines on Ruthwell Cross"
+  },
+  {
+   "author": "Anonymous",
+   "work": "The Wanderer",
+   "year": "Exeter Book, c. 975",
+   "type": "elegy",
+   "note": "Exeter Book elegy; ubi sunt theme of lost lords"
+  },
+  {
+   "author": "Anonymous",
+   "work": "The Seafarer",
+   "year": "Exeter Book, c. 975",
+   "type": "elegy",
+   "note": "Exeter Book elegy on sea-exile; translated by Ezra Pound"
+  },
+  {
+   "author": "Anonymous",
+   "work": "The Battle of Maldon",
+   "year": "after 991",
+   "type": "heroic poem",
+   "note": "Byrhtnoth's defeat by Vikings in 991"
+  },
+  {
+   "author": "Layamon",
+   "work": "Brut",
+   "year": "c. 1200",
+   "type": "verse chronicle",
+   "note": "First English account of King Arthur"
+  },
+  {
+   "author": "Pearl Poet (Gawain Poet)",
+   "work": "Sir Gawain and the Green Knight",
+   "year": "late 14th century",
+   "type": "romance",
+   "note": "Alliterative romance with bob and wheel; manuscript Cotton Nero A.x"
+  },
+  {
+   "author": "Pearl Poet (Gawain Poet)",
+   "work": "Pearl",
+   "year": "late 14th century",
+   "type": "dream-vision elegy",
+   "note": "Father's dream of his dead daughter, the Pearl-maiden"
+  },
+  {
+   "author": "William Langland",
+   "work": "Piers Plowman",
+   "year": "c. 1370-1390",
+   "type": "allegorical dream-vision",
+   "note": "Dreamer Will; survives in A, B and C texts"
+  },
+  {
+   "author": "John Gower",
+   "work": "Confessio Amantis",
+   "year": "1390",
+   "type": "poem",
+   "note": "Lover confesses to Genius; Chaucer called him 'moral Gower'"
+  },
+  {
+   "author": "William Dunbar",
+   "work": "Lament for the Makaris",
+   "year": "printed 1508",
+   "type": "elegy",
+   "note": "Scottish Chaucerian; refrain 'Timor mortis conturbat me'"
+  },
+  {
+   "author": "Geoffrey Chaucer",
+   "work": "The Book of the Duchess",
+   "year": "c. 1369-1370",
+   "type": "dream-vision elegy",
+   "note": "Elegy for Blanche of Lancaster, wife of John of Gaunt"
+  },
+  {
+   "author": "Geoffrey Chaucer",
+   "work": "The House of Fame",
+   "year": "c. 1379-1380",
+   "type": "dream-vision",
+   "note": "Dreamer carried by an eagle to Fame's house"
+  },
+  {
+   "author": "Geoffrey Chaucer",
+   "work": "The Parliament of Fowls",
+   "year": "c. 1380-1382",
+   "type": "dream-vision",
+   "note": "Birds choose mates on St Valentine's Day; rhyme royal"
+  },
+  {
+   "author": "Geoffrey Chaucer",
+   "work": "Troilus and Criseyde",
+   "year": "c. 1385",
+   "type": "narrative poem",
+   "note": "Rhyme royal tragedy; Pandarus; dedicated to 'moral Gower'"
+  },
+  {
+   "author": "Geoffrey Chaucer",
+   "work": "The Canterbury Tales",
+   "year": "c. 1387-1400",
+   "type": "frame-tale poem",
+   "note": "Pilgrims to Becket's shrine; General Prologue opens 'Whan that Aprill'"
+  },
+  {
+   "author": "Wyatt, Surrey and others",
+   "work": "Tottel's Miscellany (Songes and Sonettes)",
+   "year": "1557",
+   "type": "anthology",
+   "note": "First printed English poetry anthology; Wyatt and Surrey sonnets"
+  },
+  {
+   "author": "Edmund Spenser",
+   "work": "The Shepheardes Calender",
+   "year": "1579",
+   "type": "pastoral eclogues",
+   "note": "Twelve eclogues, one per month; Colin Clout; dedicated to Sidney"
+  },
+  {
+   "author": "Edmund Spenser",
+   "work": "The Faerie Queene",
+   "year": "1590 (I-III), 1596 (IV-VI)",
+   "type": "allegorical epic",
+   "note": "Spenserian stanza; Gloriana; each book a knightly virtue"
+  },
+  {
+   "author": "Edmund Spenser",
+   "work": "Amoretti and Epithalamion",
+   "year": "1595",
+   "type": "sonnet sequence and wedding ode",
+   "note": "Courtship and marriage to Elizabeth Boyle; Spenserian sonnet"
+  },
+  {
+   "author": "Edmund Spenser",
+   "work": "Prothalamion",
+   "year": "1596",
+   "type": "spousal verse",
+   "note": "Refrain 'Sweet Thames, run softly, till I end my song'"
+  },
+  {
+   "author": "Sir Philip Sidney",
+   "work": "Astrophil and Stella",
+   "year": "1591",
+   "type": "sonnet sequence",
+   "note": "108 sonnets and 11 songs; Stella linked with Penelope Rich"
+  },
+  {
+   "author": "Sir Philip Sidney",
+   "work": "An Apology for Poetry (The Defence of Poesy)",
+   "year": "1595",
+   "type": "critical essay",
+   "note": "Defends poetry against Gosson; poet as maker"
+  },
+  {
+   "author": "Christopher Marlowe",
+   "work": "Hero and Leander",
+   "year": "1598",
+   "type": "epyllion",
+   "note": "Unfinished; completed by George Chapman"
+  },
+  {
+   "author": "Christopher Marlowe",
+   "work": "The Passionate Shepherd to His Love",
+   "year": "1599",
+   "type": "pastoral lyric",
+   "note": "'Come live with me and be my love'; Raleigh replied"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "Venus and Adonis",
+   "year": "1593",
+   "type": "narrative poem",
+   "note": "Dedicated to Earl of Southampton; sixain stanza"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "The Rape of Lucrece",
+   "year": "1594",
+   "type": "narrative poem",
+   "note": "Rhyme royal; dedicated to Southampton"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "Sonnets",
+   "year": "1609",
+   "type": "sonnet sequence",
+   "note": "154 sonnets; Fair Youth, Dark Lady, Rival Poet; 'Mr. W.H.'"
+  },
+  {
+   "author": "Michael Drayton",
+   "work": "Idea",
+   "year": "1594",
+   "type": "sonnet sequence",
+   "note": "Contains 'Since there's no help, come let us kiss and part'"
+  },
+  {
+   "author": "John Donne",
+   "work": "Poems (Songs and Sonnets)",
+   "year": "1633",
+   "type": "lyric collection",
+   "note": "Posthumous; 'The Flea', 'The Canonization', 'The Sun Rising'"
+  },
+  {
+   "author": "John Donne",
+   "work": "Holy Sonnets",
+   "year": "1633",
+   "type": "religious sonnets",
+   "note": "'Death, be not proud'; 'Batter my heart, three-person'd God'"
+  },
+  {
+   "author": "George Herbert",
+   "work": "The Temple",
+   "year": "1633",
+   "type": "religious lyrics",
+   "note": "'The Collar', 'Easter Wings', 'The Pulley', 'Virtue'"
+  },
+  {
+   "author": "Henry Vaughan",
+   "work": "Silex Scintillans",
+   "year": "1650",
+   "type": "religious lyrics",
+   "note": "'The Retreat', 'The World' ('I saw Eternity the other night')"
+  },
+  {
+   "author": "Andrew Marvell",
+   "work": "Miscellaneous Poems",
+   "year": "1681",
+   "type": "lyric collection",
+   "note": "Posthumous; 'To His Coy Mistress', 'The Garden'"
+  },
+  {
+   "author": "Abraham Cowley",
+   "work": "Pindarique Odes",
+   "year": "1656",
+   "type": "odes",
+   "note": "Introduced irregular (Cowleyan) Pindaric ode"
+  },
+  {
+   "author": "Ben Jonson",
+   "work": "Works (Epigrams and The Forest)",
+   "year": "1616",
+   "type": "poems",
+   "note": "'On My First Son', 'To Penshurst', 'Song: To Celia'"
+  },
+  {
+   "author": "Robert Herrick",
+   "work": "Hesperides",
+   "year": "1648",
+   "type": "lyric collection",
+   "note": "'To the Virgins, to Make Much of Time'; Cavalier"
+  },
+  {
+   "author": "Richard Lovelace",
+   "work": "Lucasta",
+   "year": "1649",
+   "type": "lyric collection",
+   "note": "'To Althea, from Prison'; 'Stone walls do not a prison make'"
+  },
+  {
+   "author": "John Milton",
+   "work": "L'Allegro and Il Penseroso",
+   "year": "c. 1631, pub. 1645",
+   "type": "companion lyrics",
+   "note": "Cheerful man versus contemplative man"
+  },
+  {
+   "author": "John Milton",
+   "work": "Comus (A Masque Presented at Ludlow Castle)",
+   "year": "1634",
+   "type": "masque",
+   "note": "The Lady, her brothers, Sabrina; virtue of chastity"
+  },
+  {
+   "author": "John Milton",
+   "work": "Lycidas",
+   "year": "1637",
+   "type": "pastoral elegy",
+   "note": "On Edward King drowned; 'Fresh woods, and pastures new'"
+  },
+  {
+   "author": "John Milton",
+   "work": "Paradise Lost",
+   "year": "1667 (10 books), 1674 (12 books)",
+   "type": "epic",
+   "note": "Blank verse epic of the Fall; Satan, Adam, Eve"
+  },
+  {
+   "author": "John Milton",
+   "work": "Paradise Regained",
+   "year": "1671",
+   "type": "brief epic",
+   "note": "Four books; Christ resists Satan's temptations in the wilderness"
+  },
+  {
+   "author": "John Milton",
+   "work": "Samson Agonistes",
+   "year": "1671",
+   "type": "closet tragedy",
+   "note": "Greek model; Samson, Dalila, Harapha, Manoa"
+  },
+  {
+   "author": "John Milton",
+   "work": "On His Blindness (Sonnet XIX)",
+   "year": "pub. 1673",
+   "type": "sonnet",
+   "note": "'They also serve who only stand and wait'"
+  },
+  {
+   "author": "Samuel Butler",
+   "work": "Hudibras",
+   "year": "1663-1678",
+   "type": "mock-heroic satire",
+   "note": "Satire on Puritans; octosyllabic 'Hudibrastic' couplets"
+  },
+  {
+   "author": "John Dryden",
+   "work": "Absalom and Achitophel",
+   "year": "1681",
+   "type": "political satire",
+   "note": "Exclusion Crisis; Achitophel = Shaftesbury, David = Charles II"
+  },
+  {
+   "author": "John Dryden",
+   "work": "Mac Flecknoe",
+   "year": "1682",
+   "type": "mock-heroic satire",
+   "note": "Shadwell crowned heir to Flecknoe's kingdom of dullness"
+  },
+  {
+   "author": "John Dryden",
+   "work": "The Hind and the Panther",
+   "year": "1687",
+   "type": "religious allegory",
+   "note": "Hind = Catholic Church, Panther = Church of England"
+  },
+  {
+   "author": "John Dryden",
+   "work": "Alexander's Feast",
+   "year": "1697",
+   "type": "ode",
+   "note": "St Cecilia's Day ode on the power of music"
+  },
+  {
+   "author": "Alexander Pope",
+   "work": "An Essay on Criticism",
+   "year": "1711",
+   "type": "verse essay",
+   "note": "'A little learning is a dangerous thing'"
+  },
+  {
+   "author": "Alexander Pope",
+   "work": "The Rape of the Lock",
+   "year": "1712 (2 cantos), 1714 (5 cantos)",
+   "type": "mock-epic",
+   "note": "Belinda's lock cut by the Baron; sylphs as machinery"
+  },
+  {
+   "author": "Alexander Pope",
+   "work": "The Dunciad",
+   "year": "1728; four-book version 1743",
+   "type": "mock-epic satire",
+   "note": "Dullness; hero Theobald, later Colley Cibber"
+  },
+  {
+   "author": "Alexander Pope",
+   "work": "An Essay on Man",
+   "year": "1733-1734",
+   "type": "philosophical poem",
+   "note": "'Whatever is, is right'; 'proper study of mankind is man'"
+  },
+  {
+   "author": "Alexander Pope",
+   "work": "Epistle to Dr Arbuthnot",
+   "year": "1735",
+   "type": "verse satire",
+   "note": "Portraits of Atticus (Addison) and Sporus (Lord Hervey)"
+  },
+  {
+   "author": "James Thomson",
+   "work": "The Seasons",
+   "year": "1726-1730",
+   "type": "descriptive blank verse",
+   "note": "Nature poetry anticipating Romanticism"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "The Vanity of Human Wishes",
+   "year": "1749",
+   "type": "verse satire",
+   "note": "Imitation of Juvenal's Tenth Satire"
+  },
+  {
+   "author": "Edward Young",
+   "work": "Night Thoughts",
+   "year": "1742-1745",
+   "type": "blank verse meditation",
+   "note": "Graveyard school; on life, death and immortality"
+  },
+  {
+   "author": "William Collins",
+   "work": "Odes on Several Descriptive and Allegoric Subjects",
+   "year": "1746",
+   "type": "odes",
+   "note": "Contains the unrhymed 'Ode to Evening'"
+  },
+  {
+   "author": "Thomas Gray",
+   "work": "Elegy Written in a Country Churchyard",
+   "year": "1751",
+   "type": "elegy",
+   "note": "Heroic quatrains; 'The paths of glory lead but to the grave'"
+  },
+  {
+   "author": "James Macpherson",
+   "work": "Fragments of Ancient Poetry; Fingal (Ossian)",
+   "year": "1760-1763",
+   "type": "poetic prose",
+   "note": "Claimed translations of the Gaelic bard Ossian"
+  },
+  {
+   "author": "Oliver Goldsmith",
+   "work": "The Deserted Village",
+   "year": "1770",
+   "type": "pastoral poem",
+   "note": "Village Auburn ruined by enclosure and luxury"
+  },
+  {
+   "author": "William Cowper",
+   "work": "The Task",
+   "year": "1785",
+   "type": "blank verse poem",
+   "note": "Begins with 'The Sofa'; 'God made the country'"
+  },
+  {
+   "author": "Robert Burns",
+   "work": "Poems, Chiefly in the Scottish Dialect",
+   "year": "1786",
+   "type": "lyric collection",
+   "note": "Kilmarnock edition; 'To a Mouse', Burns stanza"
+  },
+  {
+   "author": "William Blake",
+   "work": "Songs of Innocence",
+   "year": "1789",
+   "type": "lyrics",
+   "note": "'The Lamb', 'The Chimney Sweeper', 'Holy Thursday'"
+  },
+  {
+   "author": "William Blake",
+   "work": "Songs of Innocence and of Experience",
+   "year": "1794",
+   "type": "lyrics",
+   "note": "'Two Contrary States'; 'The Tyger', 'London'"
+  },
+  {
+   "author": "Wordsworth and Coleridge",
+   "work": "Lyrical Ballads",
+   "year": "1798",
+   "type": "poems",
+   "note": "Opens with Ancient Mariner, ends with Tintern Abbey; Preface 1800"
+  },
+  {
+   "author": "William Wordsworth",
+   "work": "Lines Composed a Few Miles above Tintern Abbey",
+   "year": "1798",
+   "type": "blank verse meditation",
+   "note": "Return to the Wye after five years; Dorothy addressed"
+  },
+  {
+   "author": "William Wordsworth",
+   "work": "Michael",
+   "year": "1800",
+   "type": "pastoral poem",
+   "note": "Shepherd Michael, son Luke, the unfinished sheepfold"
+  },
+  {
+   "author": "William Wordsworth",
+   "work": "Poems, in Two Volumes",
+   "year": "1807",
+   "type": "poems",
+   "note": "Immortality Ode, 'Resolution and Independence', 'Daffodils'"
+  },
+  {
+   "author": "William Wordsworth",
+   "work": "The Prelude",
+   "year": "1850 (posthumous; 1805 version)",
+   "type": "autobiographical poem",
+   "note": "'Growth of a Poet's Mind'; addressed to Coleridge"
+  },
+  {
+   "author": "S.T. Coleridge",
+   "work": "The Rime of the Ancient Mariner",
+   "year": "1798",
+   "type": "literary ballad",
+   "note": "Albatross shot; Wedding Guest; marginal gloss added 1817"
+  },
+  {
+   "author": "S.T. Coleridge",
+   "work": "Christabel; Kubla Khan; The Pains of Sleep",
+   "year": "1816",
+   "type": "poems",
+   "note": "Kubla Khan 'a vision in a dream'; Porlock interruption"
+  },
+  {
+   "author": "S.T. Coleridge",
+   "work": "Biographia Literaria",
+   "year": "1817",
+   "type": "critical autobiography",
+   "note": "Primary/secondary imagination, fancy; 'willing suspension of disbelief'"
+  },
+  {
+   "author": "Lord Byron",
+   "work": "Childe Harold's Pilgrimage",
+   "year": "1812-1818",
+   "type": "narrative poem",
+   "note": "Spenserian stanzas; 'awoke and found myself famous'"
+  },
+  {
+   "author": "Lord Byron",
+   "work": "Don Juan",
+   "year": "1819-1824",
+   "type": "comic epic",
+   "note": "Ottava rima; unfinished; Haidee episode in Canto II-IV"
+  },
+  {
+   "author": "P.B. Shelley",
+   "work": "Ozymandias",
+   "year": "1818",
+   "type": "sonnet",
+   "note": "Ruined statue; 'Look on my works, ye Mighty'"
+  },
+  {
+   "author": "P.B. Shelley",
+   "work": "Prometheus Unbound",
+   "year": "1820",
+   "type": "lyrical drama",
+   "note": "Prometheus, Asia, Demogorgon; overthrow of Jupiter"
+  },
+  {
+   "author": "P.B. Shelley",
+   "work": "Ode to the West Wind; To a Skylark",
+   "year": "1820",
+   "type": "odes",
+   "note": "Terza rima sonnets; 'If Winter comes...'"
+  },
+  {
+   "author": "P.B. Shelley",
+   "work": "Adonais",
+   "year": "1821",
+   "type": "pastoral elegy",
+   "note": "Elegy on Keats; Spenserian stanzas"
+  },
+  {
+   "author": "P.B. Shelley",
+   "work": "A Defence of Poetry",
+   "year": "written 1821, pub. 1840",
+   "type": "critical essay",
+   "note": "'Poets are the unacknowledged legislators of the world'"
+  },
+  {
+   "author": "John Keats",
+   "work": "On First Looking into Chapman's Homer",
+   "year": "1816",
+   "type": "sonnet",
+   "note": "Petrarchan sonnet; 'stout Cortez' error"
+  },
+  {
+   "author": "John Keats",
+   "work": "Lamia, Isabella, The Eve of St Agnes, and Other Poems",
+   "year": "1820",
+   "type": "poems",
+   "note": "Contains Hyperion fragment and the great odes"
+  },
+  {
+   "author": "John Keats",
+   "work": "La Belle Dame sans Merci",
+   "year": "written 1819",
+   "type": "literary ballad",
+   "note": "Knight-at-arms 'alone and palely loitering'"
+  },
+  {
+   "author": "John Keats",
+   "work": "Letters",
+   "year": "1817-1820",
+   "type": "letters",
+   "note": "Negative Capability; 'vale of Soul-making'; chameleon poet"
+  },
+  {
+   "author": "Alfred Tennyson",
+   "work": "Poems",
+   "year": "1842",
+   "type": "poems",
+   "note": "'Ulysses', 'Locksley Hall', 'Morte d'Arthur', revised 'Lady of Shalott'"
+  },
+  {
+   "author": "Alfred Tennyson",
+   "work": "In Memoriam A.H.H.",
+   "year": "1850",
+   "type": "elegy",
+   "note": "For Arthur Henry Hallam; In Memoriam stanza abba"
+  },
+  {
+   "author": "Alfred Tennyson",
+   "work": "Idylls of the King",
+   "year": "1859-1885",
+   "type": "Arthurian poems",
+   "note": "Twelve idylls in blank verse; Arthur, Guinevere, Lancelot"
+  },
+  {
+   "author": "Robert Browning",
+   "work": "Dramatic Lyrics",
+   "year": "1842",
+   "type": "poems",
+   "note": "'My Last Duchess', 'Porphyria's Lover', 'The Pied Piper'"
+  },
+  {
+   "author": "Robert Browning",
+   "work": "Men and Women",
+   "year": "1855",
+   "type": "poems",
+   "note": "'Andrea del Sarto', 'Fra Lippo Lippi', 'Childe Roland'"
+  },
+  {
+   "author": "Robert Browning",
+   "work": "The Ring and the Book",
+   "year": "1868-1869",
+   "type": "long poem",
+   "note": "Roman murder trial of 1698; twelve books"
+  },
+  {
+   "author": "Elizabeth Barrett Browning",
+   "work": "Sonnets from the Portuguese",
+   "year": "1850",
+   "type": "sonnet sequence",
+   "note": "44 Petrarchan sonnets; 'How do I love thee?'"
+  },
+  {
+   "author": "Elizabeth Barrett Browning",
+   "work": "Aurora Leigh",
+   "year": "1856",
+   "type": "verse novel",
+   "note": "Woman poet's life in nine books of blank verse"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "Thyrsis",
+   "year": "1866",
+   "type": "pastoral elegy",
+   "note": "Elegy for Arthur Hugh Clough"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "Dover Beach",
+   "year": "1867",
+   "type": "lyric",
+   "note": "'Sea of Faith'; 'ignorant armies clash by night'"
+  },
+  {
+   "author": "Edward FitzGerald",
+   "work": "Rubaiyat of Omar Khayyam",
+   "year": "1859",
+   "type": "translation",
+   "note": "Free rendering of Persian quatrains, aaba"
+  },
+  {
+   "author": "Christina Rossetti",
+   "work": "Goblin Market and Other Poems",
+   "year": "1862",
+   "type": "poems",
+   "note": "Sisters Laura and Lizzie; goblin fruit"
+  },
+  {
+   "author": "A.C. Swinburne",
+   "work": "Poems and Ballads",
+   "year": "1866",
+   "type": "poems",
+   "note": "Scandalous sensuality; 'Dolores', 'The Garden of Proserpine'"
+  },
+  {
+   "author": "G.M. Hopkins",
+   "work": "Poems",
+   "year": "1918",
+   "type": "poems",
+   "note": "Posthumous, edited by Robert Bridges; sprung rhythm"
+  },
+  {
+   "author": "Thomas Hardy",
+   "work": "Wessex Poems",
+   "year": "1898",
+   "type": "poems",
+   "note": "Hardy's first volume of verse"
+  },
+  {
+   "author": "A.E. Housman",
+   "work": "A Shropshire Lad",
+   "year": "1896",
+   "type": "lyric collection",
+   "note": "63 poems; 'To an Athlete Dying Young'"
+  },
+  {
+   "author": "W.B. Yeats",
+   "work": "Responsibilities",
+   "year": "1914",
+   "type": "poems",
+   "note": "'September 1913': 'Romantic Ireland's dead and gone'"
+  },
+  {
+   "author": "W.B. Yeats",
+   "work": "Michael Robartes and the Dancer",
+   "year": "1921",
+   "type": "poems",
+   "note": "'Easter, 1916' and 'The Second Coming'"
+  },
+  {
+   "author": "W.B. Yeats",
+   "work": "The Tower",
+   "year": "1928",
+   "type": "poems",
+   "note": "'Sailing to Byzantium', 'Leda and the Swan', 'Among School Children'"
+  },
+  {
+   "author": "T.S. Eliot",
+   "work": "Prufrock and Other Observations",
+   "year": "1917",
+   "type": "poems",
+   "note": "'The Love Song of J. Alfred Prufrock'"
+  },
+  {
+   "author": "T.S. Eliot",
+   "work": "Tradition and the Individual Talent",
+   "year": "1919",
+   "type": "critical essay",
+   "note": "Impersonal theory; poet as catalyst"
+  },
+  {
+   "author": "T.S. Eliot",
+   "work": "The Waste Land",
+   "year": "1922",
+   "type": "modernist poem",
+   "note": "Five sections; dedicated to Pound 'il miglior fabbro'"
+  },
+  {
+   "author": "T.S. Eliot",
+   "work": "Four Quartets",
+   "year": "1943 (collected)",
+   "type": "meditative poems",
+   "note": "Burnt Norton, East Coker, The Dry Salvages, Little Gidding"
+  },
+  {
+   "author": "Ezra Pound (ed.)",
+   "work": "Des Imagistes",
+   "year": "1914",
+   "type": "anthology",
+   "note": "First Imagist anthology"
+  },
+  {
+   "author": "Ezra Pound",
+   "work": "Hugh Selwyn Mauberley",
+   "year": "1920",
+   "type": "poem sequence",
+   "note": "'Life and Contacts'; farewell to London"
+  },
+  {
+   "author": "Ezra Pound",
+   "work": "The Cantos",
+   "year": "1917-1969",
+   "type": "long poem",
+   "note": "Unfinished modernist epic"
+  },
+  {
+   "author": "H.D. (Hilda Doolittle)",
+   "work": "Sea Garden",
+   "year": "1916",
+   "type": "poems",
+   "note": "Imagist volume; 'Oread'"
+  },
+  {
+   "author": "Rupert Brooke",
+   "work": "1914 and Other Poems",
+   "year": "1915",
+   "type": "poems",
+   "note": "War sonnets; 'The Soldier'"
+  },
+  {
+   "author": "Siegfried Sassoon",
+   "work": "Counter-Attack and Other Poems",
+   "year": "1918",
+   "type": "war poems",
+   "note": "Satiric war poems; 'Base Details', 'The General'"
+  },
+  {
+   "author": "Wilfred Owen",
+   "work": "Poems",
+   "year": "1920",
+   "type": "war poems",
+   "note": "Posthumous, edited by Sassoon; 'Strange Meeting'"
+  },
+  {
+   "author": "W.H. Auden",
+   "work": "Another Time",
+   "year": "1940",
+   "type": "poems",
+   "note": "'Musee des Beaux Arts', 'In Memory of W.B. Yeats'"
+  },
+  {
+   "author": "Louis MacNeice",
+   "work": "Autumn Journal",
+   "year": "1939",
+   "type": "long poem",
+   "note": "Diary of the Munich crisis months"
+  },
+  {
+   "author": "Dylan Thomas",
+   "work": "Deaths and Entrances",
+   "year": "1946",
+   "type": "poems",
+   "note": "'Fern Hill', 'A Refusal to Mourn'"
+  },
+  {
+   "author": "Robert Conquest (ed.)",
+   "work": "New Lines",
+   "year": "1956",
+   "type": "anthology",
+   "note": "Movement anthology"
+  },
+  {
+   "author": "Philip Larkin",
+   "work": "The Less Deceived",
+   "year": "1955",
+   "type": "poems",
+   "note": "'Church Going', 'Toads'"
+  },
+  {
+   "author": "Philip Larkin",
+   "work": "The Whitsun Weddings",
+   "year": "1964",
+   "type": "poems",
+   "note": "Title poem; 'An Arundel Tomb', 'MCMXIV'"
+  },
+  {
+   "author": "Ted Hughes",
+   "work": "The Hawk in the Rain",
+   "year": "1957",
+   "type": "poems",
+   "note": "Debut; 'The Thought-Fox'"
+  },
+  {
+   "author": "Ted Hughes",
+   "work": "Crow",
+   "year": "1970",
+   "type": "poem sequence",
+   "note": "Trickster Crow myth"
+  },
+  {
+   "author": "Seamus Heaney",
+   "work": "Death of a Naturalist",
+   "year": "1966",
+   "type": "poems",
+   "note": "'Digging', 'Mid-Term Break'"
+  },
+  {
+   "author": "Seamus Heaney",
+   "work": "North",
+   "year": "1975",
+   "type": "poems",
+   "note": "Bog poems: 'Punishment', 'The Grauballe Man'"
+  },
+  {
+   "author": "Carol Ann Duffy",
+   "work": "The World's Wife",
+   "year": "1999",
+   "type": "poems",
+   "note": "Wives of famous men speak; Mrs Midas"
+  },
+  {
+   "author": "Edgar Allan Poe",
+   "work": "The Raven and Other Poems",
+   "year": "1845",
+   "type": "poems",
+   "note": "'Quoth the Raven, Nevermore'; lost Lenore"
+  },
+  {
+   "author": "H.W. Longfellow",
+   "work": "The Song of Hiawatha",
+   "year": "1855",
+   "type": "narrative poem",
+   "note": "Trochaic tetrameter; Hiawatha and Minnehaha"
+  },
+  {
+   "author": "Walt Whitman",
+   "work": "Leaves of Grass",
+   "year": "1855",
+   "type": "poems",
+   "note": "Free verse; 'Song of Myself'; many revised editions"
+  },
+  {
+   "author": "Emily Dickinson",
+   "work": "Poems",
+   "year": "1890",
+   "type": "poems",
+   "note": "Posthumous, ed. Mabel Loomis Todd and T.W. Higginson"
+  },
+  {
+   "author": "Robert Frost",
+   "work": "North of Boston",
+   "year": "1914",
+   "type": "poems",
+   "note": "'Mending Wall', 'The Death of the Hired Man'"
+  },
+  {
+   "author": "Robert Frost",
+   "work": "New Hampshire",
+   "year": "1923",
+   "type": "poems",
+   "note": "'Stopping by Woods', 'Fire and Ice'; Pulitzer"
+  },
+  {
+   "author": "Wallace Stevens",
+   "work": "Harmonium",
+   "year": "1923",
+   "type": "poems",
+   "note": "'Sunday Morning', 'The Emperor of Ice-Cream'"
+  },
+  {
+   "author": "William Carlos Williams",
+   "work": "Paterson",
+   "year": "1946-1958",
+   "type": "long poem",
+   "note": "City as man; 'No ideas but in things'"
+  },
+  {
+   "author": "Langston Hughes",
+   "work": "The Weary Blues",
+   "year": "1926",
+   "type": "poems",
+   "note": "Harlem Renaissance; blues and jazz rhythms"
+  },
+  {
+   "author": "Allen Ginsberg",
+   "work": "Howl and Other Poems",
+   "year": "1956",
+   "type": "poems",
+   "note": "Beat manifesto; dedicated to Carl Solomon; obscenity trial"
+  },
+  {
+   "author": "Robert Lowell",
+   "work": "Life Studies",
+   "year": "1959",
+   "type": "poems",
+   "note": "Founding text of confessional poetry"
+  },
+  {
+   "author": "Sylvia Plath",
+   "work": "The Colossus",
+   "year": "1960",
+   "type": "poems",
+   "note": "Plath's first collection"
+  },
+  {
+   "author": "Sylvia Plath",
+   "work": "Ariel",
+   "year": "1965",
+   "type": "poems",
+   "note": "Posthumous; 'Daddy', 'Lady Lazarus', 'Tulips'"
+  },
+  {
+   "author": "Henry Derozio",
+   "work": "The Fakeer of Jungheera",
+   "year": "1828",
+   "type": "narrative poem",
+   "note": "Early Indian English poet; 'To India - My Native Land'"
+  },
+  {
+   "author": "Toru Dutt",
+   "work": "Ancient Ballads and Legends of Hindustan",
+   "year": "1882",
+   "type": "poems",
+   "note": "Posthumous; 'Our Casuarina Tree', 'Savitri'"
+  },
+  {
+   "author": "Rabindranath Tagore",
+   "work": "Gitanjali (Song Offerings)",
+   "year": "1912",
+   "type": "prose poems",
+   "note": "Introduction by Yeats; Nobel Prize 1913"
+  },
+  {
+   "author": "Sarojini Naidu",
+   "work": "The Golden Threshold",
+   "year": "1905",
+   "type": "poems",
+   "note": "'Nightingale of India'; 'In the Bazaars of Hyderabad'"
+  },
+  {
+   "author": "Sri Aurobindo",
+   "work": "Savitri: A Legend and a Symbol",
+   "year": "1950-1951",
+   "type": "epic",
+   "note": "Blank verse epic from the Mahabharata Savitri story"
+  },
+  {
+   "author": "Nissim Ezekiel",
+   "work": "The Exact Name",
+   "year": "1965",
+   "type": "poems",
+   "note": "'Night of the Scorpion'"
+  },
+  {
+   "author": "Nissim Ezekiel",
+   "work": "Latter-Day Psalms",
+   "year": "1982",
+   "type": "poems",
+   "note": "Sahitya Akademi Award 1983"
+  },
+  {
+   "author": "Kamala Das",
+   "work": "Summer in Calcutta",
+   "year": "1965",
+   "type": "poems",
+   "note": "'An Introduction'; frank confessional voice"
+  },
+  {
+   "author": "A.K. Ramanujan",
+   "work": "The Striders",
+   "year": "1966",
+   "type": "poems",
+   "note": "'Small-Scale Reflections on a Great House'"
+  },
+  {
+   "author": "A.K. Ramanujan",
+   "work": "Relations",
+   "year": "1971",
+   "type": "poems",
+   "note": "Family and memory poems"
+  },
+  {
+   "author": "R. Parthasarathy",
+   "work": "Rough Passage",
+   "year": "1977",
+   "type": "long poem",
+   "note": "Exile, Love, Homecoming; language and identity"
+  },
+  {
+   "author": "Arun Kolatkar",
+   "work": "Jejuri",
+   "year": "1976",
+   "type": "poem sequence",
+   "note": "Khandoba temple visit; Commonwealth Poetry Prize 1977"
+  },
+  {
+   "author": "Jayanta Mahapatra",
+   "work": "Relationship",
+   "year": "1980",
+   "type": "long poem",
+   "note": "First Sahitya Akademi Award for Indian English poetry (1981)"
+  },
+  {
+   "author": "Agha Shahid Ali",
+   "work": "The Country Without a Post Office",
+   "year": "1997",
+   "type": "poems",
+   "note": "Kashmir; English ghazals"
+  },
+  {
+   "author": "Vikram Seth",
+   "work": "The Golden Gate",
+   "year": "1986",
+   "type": "verse novel",
+   "note": "Written in Onegin stanzas"
+  },
+  {
+   "author": "Derek Walcott",
+   "work": "In a Green Night",
+   "year": "1962",
+   "type": "poems",
+   "note": "'A Far Cry from Africa'"
+  },
+  {
+   "author": "Derek Walcott",
+   "work": "Omeros",
+   "year": "1990",
+   "type": "epic poem",
+   "note": "Caribbean Homer; Achille, Hector, Helen; Nobel 1992"
+  },
+  {
+   "author": "Kamau Brathwaite",
+   "work": "The Arrivants",
+   "year": "1973",
+   "type": "poem trilogy",
+   "note": "Rights of Passage, Masks, Islands"
+  },
+  {
+   "author": "Okot p'Bitek",
+   "work": "Song of Lawino",
+   "year": "1966",
+   "type": "long poem",
+   "note": "Lawino laments westernised husband Ocol; from Acholi"
+  },
+  {
+   "author": "Wole Soyinka",
+   "work": "Idanre and Other Poems",
+   "year": "1967",
+   "type": "poems",
+   "note": "Nigerian Nobel laureate (1986); Ogun myth"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "Whan that Aprill with his shoures soote / The droghte of March hath perced to the roote",
+   "by": "Geoffrey Chaucer",
+   "source": "The Canterbury Tales, General Prologue (c. 1387)"
+  },
+  {
+   "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree",
+   "by": "John Milton",
+   "source": "Paradise Lost, Book I (1667)"
+  },
+  {
+   "quote": "The mind is its own place, and in it self / Can make a Heav'n of Hell, a Hell of Heav'n",
+   "by": "John Milton",
+   "source": "Paradise Lost, Book I (1667)"
+  },
+  {
+   "quote": "Better to reign in Hell, then serve in Heav'n",
+   "by": "John Milton",
+   "source": "Paradise Lost, Book I (1667)"
+  },
+  {
+   "quote": "Death be not proud, though some have called thee / Mighty and dreadfull",
+   "by": "John Donne",
+   "source": "Holy Sonnets, 'Death be not proud' (pub. 1633)"
+  },
+  {
+   "quote": "Had we but World enough, and Time, / This coyness Lady were no crime",
+   "by": "Andrew Marvell",
+   "source": "To His Coy Mistress (pub. 1681)"
+  },
+  {
+   "quote": "Gather ye rosebuds while ye may, / Old Time is still a-flying",
+   "by": "Robert Herrick",
+   "source": "To the Virgins, to Make Much of Time, Hesperides (1648)"
+  },
+  {
+   "quote": "Stone walls do not a prison make, / Nor iron bars a cage",
+   "by": "Richard Lovelace",
+   "source": "To Althea, from Prison, Lucasta (1649)"
+  },
+  {
+   "quote": "True wit is Nature to advantage dressed, / What oft was thought, but ne'er so well expressed",
+   "by": "Alexander Pope",
+   "source": "An Essay on Criticism (1711)"
+  },
+  {
+   "quote": "Know then thyself, presume not God to scan; / The proper study of mankind is man",
+   "by": "Alexander Pope",
+   "source": "An Essay on Man, Epistle II (1733-34)"
+  },
+  {
+   "quote": "The paths of glory lead but to the grave",
+   "by": "Thomas Gray",
+   "source": "Elegy Written in a Country Churchyard (1751)"
+  },
+  {
+   "quote": "Full many a flower is born to blush unseen, / And waste its sweetness on the desert air",
+   "by": "Thomas Gray",
+   "source": "Elegy Written in a Country Churchyard (1751)"
+  },
+  {
+   "quote": "Tyger Tyger, burning bright, / In the forests of the night",
+   "by": "William Blake",
+   "source": "The Tyger, Songs of Experience (1794)"
+  },
+  {
+   "quote": "The Child is father of the Man",
+   "by": "William Wordsworth",
+   "source": "My Heart Leaps Up (Poems, in Two Volumes, 1807)"
+  },
+  {
+   "quote": "Our birth is but a sleep and a forgetting",
+   "by": "William Wordsworth",
+   "source": "Ode: Intimations of Immortality (1807)"
+  },
+  {
+   "quote": "Water, water, every where, / Nor any drop to drink",
+   "by": "S.T. Coleridge",
+   "source": "The Rime of the Ancient Mariner (1798)"
+  },
+  {
+   "quote": "In Xanadu did Kubla Khan / A stately pleasure-dome decree",
+   "by": "S.T. Coleridge",
+   "source": "Kubla Khan (1816)"
+  },
+  {
+   "quote": "that willing suspension of disbelief for the moment, which constitutes poetic faith",
+   "by": "S.T. Coleridge",
+   "source": "Biographia Literaria, Chapter XIV (1817)"
+  },
+  {
+   "quote": "If Winter comes, can Spring be far behind?",
+   "by": "P.B. Shelley",
+   "source": "Ode to the West Wind (1820)"
+  },
+  {
+   "quote": "My name is Ozymandias, King of Kings; / Look on my Works, ye Mighty, and despair!",
+   "by": "P.B. Shelley",
+   "source": "Ozymandias (1818)"
+  },
+  {
+   "quote": "Beauty is truth, truth beauty, - that is all / Ye know on earth, and all ye need to know",
+   "by": "John Keats",
+   "source": "Ode on a Grecian Urn (1820)"
+  },
+  {
+   "quote": "Season of mists and mellow fruitfulness",
+   "by": "John Keats",
+   "source": "To Autumn (1820)"
+  },
+  {
+   "quote": "My heart aches, and a drowsy numbness pains / My sense",
+   "by": "John Keats",
+   "source": "Ode to a Nightingale (1820)"
+  },
+  {
+   "quote": "'Tis better to have loved and lost / Than never to have loved at all",
+   "by": "Alfred Tennyson",
+   "source": "In Memoriam A.H.H., XXVII (1850)"
+  },
+  {
+   "quote": "To strive, to seek, to find, and not to yield",
+   "by": "Alfred Tennyson",
+   "source": "Ulysses (Poems, 1842)"
+  },
+  {
+   "quote": "Nature, red in tooth and claw",
+   "by": "Alfred Tennyson",
+   "source": "In Memoriam A.H.H., LVI (1850)"
+  },
+  {
+   "quote": "That's my last Duchess painted on the wall, / Looking as if she were alive",
+   "by": "Robert Browning",
+   "source": "My Last Duchess, Dramatic Lyrics (1842)"
+  },
+  {
+   "quote": "Ah, love, let us be true / To one another!",
+   "by": "Matthew Arnold",
+   "source": "Dover Beach (1867)"
+  },
+  {
+   "quote": "The world is charged with the grandeur of God",
+   "by": "G.M. Hopkins",
+   "source": "God's Grandeur (written 1877, pub. 1918)"
+  },
+  {
+   "quote": "Let us go then, you and I, / When the evening is spread out against the sky",
+   "by": "T.S. Eliot",
+   "source": "The Love Song of J. Alfred Prufrock (1915)"
+  },
+  {
+   "quote": "April is the cruellest month, breeding / Lilacs out of the dead land",
+   "by": "T.S. Eliot",
+   "source": "The Waste Land, I. The Burial of the Dead (1922)"
+  },
+  {
+   "quote": "This is the way the world ends / Not with a bang but a whimper",
+   "by": "T.S. Eliot",
+   "source": "The Hollow Men (1925)"
+  },
+  {
+   "quote": "All changed, changed utterly: / A terrible beauty is born",
+   "by": "W.B. Yeats",
+   "source": "Easter, 1916 (Michael Robartes and the Dancer, 1921)"
+  },
+  {
+   "quote": "That is no country for old men",
+   "by": "W.B. Yeats",
+   "source": "Sailing to Byzantium, The Tower (1928)"
+  },
+  {
+   "quote": "The apparition of these faces in the crowd; / Petals on a wet, black bough",
+   "by": "Ezra Pound",
+   "source": "In a Station of the Metro (1913)"
+  },
+  {
+   "quote": "What passing-bells for these who die as cattle?",
+   "by": "Wilfred Owen",
+   "source": "Anthem for Doomed Youth (Poems, 1920)"
+  },
+  {
+   "quote": "If I should die, think only this of me",
+   "by": "Rupert Brooke",
+   "source": "The Soldier (1914 and Other Poems, 1915)"
+  },
+  {
+   "quote": "Do not go gentle into that good night",
+   "by": "Dylan Thomas",
+   "source": "Do not go gentle into that good night (1951)"
+  },
+  {
+   "quote": "What will survive of us is love",
+   "by": "Philip Larkin",
+   "source": "An Arundel Tomb, The Whitsun Weddings (1964)"
+  },
+  {
+   "quote": "Between my finger and my thumb / The squat pen rests; snug as a gun",
+   "by": "Seamus Heaney",
+   "source": "Digging, Death of a Naturalist (1966)"
+  },
+  {
+   "quote": "I celebrate myself, and sing myself",
+   "by": "Walt Whitman",
+   "source": "Song of Myself, Leaves of Grass (1855)"
+  },
+  {
+   "quote": "Because I could not stop for Death - / He kindly stopped for me",
+   "by": "Emily Dickinson",
+   "source": "Because I could not stop for Death (pub. 1890)"
+  },
+  {
+   "quote": "Two roads diverged in a yellow wood",
+   "by": "Robert Frost",
+   "source": "The Road Not Taken, Mountain Interval (1916)"
+  },
+  {
+   "quote": "And miles to go before I sleep",
+   "by": "Robert Frost",
+   "source": "Stopping by Woods on a Snowy Evening, New Hampshire (1923)"
+  },
+  {
+   "quote": "I saw the best minds of my generation destroyed by madness",
+   "by": "Allen Ginsberg",
+   "source": "Howl (1956)"
+  },
+  {
+   "quote": "I am Indian, very brown, born in / Malabar",
+   "by": "Kamala Das",
+   "source": "An Introduction, Summer in Calcutta (1965)"
+  },
+  {
+   "quote": "I remember the night my mother / was stung by a scorpion",
+   "by": "Nissim Ezekiel",
+   "source": "Night of the Scorpion, The Exact Name (1965)"
+  },
+  {
+   "quote": "Sometimes I think that nothing / that ever comes into this house / goes out",
+   "by": "A.K. Ramanujan",
+   "source": "Small-Scale Reflections on a Great House, The Striders (1966)"
+  }
+ ],
+ "people": [
+  {
+   "name": "Grendel",
+   "where": "Beowulf (Old English epic, c. 8th-10th century)",
+   "note": "Monster descended from Cain who raids Hrothgar's hall Heorot; killed by Beowulf"
+  },
+  {
+   "name": "Hrothgar",
+   "where": "Beowulf (Old English epic)",
+   "note": "Danish king who builds the mead-hall Heorot"
+  },
+  {
+   "name": "Wife of Bath (Alisoun)",
+   "where": "The Canterbury Tales, Chaucer (c. 1387-1400)",
+   "note": "Five-times-married pilgrim; her Prologue on 'experience' versus authority in marriage"
+  },
+  {
+   "name": "Harry Bailly",
+   "where": "The Canterbury Tales, Chaucer",
+   "note": "The Host of the Tabard Inn who proposes the tale-telling contest"
+  },
+  {
+   "name": "Pandarus",
+   "where": "Troilus and Criseyde, Chaucer (c. 1385)",
+   "note": "Criseyde's uncle and go-between; gave English the word 'pander'"
+  },
+  {
+   "name": "Bertilak de Hautdesert",
+   "where": "Sir Gawain and the Green Knight (late 14th century)",
+   "note": "The Green Knight's real identity, Gawain's host who tests him"
+  },
+  {
+   "name": "Redcrosse Knight",
+   "where": "The Faerie Queene, Book I, Spenser (1590)",
+   "note": "Knight of Holiness, St George figure, who slays the dragon"
+  },
+  {
+   "name": "Una",
+   "where": "The Faerie Queene, Book I, Spenser (1590)",
+   "note": "Lady representing Truth and the true Church; Redcrosse's guide"
+  },
+  {
+   "name": "Duessa",
+   "where": "The Faerie Queene, Spenser (1590, 1596)",
+   "note": "Witch of falsehood and duplicity, linked to the Roman Church"
+  },
+  {
+   "name": "Gloriana",
+   "where": "The Faerie Queene, Spenser",
+   "note": "The Faerie Queene herself, figure of Queen Elizabeth I"
+  },
+  {
+   "name": "Colin Clout",
+   "where": "The Shepheardes Calender, Spenser (1579)",
+   "note": "Spenser's shepherd persona; later in Colin Clouts Come Home Againe"
+  },
+  {
+   "name": "Astrophil and Stella",
+   "where": "Astrophil and Stella, Sidney (1591)",
+   "note": "Star-lover and Star; Stella linked with Penelope Rich"
+  },
+  {
+   "name": "Satan",
+   "where": "Paradise Lost, Milton (1667)",
+   "note": "Fallen archangel; Blake said Milton was 'of the Devil's party'"
+  },
+  {
+   "name": "Beelzebub",
+   "where": "Paradise Lost, Milton (1667)",
+   "note": "Satan's second-in-command who proposes corrupting mankind"
+  },
+  {
+   "name": "Abdiel",
+   "where": "Paradise Lost, Book V, Milton",
+   "note": "The seraph who alone refuses to join Satan's rebellion"
+  },
+  {
+   "name": "Lycidas",
+   "where": "Lycidas, Milton (1637)",
+   "note": "Shepherd name for Edward King, Milton's Cambridge friend drowned in 1637"
+  },
+  {
+   "name": "Dalila",
+   "where": "Samson Agonistes, Milton (1671)",
+   "note": "Samson's wife who betrayed him to the Philistines"
+  },
+  {
+   "name": "Achitophel",
+   "where": "Absalom and Achitophel, Dryden (1681)",
+   "note": "False counsellor representing the Earl of Shaftesbury"
+  },
+  {
+   "name": "Absalom",
+   "where": "Absalom and Achitophel, Dryden (1681)",
+   "note": "Represents the Duke of Monmouth, Charles II's illegitimate son"
+  },
+  {
+   "name": "Zimri",
+   "where": "Absalom and Achitophel, Dryden (1681)",
+   "note": "Portrait of the Duke of Buckingham: 'Everything by starts, and nothing long'"
+  },
+  {
+   "name": "Belinda",
+   "where": "The Rape of the Lock, Pope (1712/1714)",
+   "note": "Heroine whose lock is cut by the Baron; based on Arabella Fermor"
+  },
+  {
+   "name": "Ariel",
+   "where": "The Rape of the Lock, Pope (1714)",
+   "note": "Chief sylph guarding Belinda; part of the poem's 'machinery'"
+  },
+  {
+   "name": "Atticus",
+   "where": "Epistle to Dr Arbuthnot, Pope (1735)",
+   "note": "Satiric portrait of Joseph Addison, 'Damn with faint praise'"
+  },
+  {
+   "name": "The Ancient Mariner",
+   "where": "The Rime of the Ancient Mariner, Coleridge (1798)",
+   "note": "Shoots the albatross and must retell his tale; stops the Wedding Guest"
+  },
+  {
+   "name": "Geraldine",
+   "where": "Christabel, Coleridge (1816)",
+   "note": "Mysterious, serpent-like lady who enchants Christabel"
+  },
+  {
+   "name": "Michael",
+   "where": "Michael, Wordsworth (1800)",
+   "note": "Old shepherd whose son Luke goes to the city; the unfinished sheepfold"
+  },
+  {
+   "name": "Lucy",
+   "where": "The 'Lucy poems', Wordsworth (1800)",
+   "note": "Idealised dead girl of poems like 'She dwelt among the untrodden ways'"
+  },
+  {
+   "name": "Childe Harold",
+   "where": "Childe Harold's Pilgrimage, Byron (1812-1818)",
+   "note": "Melancholy wanderer, the first Byronic hero"
+  },
+  {
+   "name": "Haidee",
+   "where": "Don Juan, Byron (Cantos II-IV)",
+   "note": "Greek island girl who loves the shipwrecked Juan"
+  },
+  {
+   "name": "Demogorgon",
+   "where": "Prometheus Unbound, Shelley (1820)",
+   "note": "Mysterious power that overthrows Jupiter"
+  },
+  {
+   "name": "Madeline and Porphyro",
+   "where": "The Eve of St Agnes, Keats (1820)",
+   "note": "Lovers who elope on St Agnes' Eve"
+  },
+  {
+   "name": "Lamia",
+   "where": "Lamia, Keats (1820)",
+   "note": "Serpent-woman who loves Lycius; exposed by the philosopher Apollonius"
+  },
+  {
+   "name": "Ulysses",
+   "where": "Ulysses, Tennyson (1842)",
+   "note": "Aged hero who resolves 'To strive, to seek, to find, and not to yield'"
+  },
+  {
+   "name": "The Lady of Shalott",
+   "where": "The Lady of Shalott, Tennyson (1832, revised 1842)",
+   "note": "Weaves the world seen in a mirror; curse falls when she looks at Lancelot"
+  },
+  {
+   "name": "Duke of Ferrara",
+   "where": "My Last Duchess, Browning (1842)",
+   "note": "Speaker who hints he had his last duchess killed"
+  },
+  {
+   "name": "Andrea del Sarto",
+   "where": "Andrea del Sarto, Browning, Men and Women (1855)",
+   "note": "'The Faultless Painter' who lacks soul; 'a man's reach should exceed his grasp'"
+  },
+  {
+   "name": "Laura and Lizzie",
+   "where": "Goblin Market, Christina Rossetti (1862)",
+   "note": "Sisters; Lizzie saves Laura who has eaten goblin fruit"
+  },
+  {
+   "name": "J. Alfred Prufrock",
+   "where": "The Love Song of J. Alfred Prufrock, Eliot (1915)",
+   "note": "Timid speaker: 'I have measured out my life with coffee spoons'"
+  },
+  {
+   "name": "Tiresias",
+   "where": "The Waste Land, Eliot (1922)",
+   "note": "Blind seer; Eliot's note calls him 'the most important personage' in the poem"
+  },
+  {
+   "name": "Hugh Selwyn Mauberley",
+   "where": "Hugh Selwyn Mauberley, Pound (1920)",
+   "note": "Aesthete persona through whom Pound says farewell to London"
+  },
+  {
+   "name": "Crow",
+   "where": "Crow, Ted Hughes (1970)",
+   "note": "Trickster figure of Hughes's mythic sequence"
+  },
+  {
+   "name": "Henry",
+   "where": "The Dream Songs, John Berryman (77 Dream Songs, 1964)",
+   "note": "Berryman's alter ego, addressed as Mr Bones"
+  },
+  {
+   "name": "Lawino and Ocol",
+   "where": "Song of Lawino, Okot p'Bitek (1966)",
+   "note": "Acholi wife Lawino laments her westernised husband Ocol"
+  },
+  {
+   "name": "Achille",
+   "where": "Omeros, Derek Walcott (1990)",
+   "note": "St Lucian fisherman, Caribbean counterpart of Achilles"
+  },
+  {
+   "name": "Samuel Johnson",
+   "where": "Life of Cowley, Lives of the Poets (1779-81)",
+   "note": "Named the 'metaphysical poets'; 'heterogeneous ideas yoked by violence'"
+  },
+  {
+   "name": "John Dryden",
+   "where": "An Essay of Dramatic Poesy (1668)",
+   "note": "Called by Johnson the father of English criticism"
+  },
+  {
+   "name": "Herbert Grierson",
+   "where": "Metaphysical Lyrics and Poems of the Seventeenth Century (1921)",
+   "note": "Anthology reviewed by Eliot in 'The Metaphysical Poets' (1921)"
+  },
+  {
+   "name": "Matthew Arnold",
+   "where": "The Study of Poetry (1880)",
+   "note": "'Touchstone' method; called Dryden and Pope 'classics of our prose'"
+  },
+  {
+   "name": "I.A. Richards",
+   "where": "Practical Criticism (1929)",
+   "note": "Anonymous-poem experiments with Cambridge students; four kinds of meaning"
+  },
+  {
+   "name": "William Empson",
+   "where": "Seven Types of Ambiguity (1930)",
+   "note": "Pupil of Richards; close reading of multiple meanings"
+  },
+  {
+   "name": "F.R. Leavis",
+   "where": "New Bearings in English Poetry (1932); Revaluation (1936)",
+   "note": "Championed Eliot, Pound and Hopkins; Scrutiny editor"
+  },
+  {
+   "name": "John Crowe Ransom",
+   "where": "The New Criticism (1941)",
+   "note": "Gave the New Criticism its name"
+  },
+  {
+   "name": "Cleanth Brooks",
+   "where": "The Well Wrought Urn (1947)",
+   "note": "'The heresy of paraphrase'; paradox as the language of poetry"
+  },
+  {
+   "name": "W.K. Wimsatt and M.C. Beardsley",
+   "where": "The Verbal Icon (1954)",
+   "note": "'The Intentional Fallacy' and 'The Affective Fallacy'"
+  },
+  {
+   "name": "M.H. Abrams",
+   "where": "The Mirror and the Lamp (1953)",
+   "note": "Mimetic mirror versus Romantic expressive lamp"
+  },
+  {
+   "name": "M.L. Rosenthal",
+   "where": "Review of Lowell's Life Studies (1959)",
+   "note": "Coined the term 'confessional poetry'"
+  },
+  {
+   "name": "Harold Bloom",
+   "where": "The Anxiety of Influence (1973)",
+   "note": "Poets 'misread' strong precursors; theory of poetic influence"
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "In which Old English poem does the Cross itself narrate the Crucifixion?",
+   "options": [
+    "The Wanderer",
+    "The Dream of the Rood",
+    "The Seafarer",
+    "The Battle of Maldon"
+   ],
+   "answer": 1,
+   "exp": "Dream of the Rood mein Cross khud bolta hai; Vercelli Book mein milta hai."
+  },
+  {
+   "q": "The 'bob and wheel' stanza ending is a feature of:",
+   "options": [
+    "Sir Gawain and the Green Knight",
+    "Piers Plowman",
+    "Confessio Amantis",
+    "The Owl and the Nightingale"
+   ],
+   "answer": 0,
+   "exp": "Gawain poet har stanza ke end mein chhota 'bob' aur 'wheel' lagata hai."
+  },
+  {
+   "q": "Chaucer's The Book of the Duchess is an elegy for:",
+   "options": [
+    "Anne of Bohemia",
+    "Philippa of Hainault",
+    "Joan of Kent",
+    "Blanche of Lancaster"
+   ],
+   "answer": 3,
+   "exp": "Blanche John of Gaunt ki patni thi; Chaucer ki pehli badi poem."
+  },
+  {
+   "q": "Chaucer addresses 'moral Gower' and 'philosophical Strode' at the end of:",
+   "options": [
+    "The Parliament of Fowls",
+    "The House of Fame",
+    "Troilus and Criseyde",
+    "The Legend of Good Women"
+   ],
+   "answer": 2,
+   "exp": "Troilus ke end mein Chaucer Gower aur Strode ko kitaab sudharne ko kehta hai."
+  },
+  {
+   "q": "The first English blank verse is found in:",
+   "options": [
+    "Wyatt's Penitential Psalms",
+    "Surrey's translation of Aeneid Books II and IV",
+    "Marlowe's Hero and Leander",
+    "Spenser's The Shepheardes Calender"
+   ],
+   "answer": 1,
+   "exp": "Surrey ne Virgil ke Aeneid ke translation mein pehli baar blank verse use kiya."
+  },
+  {
+   "q": "Tottel's Miscellany (Songes and Sonettes) was published in:",
+   "options": [
+    "1557",
+    "1579",
+    "1590",
+    "1609"
+   ],
+   "answer": 0,
+   "exp": "1557 - pehli printed English poetry anthology, Wyatt-Surrey ke sonnets."
+  },
+  {
+   "q": "How many sonnets does Sidney's Astrophil and Stella contain?",
+   "options": [
+    "154",
+    "89",
+    "44",
+    "108"
+   ],
+   "answer": 3,
+   "exp": "108 sonnets + 11 songs. 154 Shakespeare ke, 89 Spenser ke Amoretti, 44 EBB ke."
+  },
+  {
+   "q": "'Since there's no help, come let us kiss and part' is a sonnet by:",
+   "options": [
+    "Samuel Daniel",
+    "Sir Philip Sidney",
+    "Michael Drayton",
+    "Edmund Spenser"
+   ],
+   "answer": 2,
+   "exp": "Drayton ke sequence Idea ka famous sonnet."
+  },
+  {
+   "q": "'Batter my heart, three-person'd God' is the opening of a poem by:",
+   "options": [
+    "George Herbert",
+    "John Donne",
+    "Richard Crashaw",
+    "Henry Vaughan"
+   ],
+   "answer": 1,
+   "exp": "Donne ka Holy Sonnet XIV."
+  },
+  {
+   "q": "'I saw Eternity the other night' opens:",
+   "options": [
+    "Vaughan's 'The World'",
+    "Vaughan's 'The Retreat'",
+    "Herbert's 'The Collar'",
+    "Traherne's 'Wonder'"
+   ],
+   "answer": 0,
+   "exp": "Vaughan, Silex Scintillans (1650) - 'Like a great ring of pure and endless light'."
+  },
+  {
+   "q": "The pattern poem 'Easter Wings' was written by:",
+   "options": [
+    "Robert Herrick",
+    "Abraham Cowley",
+    "Richard Crashaw",
+    "George Herbert"
+   ],
+   "answer": 3,
+   "exp": "Herbert ki The Temple (1633) mein; lines pankh ki shape banati hain."
+  },
+  {
+   "q": "The irregular (so-called Cowleyan) Pindaric ode was introduced into English by:",
+   "options": [
+    "Thomas Gray",
+    "William Collins",
+    "Abraham Cowley",
+    "John Dryden"
+   ],
+   "answer": 2,
+   "exp": "Cowley ki Pindarique Odes (1656). Gray ne baad mein regular Pindaric likhi."
+  },
+  {
+   "q": "The first edition of Paradise Lost (1667) was divided into:",
+   "options": [
+    "Twelve books",
+    "Ten books",
+    "Nine books",
+    "Twenty-four books"
+   ],
+   "answer": 1,
+   "exp": "1667 mein 10 books; 1674 ke second edition mein 12."
+  },
+  {
+   "q": "In Samson Agonistes, the giant of Gath who taunts Samson is:",
+   "options": [
+    "Harapha",
+    "Manoa",
+    "Abdiel",
+    "Mammon"
+   ],
+   "answer": 0,
+   "exp": "Harapha giant hai; Manoa Samson ka pita."
+  },
+  {
+   "q": "Milton's Comus was first performed in 1634 at:",
+   "options": [
+    "Penshurst",
+    "Kenilworth",
+    "Whitehall",
+    "Ludlow Castle"
+   ],
+   "answer": 3,
+   "exp": "Earl of Bridgewater ke liye Ludlow Castle mein."
+  },
+  {
+   "q": "Samuel Butler's Hudibras is chiefly a satire on:",
+   "options": [
+    "The Catholics",
+    "The Royalists",
+    "The Puritans",
+    "The Whigs"
+   ],
+   "answer": 2,
+   "exp": "Presbyterian knight Hudibras aur squire Ralpho; Puritan hypocrisy ka mazaak."
+  },
+  {
+   "q": "In Dryden's The Hind and the Panther, the 'milk-white Hind' stands for:",
+   "options": [
+    "The Church of England",
+    "The Roman Catholic Church",
+    "The Presbyterians",
+    "The Independents"
+   ],
+   "answer": 1,
+   "exp": "Hind = Catholic Church, Panther = Church of England (1687)."
+  },
+  {
+   "q": "Who is the hero ('King of Dulness') of the four-book Dunciad of 1743?",
+   "options": [
+    "Colley Cibber",
+    "Lewis Theobald",
+    "Thomas Shadwell",
+    "John Dennis"
+   ],
+   "answer": 0,
+   "exp": "1728 mein Theobald tha, 1743 mein Pope ne Cibber ko bana diya."
+  },
+  {
+   "q": "Johnson's The Vanity of Human Wishes (1749) imitates:",
+   "options": [
+    "Juvenal's Third Satire",
+    "Horace's First Satire",
+    "Persius's Fifth Satire",
+    "Juvenal's Tenth Satire"
+   ],
+   "answer": 3,
+   "exp": "London (1738) = Juvenal III; Vanity = Juvenal X."
+  },
+  {
+   "q": "George Crabbe's The Village (1783) is a realistic reply to:",
+   "options": [
+    "Cowper's The Task",
+    "Thomson's The Seasons",
+    "Goldsmith's The Deserted Village",
+    "Gray's Elegy"
+   ],
+   "answer": 2,
+   "exp": "Crabbe ne Goldsmith ke idealised gaon ke against kadwa sach dikhaya."
+  },
+  {
+   "q": "Which of these poems belongs to Blake's Songs of Experience?",
+   "options": [
+    "The Lamb",
+    "London",
+    "The Little Black Boy",
+    "Infant Joy"
+   ],
+   "answer": 1,
+   "exp": "London Experience mein hai; baaki teen Songs of Innocence (1789) mein."
+  },
+  {
+   "q": "Coleridge's 'Frost at Midnight' (1798) is addressed to:",
+   "options": [
+    "His infant son Hartley",
+    "Dorothy Wordsworth",
+    "William Wordsworth",
+    "Sara Hutchinson"
+   ],
+   "answer": 0,
+   "exp": "Paas sote baby Hartley ko sambodhit conversation poem."
+  },
+  {
+   "q": "Byron's Don Juan is written in:",
+   "options": [
+    "Spenserian stanza",
+    "Terza rima",
+    "Rhyme royal",
+    "Ottava rima"
+   ],
+   "answer": 3,
+   "exp": "abababcc - ottava rima; comic epic, unfinished."
+  },
+  {
+   "q": "Shelley's Adonais (1821) is an elegy on the death of:",
+   "options": [
+    "Lord Byron",
+    "Arthur Hallam",
+    "John Keats",
+    "Edward King"
+   ],
+   "answer": 2,
+   "exp": "Adonais = Keats; Spenserian stanzas mein pastoral elegy."
+  },
+  {
+   "q": "Keats's phrase 'the vale of Soul-making' occurs in a letter to:",
+   "options": [
+    "Benjamin Bailey",
+    "George and Georgiana Keats",
+    "Richard Woodhouse",
+    "Fanny Brawne"
+   ],
+   "answer": 1,
+   "exp": "1819 ka lamba journal-letter bhai George aur bhabhi Georgiana ko."
+  },
+  {
+   "q": "Keats's 'camelion Poet' who has 'no identity' is described in a letter to:",
+   "options": [
+    "Richard Woodhouse",
+    "John Hamilton Reynolds",
+    "Benjamin Bailey",
+    "Percy Shelley"
+   ],
+   "answer": 0,
+   "exp": "27 October 1818 ka letter Woodhouse ko."
+  },
+  {
+   "q": "Tennyson himself called Maud (1855):",
+   "options": [
+    "A Dramatic Lyric",
+    "An Idyll",
+    "A Medley",
+    "A Monodrama"
+   ],
+   "answer": 3,
+   "exp": "Tennyson ne baad mein subtitle diya 'A Monodrama'. 'A Medley' The Princess ka subtitle hai."
+  },
+  {
+   "q": "Browning's The Ring and the Book is based on a murder trial held in:",
+   "options": [
+    "Florence, 1500",
+    "Venice, 1598",
+    "Rome, 1698",
+    "Paris, 1789"
+   ],
+   "answer": 2,
+   "exp": "Count Guido Franceschini ka case; Browning ko Florence mein 'Old Yellow Book' mili."
+  },
+  {
+   "q": "Robert Buchanan's 'The Fleshly School of Poetry' (1871) mainly attacked:",
+   "options": [
+    "Alfred Tennyson",
+    "D.G. Rossetti",
+    "G.M. Hopkins",
+    "Matthew Arnold"
+   ],
+   "answer": 1,
+   "exp": "Thomas Maitland naam se likha; Rossetti aur Pre-Raphaelites par hamla."
+  },
+  {
+   "q": "Hopkins's Poems were first published in 1918 by:",
+   "options": [
+    "Robert Bridges",
+    "Coventry Patmore",
+    "R.W. Dixon",
+    "John Henry Newman"
+   ],
+   "answer": 0,
+   "exp": "Dost Robert Bridges ne Hopkins ki maut ke 29 saal baad chhape."
+  },
+  {
+   "q": "'Pied Beauty' by Hopkins is an example of a:",
+   "options": [
+    "Petrarchan sonnet",
+    "Villanelle",
+    "Sestina",
+    "Curtal sonnet"
+   ],
+   "answer": 3,
+   "exp": "Curtal sonnet = Petrarchan sonnet ka 3/4 roop, 10.5 lines."
+  },
+  {
+   "q": "Yeats's 'Leda and the Swan' first appeared in book form in:",
+   "options": [
+    "Responsibilities",
+    "The Wind Among the Reeds",
+    "The Tower",
+    "The Green Helmet"
+   ],
+   "answer": 2,
+   "exp": "The Tower (1928) mein, Sailing to Byzantium ke saath."
+  },
+  {
+   "q": "'Strange Meeting', in which a soldier meets the enemy he killed in Hell, is by:",
+   "options": [
+    "Siegfried Sassoon",
+    "Wilfred Owen",
+    "Isaac Rosenberg",
+    "Rupert Brooke"
+   ],
+   "answer": 1,
+   "exp": "'I am the enemy you killed, my friend' - Owen."
+  },
+  {
+   "q": "'Break of Day in the Trenches', with its 'queer sardonic rat', is by:",
+   "options": [
+    "Isaac Rosenberg",
+    "Wilfred Owen",
+    "Edward Thomas",
+    "Robert Graves"
+   ],
+   "answer": 0,
+   "exp": "Rosenberg, WWI mein 1918 mein maare gaye."
+  },
+  {
+   "q": "Which poet called the 1930s 'a low dishonest decade'?",
+   "options": [
+    "Louis MacNeice",
+    "Stephen Spender",
+    "C. Day Lewis",
+    "W.H. Auden"
+   ],
+   "answer": 3,
+   "exp": "Auden, 'September 1, 1939'."
+  },
+  {
+   "q": "Larkin's 'Church Going' appears in:",
+   "options": [
+    "The Whitsun Weddings",
+    "High Windows",
+    "The Less Deceived",
+    "The North Ship"
+   ],
+   "answer": 2,
+   "exp": "The Less Deceived (1955), Marvell Press."
+  },
+  {
+   "q": "Seamus Heaney's 'bog poems' such as 'Punishment' are collected chiefly in:",
+   "options": [
+    "Death of a Naturalist",
+    "North",
+    "Field Work",
+    "Station Island"
+   ],
+   "answer": 1,
+   "exp": "North (1975); P.V. Glob ki The Bog People se prerna."
+  },
+  {
+   "q": "Longfellow's The Song of Hiawatha is written in:",
+   "options": [
+    "Trochaic tetrameter",
+    "Dactylic hexameter",
+    "Iambic pentameter",
+    "Anapaestic tetrameter"
+   ],
+   "answer": 0,
+   "exp": "Finnish Kalevala jaisa trochaic tetrameter. Evangeline dactylic hexameter mein hai."
+  },
+  {
+   "q": "Walt Whitman's 'O Captain! My Captain!' mourns:",
+   "options": [
+    "George Washington",
+    "Ralph Waldo Emerson",
+    "Ulysses S. Grant",
+    "Abraham Lincoln"
+   ],
+   "answer": 3,
+   "exp": "1865 mein Lincoln ki hatya par likhi gayi."
+  },
+  {
+   "q": "Emily Dickinson's first collection, Poems (1890), was edited by:",
+   "options": [
+    "Lavinia Dickinson and Emerson",
+    "Thomas H. Johnson",
+    "Mabel Loomis Todd and T.W. Higginson",
+    "Ralph Franklin"
+   ],
+   "answer": 2,
+   "exp": "Maut (1886) ke baad Todd aur Higginson ne nikala; Johnson ka edition 1955 ka."
+  },
+  {
+   "q": "Match List I with List II: (a) Hesperides (b) Lucasta (c) Silex Scintillans (d) Steps to the Temple -- (i) Henry Vaughan (ii) Richard Crashaw (iii) Robert Herrick (iv) Richard Lovelace",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "answer": 1,
+   "exp": "Herrick 1648, Lovelace 1649, Vaughan 1650, Crashaw 1646."
+  },
+  {
+   "q": "Match the elegy with its subject: (a) Adonais (b) Lycidas (c) In Memory of W.B. Yeats (d) When Lilacs Last in the Dooryard Bloom'd -- (i) Edward King (ii) Abraham Lincoln (iii) John Keats (iv) W.B. Yeats",
+   "options": [
+    "a-iii, b-i, c-iv, d-ii",
+    "a-i, b-iii, c-iv, d-ii",
+    "a-iii, b-ii, c-iv, d-i",
+    "a-iv, b-i, c-iii, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Shelley-Keats, Milton-King, Auden-Yeats, Whitman-Lincoln."
+  },
+  {
+   "q": "Match the poem with its verse form: (a) Don Juan (b) Troilus and Criseyde (c) Ode to the West Wind (d) In Memoriam A.H.H. -- (i) rhyme royal (ii) ottava rima (iii) iambic tetrameter quatrains rhyming abba (iv) terza rima",
+   "options": [
+    "a-i, b-ii, c-iv, d-iii",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-ii, b-i, c-iv, d-iii"
+   ],
+   "answer": 3,
+   "exp": "Byron ottava rima, Chaucer rhyme royal, Shelley terza rima, Tennyson abba."
+  },
+  {
+   "q": "Match the character with the poem: (a) Porphyro (b) Geraldine (c) Haidee (d) Demogorgon -- (i) Christabel (ii) Prometheus Unbound (iii) The Eve of St Agnes (iv) Don Juan",
+   "options": [
+    "a-i, b-iii, c-iv, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-iii, b-i, c-ii, d-iv"
+   ],
+   "answer": 2,
+   "exp": "Keats, Coleridge, Byron, Shelley."
+  },
+  {
+   "q": "Match the Yeats volume with the poem it contains: (a) The Tower (b) Michael Robartes and the Dancer (c) Responsibilities (d) The Winding Stair and Other Poems -- (i) September 1913 (ii) Byzantium (iii) Sailing to Byzantium (iv) The Second Coming",
+   "options": [
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-iv, b-iii, c-i, d-ii"
+   ],
+   "answer": 1,
+   "exp": "Tower 1928, Robartes 1921, Responsibilities 1914, Winding Stair 1933."
+  },
+  {
+   "q": "Match the critic with the concept: (a) William Empson (b) Cleanth Brooks (c) Wimsatt and Beardsley (d) Harold Bloom -- (i) the heresy of paraphrase (ii) the anxiety of influence (iii) seven types of ambiguity (iv) the intentional fallacy",
+   "options": [
+    "a-iii, b-i, c-iv, d-ii",
+    "a-i, b-iii, c-iv, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-i, c-ii, d-iv"
+   ],
+   "answer": 0,
+   "exp": "Empson 1930, Brooks 1947, Wimsatt-Beardsley 1946, Bloom 1973."
+  },
+  {
+   "q": "Match the collection with the poet: (a) Relationship (b) Jejuri (c) Latter-Day Psalms (d) Summer in Calcutta -- (i) Arun Kolatkar (ii) Kamala Das (iii) Jayanta Mahapatra (iv) Nissim Ezekiel",
+   "options": [
+    "a-iv, b-i, c-iii, d-ii",
+    "a-iii, b-ii, c-iv, d-i",
+    "a-i, b-iii, c-iv, d-ii",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "answer": 3,
+   "exp": "Mahapatra 1980, Kolatkar 1976, Ezekiel 1982, Das 1965."
+  },
+  {
+   "q": "Match the Frost poem with the volume: (a) Mending Wall (b) The Road Not Taken (c) Stopping by Woods on a Snowy Evening (d) Mowing -- (i) Mountain Interval (ii) New Hampshire (iii) North of Boston (iv) A Boy's Will",
+   "options": [
+    "a-i, b-iii, c-ii, d-iv",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-iii, b-i, c-ii, d-iv",
+    "a-iv, b-i, c-ii, d-iii"
+   ],
+   "answer": 2,
+   "exp": "North of Boston 1914, Mountain Interval 1916, New Hampshire 1923, A Boy's Will 1913."
+  },
+  {
+   "q": "Match the metrical foot with its pattern (u = unstressed, / = stressed): (a) iamb (b) trochee (c) anapaest (d) dactyl -- (i) / u u (ii) u / (iii) u u / (iv) / u",
+   "options": [
+    "a-iv, b-ii, c-iii, d-i",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-ii, b-iii, c-iv, d-i"
+   ],
+   "answer": 1,
+   "exp": "Iamb da-DUM, trochee DUM-da, anapaest da-da-DUM, dactyl DUM-da-da."
+  },
+  {
+   "q": "Match the anthology or journal with the group/editor: (a) New Signatures (1932) (b) The Germ (1850) (c) Des Imagistes (1914) (d) Georgian Poetry (1912-22) -- (i) Ezra Pound (ii) Edward Marsh (iii) Michael Roberts (iv) the Pre-Raphaelite Brotherhood",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Roberts ne Auden group launch kiya; The Germ PRB ka journal; Pound Imagists; Marsh Georgians."
+  },
+  {
+   "q": "Assertion (A): Dryden's Mac Flecknoe is a mock-heroic poem. Reason (R): It treats the 'dull' poet Thomas Shadwell in the elevated style of epic.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Chhote/bekar subject ko epic style mein likhna hi mock-heroic hai, isliye R A ko explain karta hai."
+  },
+  {
+   "q": "Assertion (A): Paradise Lost is written in heroic couplets. Reason (R): In his note on 'The Verse' Milton called rhyme 'the invention of a barbarous age'.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "PL blank verse mein hai, isliye A galat; R sahi quote hai."
+  },
+  {
+   "q": "Assertion (A): Lyrical Ballads (1798) opens with The Rime of the Ancient Mariner. Reason (R): Wordsworth added a Preface to the edition of 1800.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach, par Preface ka hona Mariner ke pehle aane ki wajah nahi."
+  },
+  {
+   "q": "Assertion (A): Shelley's Adonais is a pastoral elegy. Reason (R): It was written on the death of Lord Byron.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "Adonais Keats par hai (1821); Byron 1824 mein mare."
+  },
+  {
+   "q": "Assertion (A): Whitman's Leaves of Grass is written mainly in rhymed iambic pentameter. Reason (R): Whitman is regarded as the father of American free verse.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Leaves of Grass free verse mein hai, isliye A galat, R sahi."
+  },
+  {
+   "q": "Assertion (A): Imagist poems favour precise, concrete images and economy of words. Reason (R): Pound's 'A Few Don'ts by an Imagiste' (1913) advised 'Use no superfluous word'.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Pound ka rule hi Imagist ki kifayati bhasha ka kaaran hai."
+  },
+  {
+   "q": "Assertion (A): Dryden's Annus Mirabilis deals with the 'wonderful year' 1666. Reason (R): The poem describes the Dutch war and the Great Fire of London of that year.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "1666 ki ghatnayein (war + fire) hi use 'year of wonders' banati hain."
+  },
+  {
+   "q": "Assertion (A): Spenser dedicated The Shepheardes Calender (1579) to Sir Philip Sidney. Reason (R): Spenser's own shepherd persona in it is Colin Clout.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach, par Colin Clout persona dedication ki wajah nahi."
+  },
+  {
+   "q": "Arrange in chronological order of publication: (i) Paradise Lost (ii) Absalom and Achitophel (iii) The Rape of the Lock (five-canto version) (iv) The Faerie Queene, Books I-III",
+   "options": [
+    "(i), (iv), (ii), (iii)",
+    "(iv), (ii), (i), (iii)",
+    "(iv), (i), (iii), (ii)",
+    "(iv), (i), (ii), (iii)"
+   ],
+   "answer": 3,
+   "exp": "FQ 1590, PL 1667, Absalom 1681, Rape of the Lock 1714."
+  },
+  {
+   "q": "Arrange in chronological order of publication: (i) Endymion (ii) Biographia Literaria (iii) Queen Mab (iv) Childe Harold's Pilgrimage, Cantos I-II",
+   "options": [
+    "(iii), (iv), (ii), (i)",
+    "(iv), (iii), (i), (ii)",
+    "(iv), (iii), (ii), (i)",
+    "(iii), (iv), (i), (ii)"
+   ],
+   "answer": 2,
+   "exp": "Childe Harold 1812, Queen Mab 1813, Biographia 1817, Endymion 1818."
+  },
+  {
+   "q": "Arrange Tennyson's works in chronological order: (i) Maud (ii) In Memoriam A.H.H. (iii) Idylls of the King (first four idylls) (iv) Poems (two volumes)",
+   "options": [
+    "(ii), (iv), (i), (iii)",
+    "(iv), (ii), (i), (iii)",
+    "(iv), (i), (ii), (iii)",
+    "(iv), (ii), (iii), (i)"
+   ],
+   "answer": 1,
+   "exp": "Poems 1842, In Memoriam 1850, Maud 1855, Idylls 1859."
+  },
+  {
+   "q": "Arrange Browning's works in chronological order: (i) Men and Women (ii) Dramatic Lyrics (iii) The Ring and the Book (iv) Dramatis Personae",
+   "options": [
+    "(ii), (i), (iv), (iii)",
+    "(i), (ii), (iv), (iii)",
+    "(ii), (iv), (i), (iii)",
+    "(ii), (i), (iii), (iv)"
+   ],
+   "answer": 0,
+   "exp": "Dramatic Lyrics 1842, Men and Women 1855, Dramatis Personae 1864, Ring 1868-69."
+  },
+  {
+   "q": "Arrange Eliot's poems in chronological order: (i) Ash-Wednesday (ii) Prufrock and Other Observations (iii) The Hollow Men (iv) The Waste Land",
+   "options": [
+    "(iv), (ii), (iii), (i)",
+    "(ii), (iii), (iv), (i)",
+    "(ii), (iv), (i), (iii)",
+    "(ii), (iv), (iii), (i)"
+   ],
+   "answer": 3,
+   "exp": "Prufrock 1917, Waste Land 1922, Hollow Men 1925, Ash-Wednesday 1930."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Crow (Hughes) (ii) The Less Deceived (Larkin) (iii) Birthday Letters (Hughes) (iv) North (Heaney)",
+   "options": [
+    "(i), (ii), (iv), (iii)",
+    "(ii), (iv), (i), (iii)",
+    "(ii), (i), (iv), (iii)",
+    "(ii), (i), (iii), (iv)"
+   ],
+   "answer": 2,
+   "exp": "Less Deceived 1955, Crow 1970, North 1975, Birthday Letters 1998."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Gitanjali (Song Offerings) (ii) The Golden Threshold (iii) Ancient Ballads and Legends of Hindustan (iv) Jejuri",
+   "options": [
+    "(ii), (iii), (i), (iv)",
+    "(iii), (ii), (i), (iv)",
+    "(iii), (i), (ii), (iv)",
+    "(i), (iii), (ii), (iv)"
+   ],
+   "answer": 1,
+   "exp": "Toru Dutt 1882, Naidu 1905, Gitanjali (English) 1912, Kolatkar 1976."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "The marginal gloss of The Rime of the Ancient Mariner was added in Sibylline Leaves (1817)",
+    "Kubla Khan was first published in Lyrical Ballads (1798)",
+    "Coleridge completed Christabel in 1800",
+    "'Frost at Midnight' is addressed to Dorothy Wordsworth"
+   ],
+   "answer": 0,
+   "exp": "Gloss 1817 mein juda; Kubla Khan 1816 mein chhapi, Christabel adhuri rahi."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Lycidas mourns the death of Arthur Hallam",
+    "Comus was first performed at Penshurst",
+    "Samson Agonistes was written for the public stage",
+    "Paradise Lost was rearranged from ten into twelve books in 1674"
+   ],
+   "answer": 3,
+   "exp": "1674 ka second edition 12 books ka; Lycidas Edward King par, Comus Ludlow mein, Samson closet drama."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Goblin Market was written by Swinburne",
+    "Aurora Leigh is written in heroic couplets",
+    "Sonnets from the Portuguese contains 44 sonnets",
+    "FitzGerald's Rubaiyat renders Arabic quatrains"
+   ],
+   "answer": 2,
+   "exp": "EBB ke 44 sonnets; Goblin Market Christina Rossetti, Aurora Leigh blank verse, Rubaiyat Persian."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Rupert Brooke wrote 'Dulce et Decorum Est'",
+    "Wilfred Owen's Poems appeared posthumously in 1920, edited by Sassoon",
+    "H.D. wrote Hugh Selwyn Mauberley",
+    "Four Quartets begins with 'Little Gidding'"
+   ],
+   "answer": 1,
+   "exp": "Owen 1918 mein mare; Dulce Owen ki, Mauberley Pound ki, Quartets Burnt Norton se shuru."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Frost's first book, A Boy's Will, was published in London",
+    "Ginsberg's Howl is dedicated to Jack Kerouac",
+    "Plath's Ariel was published in her lifetime",
+    "Leaves of Grass first appeared in 1865"
+   ],
+   "answer": 0,
+   "exp": "A Boy's Will 1913 London; Howl Carl Solomon ko, Ariel 1965 (maut ke baad), Leaves 1855."
+  }
+ ]
+}

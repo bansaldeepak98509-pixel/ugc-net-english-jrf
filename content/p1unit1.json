@@ -1,0 +1,749 @@
+{
+ "id": 101,
+ "title": "Teaching Aptitude",
+ "overview": "Is unit mein teaching ka concept, objectives, levels (memory, understanding, reflective), learner ki characteristics, teaching ko affect karne wale factors, methods (teacher-centred vs learner-centred, offline vs online jaise SWAYAM, MOOCs), support system (traditional, modern, ICT) aur evaluation (CBCS, CBT) aata hai. NET mein 5 questions aate hain, zyada tar statement-based, match-the-following aur 'best teaching practice' wale sawal.",
+ "topics": [
+  {
+   "title": "Teaching: Concept and Nature",
+   "points": [
+    "Teaching is a planned, purposeful, tripolar process involving teacher, learner and the social environment/curriculum (tripolar view of John Dewey; bipolar view of John Adams: teacher and learner).",
+    "Morrison (1934): teaching is an intimate contact between a more mature personality and a less mature one, designed to further the education of the latter.",
+    "N.L. Gage (1963): teaching is a form of interpersonal influence aimed at changing the behaviour potential of another person.",
+    "Burton: teaching is the stimulation, guidance, direction and encouragement of learning.",
+    "Nature of teaching: both an art and a science; a social and interactive process; goal-oriented; can be observed, analysed and improved (it is modifiable).",
+    "Phases of teaching (P.W. Jackson, Life in Classrooms, 1968): pre-active (planning), interactive (actual classroom), post-active (evaluation and reflection).",
+    "Teaching and learning are related but not identical: teaching is the means, learning is the end; good teaching is judged by learning outcomes.",
+    "Robert Glaser's Basic Teaching Model (1962): instructional objectives, entering behaviour, instructional procedures, performance assessment.",
+    "Joyce and Weil, Models of Teaching (1972): four families - information processing, social interaction, personal, behavioural systems.",
+    "Teaching is the most effective when it is learner-centred, democratic, interactive and linked to real life (NET favours these options)."
+   ]
+  },
+  {
+   "title": "Objectives of Teaching and Bloom's Taxonomy",
+   "points": [
+    "Objectives of teaching: bringing desirable change in behaviour across cognitive (knowing), affective (feeling) and conative/psychomotor (doing) domains.",
+    "Benjamin Bloom and associates, Taxonomy of Educational Objectives: Handbook I, Cognitive Domain (1956).",
+    "Original cognitive levels (lowest to highest): Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation.",
+    "Revised taxonomy by Lorin Anderson and David Krathwohl (2001): Remember, Understand, Apply, Analyse, Evaluate, Create (verbs, and Create is now the top).",
+    "Affective domain (Krathwohl, Bloom and Masia, 1964): Receiving, Responding, Valuing, Organisation, Characterisation by a value (complex).",
+    "Psychomotor domain was not completed by Bloom; versions by R.H. Dave (1970: Imitation, Manipulation, Precision, Articulation, Naturalisation), Elizabeth Simpson (1972) and Anita Harrow (1972).",
+    "Aims are broad and long-term; objectives are specific; learning outcomes are measurable statements of what the learner can do (use action verbs like list, explain, design).",
+    "Teaching objectives in higher education: knowledge creation, critical thinking, problem solving, skill development, values and employability."
+   ]
+  },
+  {
+   "title": "Levels of Teaching: Memory, Understanding and Reflective",
+   "points": [
+    "Three levels in ascending order: Memory level, Understanding level, Reflective level.",
+    "Memory level: lowest, 'thoughtless' teaching based on rote learning and recall; associated with Herbart; Herbartian steps: preparation, presentation, comparison/association, generalisation, application.",
+    "Understanding level: 'thoughtful' teaching; learner grasps principles, facts and relationships; associated with Henry C. Morrison; Morrison's steps: exploration, presentation, assimilation, organisation, recitation.",
+    "Reflective level: highest, 'upper thoughtful' or problem-centred teaching; develops reasoning, critical and creative thinking; associated with Morris L. Bigge and Maurice P. Hunt.",
+    "At reflective level the learner identifies a problem, frames hypotheses, tests them and reaches conclusions (like scientific method); classroom is open and democratic.",
+    "Memory level is a prerequisite for understanding level, which in turn is the prerequisite for reflective level.",
+    "Role of teacher: dominant at memory level, shared at understanding level, least dominant (facilitator) at reflective level.",
+    "Evaluation: memory level by recall/objective tests; understanding level by objective plus essay questions; reflective level by essay-type, problem-solving and open-ended questions."
+   ]
+  },
+  {
+   "title": "Characteristics and Basic Requirements of Effective Teaching",
+   "points": [
+    "Effective teaching is planned, purposeful, learner-centred, interactive, democratic, diagnostic and remedial, and uses feedback.",
+    "Basic requirements: mastery of subject, clear objectives, lesson planning, good communication, classroom management, motivation, suitable methods and aids, and evaluation.",
+    "Maxims of teaching: known to unknown, simple to complex, concrete to abstract, particular to general, whole to part, analysis to synthesis, empirical to rational, psychological to logical, induction to deduction.",
+    "Teaching skills are practised through micro-teaching: developed at Stanford University (early 1960s, Dwight W. Allen and colleagues); in India D.D. Tiwari (1967, Central Pedagogical Institute, Allahabad).",
+    "Micro-teaching cycle: plan - teach - feedback - re-plan - re-teach - re-feedback; Indian model: teach 6 min, feedback 6 min, re-plan 12 min, re-teach 6 min, re-feedback 6 min (36 minutes); 5-10 students.",
+    "Flanders' Interaction Analysis Category System (Ned Flanders, 1960s-1970): 10 categories - 7 teacher talk (1-4 indirect, 5-7 direct), 2 student talk (8-9), 1 silence or confusion (10).",
+    "Teacher qualities valued in NET options: patience, empathy, impartiality, enthusiasm, openness to questions, using examples, and being a role model.",
+    "A good teacher is a facilitator and guide, not just an information giver; encourages questioning and self-learning."
+   ]
+  },
+  {
+   "title": "Learner's Characteristics: Adolescent and Adult Learners",
+   "points": [
+    "Higher education learners are late adolescents and adults; characteristics are studied under academic, social, emotional and cognitive heads.",
+    "G. Stanley Hall (Adolescence, 1904) called adolescence a period of 'storm and stress'.",
+    "Cognitive: adolescents reach Piaget's formal operational stage (about 11 years onward) - abstract, hypothetical and logical thinking.",
+    "Emotional: mood swings, need for identity and independence; Erik Erikson's stage 'identity vs role confusion' (about 12-18 years).",
+    "Social: strong peer influence, need for acceptance, idealism, interest in social causes.",
+    "Academic: curiosity, need for relevance, career orientation, varied interests and capacities.",
+    "Adult learning = Andragogy, popularised by Malcolm Knowles (The Modern Practice of Adult Education, 1970); pedagogy is the teaching of children.",
+    "Knowles' andragogy assumptions: self-directed self-concept, rich experience as a resource, readiness linked to life roles, problem-centred orientation, internal motivation, need to know why.",
+    "Heutagogy (Stewart Hase and Chris Kenyon, 2000): self-determined learning, learner decides what and how to learn."
+   ]
+  },
+  {
+   "title": "Individual Differences and Learning Styles",
+   "points": [
+    "Individual differences: learners differ in intelligence, aptitude, interest, attitude, learning style, pace, personality, socio-economic background.",
+    "Causes: heredity and environment (nature and nurture) interacting.",
+    "Howard Gardner, Frames of Mind (1983): Multiple Intelligences - linguistic, logical-mathematical, spatial, musical, bodily-kinaesthetic, interpersonal, intrapersonal; naturalist added later (1990s) as the eighth.",
+    "Neil Fleming's VARK model: Visual, Aural, Read/write, Kinaesthetic learners.",
+    "David Kolb, Experiential Learning (1984): cycle of concrete experience, reflective observation, abstract conceptualisation, active experimentation; styles - diverging, assimilating, converging, accommodating.",
+    "Lev Vygotsky: Zone of Proximal Development (ZPD) and scaffolding - learning with help of a more knowledgeable other.",
+    "Teacher response to differences: differentiated instruction, flexible grouping, remedial teaching for slow learners, enrichment for gifted, varied methods and aids.",
+    "Inclusive education: teaching all learners including those with disabilities in the same classroom; the Rights of Persons with Disabilities Act, 2016 supports it."
+   ]
+  },
+  {
+   "title": "Factors Affecting Teaching",
+   "points": [
+    "Teacher factors: subject mastery, teaching skills, personality, attitude, motivation, communication, experience, mental and physical health.",
+    "Learner factors: prior knowledge, motivation, attention, intelligence, aptitude, readiness, health, socio-economic and family background.",
+    "Support material: textbooks, reference books, e-content, audio-visual aids, study guides, question banks.",
+    "Instructional facilities: classroom space, seating, lighting, ventilation, laboratory, library, ICT equipment, internet.",
+    "Learning environment: physical (noise, temperature) and psycho-social (classroom climate, teacher-student rapport, peer relations, discipline).",
+    "Institution: leadership, policies, culture, resources, class size, timetable, academic freedom, evaluation system.",
+    "Motivation: intrinsic (from within, interest) is more lasting than extrinsic (rewards, marks).",
+    "A positive, democratic and non-threatening climate improves participation and learning (NET's preferred answer)."
+   ]
+  },
+  {
+   "title": "Teacher-Centred vs Learner-Centred Methods",
+   "points": [
+    "Teacher-centred (autocratic) methods: lecture, demonstration, tutorial (teacher-led), team teaching, programmed instruction (teacher designs everything); teacher is the main actor, learners are passive.",
+    "Learner-centred (democratic/constructivist) methods: discussion, seminar, project, problem-solving, case study, role play, brainstorming, inquiry, discovery, field trip, flipped classroom, cooperative learning.",
+    "Lecture method is the most widely used in higher education; good for large classes and covering content, weak on interaction.",
+    "Project method: William H. Kilpatrick (1918), based on John Dewey's pragmatism ('learning by doing').",
+    "Heuristic method: H.E. Armstrong - learner discovers as a researcher.",
+    "Dalton Plan: Helen Parkhurst (1920) - individual contracts/assignments; Keller Plan or Personalised System of Instruction: Fred S. Keller (1968).",
+    "Programmed instruction: B.F. Skinner's linear programming (operant conditioning); Norman Crowder's branching programming.",
+    "Brainstorming: Alex Osborn (popularised in Applied Imagination, 1953) - free generation of ideas without criticism.",
+    "Case method: Harvard Law School under Christopher Langdell (1870s); Jigsaw cooperative technique: Elliot Aronson (1971).",
+    "Seminar: a paper presented and discussed; Symposium: several experts speak on aspects of one topic; Panel discussion: experts discuss before an audience under a moderator; Workshop: hands-on, product-oriented."
+   ]
+  },
+  {
+   "title": "Offline vs Online Methods: SWAYAM, SWAYAM Prabha, MOOCs",
+   "points": [
+    "Offline methods: face-to-face classroom teaching, labs, printed material; Online: internet-based, synchronous (live) or asynchronous (recorded); Blended learning mixes both.",
+    "MOOC = Massive Open Online Course; the term was coined in 2008 by Dave Cormier (with Bryan Alexander) for a course by George Siemens and Stephen Downes.",
+    "cMOOCs are connectivist (networked learning); xMOOCs are structured, video-lecture based (Coursera, edX, Udacity - all 2012, the 'Year of the MOOC').",
+    "SWAYAM: Study Webs of Active-Learning for Young Aspiring Minds; Government of India (MHRD, now Ministry of Education) MOOC platform launched on 9 July 2017.",
+    "SWAYAM four quadrants: (1) video lectures, (2) e-content/reading material, (3) self-assessment tests and quizzes, (4) discussion forum for doubts.",
+    "SWAYAM national coordinators include AICTE, NPTEL (engineering), UGC (non-technical PG), CEC (undergraduate), NCERT and NIOS (school), IGNOU (out-of-school), IIM Bangalore (management), NITTTR (teacher training).",
+    "UGC Credit Framework for Online Learning Courses through SWAYAM: credit transfer allowed (now up to 40% of credits in a programme per semester as per 2021 regulations).",
+    "SWAYAM Prabha: group of DTH channels launched 9 July 2017 (started with 32 channels) telecasting educational content 24x7 via GSAT satellite; free to air.",
+    "Other ICT initiatives: NPTEL (2003, IITs and IISc), e-PG Pathshala (UGC-INFLIBNET), National Digital Library of India (IIT Kharagpur), Shodhganga (theses, INFLIBNET), DIKSHA (2017, school teachers), NMEICT (2009), Virtual Labs, Spoken Tutorial (IIT Bombay).",
+    "Advantages of online: flexibility, scale, access, self-pace; limitations: digital divide, less interaction, high dropout, need for self-discipline."
+   ]
+  },
+  {
+   "title": "Teaching Support System: Traditional, Modern and ICT-based",
+   "points": [
+    "Traditional aids: chalkboard/blackboard, textbook, charts, maps, models, flannel board, bulletin board, real objects (realia).",
+    "Modern aids: overhead projector (OHP), slide projector, film, radio, television, audio and video recorders, LCD projector.",
+    "ICT-based aids: computers, internet, PowerPoint, interactive/smart boards, LMS (e.g. Moodle), video conferencing, e-books, simulations, virtual labs, mobile apps, AI tools.",
+    "Aids are classified as audio (radio, podcast), visual (chart, slide) and audio-visual (TV, film, video).",
+    "Projected aids: OHP, slides, LCD; non-projected aids: chalkboard, charts, models.",
+    "Edgar Dale's Cone of Experience (1946): from direct purposeful experience (base, most concrete) to verbal symbols (top, most abstract).",
+    "Aids should be relevant, simple, visible, accurate and used at the right time; they support but do not replace the teacher.",
+    "Flipped classroom: learners study content (videos) at home and do activities/problem solving in class.",
+    "Hardware approach (machines, equipment) vs software approach (programmed material, teaching strategies) - both part of educational technology."
+   ]
+  },
+  {
+   "title": "Evaluation: Elements and Types",
+   "points": [
+    "Measurement is quantitative (scores); assessment collects information; evaluation adds value judgement (quantitative plus qualitative description and judgement).",
+    "Ralph Tyler's triangle: educational objectives, learning experiences, evaluation are interrelated (Basic Principles of Curriculum and Instruction, 1949).",
+    "Michael Scriven (1967) coined the terms formative evaluation (during instruction, to improve it) and summative evaluation (at the end, to grade/certify).",
+    "Placement evaluation: before instruction, to judge entry behaviour; Diagnostic evaluation: to find persistent learning difficulties and their causes, followed by remedial teaching.",
+    "Norm-referenced test: compares a learner with others (rank, percentile); Criterion-referenced test: compares with a fixed standard or mastery level (terms from Robert Glaser, 1963).",
+    "Characteristics of a good test: validity (measures what it claims), reliability (consistency), objectivity (free from examiner bias), usability/practicability, discrimination power.",
+    "A test can be reliable without being valid, but a valid test must be reliable.",
+    "Continuous and Comprehensive Evaluation (CCE): continuous (regular, formative and summative) and comprehensive (scholastic plus co-scholastic areas).",
+    "Tools: tests (essay, short answer, objective), rating scale, checklist, observation, interview, portfolio, rubrics, anecdotal record."
+   ]
+  },
+  {
+   "title": "Evaluation in Choice Based Credit System (CBCS)",
+   "points": [
+    "UGC introduced CBCS guidelines for higher education in 2015 (implemented from academic year 2015-16).",
+    "Semester system with credits; students choose courses from core, elective and skill-based courses, with a cafeteria approach.",
+    "Course types: Core courses, Elective courses (Discipline Specific Elective, Generic Elective), Ability Enhancement Compulsory Courses (AECC), Skill Enhancement Courses (SEC).",
+    "One credit generally = one hour of lecture or tutorial per week in a semester, or two hours of practical per week.",
+    "UGC 10-point grading: O (Outstanding) 10, A+ (Excellent) 9, A (Very Good) 8, B+ (Good) 7, B (Above Average) 6, C (Average) 5, P (Pass) 4, F (Fail) 0, Ab (Absent) 0.",
+    "SGPA = sum of (course credits x grade points) / total credits in a semester; CGPA is the same computed over all semesters.",
+    "Relative grading is based on the performance of the whole class; absolute grading on fixed marks ranges.",
+    "NEP 2020 builds on CBCS with multiple entry and exit, Academic Bank of Credits (ABC, launched July 2021) and the four-year undergraduate programme.",
+    "Advantages of CBCS: flexibility, mobility between institutions, interdisciplinary choice, continuous internal assessment."
+   ]
+  },
+  {
+   "title": "Computer Based Testing and Innovations in Evaluation",
+   "points": [
+    "Computer Based Test (CBT): candidates answer on a computer; quick, accurate, secure results; NTA (set up in 2017) conducts UGC NET in CBT mode since December 2018.",
+    "Computer Adaptive Testing (CAT): the next item depends on the previous answer - difficulty goes up after a correct answer and down after a wrong one; based on Item Response Theory.",
+    "Advantages of CBT: instant scoring, item randomisation, multiple test sessions, item banking, less paper; issues: infrastructure, digital familiarity, technical glitches.",
+    "Innovations: open-book examination, online/remote proctoring, on-demand examination, e-portfolio, rubrics, peer and self assessment, grading instead of marks, question banks, continuous internal assessment.",
+    "Rubric: a scoring guide with criteria and performance levels, increases objectivity in grading essays and projects.",
+    "360-degree evaluation: feedback from teachers, peers, self and others.",
+    "Item analysis: difficulty index (proportion correct) and discrimination index (how well an item separates high and low scorers).",
+    "OMR (Optical Mark Recognition) sheets are machine-scored paper tests; CBT replaces them in many national exams.",
+    "Learning analytics on LMS data helps track progress and give early warning to teachers."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Pedagogy",
+   "pron": "पे-डा-गो-जी (PED-uh-goh-jee)",
+   "hindi": "बच्चों को पढ़ाने की कला और विज्ञान",
+   "net": "The art and science of teaching, traditionally the teaching of children, in which the teacher decides what, when and how is learned."
+  },
+  {
+   "term": "Andragogy",
+   "pron": "एन-ड्रा-गो-जी (AN-druh-goh-jee)",
+   "hindi": "बड़ों (वयस्कों) को पढ़ाने का तरीका",
+   "net": "The method and practice of teaching adult learners; popularised by Malcolm Knowles (1970) on assumptions of self-direction, experience, readiness, problem orientation and internal motivation."
+  },
+  {
+   "term": "Heutagogy",
+   "pron": "ह्यू-टा-गो-जी (HYOO-tuh-goh-jee)",
+   "hindi": "खुद तय करके सीखना",
+   "net": "Self-determined learning in which the learner decides what and how to learn; proposed by Stewart Hase and Chris Kenyon (2000)."
+  },
+  {
+   "term": "Cognitive domain",
+   "pron": "कॉग-नि-टिव (KOG-ni-tiv)",
+   "hindi": "सोचने-समझने वाला क्षेत्र",
+   "net": "The domain of educational objectives concerned with knowledge and intellectual skills; Bloom's Taxonomy, Handbook I (1956)."
+  },
+  {
+   "term": "Affective domain",
+   "pron": "अ-फेक-टिव (uh-FEK-tiv)",
+   "hindi": "भावना, रुचि और मूल्यों वाला क्षेत्र",
+   "net": "The domain of objectives concerned with feelings, attitudes, interests and values; classified by Krathwohl, Bloom and Masia (1964)."
+  },
+  {
+   "term": "Psychomotor domain",
+   "pron": "साइ-को-मो-टर (SY-koh-moh-ter)",
+   "hindi": "हाथ-पैर से करने वाले कौशल",
+   "net": "The domain of objectives dealing with physical movement and motor skills; taxonomies by Dave (1970), Simpson (1972) and Harrow (1972)."
+  },
+  {
+   "term": "Taxonomy",
+   "pron": "टैक्-सॉ-नो-मी (tak-SON-uh-mee)",
+   "hindi": "वर्गीकरण",
+   "net": "A hierarchical classification; in education, Bloom's hierarchy of learning objectives from simple to complex."
+  },
+  {
+   "term": "Micro-teaching",
+   "pron": "माइ-क्रो टीचिंग (MY-kroh TEE-ching)",
+   "hindi": "छोटी क्लास में छोटा पाठ पढ़ाकर एक कौशल का अभ्यास",
+   "net": "A scaled-down teaching encounter (5-10 learners, 5-10 minutes, one skill) with feedback, developed at Stanford University in the early 1960s."
+  },
+  {
+   "term": "Reflective teaching",
+   "pron": "रि-फ्लेक-टिव (ri-FLEK-tiv)",
+   "hindi": "सोच-विचार और समस्या पर आधारित पढ़ाई",
+   "net": "The highest level of teaching (Hunt), problem-centred, developing critical and creative thinking; also a teacher's habit of reflecting on own practice."
+  },
+  {
+   "term": "Formative evaluation",
+   "pron": "फॉर-मे-टिव (FOR-muh-tiv)",
+   "hindi": "पढ़ाई के दौरान सुधार के लिए जाँच",
+   "net": "Evaluation carried out during instruction to monitor progress and improve teaching and learning; term coined by Michael Scriven (1967)."
+  },
+  {
+   "term": "Summative evaluation",
+   "pron": "सम-मे-टिव (SUM-uh-tiv)",
+   "hindi": "अंत में अंक/ग्रेड देने वाली जाँच",
+   "net": "Evaluation at the end of a course or unit to judge overall achievement, certify or grade; term coined by Michael Scriven (1967)."
+  },
+  {
+   "term": "Diagnostic evaluation",
+   "pron": "डाय-ग्नॉस-टिक (dy-ag-NOS-tik)",
+   "hindi": "कमज़ोरी और उसका कारण पता करना",
+   "net": "Evaluation to identify persistent learning difficulties and their causes so that remedial teaching can be given."
+  },
+  {
+   "term": "Placement evaluation",
+   "pron": "प्लेस-मेंट (PLAYS-ment)",
+   "hindi": "शुरू में स्तर तय करने वाली जाँच",
+   "net": "Evaluation before instruction to determine entry behaviour and place the learner at the right level or group."
+  },
+  {
+   "term": "Norm-referenced test",
+   "pron": "नॉर्म (NORM)",
+   "hindi": "दूसरों से तुलना करके परखना",
+   "net": "A test that interprets a score by comparing the learner with a norm group (rank, percentile)."
+  },
+  {
+   "term": "Criterion-referenced test",
+   "pron": "क्राइ-टी-रि-अन (kry-TEER-ee-un)",
+   "hindi": "तय मानक से तुलना",
+   "net": "A test that interprets a score against a fixed standard of mastery, not against other learners; term from Robert Glaser (1963)."
+  },
+  {
+   "term": "Validity",
+   "pron": "वै-लि-डि-टी (vuh-LID-i-tee)",
+   "hindi": "जो मापना है वही मापे",
+   "net": "The degree to which a test measures what it claims to measure."
+  },
+  {
+   "term": "Reliability",
+   "pron": "रि-लाय-ए-बि-लि-टी (ri-ly-uh-BIL-i-tee)",
+   "hindi": "बार-बार मापने पर एक जैसा परिणाम",
+   "net": "The consistency or stability of test scores over repeated measurement."
+  },
+  {
+   "term": "Objectivity",
+   "pron": "ऑब-जेक-टि-वि-टी (ob-jek-TIV-i-tee)",
+   "hindi": "जाँचने वाले की पसंद-नापसंद का असर न हो",
+   "net": "The extent to which scoring is free from the personal judgement or bias of the examiner."
+  },
+  {
+   "term": "Rubric",
+   "pron": "रू-ब्रिक (ROO-brik)",
+   "hindi": "अंक देने की तय मापदंड-सारणी",
+   "net": "A scoring guide listing criteria and levels of performance used to evaluate work consistently."
+  },
+  {
+   "term": "CBCS",
+   "pron": "सी-बी-सी-एस (see-bee-see-ess)",
+   "hindi": "विषय चुनने की आज़ादी वाली क्रेडिट प्रणाली",
+   "net": "Choice Based Credit System, introduced by UGC (2015), allowing students to choose core, elective and skill courses with credits and grade points."
+  },
+  {
+   "term": "SGPA",
+   "pron": "एस-जी-पी-ए (ess-jee-pee-ay)",
+   "hindi": "एक सेमेस्टर का औसत ग्रेड अंक",
+   "net": "Semester Grade Point Average: sum of (credits x grade points) of all courses in a semester divided by total credits."
+  },
+  {
+   "term": "CGPA",
+   "pron": "सी-जी-पी-ए (see-jee-pee-ay)",
+   "hindi": "सभी सेमेस्टर का कुल औसत ग्रेड",
+   "net": "Cumulative Grade Point Average computed over all semesters of a programme."
+  },
+  {
+   "term": "MOOC",
+   "pron": "मूक (MOOK)",
+   "hindi": "बहुत बड़ी संख्या के लिए खुला ऑनलाइन कोर्स",
+   "net": "Massive Open Online Course; term coined in 2008 by Dave Cormier; offered on platforms such as SWAYAM, Coursera and edX."
+  },
+  {
+   "term": "SWAYAM",
+   "pron": "स्वयं (SWA-yam)",
+   "hindi": "भारत सरकार का मुफ्त ऑनलाइन कोर्स पोर्टल",
+   "net": "Study Webs of Active-Learning for Young Aspiring Minds, India's MOOC platform launched 9 July 2017, built on four quadrants."
+  },
+  {
+   "term": "SWAYAM Prabha",
+   "pron": "स्वयं प्रभा (SWA-yam PRA-bha)",
+   "hindi": "शिक्षा के मुफ्त डीटीएच टीवी चैनल",
+   "net": "Group of educational DTH channels launched 9 July 2017 (initially 32) telecasting curriculum content 24x7."
+  },
+  {
+   "term": "Blended learning",
+   "pron": "ब्लेन-डेड (BLEN-did)",
+   "hindi": "आमने-सामने और ऑनलाइन दोनों मिलाकर पढ़ाई",
+   "net": "An approach combining face-to-face classroom teaching with online learning."
+  },
+  {
+   "term": "Flipped classroom",
+   "pron": "फ्लिप्ड (FLIPT)",
+   "hindi": "घर पर वीडियो से पढ़ो, क्लास में अभ्यास",
+   "net": "A model in which learners study instructional content at home and use class time for activities, discussion and problem solving."
+  },
+  {
+   "term": "Synchronous learning",
+   "pron": "सिन-क्रो-नस (SING-kruh-nus)",
+   "hindi": "एक ही समय पर लाइव पढ़ाई",
+   "net": "Online learning in which teacher and learners interact at the same time (live class, webinar)."
+  },
+  {
+   "term": "Asynchronous learning",
+   "pron": "ए-सिन-क्रो-नस (ay-SING-kruh-nus)",
+   "hindi": "अपने समय पर रिकॉर्डेड पढ़ाई",
+   "net": "Online learning in which participants access material at different times (recorded video, forum)."
+  },
+  {
+   "term": "Scaffolding",
+   "pron": "स्कै-फोल-डिंग (SKAF-ol-ding)",
+   "hindi": "सीखते समय दिया गया अस्थायी सहारा",
+   "net": "Temporary support given to a learner to perform a task within the Zone of Proximal Development, withdrawn gradually; concept from Vygotsky's theory (term by Wood, Bruner and Ross, 1976)."
+  },
+  {
+   "term": "Zone of Proximal Development",
+   "pron": "प्रॉक्-सि-मल (PROK-si-mul)",
+   "hindi": "जो बच्चा मदद से कर सके पर अकेले नहीं",
+   "net": "Vygotsky's term for the gap between what a learner can do alone and what can be done with guidance of a more knowledgeable other."
+  },
+  {
+   "term": "Multiple Intelligences",
+   "pron": "मल्-टि-पल इन-टे-लि-जेन्स (MUL-ti-pul in-TEL-i-jens)",
+   "hindi": "बुद्धि के कई प्रकार",
+   "net": "Howard Gardner's theory (Frames of Mind, 1983) that intelligence has several distinct forms such as linguistic, logical-mathematical and interpersonal."
+  },
+  {
+   "term": "Maxims of teaching",
+   "pron": "मैक्-सिम्स (MAK-simz)",
+   "hindi": "पढ़ाने के सूत्र/नियम",
+   "net": "Guiding principles of teaching such as known to unknown, simple to complex, concrete to abstract and particular to general."
+  },
+  {
+   "term": "Interaction analysis",
+   "pron": "इन-टर-ऐक्-शन (in-ter-AK-shun)",
+   "hindi": "कक्षा में बातचीत का विश्लेषण",
+   "net": "Systematic observation of classroom verbal behaviour; Flanders' 10-category system (FIACS)."
+  },
+  {
+   "term": "Computer Adaptive Testing",
+   "pron": "अ-डैप-टिव (uh-DAP-tiv)",
+   "hindi": "जवाब के हिसाब से अगला सवाल आसान या कठिन",
+   "net": "Computer-based testing in which the difficulty of each next item depends on the candidate's responses, based on Item Response Theory."
+  },
+  {
+   "term": "Item analysis",
+   "pron": "आइ-टम (EYE-tum)",
+   "hindi": "हर सवाल की कठिनता और भेद क्षमता जाँचना",
+   "net": "Statistical review of test items using difficulty index and discrimination index."
+  },
+  {
+   "term": "Remedial teaching",
+   "pron": "रि-मी-डि-अल (ri-MEE-dee-ul)",
+   "hindi": "कमज़ोर छात्रों के लिए सुधार की पढ़ाई",
+   "net": "Corrective instruction given after diagnostic evaluation to remove learning difficulties."
+  },
+  {
+   "term": "Edgar Dale's Cone",
+   "pron": "कोन (KOHN)",
+   "hindi": "अनुभव का शंकु: ठोस से अमूर्त",
+   "net": "Dale's Cone of Experience (1946), arranging learning experiences from direct purposeful experience (concrete) at the base to verbal symbols (abstract) at the top."
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "Which is the correct ascending order of levels of teaching?",
+   "options": [
+    "Memory, Reflective, Understanding",
+    "Memory, Understanding, Reflective",
+    "Reflective, Understanding, Memory",
+    "Understanding, Memory, Reflective"
+   ],
+   "answer": 1,
+   "exp": "Memory is lowest, reflective is highest."
+  },
+  {
+   "q": "The reflective level of teaching is associated with:",
+   "options": [
+    "Skinner",
+    "Herbart",
+    "Hunt",
+    "Morrison"
+   ],
+   "answer": 2,
+   "exp": "Herbart - memory, Morrison - understanding, Hunt - reflective."
+  },
+  {
+   "q": "Who coined the terms 'formative' and 'summative' evaluation?",
+   "options": [
+    "Michael Scriven",
+    "Robert Glaser",
+    "Benjamin Bloom",
+    "Ralph Tyler"
+   ],
+   "answer": 0,
+   "exp": "Scriven used the terms in 1967."
+  },
+  {
+   "q": "In the revised Bloom's taxonomy (2001), the highest cognitive level is:",
+   "options": [
+    "Analyse",
+    "Synthesis",
+    "Create",
+    "Evaluate"
+   ],
+   "answer": 2,
+   "exp": "Anderson and Krathwohl put Create at the top."
+  },
+  {
+   "q": "SWAYAM was launched in the year:",
+   "options": [
+    "2019",
+    "2015",
+    "2014",
+    "2017"
+   ],
+   "answer": 3,
+   "exp": "Launched on 9 July 2017."
+  },
+  {
+   "q": "Which is NOT one of the four quadrants of SWAYAM?",
+   "options": [
+    "Discussion forum",
+    "Video lecture",
+    "Self-assessment",
+    "Face-to-face contact class"
+   ],
+   "answer": 3,
+   "exp": "The quadrants are video, e-content, self-assessment and discussion forum."
+  },
+  {
+   "q": "A test that compares a student's performance with that of other students is:",
+   "options": [
+    "Criterion-referenced",
+    "Norm-referenced",
+    "Formative",
+    "Diagnostic"
+   ],
+   "answer": 1,
+   "exp": "Norm-referenced tests rank against a group."
+  },
+  {
+   "q": "Evaluation done to identify the causes of persistent learning difficulty is called:",
+   "options": [
+    "Summative evaluation",
+    "Norm-referenced evaluation",
+    "Placement evaluation",
+    "Diagnostic evaluation"
+   ],
+   "answer": 3,
+   "exp": "Diagnosis finds causes; remedial teaching follows."
+  },
+  {
+   "q": "The concept of 'Andragogy' is associated with:",
+   "options": [
+    "Jean Piaget",
+    "B.F. Skinner",
+    "John Dewey",
+    "Malcolm Knowles"
+   ],
+   "answer": 3,
+   "exp": "Knowles popularised andragogy for adult learners."
+  },
+  {
+   "q": "Which of the following is a learner-centred method?",
+   "options": [
+    "Lecture method",
+    "Project method",
+    "Demonstration by teacher",
+    "Programmed lecture notes"
+   ],
+   "answer": 1,
+   "exp": "Project method involves learners actively; lecture and demonstration are teacher-centred."
+  },
+  {
+   "q": "The Project method was developed by:",
+   "options": [
+    "H.E. Armstrong",
+    "W.H. Kilpatrick",
+    "Helen Parkhurst",
+    "Fred Keller"
+   ],
+   "answer": 1,
+   "exp": "Kilpatrick (1918), following Dewey."
+  },
+  {
+   "q": "In UGC's 10-point grading scale under CBCS, grade 'A+' stands for:",
+   "options": [
+    "Excellent, 9 points",
+    "Very Good, 8 points",
+    "Good, 7 points",
+    "Outstanding, 10 points"
+   ],
+   "answer": 0,
+   "exp": "O=10 Outstanding, A+=9 Excellent, A=8 Very Good."
+  },
+  {
+   "q": "A test that gives consistent results on repeated administration is said to have:",
+   "options": [
+    "Objectivity",
+    "Reliability",
+    "Usability",
+    "Validity"
+   ],
+   "answer": 1,
+   "exp": "Consistency = reliability."
+  },
+  {
+   "q": "Micro-teaching was first developed at:",
+   "options": [
+    "Stanford University",
+    "Oxford University",
+    "Columbia University",
+    "Harvard University"
+   ],
+   "answer": 0,
+   "exp": "Stanford, early 1960s."
+  },
+  {
+   "q": "Which phase of teaching includes lesson planning?",
+   "options": [
+    "Post-active",
+    "Evaluative",
+    "Interactive",
+    "Pre-active"
+   ],
+   "answer": 3,
+   "exp": "Jackson: planning is the pre-active phase."
+  },
+  {
+   "q": "Match the following:\nList I: (a) Memory level (b) Understanding level (c) Reflective level (d) Programmed instruction\nList II: (i) Morrison (ii) Skinner (iii) Herbart (iv) Hunt",
+   "options": [
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-i, c-iv, d-iii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-i, b-iii, c-iv, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Herbart, Morrison, Hunt, Skinner."
+  },
+  {
+   "q": "Match the following:\nList I: (a) Remember (b) Analyse (c) Valuing (d) Naturalisation\nList II: (i) Psychomotor domain (ii) Affective domain (iii) Lowest cognitive level (revised) (iv) Higher cognitive level",
+   "options": [
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iv, b-iii, c-ii, d-i",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 3,
+   "exp": "Remember is lowest; Valuing is affective; Naturalisation is Dave's psychomotor level."
+  },
+  {
+   "q": "Assertion (A): Reflective level teaching is the highest level of teaching. Reason (R): It develops problem-solving, critical and creative thinking in learners.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Both true; R explains why it is highest."
+  },
+  {
+   "q": "Assertion (A): A valid test is always reliable. Reason (R): Reliability is a necessary condition for validity.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Without consistency a test cannot measure accurately, so validity needs reliability."
+  },
+  {
+   "q": "Assertion (A): Lecture method is learner-centred. Reason (R): Lecture method is economical for large classes.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Lecture is teacher-centred; but it is economical for large groups."
+  },
+  {
+   "q": "Arrange in chronological order: (a) Bloom's cognitive taxonomy (b) Revised Bloom's taxonomy (c) Krathwohl's affective taxonomy (d) Launch of SWAYAM",
+   "options": [
+    "c, a, b, d",
+    "a, c, b, d",
+    "a, b, c, d",
+    "a, c, d, b"
+   ],
+   "answer": 1,
+   "exp": "1956, 1964, 2001, 2017."
+  },
+  {
+   "q": "In Flanders' Interaction Analysis, category 10 refers to:",
+   "options": [
+    "Silence or confusion",
+    "Teacher praises",
+    "Teacher lectures",
+    "Student initiated talk"
+   ],
+   "answer": 0,
+   "exp": "Category 10 is silence/confusion."
+  },
+  {
+   "q": "Who said teaching is 'an intimate contact between a more mature personality and a less mature one'?",
+   "options": [
+    "Gage",
+    "Morrison",
+    "Burton",
+    "Clarke"
+   ],
+   "answer": 1,
+   "exp": "H.C. Morrison (1934)."
+  },
+  {
+   "q": "Which of the following is an ICT-based teaching support?",
+   "options": [
+    "Flannel board",
+    "Chalkboard",
+    "Learning Management System",
+    "Printed chart"
+   ],
+   "answer": 2,
+   "exp": "LMS like Moodle is ICT-based."
+  },
+  {
+   "q": "Edgar Dale's Cone of Experience places at its base:",
+   "options": [
+    "Verbal symbols",
+    "Direct purposeful experiences",
+    "Visual symbols",
+    "Motion pictures"
+   ],
+   "answer": 1,
+   "exp": "The base is the most concrete experience."
+  },
+  {
+   "q": "In Computer Adaptive Testing:",
+   "options": [
+    "The difficulty of the next question depends on the previous response",
+    "All candidates get identical questions in the same order",
+    "Results are declared after manual checking",
+    "Only essay questions are used"
+   ],
+   "answer": 0,
+   "exp": "CAT adapts item difficulty to responses."
+  },
+  {
+   "q": "Which statement about formative evaluation is correct?",
+   "options": [
+    "It is used mainly for certification",
+    "It compares students with national norms",
+    "It is conducted only at the end of the course",
+    "It is conducted during instruction to improve learning"
+   ],
+   "answer": 3,
+   "exp": "Formative = during instruction, for improvement."
+  },
+  {
+   "q": "'Storm and stress' as a description of adolescence is associated with:",
+   "options": [
+    "G. Stanley Hall",
+    "Howard Gardner",
+    "Lev Vygotsky",
+    "Erik Erikson"
+   ],
+   "answer": 0,
+   "exp": "Hall, Adolescence (1904)."
+  },
+  {
+   "q": "Which of these is NOT a characteristic of adult learners according to Knowles?",
+   "options": [
+    "Use experience as a resource",
+    "Dependent on the teacher for direction",
+    "Self-directed",
+    "Problem-centred orientation"
+   ],
+   "answer": 1,
+   "exp": "Adults are self-directed, not dependent."
+  },
+  {
+   "q": "Which maxim of teaching is wrongly stated?",
+   "options": [
+    "From simple to complex",
+    "From known to unknown",
+    "From abstract to concrete",
+    "From particular to general"
+   ],
+   "answer": 2,
+   "exp": "The correct maxim is concrete to abstract."
+  }
+ ]
+}

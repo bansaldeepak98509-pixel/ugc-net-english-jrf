@@ -1,0 +1,341 @@
+import json
+T=[]
+def topic(title,*pts): T.append({"title":title,"points":list(pts)})
+
+topic("Old English Poetry (c. 450-1066)",
+"Beowulf: longest Old English epic (3182 lines), composed c. 8th-10th century, survives in a single manuscript, Cotton Vitellius A.xv (c. 1000).",
+"Beowulf characters: hero Beowulf (a Geat), King Hrothgar of the Danes, mead-hall Heorot, monsters Grendel, Grendel's mother and the dragon; Wiglaf is the loyal thane at the end.",
+"Caedmon's Hymn is the earliest recorded Old English poem, preserved in Bede's Ecclesiastical History of the English People (731) (sabse purani English kavita).",
+"Cynewulf signed his poems in runes: Elene, Juliana, Christ II and The Fates of the Apostles.",
+"Exeter Book elegies: The Wanderer, The Seafarer, The Wife's Lament, The Ruin; the riddles are also in the Exeter Book.",
+"The Dream of the Rood (Vercelli Book) is a dream-vision in which the Cross speaks; some lines are carved on the Ruthwell Cross.",
+"The Battle of Maldon commemorates the battle of 991 against the Vikings; Brunanburh (937) appears in the Anglo-Saxon Chronicle.",
+"Four Old English poetic codices: Beowulf manuscript (Nowell Codex), Exeter Book, Vercelli Book, Junius Manuscript.",
+"Old English verse is accentual and alliterative: four stresses per line, split into two half-lines by a caesura; uses kennings (whale-road = sea) and litotes.",
+"Scop = Anglo-Saxon court poet; gleeman = wandering minstrel; Widsith and Deor are scop poems.")
+
+topic("Middle English Poetry (1066-c. 1500, excluding Chaucer)",
+"Alliterative Revival (14th century) in the north and west Midlands revived Old English alliterative metre.",
+"Sir Gawain and the Green Knight (late 14th c.) by the anonymous Pearl (Gawain) Poet; same manuscript (Cotton Nero A.x) has Pearl, Patience and Cleanness (Purity).",
+"Gawain uses alliterative long lines ending in a 'bob and wheel'; Gawain's pentangle symbolises five sets of five virtues; the Green Knight is Bertilak de Hautdesert.",
+"William Langland: Piers Plowman (A, B, C texts, c. 1360s-1390s), allegorical dream vision; the dreamer is Will; Field Full of Folk.",
+"John Gower wrote in three languages: Mirour de l'Omme (French), Vox Clamantis (Latin), Confessio Amantis (English, 1390); Chaucer called him 'moral Gower' in Troilus and Criseyde.",
+"English Chaucerians: John Lydgate (Troy Book, The Fall of Princes) and Thomas Hoccleve (The Regiment of Princes).",
+"Scottish Chaucerians (Makars): Robert Henryson (The Testament of Cresseid), William Dunbar (Lament for the Makaris, 'Timor mortis conturbat me'), Gavin Douglas (Eneados, Scots translation of the Aeneid), James I (The Kingis Quair).",
+"Middle English lyrics: 'Sumer is icumen in' (c. 1260, cuckoo song) and the Harley Lyrics (MS Harley 2253).",
+"John Skelton (c. 1460-1529) gave his name to Skeltonics, short breathless rhyming lines (Phyllyp Sparowe).",
+"Popular ballads such as Sir Patrick Spens, The Twa Corbies and Robin Hood ballads were collected later by Percy (Reliques of Ancient English Poetry, 1765) and Child.")
+
+topic("Geoffrey Chaucer (c. 1343-1400)",
+"Dryden called him 'the father of English poetry' and said of The Canterbury Tales 'here is God's plenty' (Preface to Fables, 1700).",
+"Three phases: French (The Book of the Duchess c. 1369, elegy on Blanche, wife of John of Gaunt; Romaunt of the Rose), Italian (The House of Fame, The Parliament of Fowls, Troilus and Criseyde), English (The Canterbury Tales).",
+"Troilus and Criseyde (c. 1385) is based on Boccaccio's Il Filostrato and written in rhyme royal; Pandarus is the go-between.",
+"The Parliament of Fowls is linked with St Valentine's Day and uses rhyme royal; The Legend of Good Women has the first heroic couplets in English.",
+"The Canterbury Tales (c. 1387-1400): General Prologue opens 'Whan that Aprill with his shoures soote'; about 29 pilgrims ('wel nyne and twenty') meet at the Tabard Inn, Southwark, to visit Becket's shrine at Canterbury.",
+"Host Harry Bailly proposes four tales per pilgrim; only 24 tales were written; the Knight's Tale comes first, the Parson's Tale (prose) last, followed by Chaucer's Retraction.",
+"Famous pilgrims: the Knight ('a verray, parfit gentil knyght'), the Prioress Madame Eglentyne (brooch 'Amor vincit omnia'), the Wife of Bath Alisoun (five husbands), the Pardoner, the Summoner, the Clerk of Oxenford, the Miller, the Reeve.",
+"Chaucer the pilgrim tells the Tale of Sir Thopas (stopped by the Host) and then the prose Tale of Melibee.",
+"Other works: Boece (translation of Boethius' Consolation of Philosophy) and A Treatise on the Astrolabe.",
+"Matthew Arnold in The Study of Poetry (1880) denied Chaucer 'high seriousness' though praised his 'liquid diction'.")
+
+topic("Renaissance and Elizabethan Poetry",
+"Sir Thomas Wyatt and Henry Howard, Earl of Surrey introduced the sonnet to English; their poems appeared in Tottel's Miscellany (Songes and Sonettes, 1557).",
+"Wyatt: 'Whoso list to hunt' (from Petrarch, said to allude to Anne Boleyn), 'They flee from me'. Surrey wrote the first English blank verse (Aeneid Books II and IV) and shaped the English sonnet (abab cdcd efef gg).",
+"Edmund Spenser: The Shepheardes Calender (1579, twelve eclogues, one per month, dedicated to Sidney, glossed by 'E.K.').",
+"The Faerie Queene: Books I-III (1590), IV-VI (1596), Mutabilitie Cantos (1609); Gloriana = Elizabeth I; explained in the Letter to Raleigh; written in the Spenserian stanza.",
+"Faerie Queene knights: I Redcrosse (Holiness), II Guyon (Temperance), III Britomart (Chastity), IV Cambell and Triamond (Friendship), V Artegall (Justice), VI Calidore (Courtesy).",
+"Spenser also wrote Amoretti and Epithalamion (1595) and Prothalamion (1596, refrain 'Sweet Thames, run softly, till I end my song'); Charles Lamb called him 'the poets' poet'.",
+"Sir Philip Sidney: Astrophel and Stella (published 1591, 108 sonnets; Stella = Penelope Devereux); opening sonnet ends 'Fool, said my Muse to me, look in thy heart and write'.",
+"Shakespeare's Sonnets (1609, 154 sonnets, published by Thomas Thorpe, dedicated to 'Mr. W.H.'): 1-126 Fair Youth, 127-152 Dark Lady; Sonnet 18 'Shall I compare thee to a summer's day?', 116 'Let me not to the marriage of true minds', 130 'My mistress' eyes are nothing like the sun'.",
+"Shakespeare's narrative poems: Venus and Adonis (1593) and The Rape of Lucrece (1594), both dedicated to the Earl of Southampton.",
+"Marlowe: 'The Passionate Shepherd to His Love' ('Come live with me and be my love'); Raleigh answered with 'The Nymph's Reply to the Shepherd'; Marlowe also wrote Hero and Leander.",
+"Michael Drayton: Idea sonnets ('Since there's no help, come let us kiss and part') and Poly-Olbion; Samuel Daniel: Delia.")
+
+topic("Metaphysical and Cavalier Poets",
+"Dryden said Donne 'affects the metaphysics' (Discourse concerning Satire, 1693); Samuel Johnson fixed the label in the Life of Cowley (Lives of the Poets, 1779-81): 'heterogeneous ideas are yoked by violence together'.",
+"T.S. Eliot revived them in 'The Metaphysical Poets' (1921), coining 'dissociation of sensibility' (said to set in after the 17th century).",
+"John Donne (1572-1631): Songs and Sonnets (pub. 1633): 'The Canonization' ('For God's sake hold your tongue, and let me love'), 'The Sun Rising' ('Busy old fool, unruly sun'), 'The Flea', 'The Good-Morrow', 'The Relic', 'A Valediction: Forbidding Mourning' (twin compasses conceit).",
+"Donne's Holy Sonnets: 'Death, be not proud' and 'Batter my heart, three-personed God'; prose Devotions upon Emergent Occasions (1624): 'No man is an island', 'for whom the bell tolls'.",
+"George Herbert: The Temple (1633); 'The Collar', 'The Pulley', 'Virtue', 'Love (III)'; 'Easter Wings' and 'The Altar' are pattern (shaped) poems.",
+"Andrew Marvell: 'To His Coy Mistress' ('Had we but world enough and time'; 'Time's winged chariot hurrying near'), 'The Garden', 'The Definition of Love', 'Bermudas', 'An Horatian Ode upon Cromwell's Return from Ireland' (1650).",
+"Henry Vaughan: Silex Scintillans (1650); 'The Retreat' anticipates Wordsworth's Immortality Ode; 'The World' opens 'I saw Eternity the other night'.",
+"Richard Crashaw: Steps to the Temple, 'The Flaming Heart' (on St Teresa); Abraham Cowley: Pindarique Odes, Davideis; Thomas Traherne: Centuries of Meditations.",
+"Ben Jonson: 'On My First Son', 'To Celia' ('Drink to me only with thine eyes'), 'To Penshurst' (country-house poem); called Shakespeare 'not of an age, but for all time'.",
+"Cavaliers / Sons of Ben: Herrick ('Gather ye rosebuds while ye may', To the Virgins, Hesperides 1648), Lovelace ('Stone walls do not a prison make', To Althea, from Prison; 'I could not love thee, dear, so much, / Loved I not honour more', To Lucasta), Suckling ('Why so pale and wan, fond lover?'), Thomas Carew.")
+
+topic("John Milton (1608-1674)",
+"Early poems: 'On the Morning of Christ's Nativity' (1629), the companion poems L'Allegro and Il Penseroso, and the masque Comus (performed 1634 at Ludlow Castle).",
+"Lycidas (1637): pastoral elegy on Edward King, drowned in the Irish Sea; printed in Justa Edouardo King (1638); 'Fame is the spur'; opens 'Yet once more, O ye laurels'.",
+"Sonnets: 'On His Blindness' ('They also serve who only stand and wait'), 'On the Late Massacre in Piedmont' ('Avenge, O Lord, thy slaughtered saints'), 'Methought I saw my late espoused saint'.",
+"Paradise Lost: first edition 1667 in 10 books, second edition 1674 in 12 books; written in blank verse, defended in the note 'The Verse'.",
+"Stated aim in Book I: to 'justify the ways of God to men'; Satan says 'Better to reign in Hell, than serve in Heaven' and 'The mind is its own place'.",
+"Pandemonium is the capital of Hell (Book I); the Fall occurs in Book IX; Urania is invoked in Book VII.",
+"Paradise Regained (1671, 4 books) treats Christ's temptation in the wilderness; Samson Agonistes (1671) is a closet tragedy on the Greek model ('Eyeless in Gaza').",
+"Prose: Areopagitica (1644) defends freedom of the press.",
+"Blake: Milton was 'of the Devil's party without knowing it' (The Marriage of Heaven and Hell); Johnson called Lycidas 'easy, vulgar, and therefore disgusting'.",
+"Wordsworth's sonnet 'London, 1802' opens 'Milton! thou shouldst be living at this hour'.")
+
+topic("Neoclassical (Restoration and Augustan) and Transitional Poetry",
+"John Dryden: Absalom and Achitophel (1681): David = Charles II, Absalom = Duke of Monmouth, Achitophel = Earl of Shaftesbury, Zimri = Duke of Buckingham.",
+"Dryden's Mac Flecknoe (1682) mocks Thomas Shadwell; other poems: Annus Mirabilis (1667), Religio Laici (1682), The Hind and the Panther (1687), 'Alexander's Feast' (1697). Johnson: Dryden found English 'brick' and left it 'marble'.",
+"Alexander Pope: An Essay on Criticism (1711): 'A little learning is a dangerous thing', 'To err is human, to forgive divine', 'Fools rush in where angels fear to tread'.",
+"The Rape of the Lock (2 cantos 1712; 5 cantos 1714): Belinda = Arabella Fermor, the Baron = Lord Petre; sylphs as epic machinery; card game of ombre.",
+"The Dunciad (1728, hero Lewis Theobald; four-book version 1743, hero Colley Cibber); An Essay on Man (1733-34): 'Know then thyself, presume not God to scan; / The proper study of mankind is man', 'Whatever is, is right'.",
+"Epistle to Dr Arbuthnot (1735): Atticus = Addison, Sporus = Lord Hervey; Pope also translated the Iliad and Odyssey and wrote Eloisa to Abelard.",
+"Samuel Johnson: London (1738) and The Vanity of Human Wishes (1749), both imitations of Juvenal.",
+"Graveyard School: Edward Young, Night Thoughts (1742-45); Robert Blair, The Grave (1743); Thomas Gray, 'Elegy Written in a Country Churchyard' (1751): 'The paths of glory lead but to the grave', 'Full many a flower is born to blush unseen'.",
+"Pre-Romantics: James Thomson, The Seasons (1726-30); William Collins, 'Ode to Evening'; Oliver Goldsmith, The Deserted Village (1770, 'Sweet Auburn'); William Cowper, The Task (1785); George Crabbe, The Village (1783).",
+"Thomas Chatterton (Rowley poems), James Macpherson (Ossian, 1760s) and Robert Burns (Poems, Chiefly in the Scottish Dialect, Kilmarnock 1786: 'To a Mouse', later 'A Red, Red Rose', 'Tam o' Shanter') prepare the Romantic revival.")
+
+topic("Romantic Poetry I: Blake, Wordsworth, Coleridge",
+"Blake: Songs of Innocence (1789); combined Songs of Innocence and of Experience (1794), 'shewing the two contrary states of the human soul'.",
+"Blake pairs: 'The Lamb'/'The Tyger' ('Tyger Tyger, burning bright'), two 'Chimney Sweeper' poems, 'Holy Thursday'; 'London' has 'mind-forg'd manacles'; 'Auguries of Innocence': 'To see a World in a Grain of Sand'.",
+"Blake's prophetic books: The Book of Thel, The Marriage of Heaven and Hell, Milton (preface lyric 'And did those feet in ancient time', i.e. 'Jerusalem'), Jerusalem.",
+"Lyrical Ballads (1798, anonymous, Wordsworth and Coleridge) opens with 'The Rime of the Ancyent Marinere' and ends with 'Tintern Abbey'; Preface added in 1800, enlarged 1802.",
+"Preface: poetry is 'the spontaneous overflow of powerful feelings' which 'takes its origin from emotion recollected in tranquillity'; language 'really used by men'.",
+"Wordsworth: 'Michael', Lucy poems, 'Resolution and Independence' (leech-gatherer), 'The Solitary Reaper', 'I wandered lonely as a cloud', 'Ode: Intimations of Immortality' (1807), 'My heart leaps up' ('The Child is father of the Man').",
+"The Prelude ('Growth of a Poet's Mind', addressed to Coleridge): finished 1805, published posthumously 1850; The Excursion (1814); Wordsworth became Poet Laureate in 1843 after Southey.",
+"Coleridge: 'The Rime of the Ancient Mariner' (albatross; 'Water, water, every where, / Nor any drop to drink'), 'Kubla Khan' (pub. 1816, interrupted by 'a person from Porlock'), 'Christabel' (unfinished), 'Dejection: An Ode' (1802).",
+"Coleridge's conversation poems: 'The Eolian Harp', 'This Lime-Tree Bower My Prison', 'Frost at Midnight'.",
+"Biographia Literaria (1817): Fancy vs Imagination, primary and secondary imagination, 'willing suspension of disbelief'. Wordsworth, Coleridge and Southey are called the Lake Poets.")
+
+topic("Romantic Poetry II: Byron, Shelley, Keats",
+"Byron: Childe Harold's Pilgrimage (1812-18; after Cantos I-II he 'awoke and found himself famous'); English Bards and Scotch Reviewers (1809); 'She Walks in Beauty'; The Prisoner of Chillon; Manfred.",
+"Byron's Don Juan (1819-24, unfinished, ottava rima) and The Vision of Judgment (satire on Southey); the Byronic hero; died at Missolonghi (1824) in the Greek war of independence.",
+"Shelley: 'Ode to the West Wind' (1819; terza rima units closing in couplets; 'If Winter comes, can Spring be far behind?'), 'To a Skylark' ('Hail to thee, blithe Spirit!'; 'Our sweetest songs are those that tell of saddest thought'), 'Ozymandias' (1818).",
+"Shelley's longer works: Alastor (1816), Prometheus Unbound (1820, lyrical drama), The Mask of Anarchy (1819, on Peterloo), Epipsychidion, Adonais (1821, elegy on Keats in Spenserian stanzas).",
+"Shelley's A Defence of Poetry (written 1821, pub. 1840): 'Poets are the unacknowledged legislators of the world'; Arnold called him 'a beautiful and ineffectual angel'.",
+"Keats: 'On First Looking into Chapman's Homer' (1816, Petrarchan sonnet, 'stout Cortez'); Endymion (1818, 'A thing of beauty is a joy for ever'); Hyperion and The Fall of Hyperion (unfinished).",
+"Odes of 1819: 'Ode to a Nightingale', 'Ode on a Grecian Urn' ('Beauty is truth, truth beauty'), 'Ode on Melancholy', 'Ode to Psyche', 'Ode on Indolence', 'To Autumn' ('Season of mists and mellow fruitfulness').",
+"Keats's narrative poems: 'The Eve of St Agnes' (Spenserian stanza), 'Isabella', 'Lamia', and the ballad 'La Belle Dame sans Merci'.",
+"Keats's letters: 'Negative Capability' (to his brothers, December 1817), 'the vale of Soul-making', the 'camelion poet'; he was attacked as part of the 'Cockney School' by Blackwood's.",
+"Keats died in Rome (1821); epitaph 'Here lies one whose name was writ in water'. Minor Romantics: Leigh Hunt ('Abou Ben Adhem'), Thomas Moore, John Clare.")
+
+topic("Victorian Poetry",
+"Tennyson: Poet Laureate 1850; In Memoriam A.H.H. (1850, on Arthur Henry Hallam, abba tetrameter quatrains): ''Tis better to have loved and lost', 'Nature, red in tooth and claw'.",
+"Tennyson's other poems: 'The Lady of Shalott', 'The Lotos-Eaters', 'Ulysses' (1842, 'To strive, to seek, to find, and not to yield'), 'Tithonus', 'Break, Break, Break', 'The Charge of the Light Brigade' (1854), Maud (1855, monodrama), Idylls of the King, 'Crossing the Bar' (1889).",
+"Robert Browning, master of the dramatic monologue: 'My Last Duchess' (Dramatic Lyrics, 1842), 'Porphyria's Lover', 'The Bishop Orders His Tomb', 'Fra Lippo Lippi' and 'Andrea del Sarto' (Men and Women, 1855): 'a man's reach should exceed his grasp'.",
+"Browning also wrote 'Rabbi Ben Ezra' ('Grow old along with me! The best is yet to be'), 'A Grammarian's Funeral', 'Childe Roland to the Dark Tower Came', Pippa Passes ('God's in his heaven, / All's right with the world!'), The Ring and the Book (1868-69, 12 books).",
+"Elizabeth Barrett Browning: Sonnets from the Portuguese (1850; Sonnet 43 'How do I love thee? Let me count the ways'), Aurora Leigh (1856, verse novel), 'The Cry of the Children'.",
+"Matthew Arnold: 'Dover Beach' (pub. 1867, 'ignorant armies clash by night'), 'The Scholar-Gipsy', 'Thyrsis' (elegy on A.H. Clough), 'Sohrab and Rustum', 'Stanzas from the Grande Chartreuse' ('Wandering between two worlds, one dead, / The other powerless to be born').",
+"Pre-Raphaelite Brotherhood (1848): D.G. Rossetti ('The Blessed Damozel', The House of Life), Christina Rossetti ('Goblin Market' 1862, 'Remember'), William Morris (The Defence of Guenevere, The Earthly Paradise), Swinburne (Atalanta in Calydon, Poems and Ballads 1866).",
+"Robert Buchanan attacked Rossetti and Swinburne in 'The Fleshly School of Poetry' (1871).",
+"G.M. Hopkins: 'The Wreck of the Deutschland' (1875), 'The Windhover' ('To Christ our Lord'), 'God's Grandeur', 'Pied Beauty', the 'terrible sonnets' ('Carrion Comfort'); sprung rhythm, inscape and instress; poems published by Robert Bridges in 1918.",
+"Edward FitzGerald, The Rubaiyat of Omar Khayyam (1859); A.H. Clough, 'Say not the Struggle Nought Availeth'; Thomas Hardy: 'The Darkling Thrush' (dated 31 December 1900), 'The Convergence of the Twain' (Titanic), Poems of 1912-13, The Dynasts.")
+
+topic("Modern Poetry (1900-1939): Yeats, Eliot, Pound, Imagism, War Poets",
+"W.B. Yeats (Nobel 1923): 'The Lake Isle of Innisfree' (1890), 'The Wild Swans at Coole', 'Easter, 1916' ('A terrible beauty is born'), 'An Irish Airman Foresees His Death'.",
+"Yeats: 'The Second Coming' ('Things fall apart; the centre cannot hold'; 'rough beast' slouching towards Bethlehem), 'Sailing to Byzantium' (The Tower, 1928, ottava rima), 'Byzantium', 'Leda and the Swan', 'Among School Children' ('How can we know the dancer from the dance?'); A Vision (1925) explains the gyres.",
+"Yeats's 'Under Ben Bulben' ends with his epitaph 'Cast a cold eye / On life, on death. / Horseman, pass by!'.",
+"T.S. Eliot: 'The Love Song of J. Alfred Prufrock' (1915; 'I have measured out my life with coffee spoons'); The Waste Land (1922), dedicated to Pound 'il miglior fabbro', five parts: The Burial of the Dead, A Game of Chess, The Fire Sermon, Death by Water, What the Thunder Said.",
+"The Waste Land opens 'April is the cruellest month', ends 'Shantih shantih shantih'; Tiresias is the central consciousness; notes cite Jessie Weston's From Ritual to Romance and Frazer's The Golden Bough.",
+"Eliot's later poems: 'The Hollow Men' (1925, 'Not with a bang but a whimper'), Ash-Wednesday (1930), Four Quartets (Burnt Norton 1936, East Coker 1940, The Dry Salvages 1941, Little Gidding 1942); Nobel 1948.",
+"Imagism (c. 1912-17): Ezra Pound, H.D. ('Oread'), Richard Aldington, T.E. Hulme, later Amy Lowell; Pound's 'A Few Don'ts by an Imagiste' (1913) and anthology Des Imagistes (1914); 'In a Station of the Metro' (1913) is the model Imagist poem.",
+"Pound also wrote Cathay (1915), Hugh Selwyn Mauberley (1920) and The Cantos; slogan 'Make it new'.",
+"Georgian Poetry anthologies (1912-22) edited by Edward Marsh; A.E. Housman, A Shropshire Lad (1896); Walter de la Mare, 'The Listeners'; Edward Thomas, 'Adlestrop'.",
+"WWI poets: Rupert Brooke, 'The Soldier' ('some corner of a foreign field / That is for ever England'); Wilfred Owen, 'Dulce et Decorum Est', 'Anthem for Doomed Youth', 'Strange Meeting' (pararhyme); Owen's Preface: 'My subject is War, and the pity of War. The poetry is in the pity.'",
+"Siegfried Sassoon ('The General', 'Base Details'), Isaac Rosenberg ('Break of Day in the Trenches'), John McCrae ('In Flanders Fields', a rondeau).")
+
+topic("Thirties and Post-War British Poetry",
+"The 1930s 'Auden Group' or Pylon Poets: W.H. Auden, Stephen Spender ('The Pylons'), C. Day-Lewis, Louis MacNeice ('Snow', Autumn Journal); anthology New Signatures (1932, ed. Michael Roberts).",
+"Auden: 'Musee des Beaux Arts' (1938, Brueghel's Icarus), 'In Memory of W. B. Yeats' (1939: 'poetry makes nothing happen'), 'September 1, 1939' ('a low dishonest decade'), 'The Unknown Citizen', 'Funeral Blues' ('Stop all the clocks'), The Age of Anxiety (1947).",
+"Dylan Thomas: 'Fern Hill', 'And death shall have no dominion', villanelle 'Do not go gentle into that good night' (1951, for his father), radio play Under Milk Wood (1954); linked with the 1940s New Apocalypse.",
+"The Movement: name from J.D. Scott in The Spectator (1954); anthologies Poets of the 1950s (D.J. Enright, 1955) and New Lines (Robert Conquest, 1956); members include Philip Larkin, Kingsley Amis, Donald Davie, John Wain, Elizabeth Jennings, D.J. Enright, Thom Gunn.",
+"Philip Larkin: The Less Deceived (1955, 'Church Going'), The Whitsun Weddings (1964), High Windows (1974: 'This Be The Verse', 'Annus Mirabilis' - 'Sexual intercourse began / In nineteen sixty-three'), 'Aubade' (1977).",
+"Ted Hughes: The Hawk in the Rain (1957, 'The Thought-Fox'), Lupercal (1960, 'Hawk Roosting', 'Pike'), Crow (1970), Birthday Letters (1998, on Sylvia Plath); Poet Laureate 1984.",
+"Seamus Heaney (Nobel 1995): Death of a Naturalist (1966, 'Digging': 'Between my finger and my thumb / The squat pen rests'), Wintering Out (1972, 'The Tollund Man'), North (1975, bog poems), Field Work, Station Island, translation of Beowulf (1999).",
+"Others: Stevie Smith ('Not Waving but Drowning'), R.S. Thomas, John Betjeman (Laureate 1972), Geoffrey Hill (Mercian Hymns), Tony Harrison ('v.'), Basil Bunting (Briggflatts).",
+"Carol Ann Duffy became the first woman Poet Laureate (2009); The World's Wife (1999). Simon Armitage became Laureate in 2019.")
+
+topic("American Poetry",
+"Anne Bradstreet, The Tenth Muse Lately Sprung Up in America (1650), first American published poet; Edward Taylor, Preparatory Meditations.",
+"Edgar Allan Poe: 'The Raven' (1845, 'Quoth the Raven, Nevermore'), 'Annabel Lee', 'To Helen'; essay 'The Philosophy of Composition'. Longfellow: The Song of Hiawatha (trochaic tetrameter), Evangeline (dactylic hexameter). Emerson: 'Concord Hymn' ('the shot heard round the world'), 'Brahma'.",
+"Walt Whitman: Leaves of Grass (1855; revised to the 'deathbed edition' 1891-92), free verse; 'Song of Myself' ('I celebrate myself, and sing myself'; 'I contain multitudes'), 'Crossing Brooklyn Ferry'; Lincoln elegies 'When Lilacs Last in the Dooryard Bloom'd' and 'O Captain! My Captain!'.",
+"Emily Dickinson (1830-86): nearly 1,800 poems, very few published in her lifetime; dashes, slant rhyme, hymn metre; 'Because I could not stop for Death', 'I heard a Fly buzz - when I died', 'Hope is the thing with feathers', 'Tell all the truth but tell it slant'.",
+"Robert Frost: 'Mending Wall' ('Good fences make good neighbors'), 'The Road Not Taken', 'Stopping by Woods on a Snowy Evening' ('miles to go before I sleep'), 'Birches', 'After Apple-Picking', 'Home Burial', 'Fire and Ice'; four Pulitzer Prizes; recited 'The Gift Outright' at Kennedy's inauguration (1961).",
+"Frost's essay 'The Figure a Poem Makes': a poem 'begins in delight and ends in wisdom'.",
+"Wallace Stevens: Harmonium (1923), 'Sunday Morning', 'Anecdote of the Jar', 'The Emperor of Ice-Cream', 'Thirteen Ways of Looking at a Blackbird', 'The Idea of Order at Key West'. W.C. Williams: 'The Red Wheelbarrow' ('so much depends'), Paterson, 'no ideas but in things'.",
+"Marianne Moore, 'Poetry' ('imaginary gardens with real toads in them'); E.E. Cummings; Hart Crane, The Bridge (1930); Langston Hughes (Harlem Renaissance): 'The Negro Speaks of Rivers', 'Harlem' ('What happens to a dream deferred?').",
+"Confessional poetry: term coined by M.L. Rosenthal reviewing Robert Lowell's Life Studies (1959); Sylvia Plath (Ariel 1965: 'Daddy', 'Lady Lazarus'), Anne Sexton, John Berryman (The Dream Songs), W.D. Snodgrass (Heart's Needle).",
+"Beat poets: Allen Ginsberg, Howl (1956: 'I saw the best minds of my generation destroyed by madness'), Lawrence Ferlinghetti (City Lights); Black Mountain poet Charles Olson, 'Projective Verse' (1950).",
+"Elizabeth Bishop ('One Art', villanelle; 'The Fish'), Adrienne Rich ('Diving into the Wreck', 1973), Maya Angelou ('Still I Rise').")
+
+topic("Indian English Poetry",
+"Henry Louis Vivian Derozio (1809-31): 'To India - My Native Land', The Fakeer of Jungheera (1828); Michael Madhusudan Dutt: The Captive Ladie (1849).",
+"Toru Dutt: A Sheaf Gleaned in French Fields (1876); Ancient Ballads and Legends of Hindustan (1882, posthumous), includes 'Our Casuarina Tree'.",
+"Sarojini Naidu, 'Nightingale of India': The Golden Threshold (1905), The Bird of Time (1912), The Broken Wing (1917); 'In the Bazaars of Hyderabad', 'Palanquin Bearers'.",
+"Rabindranath Tagore: Gitanjali (Song Offerings, 1912, introduction by Yeats); Nobel Prize 1913. Sri Aurobindo: Savitri: A Legend and a Symbol, epic in blank verse.",
+"Nissim Ezekiel, father of modern Indian English poetry: A Time to Change (1952), The Exact Name (1965), Latter-Day Psalms (Sahitya Akademi Award 1983); 'Night of the Scorpion', 'Enterprise', 'The Professor', 'Goodbye Party for Miss Pushpa T.S.', 'Poet, Lover, Birdwatcher'.",
+"A.K. Ramanujan: The Striders (1966), Relations (1971), Second Sight (1986); 'Small-Scale Reflections on a Great House', 'Obituary', 'A River'; translations The Interior Landscape (1967, Sangam poems) and Speaking of Siva (1973).",
+"Kamala Das: Summer in Calcutta (1965), The Descendants (1967), The Old Playhouse and Other Poems (1973); 'An Introduction' ('I am Indian, very brown, born in Malabar'); autobiography My Story.",
+"Jayanta Mahapatra: Relationship won the Sahitya Akademi Award (1981), first for Indian English poetry; 'Hunger', 'Indian Summer'. Keki N. Daruwalla: The Keeper of the Dead (Sahitya Akademi 1984).",
+"Arun Kolatkar: Jejuri (1976, Commonwealth Poetry Prize 1977); R. Parthasarathy: Rough Passage (1977); Dom Moraes: A Beginning (1957, Hawthornden Prize); A.K. Mehrotra, Gieve Patel, Adil Jussawalla, Eunice de Souza (Fix), Dilip Chitre.",
+"Diaspora and contemporary: Agha Shahid Ali (The Country Without a Post Office, English ghazals), Vikram Seth (The Golden Gate 1986, novel in Onegin stanzas), Jeet Thayil (These Errors Are Correct, Sahitya Akademi 2013), Meena Kandasamy, Arundhathi Subramaniam, Ranjit Hoskote.")
+
+topic("Postcolonial and Commonwealth Poetry",
+"Derek Walcott (St Lucia, Nobel 1992): In a Green Night (1962) with 'A Far Cry from Africa' ('I who am poisoned with the blood of both'); 'The Schooner Flight' ('either I'm nobody, or I'm a nation'); Omeros (1990), Caribbean epic echoing Homer, in a loose terza rima.",
+"Kamau Brathwaite (Barbados): The Arrivants trilogy - Rights of Passage, Masks, Islands; theory of 'nation language' (History of the Voice, 1984).",
+"Other Caribbean voices: Louise Bennett (Jamaican Creole), Grace Nichols (I is a Long Memoried Woman, 1983), Linton Kwesi Johnson (dub poetry), Lorna Goodison.",
+"Negritude movement: Leopold Sedar Senghor, Aime Cesaire, Leon Damas; David Diop's 'Africa'.",
+"Wole Soyinka (Nigeria, first African Nobel laureate, 1986): 'Telephone Conversation' satirises a racist landlady.",
+"Christopher Okigbo: 'Heavensgate', Labyrinths (1971, posthumous); killed in the Biafran war (1967). J.P. Clark: 'Night Rain'; Gabriel Okara: 'Piano and Drums', 'Once Upon a Time'.",
+"Okot p'Bitek (Uganda): Song of Lawino (1966); Dennis Brutus (South Africa): Letters to Martha; Kofi Awoonor (Ghana).",
+"Australia: A.D. Hope ('Australia'), Judith Wright, Les Murray; Oodgeroo Noonuccal (Kath Walker), We Are Going (1964), first Aboriginal woman to publish a book of verse.",
+"Canada: E.J. Pratt, A.M. Klein, Margaret Atwood (The Journals of Susanna Moodie, 1970); New Zealand: Allen Curnow.",
+"South Asia beyond India: Faiz Ahmed Faiz (Urdu, widely translated), Taufiq Rafat (Pakistan), Yasmine Gooneratne (Sri Lanka).")
+
+topic("Prosody and Metre",
+"Metrical feet: iamb (u /, 'a-BOUT'), trochee (/ u, 'TI-ger'), anapaest (u u /, 'in-ter-VENE'), dactyl (/ u u, 'MUR-mur-ing'), spondee (/ /), pyrrhic (u u), amphibrach (u / u) (u = unstressed, / = stressed).",
+"Line lengths: monometer 1 foot, dimeter 2, trimeter 3, tetrameter 4, pentameter 5, hexameter 6, heptameter 7; iambic hexameter = alexandrine; iambic heptameter = fourteener.",
+"Iambic pentameter is the commonest English line: 'Shall I / com-PARE / thee TO / a SUM / mer's DAY'.",
+"Blank verse = unrhymed iambic pentameter: introduced by Surrey, Marlowe's 'mighty line' (Jonson's phrase), used by Shakespeare, Milton (Paradise Lost), Wordsworth (The Prelude).",
+"Heroic couplet = rhymed iambic pentameter couplets; first used by Chaucer, perfected as the closed couplet by Dryden and Pope.",
+"Metrical systems: accentual (Old English, stresses only), accentual-syllabic (most English verse), syllabic (Marianne Moore, haiku), quantitative (Greek and Latin, long and short syllables).",
+"Sprung rhythm (Hopkins): counts only stresses, each foot having one stress plus any number of slack syllables; uses 'outrides'.",
+"Caesura = pause inside a line (marked ||); enjambment = sense runs over the line-end; end-stopped line = sense pauses at line-end; catalexis = last foot lacks a syllable (Blake's 'Tyger' is catalectic trochaic tetrameter).",
+"Rhyme types: masculine (single stressed syllable: 'hill/still'), feminine ('motion/ocean'), internal rhyme, eye rhyme ('love/move'), slant or half rhyme (Dickinson), pararhyme ('escaped/scooped', Owen).",
+"Sound devices: alliteration (initial consonants), assonance (vowel sounds), consonance (consonant sounds), onomatopoeia, euphony and cacophony.",
+"Common or ballad metre: alternating iambic tetrameter and trimeter (8.6.8.6), rhymed abcb or abab; poulter's measure alternates alexandrine and fourteener.",
+"Famous metres: Byron's 'The Destruction of Sennacherib' (anapaestic tetrameter, 'The Assyrian came down like the wolf on the fold'); Longfellow's Hiawatha (trochaic tetrameter); Evangeline (dactylic hexameter); Whitman (free verse / vers libre).")
+
+topic("Poetic Forms, Stanzas and Genres",
+"Petrarchan (Italian) sonnet: octave abbaabba + sestet cdecde or cdcdcd, volta at line 9; Shakespearean: abab cdcd efef gg; Spenserian sonnet: abab bcbc cdcd ee (Amoretti); Miltonic sonnet runs octave into sestet without a clear break.",
+"Curtal sonnet (Hopkins, 'Pied Beauty', 10 and a half lines); Meredith's Modern Love uses 16-line 'sonnets'; a sonnet sequence links many sonnets (Astrophel and Stella).",
+"Ode types: Pindaric (strophe, antistrophe, epode; Gray's 'The Progress of Poesy'), Horatian (uniform stanzas; Marvell's Horatian Ode, Keats's odes), Irregular or Cowleyan (Wordsworth's Immortality Ode).",
+"Pastoral elegy conventions: invocation of the muse, nature mourns, procession of mourners, flower passage, consolation; examples Lycidas, Adonais, Thyrsis; Whitman's 'Lilacs' and Tennyson's In Memoriam are also elegies.",
+"Epic conventions: invocation, in medias res, epic simile, catalogue, epic machinery; mock-epic or mock-heroic applies them to trivial matters (The Rape of the Lock, Mac Flecknoe, The Dunciad).",
+"Ballad: narrative song in ballad stanza with refrain and incremental repetition; folk ballad ('Sir Patrick Spens') vs literary ballad ('The Rime of the Ancient Mariner', 'La Belle Dame sans Merci').",
+"Dramatic monologue: a single speaker, a silent listener, a revealing situation (Browning's 'My Last Duchess', Tennyson's 'Ulysses', Eliot's 'Prufrock').",
+"Stanzas: terza rima aba bcb cdc (Dante; Shelley's 'West Wind'); ottava rima abababcc (Byron's Don Juan, Yeats's 'Sailing to Byzantium'); rhyme royal ababbcc (Chaucer's Troilus); Spenserian stanza ababbcbcc (eight pentameters + an alexandrine); In Memoriam stanza abba tetrameter; Burns stanza / Standard Habbie aaabab.",
+"Villanelle: 19 lines, five tercets and a quatrain, two refrains, two rhymes (Thomas's 'Do not go gentle', Bishop's 'One Art', Empson's 'Missing Dates').",
+"Sestina: six six-line stanzas plus a three-line envoi (39 lines), repeating six end-words (Sidney's double sestina 'Ye Goatherd Gods'); rondeau ('In Flanders Fields'); triolet (8 lines, 2 rhymes); ballade (three stanzas and envoi).",
+"Other forms: epithalamion (wedding song) and prothalamion (Spenser), aubade (dawn song: Donne's 'The Sun Rising', Larkin's 'Aubade'), eclogue/idyll (pastoral dialogue), haiku (5-7-5), ghazal (couplets with radif and qafia), limerick (Edward Lear), clerihew (E.C. Bentley), shaped/concrete poem ('Easter Wings').",
+"Elegiac stanza / heroic quatrain: abab iambic pentameter quatrains, used in Gray's 'Elegy' and Dryden's Annus Mirabilis.")
+
+terms=[
+("Alliteration","ए-लि-टे-रे-शन (uh-li-tuh-RAY-shun)","एक जैसी शुरुआती व्यंजन ध्वनि का दोहराव","Repetition of the same initial consonant sounds in nearby stressed syllables; the structural basis of Old English verse (e.g. 'Fair is foul, and foul is fair')."),
+("Assonance","ऐ-सो-नेंस (AS-uh-nuns)","पास-पास शब्दों में एक जैसी स्वर ध्वनि का दोहराव","Repetition of identical or similar vowel sounds in stressed syllables of neighbouring words whose consonants differ (e.g. 'lake' and 'fate')."),
+("Consonance","कॉन-सो-नेंस (KON-suh-nuns)","शब्दों में एक जैसी व्यंजन ध्वनि का दोहराव, स्वर अलग","Repetition of a sequence of consonants with a change in the intervening vowel (e.g. 'live/love', 'chitter/chatter'); also used loosely for repeated end consonants."),
+("Kenning","के-निंग (KEN-ing)","किसी चीज़ का दो शब्दों वाला चित्रात्मक नाम, जैसे समुद्र = व्हेल-मार्ग","A figurative compound phrase substituted for a common noun, characteristic of Old English and Old Norse poetry (e.g. 'whale-road' for sea, 'bone-house' for body)."),
+("Caesura","सी-ज़्यू-रा (si-ZYOOR-uh)","पंक्ति के बीच में आने वाला ठहराव","A pause or break within a line of verse, usually near the middle and marked by punctuation or sense; essential in Old English alliterative verse (marked ||)."),
+("Enjambment","इन-जैम-मेंट (in-JAM-ment)","वाक्य का एक पंक्ति से अगली पंक्ति में बिना रुके चले जाना","The running-on of the sense and grammar of one verse line into the next without a pause at the line-end; opposite of an end-stopped line (French enjambement)."),
+("Iamb","आय-ऐम (EYE-am)","एक हल्का और फिर एक ज़ोरदार अक्षर वाला छंद-पद (u /)","A metrical foot of an unstressed syllable followed by a stressed one (u /), as in 'de-LIGHT'; the commonest foot in English verse."),
+("Trochee","ट्रो-की (TROH-kee)","पहले ज़ोरदार फिर हल्का अक्षर वाला छंद-पद (/ u)","A metrical foot of a stressed syllable followed by an unstressed one (/ u), as in 'TY-ger'; Longfellow's Hiawatha is in trochaic tetrameter."),
+("Anapaest","ऐ-ना-पेस्ट (AN-uh-pest)","दो हल्के और फिर एक ज़ोरदार अक्षर वाला पद (u u /)","A metrical foot of two unstressed syllables followed by a stressed one (u u /), as in 'in-ter-VENE'; e.g. Byron's 'The Destruction of Sennacherib'."),
+("Dactyl","डैक-टिल (DAK-til)","एक ज़ोरदार फिर दो हल्के अक्षरों वाला पद (/ u u)","A metrical foot of one stressed syllable followed by two unstressed (/ u u), as in 'MUR-mur-ing'; dactylic hexameter is the metre of Homer and Virgil."),
+("Spondee","स्पॉन-डी (SPON-dee)","दो ज़ोरदार अक्षरों वाला पद (/ /)","A metrical foot of two stressed syllables (/ /), as in 'heart-break'; usually a substitute foot within an iambic or trochaic line."),
+("Pentameter","पेन-टै-मि-टर (pen-TAM-i-ter)","पाँच पदों (feet) वाली काव्य पंक्ति","A line of verse consisting of five metrical feet; iambic pentameter is the staple line of English poetry from Chaucer onward."),
+("Alexandrine","ऐ-लिग-ज़ैन-ड्रीन (al-ig-ZAN-dreen)","छह आयम्बिक पदों वाली लंबी पंक्ति","A line of six iambic feet (iambic hexameter), named after medieval French poems on Alexander the Great; the ninth line of the Spenserian stanza. Pope mocked it: 'A needless Alexandrine ends the song'."),
+("Blank Verse","ब्लैंक वर्स (blank VURS)","बिना तुक वाली आयम्बिक पेंटामीटर कविता","Unrhymed iambic pentameter; introduced into English by the Earl of Surrey (Aeneid translation), used in Elizabethan drama, Paradise Lost and The Prelude."),
+("Heroic Couplet","हि-रो-इक कप-लेट (hi-ROH-ik KUP-lit)","तुकबंद आयम्बिक पेंटामीटर पंक्तियों का जोड़ा","A pair of rhymed lines in iambic pentameter; introduced by Chaucer, perfected as the 'closed couplet' by Dryden and Pope in the Neoclassical age."),
+("Free Verse (Vers Libre)","फ्री वर्स / वेर ली-ब्र (free VURS / vair LEE-bruh)","नियमित छंद और तुक से मुक्त कविता","Verse without regular metre or rhyme, organised by cadence, line-breaks and repetition; French vers libre; pioneered in English by Whitman, adopted by the Imagists and Modernists."),
+("Sprung Rhythm","स्प्रंग रिदम (sprung RITH-um)","केवल ज़ोरदार अक्षर गिनने वाली लय, हॉपकिंस की","G.M. Hopkins's term for a rhythm measured by the number of stressed syllables only, each foot beginning with a stress followed by any number of unstressed syllables, as in 'The Windhover'."),
+("Inscape","इन-स्केप (IN-skayp)","हर वस्तु का अपना अनोखा भीतरी स्वरूप","Hopkins's term for the unique inner form or distinctive pattern that makes each natural thing itself; instress is the force that sustains it and impresses it on the beholder."),
+("Conceit","कन-सीट (kun-SEET)","दो बिल्कुल अलग चीज़ों की चौंकाने वाली, विस्तृत तुलना","An elaborate or far-fetched figure establishing a striking parallel between very dissimilar things; the Petrarchan conceit exaggerates the lover's suffering."),
+("Metaphysical Conceit","मे-टा-फि-ज़ि-कल कन-सीट (met-uh-FIZ-i-kul kun-SEET)","विद्वत्तापूर्ण, तर्क से भरी अनोखी तुलना (डन की कविता जैसी)","An intellectually ingenious conceit drawn from learning, science or theology, worked out with logic; e.g. Donne's twin compasses in 'A Valediction: Forbidding Mourning'. Johnson: 'heterogeneous ideas yoked by violence together'."),
+("Dramatic Monologue","ड्रा-मै-टिक मो-नो-लॉग (druh-MAT-ik MON-uh-log)","एक पात्र का किसी चुप श्रोता से नाटकीय भाषण, जिससे उसका चरित्र खुलता है","A lyric poem in which a single speaker, not the poet, addresses a silent auditor at a critical moment, unwittingly revealing his character; perfected by Robert Browning ('My Last Duchess')."),
+("Ode","ओड (OHD)","किसी विषय की प्रशंसा में गंभीर, लंबी गीति-कविता","A long, serious, elaborately structured lyric on an exalted theme; kinds are the Pindaric (strophe, antistrophe, epode), the Horatian (homostrophic) and the irregular (Cowleyan) ode."),
+("Elegy","ए-ली-जी (EL-uh-jee)","किसी की मृत्यु पर शोक-गीत","A formal poem of lament and meditation on the death of a particular person, or on mortality generally (Gray's 'Elegy Written in a Country Churchyard')."),
+("Pastoral Elegy","पास्-टो-रल ए-ली-जी (PAS-tuh-rul EL-uh-jee)","गड़रियों के परिवेश में लिखा शोक-गीत","An elegy in which poet and mourned friend are represented as shepherds, with conventions such as invocation, nature's mourning, procession of mourners, flower passage and consolation (Lycidas, Adonais, Thyrsis)."),
+("Volta","वोल-टा (VOHL-tuh)","सॉनेट में विचार का मोड़","The 'turn' in thought or argument in a sonnet, usually at line 9 of the Petrarchan sonnet (between octave and sestet) or at the final couplet of the Shakespearean sonnet."),
+("Octave and Sestet","ऑक-टेव / सेस-टेट (OK-tiv / ses-TET)","सॉनेट की पहली आठ और अंतिम छह पंक्तियाँ","The two divisions of the Petrarchan sonnet: the octave (first eight lines, abbaabba) states a problem; the sestet (last six lines) resolves or comments on it."),
+("Villanelle","वि-ला-नेल (vil-uh-NEL)","19 पंक्तियों और दो दोहराई जाने वाली पंक्तियों का फ़्रांसीसी रूप","A French fixed form of 19 lines: five tercets (aba) and a closing quatrain (abaa), using two rhymes and two refrains that alternate and join at the end (Dylan Thomas, 'Do not go gentle')."),
+("Sestina","सेस-टी-ना (ses-TEE-nuh)","छह अंत-शब्दों को बदलते क्रम में दोहराने वाली 39 पंक्तियों की कविता","A fixed form of six six-line stanzas and a three-line envoi in which the same six end-words recur in a rotating order; invented by the Provencal troubadour Arnaut Daniel."),
+("Terza Rima","टेर-त्सा री-मा (TAIR-tsuh REE-muh)","तीन-तीन पंक्तियों की जुड़ती तुक (aba bcb cdc)","An Italian form of linked tercets rhyming aba bcb cdc, used by Dante in the Divine Comedy; in English by Shelley ('Ode to the West Wind')."),
+("Ottava Rima","ओ-टा-वा री-मा (oh-TAH-vuh REE-muh)","आठ पंक्तियों का छंद, तुक abababcc","An Italian stanza of eight lines rhyming abababcc (in English, iambic pentameter), used by Ariosto and Tasso; in English by Byron (Don Juan) and Yeats ('Sailing to Byzantium')."),
+("Rhyme Royal","राइम रॉयल (rime ROY-ul)","सात पंक्तियों का छंद, तुक ababbcc","A seven-line iambic pentameter stanza rhyming ababbcc, introduced by Chaucer (Troilus and Criseyde, Parliament of Fowls); the name is often linked to James I of Scotland's The Kingis Quair."),
+("Spenserian Stanza","स्पेन-सी-रि-यन स्टैन-ज़ा (spen-SEER-ee-un STAN-zuh)","नौ पंक्तियों का छंद, आठ पेंटामीटर और अंत में एक अलेक्ज़ेंड्रीन","A nine-line stanza of eight iambic pentameters and a final alexandrine rhyming ababbcbcc, devised by Spenser for The Faerie Queene; used by Byron (Childe Harold), Keats (The Eve of St Agnes), Shelley (Adonais)."),
+("Ballad","बै-लड (BAL-ud)","लोक-गीत शैली में सरल कहानी कहने वाली कविता","A short narrative song transmitted orally, told impersonally with dialogue, refrain and incremental repetition, usually in ballad stanza; the literary ballad imitates it (The Rime of the Ancient Mariner)."),
+("Mock-Epic (Mock-Heroic)","मॉक ए-पिक (mok EP-ik)","छोटी बात को महाकाव्य की भव्य शैली में लिखकर व्यंग्य करना","A satiric form that applies the elevated style and conventions of epic to a trivial subject, as in Pope's The Rape of the Lock and Dryden's Mac Flecknoe."),
+("Epic Simile (Homeric Simile)","ए-पिक सि-मि-ली (EP-ik SIM-uh-lee)","महाकाव्य में आने वाली लंबी, विस्तार वाली उपमा","An extended, elaborate simile running over several lines, comparing a heroic action with a familiar one; used by Homer, Virgil and Milton (Satan's shield compared to the moon)."),
+("Apostrophe","अ-पॉस-ट्रो-फ़ी (uh-POS-truh-fee)","किसी अनुपस्थित व्यक्ति या निर्जीव वस्तु को सीधे संबोधित करना","A figure of speech in which the speaker directly addresses an absent person, an abstraction or an inanimate object ('O wild West Wind', 'Milton! thou shouldst be living at this hour')."),
+("Pathetic Fallacy","पै-थे-टिक फ़ै-ल-सी (puh-THET-ik FAL-uh-see)","प्रकृति पर मनुष्य की भावनाएँ आरोपित करना","John Ruskin's term (Modern Painters, vol. III, 1856) for attributing human feelings and responses to inanimate nature ('the cruel, crawling foam')."),
+("Negative Capability","नेगेटिव केपेबिलिटी (NEG-uh-tiv kay-puh-BIL-i-tee)","अनिश्चितता और रहस्य को बिना जल्दबाज़ी के तर्क के स्वीकार करने की क्षमता","Keats's phrase (letter to his brothers, December 1817) for the capacity of being 'in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason', which he found pre-eminently in Shakespeare."),
+("Objective Correlative","ऑब्-जेक्-टिव कॉ-रि-लेटिव (ob-JEK-tiv kuh-REL-uh-tiv)","भाव जगाने वाली वस्तुओं, स्थितियों या घटनाओं की श्रृंखला","T.S. Eliot's term in 'Hamlet and His Problems' (1919): 'a set of objects, a situation, a chain of events which shall be the formula of that particular emotion' and which evokes it in the reader."),
+("Dissociation of Sensibility","डि-सो-सि-ए-शन ऑफ़ सेन-सि-बि-लि-टी (di-soh-see-AY-shun of sen-suh-BIL-i-tee)","सोच और भावना का अलग-अलग हो जाना","Eliot's phrase in 'The Metaphysical Poets' (1921) for the split between thought and feeling that, he claimed, set in after the Metaphysical poets, aggravated by Milton and Dryden."),
+("Imagism","इ-मे-जि-ज़्म (IM-uh-jiz-um)","स्पष्ट, सटीक बिंब और कम शब्दों वाली आधुनिक काव्य-धारा","A movement in English and American poetry (c. 1912-17), led by Ezra Pound, H.D., Aldington and Amy Lowell, demanding direct treatment of the thing, no superfluous word, and composition in the sequence of the musical phrase."),
+("Pararhyme","पै-रा-राइम (PAIR-uh-rime)","व्यंजन एक जैसे पर स्वर अलग वाली अधूरी तुक","Half-rhyme in which the consonants before and after differing vowels are identical ('escaped/scooped', 'hall/hell'); characteristic of Wilfred Owen ('Strange Meeting')."),
+("Feminine Rhyme","फ़े-मि-निन राइम (FEM-uh-nin rime)","दो अक्षरों वाली तुक, जिसमें अंतिम अक्षर हल्का हो","A rhyme of two syllables, a stressed followed by an unstressed one ('motion/ocean'); opposed to masculine rhyme on a single stressed final syllable ('hill/still')."),
+("Eye Rhyme","आई राइम (EYE rime)","केवल लिखने में मिलती तुक, बोलने में नहीं","Words whose spellings look alike but are pronounced differently, such as 'love/move', 'blood/mood'."),
+("Synaesthesia","सि-नेस-थी-ज़िया (sin-is-THEE-zhuh)","एक इंद्रिय के अनुभव को दूसरी इंद्रिय की भाषा में कहना","The description of one kind of sensation in terms of another, e.g. colour as sound; frequent in Keats ('Tasting of Flora and the country green') and the Symbolists."),
+("Zeugma","ज़्यूग-मा (ZOOG-muh)","एक ही शब्द को दो चीज़ों से अलग-अलग अर्थ में जोड़ना","A figure in which one word governs two others in different senses, often for comic effect: Pope, 'Or stain her honour, or her new brocade' (The Rape of the Lock)."),
+("Catalexis","कै-टा-लेक-सिस (kat-uh-LEK-sis)","पंक्ति के अंतिम पद में एक अक्षर कम होना","The omission of one or more syllables from the final foot of a line; such a line is catalectic (Blake's 'Tyger Tyger, burning bright' is catalectic trochaic tetrameter)."),
+("Scansion","स्कैन-शन (SKAN-shun)","कविता की लय और छंद को पदों में बाँटकर पढ़ना","The analysis of verse into metrical feet and the marking of stressed and unstressed syllables to determine its metre."),
+("Common Metre","कॉ-मन मी-टर (KOM-un MEE-ter)","चार और तीन पदों की पंक्तियों का बारी-बारी चलना (8.6.8.6)","Also ballad or hymn metre: quatrains alternating iambic tetrameter and iambic trimeter (8.6.8.6 syllables), rhyming abcb or abab; used widely by Emily Dickinson."),
+("Confessional Poetry","कन-फ़े-श-नल पो-ए-ट्री (kun-FESH-uh-nul POH-uh-tree)","कवि के निजी दुखों, मानसिक संघर्ष और जीवन को खुलकर कहने वाली कविता","Term coined by M.L. Rosenthal (1959) reviewing Robert Lowell's Life Studies, for post-war American poetry revealing intimate, often painful personal experience (Lowell, Plath, Sexton, Berryman, Snodgrass)."),
+("Negritude","ने-ग्री-ट्यूड (NEG-ri-tyood)","अश्वेत अफ़्रीकी पहचान और संस्कृति पर गर्व का आंदोलन","A literary and ideological movement of the 1930s onward, founded by Aime Cesaire, Leopold Sedar Senghor and Leon Damas, affirming black African identity and values against colonial assimilation."),
+("Epithalamion","ए-पि-था-ले-मि-यन (ep-uh-thuh-LAY-mee-un)","विवाह के अवसर का मंगल-गीत","A lyric poem celebrating a marriage, sung outside the bridal chamber; Spenser's Epithalamion (1595) celebrates his own marriage to Elizabeth Boyle."),
+]
+terms=[t for t in terms if t[0] not in ("Eye Rhyme","Scansion")]
+terms=[{"term":a,"pron":b,"hindi":c,"net":d} for a,b,c,d in terms]
+
+M=[]
+def mcq(q,opts,ans,exp): M.append({"q":q,"options":opts,"answer":ans,"exp":exp})
+
+mcq("Arrange in chronological order of publication: (i) The Waste Land (ii) Lyrical Ballads (iii) In Memoriam A.H.H. (iv) The Whitsun Weddings",
+["(ii), (iii), (i), (iv)","(iii), (ii), (i), (iv)","(ii), (i), (iii), (iv)","(iii), (ii), (iv), (i)"],0,"Lyrical Ballads 1798, In Memoriam 1850, The Waste Land 1922, The Whitsun Weddings 1964.")
+mcq("Match List I with List II: (a) Absalom and Achitophel (b) The Rape of the Lock (c) Mac Flecknoe (d) Epistle to Dr Arbuthnot -- (i) Thomas Shadwell (ii) Earl of Shaftesbury (iii) Arabella Fermor (iv) Lord Hervey (Sporus)",
+["a-ii, b-iii, c-i, d-iv","a-i, b-iii, c-ii, d-iv","a-ii, b-iv, c-i, d-iii","a-iii, b-ii, c-iv, d-i"],0,"Achitophel = Shaftesbury; Belinda = Arabella Fermor; Mac Flecknoe mocks Shadwell; Sporus = Lord Hervey.")
+mcq("Who said that the metaphysical poets yoked 'heterogeneous ideas' 'by violence together'?",
+["John Dryden","Samuel Johnson","T.S. Eliot","Alexander Pope"],1,"Johnson, Life of Cowley in Lives of the Poets.")
+mcq("The phrase 'dissociation of sensibility' occurs in T.S. Eliot's essay:",
+["Tradition and the Individual Talent","Hamlet and His Problems","The Metaphysical Poets","The Function of Criticism"],2,"'The Metaphysical Poets' (1921).")
+mcq("Assertion (A): Lycidas is a pastoral elegy. Reason (R): Milton mourns Edward King in the guise of a shepherd lamenting a fellow shepherd.",
+["Both A and R are true and R is the correct explanation of A","Both A and R are true but R is not the correct explanation of A","A is true but R is false","A is false but R is true"],0,"The pastoral disguise of mourner and mourned is exactly what makes it a pastoral elegy.")
+mcq("Which stanza form does Spenser use in The Faerie Queene?",
+["ababbcc in pentameter","ababbcbcc, eight pentameters and an alexandrine","abababcc in pentameter","aba bcb cdc"],1,"The Spenserian stanza: nine lines ending in an alexandrine.")
+mcq("Match the knight with the virtue in The Faerie Queene: (a) Redcrosse (b) Guyon (c) Britomart (d) Calidore -- (i) Courtesy (ii) Chastity (iii) Temperance (iv) Holiness",
+["a-iv, b-iii, c-ii, d-i","a-iii, b-iv, c-i, d-ii","a-iv, b-ii, c-iii, d-i","a-i, b-iii, c-ii, d-iv"],0,"Book I Holiness, II Temperance, III Chastity, VI Courtesy.")
+mcq("'Poetry is the spontaneous overflow of powerful feelings' is found in:",
+["Biographia Literaria","A Defence of Poetry","Preface to Lyrical Ballads","An Apology for Poetry"],2,"Wordsworth's Preface (1800/1802).")
+mcq("'Negative Capability' was defined by Keats in a letter to:",
+["Benjamin Bailey","John Hamilton Reynolds","his brothers George and Tom","Fanny Brawne"],2,"Letter of December 1817 to George and Tom Keats.")
+mcq("Which of the following poems is NOT written in terza rima or terza rima units?",
+["Ode to the West Wind","The Divine Comedy","Don Juan","The Triumph of Life"],2,"Don Juan is in ottava rima.")
+mcq("'Poets are the unacknowledged legislators of the world' was written by:",
+["Sidney","Shelley","Wordsworth","Arnold"],1,"Closing sentence of Shelley's A Defence of Poetry.")
+mcq("The term 'pathetic fallacy' was coined by:",
+["Matthew Arnold","Walter Pater","John Ruskin","S.T. Coleridge"],2,"Ruskin, Modern Painters, vol. III (1856).")
+mcq("Which Browning poem contains the line 'Ah, but a man's reach should exceed his grasp'?",
+["Fra Lippo Lippi","Andrea del Sarto","Rabbi Ben Ezra","My Last Duchess"],1,"Andrea del Sarto speaks it in Men and Women (1855).")
+mcq("Tennyson's In Memoriam A.H.H. is an elegy for:",
+["Edward King","Arthur Henry Hallam","Arthur Hugh Clough","John Keats"],1,"Hallam died in 1833; the poem appeared in 1850.")
+mcq("Thyrsis by Matthew Arnold is an elegy on:",
+["Arthur Hugh Clough","Thomas Arnold","Edward King","Arthur Hallam"],0,"Thyrsis (1865) mourns his friend Clough.")
+mcq("Sprung rhythm is associated with:",
+["Robert Bridges","G.M. Hopkins","Swinburne","D.G. Rossetti"],1,"Hopkins's metrical theory, poems edited by Bridges in 1918.")
+mcq("Arrange the sections of The Waste Land in order: (i) The Fire Sermon (ii) A Game of Chess (iii) What the Thunder Said (iv) Death by Water",
+["(ii), (i), (iv), (iii)","(i), (ii), (iv), (iii)","(ii), (iv), (i), (iii)","(i), (iv), (ii), (iii)"],0,"After The Burial of the Dead: A Game of Chess, The Fire Sermon, Death by Water, What the Thunder Said.")
+mcq("'Things fall apart; the centre cannot hold' is from:",
+["Easter, 1916","The Second Coming","Sailing to Byzantium","Among School Children"],1,"Yeats, 'The Second Coming' (1920).")
+mcq("Which of these is NOT one of Eliot's Four Quartets?",
+["Burnt Norton","East Coker","Little Gidding","Ash-Wednesday"],3,"Ash-Wednesday (1930) is a separate poem; the fourth quartet is The Dry Salvages.")
+mcq("'My subject is War, and the pity of War. The poetry is in the pity.' Who wrote this?",
+["Siegfried Sassoon","Rupert Brooke","Wilfred Owen","Isaac Rosenberg"],2,"Owen's draft Preface to his poems.")
+mcq("The anthology New Lines (1956), associated with the Movement, was edited by:",
+["D.J. Enright","Robert Conquest","Michael Roberts","Edward Marsh"],1,"Conquest edited New Lines; Enright edited Poets of the 1950s.")
+mcq("Match: (a) Night of the Scorpion (b) Small-Scale Reflections on a Great House (c) An Introduction (d) Jejuri -- (i) Kamala Das (ii) Arun Kolatkar (iii) Nissim Ezekiel (iv) A.K. Ramanujan",
+["a-iii, b-iv, c-i, d-ii","a-iv, b-iii, c-i, d-ii","a-iii, b-iv, c-ii, d-i","a-i, b-iv, c-iii, d-ii"],0,"Ezekiel, Ramanujan, Kamala Das, Kolatkar respectively.")
+mcq("Which Indian English poet was the first to receive the Sahitya Akademi Award for poetry in English, for Relationship?",
+["Nissim Ezekiel","Jayanta Mahapatra","A.K. Ramanujan","Keki N. Daruwalla"],1,"Mahapatra received it in 1981; Ezekiel followed in 1983.")
+mcq("The term 'confessional poetry' was first used by M.L. Rosenthal in reviewing:",
+["Ariel by Sylvia Plath","Howl by Allen Ginsberg","Life Studies by Robert Lowell","The Dream Songs by John Berryman"],2,"Rosenthal's 1959 review of Life Studies.")
+mcq("'Good fences make good neighbors' occurs in:",
+["Birches","Mending Wall","Home Burial","After Apple-Picking"],1,"Frost's 'Mending Wall', spoken by the neighbour.")
+mcq("Who wrote Omeros, a Caribbean reworking of Homeric epic?",
+["Kamau Brathwaite","V.S. Naipaul","Derek Walcott","Wole Soyinka"],2,"Walcott's Omeros (1990); he won the Nobel in 1992.")
+mcq("A villanelle has:",
+["14 lines with a volta","19 lines with two refrains and two rhymes","39 lines with six repeated end-words","8 lines with two rhymes"],1,"Five tercets and a quatrain; 39 lines describes the sestina, 8 lines the triolet.")
+mcq("The metrical foot in 'The Assyrian came down like the wolf on the fold' is predominantly:",
+["Iambic","Trochaic","Anapaestic","Dactylic"],2,"Byron's line is anapaestic tetrameter (u u /).")
+mcq("Rhyme royal, first used in English by Chaucer, rhymes:",
+["ababbcc","abababcc","ababbcbcc","abba"],0,"Seven-line stanza of Troilus and Criseyde; abababcc is ottava rima.")
+mcq("Which poem was written by Marvell?",
+["The Retreat","The Collar","An Horatian Ode upon Cromwell's Return from Ireland","The Flaming Heart"],2,"The Retreat is Vaughan's, The Collar Herbert's, The Flaming Heart Crashaw's.")
+
+d={"id":2,"title":"Poetry",
+"overview":"Is unit mein Chaucer se lekar aaj tak ki English poetry aati hai: Old/Middle English, Renaissance, Metaphysical, Neoclassical, Romantic, Victorian, Modern, post-war, American, Indian English aur postcolonial poets, saath mein prosody, metre aur poetic forms. NET mein zyada sawaal chronology, match-the-following (poet-poem-quote-character), famous lines kisne likhi, aur stanza/metre ki pehchaan par aate hain.",
+"topics":T,"terms":terms,"mcqs":M}
+out="/workspace/projects/a829249c-c8af-4f4e-9fab-a2213c15a2ee/app/content/unit2.json"
+json.dump(d,open(out,"w",encoding="utf-8"),ensure_ascii=False,indent=1)
+print(len(T),[len(t["points"]) for t in T],len(terms),len(M))

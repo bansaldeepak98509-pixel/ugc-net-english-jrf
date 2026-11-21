@@ -1,0 +1,1763 @@
+{
+ "id": 7,
+ "pyq_focus": [
+  "NET mein Unit 7 se sabse zyada 'author-book match' aata hai: Williams - Culture and Society, Hoggart - The Uses of Literacy, Thompson - The Making of the English Working Class.",
+  "Stuart Hall ka 'Encoding/Decoding' aur teen reading positions (dominant, negotiated, oppositional) baar baar pucha gaya hai.",
+  "Raymond Williams ke terms: 'structure of feeling', 'culture is ordinary', dominant-residual-emergent, cultural materialism (Dollimore-Sinfield) yaad rakho.",
+  "Frankfurt School: Adorno-Horkheimer 'Culture Industry' (Dialectic of Enlightenment), Benjamin 'aura' aur mechanical reproduction - match questions mein favourite.",
+  "Gramsci ka hegemony aur organic intellectual, Althusser ka ISA/RSA aur interpellation - assertion-reason type mein aate hain.",
+  "Barthes (Mythologies, myth as second-order signification), Baudrillard (simulacra, hyperreality), Bourdieu (habitus, cultural capital, Distinction) ke terms pakko.",
+  "Subaltern Studies (Ranajit Guha, Spivak 'Can the Subaltern Speak?'), ecocriticism (Glotfelty, Buell, Garrard) aur queer theory (Butler, Sedgwick) bhi aate hain.",
+  "Chronology questions ke liye saal yaad karo: 1957 Hoggart, 1958 Williams, 1963 Thompson, 1964 CCCS, 1972 Cohen Folk Devils, 1979 Hebdige Subculture.",
+  "Tayyari: har thinker ka ek book + ek key term + ek saal ka chhota card banao aur roz revise karo."
+ ],
+ "easy": [
+  {
+   "title": "Background: From Arnold and Leavis to Cultural Studies",
+   "story": "Pehle Matthew Arnold bolte the ki culture matlab 'the best that has been thought and said' - yaani sirf bade log ki oonchi cheezein. F. R. Leavis bhi kehte the ki ek chhoti 'minority' hi asli culture bachati hai, aur mass culture kharab hai. Socho mummy kehti hai sirf classical music achha hai, filmi gaane bekaar. Phir Cultural Studies wale aaye aur bole: nahi bhai, gali ka gaana, TV, cricket - sab culture hai. Isse 'high culture vs popular culture' ki deewar tooti.",
+   "trick": "A-L-W: Arnold (1869 Culture and Anarchy) - Leavis (1930 Mass Civilization and Minority Culture) - Williams ('culture is ordinary'). Oonchi seedhi se zameen tak!"
+  },
+  {
+   "title": "Birmingham CCCS (Centre for Contemporary Cultural Studies)",
+   "story": "1964 mein Birmingham University mein ek chhota sa centre bana - CCCS. Iske pehle director Richard Hoggart the, phir Stuart Hall aaye. Yahan log TV, punk, school ke ladke, akhbaar sab ko padhte the jaise koi kitab padhta hai. Socho ek kamra jahan sab mohalle ki baatein seriously discuss hoti hain. 2002 mein ye department band ho gaya.",
+   "trick": "64 mein Birmingham ka 'Chai Club' khula: Hoggart ne chai banayi, Hall ne serve ki, 2002 mein dukaan band."
+  },
+  {
+   "title": "Richard Hoggart and E. P. Thompson",
+   "story": "Hoggart ne 1957 mein 'The Uses of Literacy' likhi - working class ki zindagi aur unpar sasti magazines ka asar. E. P. Thompson ne 1963 mein 'The Making of the English Working Class' likhi. Thompson kehte the class koi cheez nahi, ek 'happening' hai jo log khud banate hain. Jaise gaon ke log milke khud apni panchayat banate hain, koi upar se nahi deta. Thompson ne 'history from below' ko famous kiya.",
+   "trick": "Hoggart = 57 = 'Literacy' (L for Lettering). Thompson = 63 = 'Making' (M after L). Class is 'made', not 'found'."
+  },
+  {
+   "title": "Raymond Williams and Cultural Materialism",
+   "story": "Raymond Williams ek Welsh railway signalman ke bete the. Unhone kaha 'Culture is ordinary' - culture sabka hai, sirf amiron ka nahi. Unki books: Culture and Society (1958), The Long Revolution (1961), Keywords (1976), Marxism and Literature (1977). 'Structure of feeling' matlab kisi zamane ka common mood, jaise 90s ke bachchon ka Doordarshan wala feeling. Unhone dominant, residual, emergent culture ki baat ki.",
+   "trick": "Williams ki 'DRE-ss': Dominant, Residual, Emergent. Aur 'Keywords' 76 mein - 'Key 76'."
+  },
+  {
+   "title": "Stuart Hall",
+   "story": "Stuart Hall Jamaica se England aaye aur CCCS ke acting director (1968) aur phir director (1972-1979) bane. Unka famous essay 'Encoding/Decoding' (1973) kehta hai ki TV message bhejta hai, par dekhne wala apne tareeke se samajhta hai. Jaise papa news dekh ke khush, chacha naraz - same news, alag reading. Teen tarah ki reading: dominant (maan liya), negotiated (aadha maana), oppositional (bilkul ulta). 'Policing the Crisis' (1978) mein mugging ke moral panic ko samjhaya.",
+   "trick": "Hall ki 'DNO' reading: Dominant, Negotiated, Oppositional - 'Do Na O'!"
+  },
+  {
+   "title": "Youth Subcultures, Style and Moral Panics",
+   "story": "Punk, Mods, Rockers, Teddy Boys - ye youth groups apne kapde, baal aur music se 'style' dikhate the. Dick Hebdige ne 'Subculture: The Meaning of Style' (1979) mein kaha ye style ek tarah ka virodh hai, 'bricolage' se bana. Stanley Cohen ne 'Folk Devils and Moral Panics' (1972) mein dikhaya ki media chhoti baat ko bada darr bana deta hai. Jaise news channel bole 'PUBG se bachche bigad rahe hain!' - wahi moral panic.",
+   "trick": "Cohen 72 ke 'Devils', Hebdige 79 ka 'Style'. 'Resistance Through Rituals' 1975 - R-R ke beech mein."
+  },
+  {
+   "title": "Frankfurt School and the Culture Industry",
+   "story": "Germany ke Frankfurt mein kuch Marxist thinker the - Adorno, Horkheimer, Marcuse. Adorno-Horkheimer ne 'Dialectic of Enlightenment' (1944/1947) mein 'Culture Industry' ki baat ki. Matlab filmein, gaane factory jaise ek jaise maal ki tarah bante hain aur logon ko chup karate hain. Jaise har TV serial mein same saas-bahu drama. Marcuse ne 'One-Dimensional Man' (1964) likhi.",
+   "trick": "Frankfurt ke 'AHM' chacha: Adorno, Horkheimer, Marcuse - sab bole 'Culture Industry = Factory'."
+  },
+  {
+   "title": "Walter Benjamin",
+   "story": "Walter Benjamin ne 1936 mein essay likha 'The Work of Art in the Age of Mechanical Reproduction'. Unhone kaha asli painting mein ek 'aura' hoti hai - uski unique jagah aur samay. Jab photo copy, poster, film banti hai to aura khatam ho jaati hai. Jaise Taj Mahal khud dekhna aur uska fridge magnet - feel alag. Par Benjamin ko isme democracy bhi dikhi, kyunki sab tak art pahunchi. Unhone 'flâneur' aur 'Arcades Project' bhi diya.",
+   "trick": "Benjamin = 'Aura Uncle' 1936: copy machine aayi, aura gayi."
+  },
+  {
+   "title": "Antonio Gramsci and Hegemony",
+   "story": "Gramsci Italy ke Marxist the jinhe Mussolini ne jail mein daala. Jail mein unhone 'Prison Notebooks' likhi. Hegemony matlab ruling class danda nahi, logon ki 'consent' (sehmati) se raaj karti hai. Jaise ad dekh ke hum khud maan lete hain ki gora rang achha - kisi ne zabardasti nahi ki. Unhone 'organic intellectual' aur 'subaltern' word bhi diya.",
+   "trick": "Gramsci = G for 'Gentle rule' = Hegemony by consent, not by danda."
+  },
+  {
+   "title": "Louis Althusser and Ideological State Apparatuses",
+   "story": "Althusser French Marxist the. 1970 ke essay 'Ideology and Ideological State Apparatuses' mein do tarah ki machine batayi. RSA - police, army, court, jo force se chalate hain. ISA - school, family, church, media, jo ideology se chalate hain. 'Interpellation' matlab jab policewala bole 'Oye, tum!' aur tum mud jao - tum subject ban gaye.",
+   "trick": "RSA = Rifle wali (force), ISA = Idea wali (school, family). 'Hey you!' = interpellation."
+  },
+  {
+   "title": "Roland Barthes: Mythologies and Semiology",
+   "story": "Barthes French thinker the. 'Mythologies' (1957) mein wrestling, soap powder, wine jaisi roz ki cheezon ko padha. Unhone kaha myth ek 'second-order' meaning hai - pehle sign, phir uspe naya chhupa meaning. Famous example: Paris Match cover par French uniform mein kala sipahi salute karta hai, matlab 'French empire sabke liye achha'. Jaise cricket jersey sirf kapda nahi, deshbhakti ka sign. 1967 mein 'The Death of the Author' likha.",
+   "trick": "Barthes ka 'saluting soldier' = myth. Mythologies 57 - Hoggart ke saath same saal!"
+  },
+  {
+   "title": "Baudrillard, Simulation and Postmodern Media Theory",
+   "story": "Jean Baudrillard ne 'Simulacra and Simulation' (1981) likhi. Unhone kaha aaj copy itni zyada hai ki asli cheez gayab ho gayi - isse 'hyperreality' kehte hain. Disneyland unka famous example hai. Jaise Instagram filter wala chehra asli chehre se zyada 'real' lagne lage. Unhone provocatively kaha 'The Gulf War Did Not Take Place' (1991).",
+   "trick": "Baudrillard = 'Bau-Disney-lard': Disneyland + simulacra + hyperreal."
+  },
+  {
+   "title": "Pierre Bourdieu: Taste, Capital and Field",
+   "story": "Bourdieu French sociologist the. 'Distinction' (1979) mein dikhaya ki taste (pasand) class se aata hai. Unhone capital ke prakar bataye: economic, cultural, social, symbolic. 'Habitus' matlab ghar aur parvarish se bani aadatein, jaise khana chammach se ya haath se. 'Field' matlab ek khel ka maidan jahan log capital ke liye ladte hain.",
+   "trick": "Bourdieu ke 'HCF': Habitus, Capital, Field. Taste = class ka chashma."
+  },
+  {
+   "title": "John Fiske and Popular Culture Studies",
+   "story": "John Fiske ne 'Television Culture' (1987) aur 'Understanding Popular Culture' (1989) likhi. Unhone kaha audience bewakoof nahi, active hai - apna meaning khud banata hai. Jaise ek ad ko hum mazaak bana ke meme bana dete hain. Unhone 'semiotic democracy' aur 'polysemy' ki baat ki. Kuch critics ne inhe 'cultural populism' ka example bola.",
+   "trick": "Fiske = 'Fun-ske': popular culture fun hai, audience active."
+  },
+  {
+   "title": "Subaltern Studies",
+   "story": "Subaltern matlab neeche dabaye gaye log - kisan, dalit, adivasi, auratein. Ranajit Guha ne 1982 mein Subaltern Studies group shuru kiya, jo itihas ko neeche se dekhna chahta tha. Gayatri Spivak ne puchha 'Can the Subaltern Speak?' aur kaha ki dabe hue log ki awaaz koi aur bol deta hai. Jaise gaon ki kahani hamesha zamindar sunata hai, kisan nahi. Word Gramsci se aaya.",
+   "trick": "Guha 82 ne group shuru kiya, Spivak ne sawaal puchha: 'Bol sakta hai kya?'"
+  },
+  {
+   "title": "Gender, Sexuality and Queer Theory in Cultural Studies",
+   "story": "Judith Butler ne 'Gender Trouble' (1990) mein kaha gender ek 'performance' hai - hum roz dohraake usse banate hain. Jaise ladkon ko bolna 'ladke rote nahi' - ye baar baar dohraake gender banta hai. Eve Sedgwick ne 'Epistemology of the Closet' (1990) likhi. Laura Mulvey ne 1975 mein 'male gaze' diya - film mein camera aadmi ki nazar se dekhta hai. Teresa de Lauretis ne 'queer theory' term popular kiya (1990/91).",
+   "trick": "1990 = Butler + Sedgwick ka 'Queer saal'. Mulvey 75 = 'Male gaze'."
+  },
+  {
+   "title": "Ecocriticism",
+   "story": "Ecocriticism matlab literature ko prakriti aur paryavaran ke nazariye se padhna. William Rueckert ne 1978 mein 'ecocriticism' word banaya. Cheryll Glotfelty ne kaha ye 'literature aur physical environment ka rishta' hai (The Ecocriticism Reader, 1996). Jaise Ganga par kavita ko pollution ke angle se padhna. Lawrence Buell, Greg Garrard, Jonathan Bate bhi naam hain; India mein Amitav Ghosh ki 'The Great Derangement' (2016).",
+   "trick": "Rueckert 78 ne naam diya, Glotfelty 96 ne Reader diya - 'R-G' = Ret aur Ghaas."
+  },
+  {
+   "title": "Digital Culture, New Media and Indian Cultural Studies",
+   "story": "Marshall McLuhan ne kaha 'The medium is the message' (Understanding Media, 1964) aur 'global village' ki baat ki. Henry Jenkins ne 'Convergence Culture' (2006) aur fans ki participatory culture samjhayi. Donna Haraway ne 'A Cyborg Manifesto' (1985) likha. India mein Ashis Nandy, Partha Chatterjee jaise log culture ko apne nazariye se padhte hain. Jaise WhatsApp family group - naya digital culture!",
+   "trick": "McLuhan 64 'Medium = Message', Jenkins 2006 'Convergence', Haraway 85 'Cyborg'."
+  }
+ ],
+ "works": [
+  {
+   "author": "Matthew Arnold",
+   "work": "Culture and Anarchy",
+   "year": "1869",
+   "type": "essays",
+   "note": "'Sweetness and light'; culture as best thought and said"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "The Function of Criticism at the Present Time",
+   "year": "1864",
+   "type": "essay",
+   "note": "Disinterestedness; criticism to make best ideas prevail"
+  },
+  {
+   "author": "F. R. Leavis",
+   "work": "Mass Civilisation and Minority Culture",
+   "year": "1930",
+   "type": "pamphlet",
+   "note": "Minority keeps culture alive against mass civilisation"
+  },
+  {
+   "author": "F. R. Leavis and Denys Thompson",
+   "work": "Culture and Environment",
+   "year": "1933",
+   "type": "book",
+   "note": "Training critical awareness against advertising and mass culture"
+  },
+  {
+   "author": "Q. D. Leavis",
+   "work": "Fiction and the Reading Public",
+   "year": "1932",
+   "type": "book",
+   "note": "Sociology of popular fiction reading; Leavisite critique"
+  },
+  {
+   "author": "F. R. Leavis",
+   "work": "The Great Tradition",
+   "year": "1948",
+   "type": "criticism",
+   "note": "Austen, Eliot, James, Conrad as the great tradition"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "Notes Towards the Definition of Culture",
+   "year": "1948",
+   "type": "book",
+   "note": "Culture as whole way of life of a people"
+  },
+  {
+   "author": "Richard Hoggart",
+   "work": "The Uses of Literacy",
+   "year": "1957",
+   "type": "book",
+   "note": "Working-class life and mass publications; founding CCCS text"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Culture and Society 1780-1950",
+   "year": "1958",
+   "type": "book",
+   "note": "Traces the idea of culture; founding cultural studies text"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Culture is Ordinary",
+   "year": "1958",
+   "type": "essay",
+   "note": "Culture is ordinary, belongs to everyone"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "The Long Revolution",
+   "year": "1961",
+   "type": "book",
+   "note": "Introduces 'structure of feeling'; three definitions of culture"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Communications",
+   "year": "1962",
+   "type": "book",
+   "note": "Early study of media institutions"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Modern Tragedy",
+   "year": "1966",
+   "type": "criticism",
+   "note": "Tragedy rethought socially"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "The Country and the City",
+   "year": "1973",
+   "type": "book",
+   "note": "Pastoral myth and rural-urban relations; important for ecocriticism"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Television: Technology and Cultural Form",
+   "year": "1974",
+   "type": "book",
+   "note": "Concept of 'flow' in television"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Keywords: A Vocabulary of Culture and Society",
+   "year": "1976",
+   "type": "book",
+   "note": "Culture as one of the most complicated words"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Marxism and Literature",
+   "year": "1977",
+   "type": "theory",
+   "note": "Dominant, residual, emergent; structure of feeling"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Problems in Materialism and Culture",
+   "year": "1980",
+   "type": "essays",
+   "note": "Includes 'Base and Superstructure in Marxist Cultural Theory'"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Culture",
+   "year": "1981",
+   "type": "book",
+   "note": "Also titled The Sociology of Culture"
+  },
+  {
+   "author": "E. P. Thompson",
+   "work": "The Making of the English Working Class",
+   "year": "1963",
+   "type": "history",
+   "note": "Class as a happening; history from below"
+  },
+  {
+   "author": "E. P. Thompson",
+   "work": "William Morris: Romantic to Revolutionary",
+   "year": "1955",
+   "type": "biography",
+   "note": "Early Marxist humanist work"
+  },
+  {
+   "author": "E. P. Thompson",
+   "work": "Whigs and Hunters",
+   "year": "1975",
+   "type": "history",
+   "note": "Origins of the Black Act"
+  },
+  {
+   "author": "E. P. Thompson",
+   "work": "The Poverty of Theory",
+   "year": "1978",
+   "type": "essays",
+   "note": "Attack on Althusserian structuralism"
+  },
+  {
+   "author": "Jonathan Dollimore and Alan Sinfield (eds.)",
+   "work": "Political Shakespeare",
+   "year": "1985",
+   "type": "essays",
+   "note": "Coined the label 'cultural materialism'"
+  },
+  {
+   "author": "Jonathan Dollimore",
+   "work": "Radical Tragedy",
+   "year": "1984",
+   "type": "criticism",
+   "note": "Cultural materialist reading of Jacobean drama"
+  },
+  {
+   "author": "Alan Sinfield",
+   "work": "Faultlines",
+   "year": "1992",
+   "type": "criticism",
+   "note": "Cultural materialism and dissident reading"
+  },
+  {
+   "author": "Stuart Hall",
+   "work": "Encoding and Decoding in the Television Discourse",
+   "year": "1973",
+   "type": "essay",
+   "note": "Dominant, negotiated and oppositional readings"
+  },
+  {
+   "author": "Stuart Hall and Paddy Whannel",
+   "work": "The Popular Arts",
+   "year": "1964",
+   "type": "book",
+   "note": "Early serious study of popular media"
+  },
+  {
+   "author": "Stuart Hall and Tony Jefferson (eds.)",
+   "work": "Resistance Through Rituals",
+   "year": "1975",
+   "type": "essays",
+   "note": "CCCS work on post-war youth subcultures"
+  },
+  {
+   "author": "Stuart Hall et al.",
+   "work": "Policing the Crisis",
+   "year": "1978",
+   "type": "book",
+   "note": "Mugging, moral panic and the state"
+  },
+  {
+   "author": "Stuart Hall",
+   "work": "Cultural Studies: Two Paradigms",
+   "year": "1980",
+   "type": "essay",
+   "note": "Culturalism versus structuralism"
+  },
+  {
+   "author": "Stuart Hall",
+   "work": "Notes on Deconstructing 'the Popular'",
+   "year": "1981",
+   "type": "essay",
+   "note": "Popular culture as site of struggle"
+  },
+  {
+   "author": "Stuart Hall",
+   "work": "Cultural Identity and Diaspora",
+   "year": "1990",
+   "type": "essay",
+   "note": "Identity as becoming as well as being"
+  },
+  {
+   "author": "Stuart Hall (ed.)",
+   "work": "Representation: Cultural Representations and Signifying Practices",
+   "year": "1997",
+   "type": "book",
+   "note": "Constructionist approach to representation"
+  },
+  {
+   "author": "Stuart Hall",
+   "work": "The Hard Road to Renewal",
+   "year": "1988",
+   "type": "essays",
+   "note": "Thatcherism as authoritarian populism"
+  },
+  {
+   "author": "Stanley Cohen",
+   "work": "Folk Devils and Moral Panics",
+   "year": "1972",
+   "type": "sociology",
+   "note": "Mods and Rockers; coined moral panic analysis"
+  },
+  {
+   "author": "Dick Hebdige",
+   "work": "Subculture: The Meaning of Style",
+   "year": "1979",
+   "type": "book",
+   "note": "Punk, bricolage, style as resistance"
+  },
+  {
+   "author": "Dick Hebdige",
+   "work": "Hiding in the Light",
+   "year": "1988",
+   "type": "essays",
+   "note": "Images and things in popular culture"
+  },
+  {
+   "author": "Paul Willis",
+   "work": "Learning to Labour",
+   "year": "1977",
+   "type": "ethnography",
+   "note": "How working-class kids get working-class jobs"
+  },
+  {
+   "author": "Paul Willis",
+   "work": "Profane Culture",
+   "year": "1978",
+   "type": "ethnography",
+   "note": "Bikers and hippies"
+  },
+  {
+   "author": "Angela McRobbie",
+   "work": "Feminism and Youth Culture",
+   "year": "1991",
+   "type": "essays",
+   "note": "Girls' magazines like Jackie; gender in subculture"
+  },
+  {
+   "author": "Angela McRobbie and Jenny Garber",
+   "work": "Girls and Subcultures",
+   "year": "1975",
+   "type": "essay",
+   "note": "Girls invisible in subculture studies"
+  },
+  {
+   "author": "Phil Cohen",
+   "work": "Subcultural Conflict and Working-Class Community",
+   "year": "1972",
+   "type": "essay",
+   "note": "Subcultures as magical resolution of class contradictions"
+  },
+  {
+   "author": "Sarah Thornton",
+   "work": "Club Cultures",
+   "year": "1995",
+   "type": "book",
+   "note": "Coined 'subcultural capital'"
+  },
+  {
+   "author": "David Morley",
+   "work": "The Nationwide Audience",
+   "year": "1980",
+   "type": "audience study",
+   "note": "Tested Hall's encoding/decoding empirically"
+  },
+  {
+   "author": "Charlotte Brunsdon and David Morley",
+   "work": "Everyday Television: Nationwide",
+   "year": "1978",
+   "type": "study",
+   "note": "CCCS study of BBC Nationwide programme"
+  },
+  {
+   "author": "Ien Ang",
+   "work": "Watching Dallas",
+   "year": "1985",
+   "type": "audience study",
+   "note": "Pleasure and the ideology of mass culture"
+  },
+  {
+   "author": "Janice Radway",
+   "work": "Reading the Romance",
+   "year": "1984",
+   "type": "audience study",
+   "note": "Women readers of romance fiction"
+  },
+  {
+   "author": "Theodor Adorno and Max Horkheimer",
+   "work": "Dialectic of Enlightenment",
+   "year": "1947",
+   "type": "theory",
+   "note": "'The Culture Industry: Enlightenment as Mass Deception' chapter"
+  },
+  {
+   "author": "Theodor Adorno",
+   "work": "On Popular Music",
+   "year": "1941",
+   "type": "essay",
+   "note": "Standardisation and pseudo-individualisation"
+  },
+  {
+   "author": "Theodor Adorno",
+   "work": "Culture Industry Reconsidered",
+   "year": "1963",
+   "type": "essay",
+   "note": "Revisits the culture industry thesis"
+  },
+  {
+   "author": "Theodor Adorno",
+   "work": "Minima Moralia",
+   "year": "1951",
+   "type": "aphorisms",
+   "note": "'Wrong life cannot be lived rightly'"
+  },
+  {
+   "author": "Theodor Adorno",
+   "work": "Negative Dialectics",
+   "year": "1966",
+   "type": "philosophy",
+   "note": "Critique of identity thinking"
+  },
+  {
+   "author": "Theodor Adorno",
+   "work": "Aesthetic Theory",
+   "year": "1970",
+   "type": "philosophy",
+   "note": "Posthumous; autonomy of art"
+  },
+  {
+   "author": "Max Horkheimer",
+   "work": "Traditional and Critical Theory",
+   "year": "1937",
+   "type": "essay",
+   "note": "Defines critical theory"
+  },
+  {
+   "author": "Herbert Marcuse",
+   "work": "One-Dimensional Man",
+   "year": "1964",
+   "type": "theory",
+   "note": "Advanced industrial society absorbs opposition"
+  },
+  {
+   "author": "Herbert Marcuse",
+   "work": "Eros and Civilization",
+   "year": "1955",
+   "type": "theory",
+   "note": "Synthesis of Freud and Marx; non-repressive civilisation"
+  },
+  {
+   "author": "Erich Fromm",
+   "work": "Escape from Freedom",
+   "year": "1941",
+   "type": "book",
+   "note": "Frankfurt School psychology of authoritarianism"
+  },
+  {
+   "author": "Jürgen Habermas",
+   "work": "The Structural Transformation of the Public Sphere",
+   "year": "1962",
+   "type": "theory",
+   "note": "Rise and decline of the bourgeois public sphere"
+  },
+  {
+   "author": "Walter Benjamin",
+   "work": "The Work of Art in the Age of Mechanical Reproduction",
+   "year": "1936",
+   "type": "essay",
+   "note": "Loss of aura; politicising art"
+  },
+  {
+   "author": "Walter Benjamin",
+   "work": "Theses on the Philosophy of History",
+   "year": "1940",
+   "type": "essay",
+   "note": "Angel of History; 'document of barbarism'"
+  },
+  {
+   "author": "Walter Benjamin",
+   "work": "The Author as Producer",
+   "year": "1934",
+   "type": "essay",
+   "note": "Writer's position in relations of production"
+  },
+  {
+   "author": "Walter Benjamin",
+   "work": "The Task of the Translator",
+   "year": "1923",
+   "type": "essay",
+   "note": "Translation and pure language"
+  },
+  {
+   "author": "Walter Benjamin",
+   "work": "The Storyteller",
+   "year": "1936",
+   "type": "essay",
+   "note": "Decline of storytelling and experience"
+  },
+  {
+   "author": "Walter Benjamin",
+   "work": "The Origin of German Tragic Drama",
+   "year": "1928",
+   "type": "book",
+   "note": "Trauerspiel and allegory"
+  },
+  {
+   "author": "Walter Benjamin",
+   "work": "The Arcades Project",
+   "year": "1982",
+   "type": "unfinished work",
+   "note": "Paris arcades, flâneur; published posthumously"
+  },
+  {
+   "author": "Antonio Gramsci",
+   "work": "Selections from the Prison Notebooks",
+   "year": "1971",
+   "type": "theory",
+   "note": "English edition; hegemony, organic intellectual, subaltern"
+  },
+  {
+   "author": "Antonio Gramsci",
+   "work": "Prison Notebooks",
+   "year": "1929-1935",
+   "type": "notebooks",
+   "note": "Written in Mussolini's prison"
+  },
+  {
+   "author": "Louis Althusser",
+   "work": "Ideology and Ideological State Apparatuses",
+   "year": "1970",
+   "type": "essay",
+   "note": "ISA, RSA, interpellation"
+  },
+  {
+   "author": "Louis Althusser",
+   "work": "For Marx",
+   "year": "1965",
+   "type": "theory",
+   "note": "Epistemological break; overdetermination"
+  },
+  {
+   "author": "Louis Althusser and Étienne Balibar",
+   "work": "Reading Capital",
+   "year": "1965",
+   "type": "theory",
+   "note": "Symptomatic reading"
+  },
+  {
+   "author": "Louis Althusser",
+   "work": "Lenin and Philosophy and Other Essays",
+   "year": "1971",
+   "type": "essays",
+   "note": "English collection containing the ISA essay"
+  },
+  {
+   "author": "Pierre Macherey",
+   "work": "A Theory of Literary Production",
+   "year": "1966",
+   "type": "theory",
+   "note": "Text's silences and gaps"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "Mythologies",
+   "year": "1957",
+   "type": "essays",
+   "note": "Myth as second-order signification; wrestling, Paris Match"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "Writing Degree Zero",
+   "year": "1953",
+   "type": "criticism",
+   "note": "Neutral 'white' writing"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "Elements of Semiology",
+   "year": "1964",
+   "type": "theory",
+   "note": "Denotation and connotation"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "Rhetoric of the Image",
+   "year": "1964",
+   "type": "essay",
+   "note": "Panzani advertisement analysis"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "The Death of the Author",
+   "year": "1967",
+   "type": "essay",
+   "note": "Birth of the reader at the cost of the author"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "S/Z",
+   "year": "1970",
+   "type": "criticism",
+   "note": "Five codes; readerly and writerly texts"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "The Pleasure of the Text",
+   "year": "1973",
+   "type": "theory",
+   "note": "Plaisir and jouissance"
+  },
+  {
+   "author": "Roland Barthes",
+   "work": "Camera Lucida",
+   "year": "1980",
+   "type": "book",
+   "note": "Studium and punctum in photography"
+  },
+  {
+   "author": "Ferdinand de Saussure",
+   "work": "Course in General Linguistics",
+   "year": "1916",
+   "type": "linguistics",
+   "note": "Signifier, signified; semiology foreseen"
+  },
+  {
+   "author": "Umberto Eco",
+   "work": "A Theory of Semiotics",
+   "year": "1976",
+   "type": "theory",
+   "note": "General semiotics"
+  },
+  {
+   "author": "Jean Baudrillard",
+   "work": "Simulacra and Simulation",
+   "year": "1981",
+   "type": "theory",
+   "note": "Hyperreality; four phases of the image; Disneyland"
+  },
+  {
+   "author": "Jean Baudrillard",
+   "work": "The System of Objects",
+   "year": "1968",
+   "type": "book",
+   "note": "Consumer objects as signs"
+  },
+  {
+   "author": "Jean Baudrillard",
+   "work": "The Consumer Society",
+   "year": "1970",
+   "type": "book",
+   "note": "Consumption as system of signs"
+  },
+  {
+   "author": "Jean Baudrillard",
+   "work": "For a Critique of the Political Economy of the Sign",
+   "year": "1972",
+   "type": "theory",
+   "note": "Sign-value"
+  },
+  {
+   "author": "Jean Baudrillard",
+   "work": "Symbolic Exchange and Death",
+   "year": "1976",
+   "type": "theory",
+   "note": "Orders of simulacra"
+  },
+  {
+   "author": "Jean Baudrillard",
+   "work": "The Gulf War Did Not Take Place",
+   "year": "1991",
+   "type": "essays",
+   "note": "Media spectacle replaces event"
+  },
+  {
+   "author": "Guy Debord",
+   "work": "The Society of the Spectacle",
+   "year": "1967",
+   "type": "theory",
+   "note": "Spectacle as social relation mediated by images"
+  },
+  {
+   "author": "Jean-François Lyotard",
+   "work": "The Postmodern Condition",
+   "year": "1979",
+   "type": "theory",
+   "note": "Incredulity toward metanarratives"
+  },
+  {
+   "author": "Fredric Jameson",
+   "work": "Postmodernism, or, The Cultural Logic of Late Capitalism",
+   "year": "1991",
+   "type": "theory",
+   "note": "Pastiche, depthlessness; essay version 1984"
+  },
+  {
+   "author": "Pierre Bourdieu",
+   "work": "Distinction: A Social Critique of the Judgement of Taste",
+   "year": "1979",
+   "type": "sociology",
+   "note": "Taste as class marker; cultural capital"
+  },
+  {
+   "author": "Pierre Bourdieu",
+   "work": "Outline of a Theory of Practice",
+   "year": "1972",
+   "type": "sociology",
+   "note": "Habitus explained"
+  },
+  {
+   "author": "Pierre Bourdieu",
+   "work": "The Forms of Capital",
+   "year": "1986",
+   "type": "essay",
+   "note": "Economic, cultural, social capital"
+  },
+  {
+   "author": "Pierre Bourdieu",
+   "work": "The Field of Cultural Production",
+   "year": "1993",
+   "type": "essays",
+   "note": "Literary field, restricted vs large-scale production"
+  },
+  {
+   "author": "Pierre Bourdieu",
+   "work": "The Rules of Art",
+   "year": "1992",
+   "type": "book",
+   "note": "Genesis of the literary field; Flaubert"
+  },
+  {
+   "author": "Pierre Bourdieu and Jean-Claude Passeron",
+   "work": "Reproduction in Education, Society and Culture",
+   "year": "1970",
+   "type": "sociology",
+   "note": "Schools reproduce class through cultural capital"
+  },
+  {
+   "author": "Pierre Bourdieu",
+   "work": "On Television",
+   "year": "1996",
+   "type": "lectures",
+   "note": "Television and journalism's field"
+  },
+  {
+   "author": "John Fiske",
+   "work": "Television Culture",
+   "year": "1987",
+   "type": "book",
+   "note": "Polysemy; active audience"
+  },
+  {
+   "author": "John Fiske",
+   "work": "Understanding Popular Culture",
+   "year": "1989",
+   "type": "book",
+   "note": "Popular culture made by people, not industry"
+  },
+  {
+   "author": "John Fiske",
+   "work": "Reading the Popular",
+   "year": "1989",
+   "type": "book",
+   "note": "Companion to Understanding Popular Culture"
+  },
+  {
+   "author": "John Fiske and John Hartley",
+   "work": "Reading Television",
+   "year": "1978",
+   "type": "book",
+   "note": "Bardic function of television"
+  },
+  {
+   "author": "John Fiske",
+   "work": "Introduction to Communication Studies",
+   "year": "1982",
+   "type": "textbook",
+   "note": "Process and semiotic schools"
+  },
+  {
+   "author": "Jim McGuigan",
+   "work": "Cultural Populism",
+   "year": "1992",
+   "type": "book",
+   "note": "Critique of uncritical celebration of popular culture"
+  },
+  {
+   "author": "Ranajit Guha (ed.)",
+   "work": "Subaltern Studies I",
+   "year": "1982",
+   "type": "history",
+   "note": "First volume of the Subaltern Studies series"
+  },
+  {
+   "author": "Ranajit Guha",
+   "work": "Elementary Aspects of Peasant Insurgency in Colonial India",
+   "year": "1983",
+   "type": "history",
+   "note": "Peasant consciousness in revolt"
+  },
+  {
+   "author": "Ranajit Guha",
+   "work": "Dominance without Hegemony",
+   "year": "1997",
+   "type": "history",
+   "note": "Colonial rule lacked hegemony"
+  },
+  {
+   "author": "Gayatri Chakravorty Spivak",
+   "work": "Can the Subaltern Speak?",
+   "year": "1988",
+   "type": "essay",
+   "note": "Sati, epistemic violence; subaltern cannot speak"
+  },
+  {
+   "author": "Gayatri Chakravorty Spivak",
+   "work": "In Other Worlds",
+   "year": "1987",
+   "type": "essays",
+   "note": "Includes 'Subaltern Studies: Deconstructing Historiography'"
+  },
+  {
+   "author": "Gayatri Chakravorty Spivak",
+   "work": "A Critique of Postcolonial Reason",
+   "year": "1999",
+   "type": "theory",
+   "note": "Native informant"
+  },
+  {
+   "author": "Dipesh Chakrabarty",
+   "work": "Provincializing Europe",
+   "year": "2000",
+   "type": "history",
+   "note": "Europe as one province, not universal"
+  },
+  {
+   "author": "Partha Chatterjee",
+   "work": "Nationalist Thought and the Colonial World",
+   "year": "1986",
+   "type": "history",
+   "note": "A derivative discourse?"
+  },
+  {
+   "author": "Partha Chatterjee",
+   "work": "The Nation and Its Fragments",
+   "year": "1993",
+   "type": "history",
+   "note": "Inner/outer, spiritual/material domains"
+  },
+  {
+   "author": "Shahid Amin",
+   "work": "Event, Metaphor, Memory: Chauri Chaura 1922-1992",
+   "year": "1995",
+   "type": "history",
+   "note": "Subaltern memory of Chauri Chaura"
+  },
+  {
+   "author": "Judith Butler",
+   "work": "Gender Trouble",
+   "year": "1990",
+   "type": "theory",
+   "note": "Gender as performative"
+  },
+  {
+   "author": "Judith Butler",
+   "work": "Bodies That Matter",
+   "year": "1993",
+   "type": "theory",
+   "note": "Materiality of sex; citationality"
+  },
+  {
+   "author": "Eve Kosofsky Sedgwick",
+   "work": "Between Men",
+   "year": "1985",
+   "type": "criticism",
+   "note": "Male homosocial desire"
+  },
+  {
+   "author": "Eve Kosofsky Sedgwick",
+   "work": "Epistemology of the Closet",
+   "year": "1990",
+   "type": "theory",
+   "note": "Homo/heterosexual definition crisis"
+  },
+  {
+   "author": "Michel Foucault",
+   "work": "The History of Sexuality, Vol. 1",
+   "year": "1976",
+   "type": "theory",
+   "note": "Repressive hypothesis rejected; discourse and power"
+  },
+  {
+   "author": "Michel Foucault",
+   "work": "Discipline and Punish",
+   "year": "1975",
+   "type": "theory",
+   "note": "Panopticon; disciplinary power"
+  },
+  {
+   "author": "Laura Mulvey",
+   "work": "Visual Pleasure and Narrative Cinema",
+   "year": "1975",
+   "type": "essay",
+   "note": "Male gaze; to-be-looked-at-ness"
+  },
+  {
+   "author": "Adrienne Rich",
+   "work": "Compulsory Heterosexuality and Lesbian Existence",
+   "year": "1980",
+   "type": "essay",
+   "note": "Lesbian continuum"
+  },
+  {
+   "author": "Teresa de Lauretis",
+   "work": "Queer Theory: Lesbian and Gay Sexualities",
+   "year": "1991",
+   "type": "essay",
+   "note": "Introduced the term queer theory (differences journal)"
+  },
+  {
+   "author": "bell hooks",
+   "work": "Black Looks: Race and Representation",
+   "year": "1992",
+   "type": "essays",
+   "note": "Oppositional gaze"
+  },
+  {
+   "author": "Paul Gilroy",
+   "work": "There Ain't No Black in the Union Jack",
+   "year": "1987",
+   "type": "book",
+   "note": "Race and nation in Britain"
+  },
+  {
+   "author": "Paul Gilroy",
+   "work": "The Black Atlantic",
+   "year": "1993",
+   "type": "book",
+   "note": "Double consciousness and diaspora"
+  },
+  {
+   "author": "Edward Said",
+   "work": "Orientalism",
+   "year": "1978",
+   "type": "theory",
+   "note": "West's construction of the Orient"
+  },
+  {
+   "author": "William Rueckert",
+   "work": "Literature and Ecology: An Experiment in Ecocriticism",
+   "year": "1978",
+   "type": "essay",
+   "note": "Coined the term ecocriticism"
+  },
+  {
+   "author": "Cheryll Glotfelty and Harold Fromm (eds.)",
+   "work": "The Ecocriticism Reader",
+   "year": "1996",
+   "type": "anthology",
+   "note": "Defines ecocriticism; landmark anthology"
+  },
+  {
+   "author": "Lawrence Buell",
+   "work": "The Environmental Imagination",
+   "year": "1995",
+   "type": "criticism",
+   "note": "Thoreau and nature writing"
+  },
+  {
+   "author": "Lawrence Buell",
+   "work": "The Future of Environmental Criticism",
+   "year": "2005",
+   "type": "criticism",
+   "note": "First and second waves of ecocriticism"
+  },
+  {
+   "author": "Jonathan Bate",
+   "work": "Romantic Ecology",
+   "year": "1991",
+   "type": "criticism",
+   "note": "Wordsworth and environmental tradition"
+  },
+  {
+   "author": "Jonathan Bate",
+   "work": "The Song of the Earth",
+   "year": "2000",
+   "type": "criticism",
+   "note": "Ecopoetics"
+  },
+  {
+   "author": "Greg Garrard",
+   "work": "Ecocriticism",
+   "year": "2004",
+   "type": "textbook",
+   "note": "New Critical Idiom; pollution, pastoral, wilderness, apocalypse"
+  },
+  {
+   "author": "Rachel Carson",
+   "work": "Silent Spring",
+   "year": "1962",
+   "type": "non-fiction",
+   "note": "Pesticides; launched environmental movement"
+  },
+  {
+   "author": "Timothy Morton",
+   "work": "Ecology without Nature",
+   "year": "2007",
+   "type": "theory",
+   "note": "Dark ecology"
+  },
+  {
+   "author": "Ramachandra Guha and Juan Martinez-Alier",
+   "work": "Varieties of Environmentalism",
+   "year": "1997",
+   "type": "book",
+   "note": "Environmentalism of the poor"
+  },
+  {
+   "author": "Vandana Shiva",
+   "work": "Staying Alive",
+   "year": "1988",
+   "type": "book",
+   "note": "Ecofeminism in India"
+  },
+  {
+   "author": "Amitav Ghosh",
+   "work": "The Great Derangement",
+   "year": "2016",
+   "type": "non-fiction",
+   "note": "Climate change and the failure of the novel"
+  },
+  {
+   "author": "Marshall McLuhan",
+   "work": "Understanding Media: The Extensions of Man",
+   "year": "1964",
+   "type": "media theory",
+   "note": "'The medium is the message'; hot and cool media"
+  },
+  {
+   "author": "Marshall McLuhan",
+   "work": "The Gutenberg Galaxy",
+   "year": "1962",
+   "type": "media theory",
+   "note": "Print culture; 'global village'"
+  },
+  {
+   "author": "Donna Haraway",
+   "work": "A Cyborg Manifesto",
+   "year": "1985",
+   "type": "essay",
+   "note": "Cyborg as post-gender figure"
+  },
+  {
+   "author": "Henry Jenkins",
+   "work": "Textual Poachers",
+   "year": "1992",
+   "type": "book",
+   "note": "Fans as active poachers (term from de Certeau)"
+  },
+  {
+   "author": "Henry Jenkins",
+   "work": "Convergence Culture",
+   "year": "2006",
+   "type": "book",
+   "note": "Participatory culture and transmedia storytelling"
+  },
+  {
+   "author": "Michel de Certeau",
+   "work": "The Practice of Everyday Life",
+   "year": "1980",
+   "type": "theory",
+   "note": "Strategies and tactics; poaching"
+  },
+  {
+   "author": "Manuel Castells",
+   "work": "The Rise of the Network Society",
+   "year": "1996",
+   "type": "sociology",
+   "note": "Information age, network society"
+  },
+  {
+   "author": "Lev Manovich",
+   "work": "The Language of New Media",
+   "year": "2001",
+   "type": "media theory",
+   "note": "Principles of new media"
+  },
+  {
+   "author": "Jay David Bolter and Richard Grusin",
+   "work": "Remediation",
+   "year": "1999",
+   "type": "media theory",
+   "note": "Immediacy and hypermediacy"
+  },
+  {
+   "author": "Benedict Anderson",
+   "work": "Imagined Communities",
+   "year": "1983",
+   "type": "theory",
+   "note": "Nation as imagined community; print capitalism"
+  },
+  {
+   "author": "Ashis Nandy",
+   "work": "The Intimate Enemy",
+   "year": "1983",
+   "type": "book",
+   "note": "Loss and recovery of self under colonialism"
+  },
+  {
+   "author": "Arjun Appadurai",
+   "work": "Modernity at Large",
+   "year": "1996",
+   "type": "theory",
+   "note": "Five scapes of global cultural flows"
+  },
+  {
+   "author": "Raymond Williams",
+   "work": "Drama from Ibsen to Brecht",
+   "year": "1968",
+   "type": "criticism",
+   "note": "Revised from Drama from Ibsen to Eliot (1952)"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "Culture ... the best which has been thought and said in the world.",
+   "by": "Matthew Arnold",
+   "source": "Culture and Anarchy, 1869"
+  },
+  {
+   "quote": "Culture is ordinary: that is the first fact.",
+   "by": "Raymond Williams",
+   "source": "Culture is Ordinary, 1958"
+  },
+  {
+   "quote": "Culture is one of the two or three most complicated words in the English language.",
+   "by": "Raymond Williams",
+   "source": "Keywords, 1976"
+  },
+  {
+   "quote": "A culture is a whole way of life.",
+   "by": "Raymond Williams",
+   "source": "Culture and Society, 1958"
+  },
+  {
+   "quote": "I do not see class as a structure, nor even as a category, but as something which in fact happens ... in human relationships.",
+   "by": "E. P. Thompson",
+   "source": "The Making of the English Working Class, 1963 (Preface)"
+  },
+  {
+   "quote": "I am seeking to rescue the poor stockinger, the Luddite cropper ... from the enormous condescension of posterity.",
+   "by": "E. P. Thompson",
+   "source": "The Making of the English Working Class, 1963"
+  },
+  {
+   "quote": "The working class did not rise like the sun at an appointed time. It was present at its own making.",
+   "by": "E. P. Thompson",
+   "source": "The Making of the English Working Class, 1963"
+  },
+  {
+   "quote": "In every case the ruling ideas are ... the ideas of the ruling class.",
+   "by": "Karl Marx and Friedrich Engels",
+   "source": "The German Ideology, 1846"
+  },
+  {
+   "quote": "It is not the consciousness of men that determines their being, but ... their social being that determines their consciousness.",
+   "by": "Karl Marx",
+   "source": "A Contribution to the Critique of Political Economy, Preface, 1859"
+  },
+  {
+   "quote": "The crisis consists precisely in the fact that the old is dying and the new cannot be born.",
+   "by": "Antonio Gramsci",
+   "source": "Prison Notebooks"
+  },
+  {
+   "quote": "All men are intellectuals ... but not all men have in society the function of intellectuals.",
+   "by": "Antonio Gramsci",
+   "source": "Prison Notebooks"
+  },
+  {
+   "quote": "Ideology represents the imaginary relationship of individuals to their real conditions of existence.",
+   "by": "Louis Althusser",
+   "source": "Ideology and Ideological State Apparatuses, 1970"
+  },
+  {
+   "quote": "Ideology interpellates individuals as subjects.",
+   "by": "Louis Althusser",
+   "source": "Ideology and Ideological State Apparatuses, 1970"
+  },
+  {
+   "quote": "Ideology has no history.",
+   "by": "Louis Althusser",
+   "source": "Ideology and Ideological State Apparatuses, 1970"
+  },
+  {
+   "quote": "Culture today is infecting everything with sameness.",
+   "by": "Theodor Adorno and Max Horkheimer",
+   "source": "Dialectic of Enlightenment, 1947"
+  },
+  {
+   "quote": "To write poetry after Auschwitz is barbaric.",
+   "by": "Theodor Adorno",
+   "source": "Cultural Criticism and Society, 1949"
+  },
+  {
+   "quote": "Wrong life cannot be lived rightly.",
+   "by": "Theodor Adorno",
+   "source": "Minima Moralia, 1951"
+  },
+  {
+   "quote": "That which withers in the age of mechanical reproduction is the aura of the work of art.",
+   "by": "Walter Benjamin",
+   "source": "The Work of Art in the Age of Mechanical Reproduction, 1936"
+  },
+  {
+   "quote": "There is no document of civilization which is not at the same time a document of barbarism.",
+   "by": "Walter Benjamin",
+   "source": "Theses on the Philosophy of History, 1940"
+  },
+  {
+   "quote": "This storm is what we call progress.",
+   "by": "Walter Benjamin",
+   "source": "Theses on the Philosophy of History, 1940 (Angel of History)"
+  },
+  {
+   "quote": "Myth is a type of speech.",
+   "by": "Roland Barthes",
+   "source": "Mythologies, 1957"
+  },
+  {
+   "quote": "Myth ... transforms history into nature.",
+   "by": "Roland Barthes",
+   "source": "Mythologies, 1957"
+  },
+  {
+   "quote": "The birth of the reader must be at the cost of the death of the Author.",
+   "by": "Roland Barthes",
+   "source": "The Death of the Author, 1967"
+  },
+  {
+   "quote": "The simulacrum is never that which conceals the truth - it is the truth which conceals that there is none.",
+   "by": "Jean Baudrillard",
+   "source": "Simulacra and Simulation, 1981 (epigraph attributed to Ecclesiastes)"
+  },
+  {
+   "quote": "Disneyland is presented as imaginary in order to make us believe that the rest is real.",
+   "by": "Jean Baudrillard",
+   "source": "Simulacra and Simulation, 1981"
+  },
+  {
+   "quote": "The desert of the real itself.",
+   "by": "Jean Baudrillard",
+   "source": "Simulacra and Simulation, 1981"
+  },
+  {
+   "quote": "Taste classifies, and it classifies the classifier.",
+   "by": "Pierre Bourdieu",
+   "source": "Distinction, 1979"
+  },
+  {
+   "quote": "The spectacle is not a collection of images, but a social relation among people, mediated by images.",
+   "by": "Guy Debord",
+   "source": "The Society of the Spectacle, 1967"
+  },
+  {
+   "quote": "I define postmodern as incredulity toward metanarratives.",
+   "by": "Jean-François Lyotard",
+   "source": "The Postmodern Condition, 1979"
+  },
+  {
+   "quote": "The medium is the message.",
+   "by": "Marshall McLuhan",
+   "source": "Understanding Media, 1964"
+  },
+  {
+   "quote": "Popular culture is made by the people, not produced by the culture industry.",
+   "by": "John Fiske",
+   "source": "Understanding Popular Culture, 1989"
+  },
+  {
+   "quote": "Societies are subject, every now and then, to periods of moral panic.",
+   "by": "Stanley Cohen",
+   "source": "Folk Devils and Moral Panics, 1972"
+  },
+  {
+   "quote": "Style in subculture is ... pregnant with significance.",
+   "by": "Dick Hebdige",
+   "source": "Subculture: The Meaning of Style, 1979"
+  },
+  {
+   "quote": "Popular culture is one of the sites where this struggle for and against a culture of the powerful is engaged.",
+   "by": "Stuart Hall",
+   "source": "Notes on Deconstructing 'the Popular', 1981"
+  },
+  {
+   "quote": "Cultural identity ... is a matter of 'becoming' as well as of 'being'.",
+   "by": "Stuart Hall",
+   "source": "Cultural Identity and Diaspora, 1990"
+  },
+  {
+   "quote": "The subaltern cannot speak.",
+   "by": "Gayatri Chakravorty Spivak",
+   "source": "Can the Subaltern Speak?, 1988"
+  },
+  {
+   "quote": "White men are saving brown women from brown men.",
+   "by": "Gayatri Chakravorty Spivak",
+   "source": "Can the Subaltern Speak?, 1988"
+  },
+  {
+   "quote": "There is no gender identity behind the expressions of gender; that identity is performatively constituted.",
+   "by": "Judith Butler",
+   "source": "Gender Trouble, 1990"
+  },
+  {
+   "quote": "One is not born, but rather becomes, a woman.",
+   "by": "Simone de Beauvoir",
+   "source": "The Second Sex, 1949"
+  },
+  {
+   "quote": "Where there is power, there is resistance.",
+   "by": "Michel Foucault",
+   "source": "The History of Sexuality, Vol. 1, 1976"
+  },
+  {
+   "quote": "In a world ordered by sexual imbalance, pleasure in looking has been split between active/male and passive/female.",
+   "by": "Laura Mulvey",
+   "source": "Visual Pleasure and Narrative Cinema, 1975"
+  },
+  {
+   "quote": "Ecocriticism is the study of the relationship between literature and the physical environment.",
+   "by": "Cheryll Glotfelty",
+   "source": "The Ecocriticism Reader, 1996 (Introduction)"
+  },
+  {
+   "quote": "I would rather be a cyborg than a goddess.",
+   "by": "Donna Haraway",
+   "source": "A Cyborg Manifesto, 1985"
+  },
+  {
+   "quote": "Nation ... is an imagined political community.",
+   "by": "Benedict Anderson",
+   "source": "Imagined Communities, 1983"
+  },
+  {
+   "quote": "Orientalism ... a Western style for dominating, restructuring, and having authority over the Orient.",
+   "by": "Edward Said",
+   "source": "Orientalism, 1978"
+  },
+  {
+   "quote": "The climate crisis is also a crisis of culture, and thus of the imagination.",
+   "by": "Amitav Ghosh",
+   "source": "The Great Derangement, 2016"
+  }
+ ],
+ "people": [
+  {
+   "name": "Matthew Arnold",
+   "where": "Culture and Anarchy, 1869",
+   "note": "Victorian critic; culture as 'sweetness and light', Barbarians-Philistines-Populace"
+  },
+  {
+   "name": "F. R. Leavis",
+   "where": "Mass Civilisation and Minority Culture, 1930; Scrutiny",
+   "note": "Cambridge critic; minority culture against mass civilisation"
+  },
+  {
+   "name": "Q. D. Leavis",
+   "where": "Fiction and the Reading Public, 1932",
+   "note": "Studied popular reading habits; co-founder of Leavisite tradition"
+  },
+  {
+   "name": "Richard Hoggart",
+   "where": "The Uses of Literacy, 1957",
+   "note": "Founder and first director of CCCS (1964)"
+  },
+  {
+   "name": "Raymond Williams",
+   "where": "Culture and Society, 1958; Marxism and Literature, 1977",
+   "note": "Welsh critic; culture is ordinary, structure of feeling, cultural materialism"
+  },
+  {
+   "name": "E. P. Thompson",
+   "where": "The Making of the English Working Class, 1963",
+   "note": "Marxist historian; history from below, class as happening"
+  },
+  {
+   "name": "Stuart Hall",
+   "where": "Encoding/Decoding, 1973; Policing the Crisis, 1978",
+   "note": "Jamaican-born director of CCCS; reading positions, identity"
+  },
+  {
+   "name": "Paddy Whannel",
+   "where": "The Popular Arts, 1964 (with Stuart Hall)",
+   "note": "Co-author of early serious study of popular media"
+  },
+  {
+   "name": "Richard Johnson",
+   "where": "What Is Cultural Studies Anyway?, 1986",
+   "note": "CCCS director after Hall; circuit of culture model"
+  },
+  {
+   "name": "Paul du Gay",
+   "where": "Doing Cultural Studies: The Story of the Sony Walkman, 1997",
+   "note": "Circuit of culture model with Stuart Hall"
+  },
+  {
+   "name": "Stanley Cohen",
+   "where": "Folk Devils and Moral Panics, 1972",
+   "note": "Sociologist; Mods and Rockers, moral panic"
+  },
+  {
+   "name": "Dick Hebdige",
+   "where": "Subculture: The Meaning of Style, 1979",
+   "note": "Punk style, bricolage, incorporation"
+  },
+  {
+   "name": "Paul Willis",
+   "where": "Learning to Labour, 1977",
+   "note": "Ethnography of 'the lads'; cultural reproduction"
+  },
+  {
+   "name": "Angela McRobbie",
+   "where": "Feminism and Youth Culture, 1991",
+   "note": "Girls and subculture; critique of male-centred subculture studies"
+  },
+  {
+   "name": "Phil Cohen",
+   "where": "Subcultural Conflict and Working-Class Community, 1972",
+   "note": "Subcultures as 'magical' solutions to class problems"
+  },
+  {
+   "name": "Tony Jefferson",
+   "where": "Resistance Through Rituals, 1975 (co-ed. with Hall)",
+   "note": "CCCS youth subculture research"
+  },
+  {
+   "name": "Sarah Thornton",
+   "where": "Club Cultures, 1995",
+   "note": "Coined 'subcultural capital' from Bourdieu"
+  },
+  {
+   "name": "David Morley",
+   "where": "The Nationwide Audience, 1980",
+   "note": "Audience research testing encoding/decoding"
+  },
+  {
+   "name": "Ien Ang",
+   "where": "Watching Dallas, 1985",
+   "note": "Pleasure of viewers; ideology of mass culture"
+  },
+  {
+   "name": "Janice Radway",
+   "where": "Reading the Romance, 1984",
+   "note": "Women's romance reading as partial resistance"
+  },
+  {
+   "name": "Theodor Adorno",
+   "where": "Dialectic of Enlightenment, 1947 (with Horkheimer)",
+   "note": "Frankfurt School; culture industry, standardisation"
+  },
+  {
+   "name": "Max Horkheimer",
+   "where": "Dialectic of Enlightenment, 1947; Traditional and Critical Theory, 1937",
+   "note": "Director of Institute for Social Research; critical theory"
+  },
+  {
+   "name": "Herbert Marcuse",
+   "where": "One-Dimensional Man, 1964",
+   "note": "Frankfurt School; one-dimensional society, repressive desublimation"
+  },
+  {
+   "name": "Jürgen Habermas",
+   "where": "The Structural Transformation of the Public Sphere, 1962",
+   "note": "Second-generation Frankfurt School; public sphere"
+  },
+  {
+   "name": "Walter Benjamin",
+   "where": "The Work of Art in the Age of Mechanical Reproduction, 1936",
+   "note": "Aura, flâneur, Angel of History"
+  },
+  {
+   "name": "Antonio Gramsci",
+   "where": "Prison Notebooks, 1929-1935",
+   "note": "Italian Marxist; hegemony, organic intellectual, subaltern"
+  },
+  {
+   "name": "Louis Althusser",
+   "where": "Ideology and Ideological State Apparatuses, 1970",
+   "note": "French structural Marxist; ISA, RSA, interpellation"
+  },
+  {
+   "name": "Pierre Macherey",
+   "where": "A Theory of Literary Production, 1966",
+   "note": "Althusserian; the text's silences"
+  },
+  {
+   "name": "Roland Barthes",
+   "where": "Mythologies, 1957",
+   "note": "Semiologist; myth, death of the author, punctum"
+  },
+  {
+   "name": "Ferdinand de Saussure",
+   "where": "Course in General Linguistics, 1916",
+   "note": "Father of structural linguistics; sign = signifier + signified"
+  },
+  {
+   "name": "Jean Baudrillard",
+   "where": "Simulacra and Simulation, 1981",
+   "note": "Hyperreality, simulacra, Disneyland example"
+  },
+  {
+   "name": "Guy Debord",
+   "where": "The Society of the Spectacle, 1967",
+   "note": "Situationist; spectacle"
+  },
+  {
+   "name": "Jean-François Lyotard",
+   "where": "The Postmodern Condition, 1979",
+   "note": "Incredulity toward metanarratives"
+  },
+  {
+   "name": "Fredric Jameson",
+   "where": "Postmodernism, or, The Cultural Logic of Late Capitalism, 1991",
+   "note": "Marxist critic; pastiche, waning of affect"
+  },
+  {
+   "name": "Pierre Bourdieu",
+   "where": "Distinction, 1979",
+   "note": "French sociologist; habitus, field, cultural capital"
+  },
+  {
+   "name": "John Fiske",
+   "where": "Television Culture, 1987; Understanding Popular Culture, 1989",
+   "note": "Active audience, semiotic democracy, polysemy"
+  },
+  {
+   "name": "John Hartley",
+   "where": "Reading Television, 1978 (with Fiske)",
+   "note": "Bardic function of television"
+  },
+  {
+   "name": "Jim McGuigan",
+   "where": "Cultural Populism, 1992",
+   "note": "Critic of uncritical populism in cultural studies"
+  },
+  {
+   "name": "Michel de Certeau",
+   "where": "The Practice of Everyday Life, 1980",
+   "note": "Strategies vs tactics; reading as poaching"
+  },
+  {
+   "name": "Ranajit Guha",
+   "where": "Subaltern Studies I, 1982; Elementary Aspects of Peasant Insurgency, 1983",
+   "note": "Founder of Subaltern Studies collective"
+  },
+  {
+   "name": "Gayatri Chakravorty Spivak",
+   "where": "Can the Subaltern Speak?, 1988",
+   "note": "Epistemic violence, strategic essentialism; translated Derrida's Of Grammatology"
+  },
+  {
+   "name": "Dipesh Chakrabarty",
+   "where": "Provincializing Europe, 2000",
+   "note": "Subaltern Studies historian; decentring Europe"
+  },
+  {
+   "name": "Partha Chatterjee",
+   "where": "The Nation and Its Fragments, 1993",
+   "note": "Subaltern Studies; nationalism as derivative discourse"
+  },
+  {
+   "name": "Shahid Amin",
+   "where": "Event, Metaphor, Memory, 1995",
+   "note": "Subaltern Studies; Chauri Chaura and Gandhi as Mahatma"
+  },
+  {
+   "name": "Judith Butler",
+   "where": "Gender Trouble, 1990",
+   "note": "Gender performativity; queer theory"
+  },
+  {
+   "name": "Eve Kosofsky Sedgwick",
+   "where": "Between Men, 1985; Epistemology of the Closet, 1990",
+   "note": "Homosocial desire; foundational queer theorist"
+  },
+  {
+   "name": "Teresa de Lauretis",
+   "where": "Queer Theory, differences, 1991",
+   "note": "Coined the term 'queer theory'"
+  },
+  {
+   "name": "Michel Foucault",
+   "where": "The History of Sexuality, Vol. 1, 1976",
+   "note": "Discourse, power/knowledge, biopower"
+  },
+  {
+   "name": "Laura Mulvey",
+   "where": "Visual Pleasure and Narrative Cinema, 1975",
+   "note": "Male gaze in film theory"
+  },
+  {
+   "name": "Adrienne Rich",
+   "where": "Compulsory Heterosexuality and Lesbian Existence, 1980",
+   "note": "Lesbian continuum"
+  },
+  {
+   "name": "bell hooks",
+   "where": "Black Looks, 1992",
+   "note": "Oppositional gaze; race, gender, class"
+  },
+  {
+   "name": "Paul Gilroy",
+   "where": "The Black Atlantic, 1993",
+   "note": "Diaspora, race in British cultural studies"
+  },
+  {
+   "name": "William Rueckert",
+   "where": "Literature and Ecology, 1978",
+   "note": "Coined 'ecocriticism'"
+  },
+  {
+   "name": "Cheryll Glotfelty",
+   "where": "The Ecocriticism Reader, 1996",
+   "note": "Defined ecocriticism; co-founder of ASLE"
+  },
+  {
+   "name": "Lawrence Buell",
+   "where": "The Environmental Imagination, 1995",
+   "note": "Leading American ecocritic; waves of ecocriticism"
+  },
+  {
+   "name": "Jonathan Bate",
+   "where": "Romantic Ecology, 1991",
+   "note": "British ecocritic; Wordsworth"
+  },
+  {
+   "name": "Greg Garrard",
+   "where": "Ecocriticism, 2004",
+   "note": "Key textbook; tropes like pastoral and apocalypse"
+  },
+  {
+   "name": "Rachel Carson",
+   "where": "Silent Spring, 1962",
+   "note": "Environmental classic on pesticides"
+  },
+  {
+   "name": "Timothy Morton",
+   "where": "Ecology without Nature, 2007",
+   "note": "Dark ecology, hyperobjects"
+  },
+  {
+   "name": "Vandana Shiva",
+   "where": "Staying Alive, 1988",
+   "note": "Indian ecofeminist"
+  },
+  {
+   "name": "Amitav Ghosh",
+   "where": "The Great Derangement, 2016",
+   "note": "Climate change and literary imagination"
+  },
+  {
+   "name": "Marshall McLuhan",
+   "where": "Understanding Media, 1964",
+   "note": "Medium is the message; global village; hot and cool media"
+  },
+  {
+   "name": "Donna Haraway",
+   "where": "A Cyborg Manifesto, 1985",
+   "note": "Cyborg feminism, posthumanism"
+  },
+  {
+   "name": "Henry Jenkins",
+   "where": "Convergence Culture, 2006; Textual Poachers, 1992",
+   "note": "Fan studies, participatory culture, transmedia"
+  },
+  {
+   "name": "Manuel Castells",
+   "where": "The Rise of the Network Society, 1996",
+   "note": "Network society, information age"
+  },
+  {
+   "name": "Benedict Anderson",
+   "where": "Imagined Communities, 1983",
+   "note": "Nation as imagined community; print capitalism"
+  },
+  {
+   "name": "Ashis Nandy",
+   "where": "The Intimate Enemy, 1983",
+   "note": "Indian cultural critic; psychology of colonialism"
+  },
+  {
+   "name": "Arjun Appadurai",
+   "where": "Modernity at Large, 1996",
+   "note": "Ethnoscapes, mediascapes and other scapes"
+  },
+  {
+   "name": "Jonathan Dollimore",
+   "where": "Political Shakespeare, 1985 (with Sinfield)",
+   "note": "Cultural materialism; Radical Tragedy"
+  },
+  {
+   "name": "Alan Sinfield",
+   "where": "Political Shakespeare, 1985; Faultlines, 1992",
+   "note": "Cultural materialism; dissident reading"
+  }
+ ]
+}

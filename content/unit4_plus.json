@@ -1,0 +1,3141 @@
+{
+ "id": 4,
+ "pyq_focus": [
+  "Unit 4 se har paper mein 8-10 sawal aate hain, aur unseen prose passage bhi isi unit ka hissa maana jaata hai.",
+  "Sabse zyada pooche gaye naam: Bacon aur Samuel Johnson; uske baad Lamb, Hazlitt, Carlyle, Swift, Addison-Steele aur De Quincey.",
+  "17th century prose (Burton, Browne, Hobbes, Locke, Milton ke tracts, Pepys) pichhle kuch saalon mein bahut aaya hai - ise halke mein mat lo.",
+  "Sawal ka pattern: 'yeh quote kis essay ka hai', 'yeh essay kis collection mein hai', persona/pseudonym (Bickerstaff, Elia, Democritus Junior), aur saal.",
+  "Match-the-following mein author-work, periodical-editor aur persona-periodical pairs aate hain; chronology mein ek author ke 4 works ka order.",
+  "Victorian sages (Carlyle, Ruskin, Arnold, Newman, Mill, Pater) ke key terms yaad karo: cash nexus, pathetic fallacy, sweetness and light, gem-like flame.",
+  "Modern mein Woolf (Room of One's Own) aur Orwell (Politics and the English Language, Shooting an Elephant) almost har saal; Russell aur Strachey kabhi-kabhi.",
+  "Indian non-fiction: Gandhi, Nehru, Ambedkar, Tagore, Nirad Chaudhuri, Dalit autobiographies - title + saal + language yaad rakho.",
+  "Tayari ka tarika: har author ke 3-4 works saal ke saath ek line mein likho, 1-2 famous quotes ratto, aur roz 10 MCQ lagao.",
+  "American aur postcolonial prose (Emerson, Thoreau, Du Bois, Baldwin, Achebe, Atwood ki Survival) se bhi ek-do sawal aa jaate hain."
+ ],
+ "easy": [
+  {
+   "title": "The Essay: Origins and Francis Bacon",
+   "story": "Essay ka matlab hai 'koshish' - French shabd 'essai' se aaya. Montaigne ne 1580 mein apne mann ki baatein likhi, jaise koi diary mein dil khol de. Phir Francis Bacon aaya, jo dadaji ki tarah chhote-chhote gyaan bhare vaakya bolta tha. Jaise dadaji kehte hain 'padhai se aadmi pura banta hai', waise hi Bacon ne 'Of Studies' mein likha. Uske Essays teen baar chhape: 1597 mein 10, 1612 mein 38 aur 1625 mein 58. Isiliye Bacon ko English essay ka pita kehte hain.",
+   "trick": "10-38-58 = 'Das ka note, Adtees ki chai, Atthawan ki thali' - 1597, 1612, 1625. Idols ke liye 'TCMT': Tribe, Cave, Market, Theatre = 'Tau Chacha Mandi Theatre'."
+  },
+  {
+   "title": "Seventeenth-Century Prose: Browne, Burton, Walton and Others",
+   "story": "17vi sadi ke likhne wale bade bhaari, sajaavati vaakya likhte the, jaise shaadi ka card jismein bahut gold design ho. Thomas Browne ek doctor tha jisne 'Religio Medici' mein doctor ka dharm likha. Robert Burton ne udaasi (melancholy) par poori kitaab likh di aur apna naam rakha Democritus Junior. Izaak Walton ne machhli pakadne par baat-cheet wali kitaab likhi, The Compleat Angler. Hobbes ne kaha bina sarkar ke zindagi 'nasty, brutish and short' hoti hai.",
+   "trick": "Browne = 'Bhai doctor' (Religio Medici), Burton = 'Bura mood' (Melancholy 1621), Walton = 'Waah machhli' (Angler 1653), Hobbes = 'Hukoomat chahiye' (Leviathan 1651)."
+  },
+  {
+   "title": "Milton's Prose",
+   "story": "Milton sirf kavi nahi tha, usne bahut saare pamphlet bhi likhe. Usne apne gadya ko 'left hand' ka kaam kaha, matlab ulte haath ka kaam. 1643 mein sarkar ne niyam banaya ki koi bhi kitaab chhapne se pehle permission lo. Milton ko yeh bilkul pasand nahi aaya, jaise koi kahe ki WhatsApp message bhejne se pehle teacher se sign karwao. Isliye 1644 mein usne Areopagitica likha aur kaha ki achhi kitaab ko maarna 'reason' ko maarna hai.",
+   "trick": "'Areopagitica 1644 = 44 ka license nahi chahiye'. Divorce tracts 1643-45: 'Milton ki shaadi bigdi to talaak par likha'."
+  },
+  {
+   "title": "The Periodical Essay: Addison and Steele",
+   "story": "Socho 1709-1712 ke London mein log coffee-house mein baith kar roz ek chhota akhbaar padhte the. Steele ne The Tatler shuru kiya aur naam rakha Isaac Bickerstaff. Phir Addison ke saath milkar The Spectator nikala, jismein ek chup-chaap Mr. Spectator sab dekhta hai. Uske club mein gaon ke zamindar Sir Roger de Coverley aur vyapari Sir Andrew Freeport jaise log the. Addison ka maqsad tha ki philosophy library se nikal kar chai ki mez tak pahunche.",
+   "trick": "'Tatler = Teen (1709) Steele ka; Spectator = Spec lagake 1711 mein dono dekhte'. Sir Roger = gaon ka Tau (Tory), Freeport = Free trade wala seth (Whig)."
+  },
+  {
+   "title": "Samuel Johnson and Boswell",
+   "story": "Samuel Johnson ek bada vidwaan tha jisne akele 1755 mein English ki Dictionary bana di. Usne The Rambler aur The Idler jaise periodical bhi likhe. Usne Shakespeare ko 'poet of nature' kaha aur 52 kaviyon ki jeevaniyan likhi, Lives of the Poets. Uska ek dost tha James Boswell, jo saaye ki tarah peechhe chalta aur Johnson ki har baat diary mein likh leta. Usi se bani 1791 ki Life of Johnson, jise sabse mahaan English biography maana jaata hai.",
+   "trick": "'55 mein Dictionary, 65 mein Shakespeare, 75 mein Scotland, 79-81 mein Poets' - Johnson ka har 10 saal ka plan. Boswell = 'Bos ka Well-wisher', 1791."
+  },
+  {
+   "title": "Charles Lamb (Elia)",
+   "story": "Charles Lamb ek clerk tha jo office ke baad 'Elia' naam se pyaare, mazedaar essays likhta tha. Jaise koi chacha baithkar purani yaadein sunaye, waise hi Lamb apne bachpan aur parivaar ki baatein karta hai. 'Dream-Children' mein woh apne sapnon ke bachchon Alice aur John se baat karta hai, jo asal mein hain hi nahi. 'Roast Pig' mein China ka ek ladka Bo-bo galti se ghar jalaakar bhuna suar ka swaad dhoondh leta hai. Uski behen Mary essays mein 'Bridget Elia' bani hai.",
+   "trick": "'Elia ke do dabbe: 1823 pehla, 1833 aakhri (Last Essays)'. Roast Pig = 'Ho-ti Bo-bo, ghar jala, khaana bana'."
+  },
+  {
+   "title": "Romantic Essayists: Hazlitt, Leigh Hunt and De Quincey",
+   "story": "Romantic daur mein teen gadya-lekhak chamke. Hazlitt ko akele ghoomna pasand tha - 'On Going a Journey' mein kehta hai main akela safar karna chahta hoon. Usne 'The Spirit of the Age' mein apne zamane ke bade logon ki tasveerein banayi. De Quincey ne afeem khane ki aadat par 'Confessions of an English Opium-Eater' likhi, sapnon jaisi bhasha mein. Leigh Hunt ne The Examiner akhbaar chalaya aur Prince Regent ki burai par jail gaya.",
+   "trick": "Hazlitt = 'Hazrat akele Journey par', De Quincey = 'De Quincey ko de afeem' (1821-22), 'Knocking' = Macbeth ke darwaze pe thak-thak."
+  },
+  {
+   "title": "Thomas Carlyle",
+   "story": "Carlyle Scotland ka ek gussail sant jaisa lekhak tha, jise 'Sage of Chelsea' kehte hain. Usne kaha tumhara zamana machine ka zamana ban gaya hai. 'Sartor Resartus' mein ek ajeeb German professor Teufelsdrockh kapdon ki philosophy samjhaata hai - jaise kehna ki samaj ke rules bhi kapdon ki tarah badalte hain. Usne 'On Heroes' mein kaha duniya ka itihaas bade logon ki jeevani hai. Uski French Revolution ki pehli copy Mill ki naukrani ne galti se jala di thi.",
+   "trick": "Sartor ke teen padaav: 'Na - Beech - Haan' = Everlasting No, Centre of Indifference, Everlasting Yea. Heroes ke 6 roop: 'DPPPMK' = Divinity, Prophet, Poet, Priest, Man of Letters, King."
+  },
+  {
+   "title": "John Ruskin",
+   "story": "Ruskin pehle kala ka critic tha - usne painter Turner ka bachav karne ke liye Modern Painters likha. Usne 'pathetic fallacy' shabd banaya: jab kavi kehta hai 'aasmaan ro raha hai', to woh apni bhavna prakriti par daal raha hai. Phir woh arthshastra ki taraf mudda aur 'Unto This Last' mein bola 'There is no wealth but life'. Gandhiji ne yeh kitaab train mein padhi aur Gujarati mein 'Sarvodaya' bana diya. Uski aatmakatha ka naam Praeterita hai.",
+   "trick": "Ruskin ki ladder: 'Painters (1843) - Lamps (1849) - Stones (1851) - Unto (1860) - Sesame (1865) - Fors (1871) - Praeterita (1885)' = 'Paint, Lamp, Patthar, Paisa, Phool, Chitthi, Purani yaadein'."
+  },
+  {
+   "title": "Matthew Arnold's Prose Criticism",
+   "story": "Matthew Arnold ek school inspector aur kavi tha jo samaj ka 'culture doctor' banna chahta tha. Usne kaha criticism ka kaam hai duniya ki sabse achhi soch ko seekhna aur failana, bina swarth ke. 'Culture and Anarchy' mein usne samaj ko teen hisson mein baanta: Barbarians (raees), Philistines (madhyam varg) aur Populace (aam janta). Usne 'sweetness and light' Swift se udhaar liya. 'The Study of Poetry' mein usne kavita ko 'criticism of life' kaha.",
+   "trick": "'BPP' = 'Bade, Paise-wale, Public' = Barbarians, Philistines, Populace. Hebraism = 'Hukm maano', Hellenism = 'Hosh se socho'."
+  },
+  {
+   "title": "Walter Pater, Aestheticism and Wilde",
+   "story": "Walter Pater kehta tha zindagi ka har pal poori chamak se jiyo, 'hard, gem-like flame' ki tarah, jaise Diwali ka diya. Uski 'The Renaissance' (1873) ne naujawaanon ko 'art for art's sake' ki taraf khincha. Is soch ko Aestheticism kehte hain - kala ka kaam sirf sundar hona hai, upadesh dena nahi. Oscar Wilde iska sabse chamakdaar chela tha, jisne kaha 'Life imitates Art'. Jail mein Wilde ne lambi chitthi likhi jo De Profundis bani.",
+   "trick": "Pater = 'Patakha jaisi gem-like flame' (1873). Wilde ulta bolta hai: 'Zindagi kala ki nakal karti hai'."
+  },
+  {
+   "title": "Newman, Mill, Macaulay and Victorian Thought",
+   "story": "Victorian England mein dharm aur vigyan ki badi behas chal rahi thi. Newman ne Oxford Movement chalaya, phir Catholic ban gaya, aur jab Kingsley ne uski imaandari par sawal uthaya to Apologia Pro Vita Sua likhi. J. S. Mill ne On Liberty mein kaha ek aadmi ki alag raay ko bhi dabana galat hai. Macaulay ne 1835 ki Minute mein India mein English shiksha ki wakalat ki. Huxley aur Arnold mein behas hui ki science badi ya literature.",
+   "trick": "Newman = 'New Man' bana Catholic 1845. Mill ki 1859 = 'Liberty', 1869 = 'Ladies' (Subjection of Women). Macaulay = 'Minute 1835, ek shelf ki kahani'."
+  },
+  {
+   "title": "Virginia Woolf as Essayist",
+   "story": "Virginia Woolf ne poocha: ladkiyan bade lekhak kyun nahi bani? Uska jawab tha - paisa aur apna ek kamra chahiye, jahan koi disturb na kare. Isliye 'A Room of One's Own' (1929) likhi, jismein Shakespeare ki kalpanik behen Judith ki dukhbhari kahani hai. Usne kaha 1910 ke aas-paas insaan ka svabhaav badal gaya. Usne Bennett jaise purane novelists ko 'materialists' kaha jo sirf bahari cheezein dikhate hain. 'Professions for Women' mein usne ghar ki 'Angel in the House' ko maar daalne ki baat ki.",
+   "trick": "'Room 1929 = Rupaye + Room'. Judith = Shakespeare ki behen. 'December 1910 mein insaan badla' = 1910 = 'Unnees-Dus, sab badal-bas'."
+  },
+  {
+   "title": "Orwell, Russell and Other Modern Essayists",
+   "story": "George Orwell ka asli naam Eric Blair tha aur woh Bihar ke Motihari mein paida hua tha. Burma mein police officer banke usne angrezi raaj ki sachchai dekhi aur 'Shooting an Elephant' likha. 'Politics and the English Language' mein usne kaha seedhi, saaf bhasha likho, lambe shabd mat bharo. Bertrand Russell ek bada philosopher tha jise 1950 mein Literature ka Nobel mila. Usne kaha uski zindagi teen junoon par chali: pyaar, gyaan aur dukhiyon ke liye dard.",
+   "trick": "Orwell ke 6 rules ko 'Chhota likho, kaato, active bolo' yaad rakho. Russell ke 3 passions = 'Pyaar, Padhai, Peeda'."
+  },
+  {
+   "title": "Indian Non-Fiction: Gandhi, Nehru and Ambedkar",
+   "story": "Gandhiji ne 1909 mein jahaz par baithkar 'Hind Swaraj' likhi - ek Reader aur Editor ki baat-cheet, jismein modern civilisation ki aalochana hai. Unki aatmakatha 'Satya ke Prayog' Gujarati mein likhi gayi aur Mahadev Desai ne English mein laaye. Nehru ne jail mein baithkar beti Indira ko chitthiyan likhi aur 'The Discovery of India' likhi. Ambedkar ne 1936 mein 'Annihilation of Caste' likha - ek bhashan jo kabhi diya hi nahi gaya. Unhone kaha jaati ek deewar nahi, mann ki soch hai.",
+   "trick": "'Gandhi 09, Nehru 46, Ambedkar 36' = 'Gaadi 9 baje, Netaji 46 mein azaad, Ambedkar 36 mein bhashan'. Hind Swaraj = Kildonan Castle jahaz."
+  },
+  {
+   "title": "Indian Non-Fiction: Tagore, Sen and Other Voices",
+   "story": "Tagore ne sirf Gitanjali nahi, English mein bhaashan aur nibandh bhi likhe. 'Nationalism' (1917) mein unhone kaha Western nation-state ek machine ki tarah insaaniyat ko kuchal deti hai. Amartya Sen ne 'The Argumentative Indian' mein bataya ki Bharat mein behas karne ki purani parampara hai. Nirad C. Chaudhuri ne apni aatmakatha British Empire ki yaad ko samarpit kar di. Dalit lekhakon jaise Bama aur Omprakash Valmiki ne apni peeda ki sachchi kahaniyan likhi.",
+   "trick": "Tagore = '1917 Nationalism, 1941 Crisis'. Sen = 'Sen saab behas karte' (Argumentative 2005). Joothan = Hindi 1997, Karukku = Tamil 1992."
+  },
+  {
+   "title": "Biography, Autobiography and Diary",
+   "story": "Biography matlab kisi aur ki zindagi likhna, autobiography matlab apni khud ki. Boswell ne Johnson ki zindagi aise likhi jaise koi best friend sab raaz jaanta ho. 1918 mein Lytton Strachey ne 'Eminent Victorians' mein bade logon ka mazaak udaya, ise 'new biography' kaha gaya. Diary mein log roz ki baatein likhte hain - Samuel Pepys ne 1660-69 ki diary code bhasha mein likhi. Saint ki jeevani ko hagiography kehte hain.",
+   "trick": "'Bio = doosre ki, Auto = apni, Diary = roz ki'. Pepys = 'Peeps' karke chupke se shorthand mein likhta tha (1825 mein chhapi)."
+  },
+  {
+   "title": "Travel Writing and Periodicals",
+   "story": "Travel writing yaani safar ki kahani, jaise koi Goa trip se aakar sabko vlog dikhaye. Purani 'Travels of Sir John Mandeville' mein aadhi baatein kalpanik thi. Kinglake ne 'Eothen' mein Turkey-Middle East ki yatra likhi aur Naipaul ne India par 'An Area of Darkness' likhi. Saath hi 19vi sadi mein magazines ka zamana tha: Edinburgh Review, Quarterly Review, Blackwood's. Inhi patrikaon mein Lamb, Hazlitt aur De Quincey chhape aur inhone Keats jaise kaviyon ki burai bhi ki.",
+   "trick": "Review ka order: 'Edinburgh 1802, Quarterly 1809, Blackwood's 1817, London 1820' = 'E-Q-B-L = Eat Quick Bread Loaf'."
+  }
+ ],
+ "works": [
+  {
+   "author": "Bede",
+   "work": "Ecclesiastical History of the English People",
+   "year": "731",
+   "type": "history (Latin)",
+   "note": "Father of English History; tells the story of Caedmon"
+  },
+  {
+   "author": "Julian of Norwich",
+   "work": "Revelations of Divine Love",
+   "year": "late 14th century",
+   "type": "mystical prose",
+   "note": "Earliest surviving book in English by a woman"
+  },
+  {
+   "author": "Margery Kempe",
+   "work": "The Book of Margery Kempe",
+   "year": "c. 1430s",
+   "type": "autobiography",
+   "note": "Earliest autobiography in English; manuscript rediscovered 1934"
+  },
+  {
+   "author": "Sir John Mandeville",
+   "work": "The Travels of Sir John Mandeville",
+   "year": "c. 1357",
+   "type": "travel book",
+   "note": "Largely fictional travels; hugely popular medieval travel book"
+  },
+  {
+   "author": "William Tyndale",
+   "work": "The New Testament in English",
+   "year": "1526",
+   "type": "Bible translation",
+   "note": "First printed English New Testament; basis of King James Version"
+  },
+  {
+   "author": "Thomas Cranmer",
+   "work": "The Book of Common Prayer",
+   "year": "1549",
+   "type": "liturgy",
+   "note": "Cranmer's prose shaped the English Church's language"
+  },
+  {
+   "author": "Committee of 47 scholars (Authorized Version)",
+   "work": "The Authorised (King James) Version",
+   "year": "1611",
+   "type": "Bible translation",
+   "note": "Greatest influence on English prose rhythm"
+  },
+  {
+   "author": "Thomas More",
+   "work": "Utopia",
+   "year": "1516",
+   "type": "political fiction (Latin)",
+   "note": "Raphael Hythloday; English translation by Ralph Robinson 1551"
+  },
+  {
+   "author": "Thomas Elyot",
+   "work": "The Boke Named the Governour",
+   "year": "1531",
+   "type": "treatise",
+   "note": "Education of the governing class; humanist prose"
+  },
+  {
+   "author": "Roger Ascham",
+   "work": "Toxophilus",
+   "year": "1545",
+   "type": "treatise (dialogue)",
+   "note": "Treatise on archery written in English"
+  },
+  {
+   "author": "Roger Ascham",
+   "work": "The Scholemaster",
+   "year": "1570",
+   "type": "treatise",
+   "note": "Posthumous; humanist education, attacks Italianate Englishman"
+  },
+  {
+   "author": "Thomas Hoby",
+   "work": "The Courtier (translation of Castiglione)",
+   "year": "1561",
+   "type": "translation",
+   "note": "Ideal Renaissance gentleman; sprezzatura"
+  },
+  {
+   "author": "Thomas North",
+   "work": "Lives of the Noble Grecians and Romans (Plutarch)",
+   "year": "1579",
+   "type": "translation",
+   "note": "Shakespeare's source for his Roman plays"
+  },
+  {
+   "author": "John Lyly",
+   "work": "Euphues: The Anatomy of Wit",
+   "year": "1578",
+   "type": "prose romance",
+   "note": "Gave the ornate style called Euphuism"
+  },
+  {
+   "author": "Michel de Montaigne",
+   "work": "Essais",
+   "year": "1580",
+   "type": "essays (French)",
+   "note": "Gave the essay its name: essai = attempt"
+  },
+  {
+   "author": "John Florio",
+   "work": "The Essayes of Montaigne (translation)",
+   "year": "1603",
+   "type": "translation",
+   "note": "First English Montaigne; Shakespeare used it in The Tempest"
+  },
+  {
+   "author": "Richard Hooker",
+   "work": "Of the Laws of Ecclesiastical Polity",
+   "year": "1594-97",
+   "type": "religious treatise",
+   "note": "Defence of Elizabethan Church settlement; judicious Ciceronian prose"
+  },
+  {
+   "author": "Richard Hakluyt",
+   "work": "The Principal Navigations",
+   "year": "1589",
+   "type": "travel collection",
+   "note": "Called the prose epic of the English nation"
+  },
+  {
+   "author": "Francis Bacon",
+   "work": "Essays",
+   "year": "1597; 1612; 1625",
+   "type": "essays",
+   "note": "10, 38, 58 essays; father of English essay"
+  },
+  {
+   "author": "Francis Bacon",
+   "work": "The Advancement of Learning",
+   "year": "1605",
+   "type": "philosophical treatise",
+   "note": "Survey of knowledge, in English, dedicated to James I"
+  },
+  {
+   "author": "Francis Bacon",
+   "work": "Novum Organum",
+   "year": "1620",
+   "type": "philosophical treatise (Latin)",
+   "note": "Inductive method; four Idols of the mind"
+  },
+  {
+   "author": "Francis Bacon",
+   "work": "The History of the Reign of King Henry VII",
+   "year": "1622",
+   "type": "history",
+   "note": "Bacon's history written after his fall from office"
+  },
+  {
+   "author": "Francis Bacon",
+   "work": "New Atlantis",
+   "year": "1627",
+   "type": "utopia",
+   "note": "Posthumous; island of Bensalem and Salomon's House"
+  },
+  {
+   "author": "King James I",
+   "work": "A Counterblaste to Tobacco",
+   "year": "1604",
+   "type": "pamphlet",
+   "note": "Royal attack on smoking"
+  },
+  {
+   "author": "Robert Cawdrey",
+   "work": "A Table Alphabeticall",
+   "year": "1604",
+   "type": "dictionary",
+   "note": "First monolingual English dictionary of hard words"
+  },
+  {
+   "author": "Thomas Dekker",
+   "work": "The Gull's Hornbook",
+   "year": "1609",
+   "type": "satirical prose",
+   "note": "Mock guide to behaviour of a London gallant"
+  },
+  {
+   "author": "Joseph Hall",
+   "work": "Characters of Vertues and Vices",
+   "year": "1608",
+   "type": "character writing",
+   "note": "First English Theophrastan character book"
+  },
+  {
+   "author": "Sir Thomas Overbury",
+   "work": "Characters",
+   "year": "1614",
+   "type": "character writing",
+   "note": "Character sketches, posthumously popular"
+  },
+  {
+   "author": "John Earle",
+   "work": "Micro-cosmographie",
+   "year": "1628",
+   "type": "character writing",
+   "note": "Witty Theophrastan characters of social types"
+  },
+  {
+   "author": "Sir Walter Raleigh",
+   "work": "The History of the World",
+   "year": "1614",
+   "type": "history",
+   "note": "Written in the Tower; famous apostrophe to Death"
+  },
+  {
+   "author": "John Donne",
+   "work": "Devotions upon Emergent Occasions",
+   "year": "1624",
+   "type": "devotional prose",
+   "note": "'No man is an island'; 'for whom the bell tolls'"
+  },
+  {
+   "author": "Robert Burton",
+   "work": "The Anatomy of Melancholy",
+   "year": "1621",
+   "type": "treatise",
+   "note": "Pseudonym Democritus Junior; encyclopaedic study of melancholy"
+  },
+  {
+   "author": "Sir Thomas Browne",
+   "work": "Religio Medici",
+   "year": "1643",
+   "type": "confessional prose",
+   "note": "Religion of a physician; pirated edition 1642"
+  },
+  {
+   "author": "Sir Thomas Browne",
+   "work": "Pseudodoxia Epidemica",
+   "year": "1646",
+   "type": "treatise",
+   "note": "Also called Vulgar Errors; examines popular false beliefs"
+  },
+  {
+   "author": "Sir Thomas Browne",
+   "work": "Hydriotaphia, Urn-Burial",
+   "year": "1658",
+   "type": "meditative essay",
+   "note": "Burial urns found in Norfolk; baroque meditation on death"
+  },
+  {
+   "author": "Sir Thomas Browne",
+   "work": "The Garden of Cyrus",
+   "year": "1658",
+   "type": "treatise",
+   "note": "Quincunx pattern in art and nature"
+  },
+  {
+   "author": "John Milton",
+   "work": "Of Reformation",
+   "year": "1641",
+   "type": "anti-prelatical tract",
+   "note": "Milton's first prose tract, against bishops"
+  },
+  {
+   "author": "John Milton",
+   "work": "The Reason of Church-Government",
+   "year": "1642",
+   "type": "tract",
+   "note": "Calls prose his 'left hand'; announces epic ambition"
+  },
+  {
+   "author": "John Milton",
+   "work": "The Doctrine and Discipline of Divorce",
+   "year": "1643",
+   "type": "tract",
+   "note": "Argues for divorce on grounds of incompatibility"
+  },
+  {
+   "author": "John Milton",
+   "work": "Of Education",
+   "year": "1644",
+   "type": "tract",
+   "note": "Addressed to Samuel Hartlib"
+  },
+  {
+   "author": "John Milton",
+   "work": "Areopagitica",
+   "year": "1644",
+   "type": "prose oration (pamphlet)",
+   "note": "Against the 1643 Licensing Order; freedom of the press"
+  },
+  {
+   "author": "John Milton",
+   "work": "The Tenure of Kings and Magistrates",
+   "year": "1649",
+   "type": "tract",
+   "note": "Defends right of people to depose a tyrant"
+  },
+  {
+   "author": "John Milton",
+   "work": "Eikonoklastes",
+   "year": "1649",
+   "type": "tract",
+   "note": "Reply to Eikon Basilike"
+  },
+  {
+   "author": "Izaak Walton",
+   "work": "The Compleat Angler",
+   "year": "1653",
+   "type": "dialogue",
+   "note": "'The Contemplative Man's Recreation'; Piscator, Venator, Auceps"
+  },
+  {
+   "author": "Jeremy Taylor",
+   "work": "Holy Living",
+   "year": "1650",
+   "type": "devotional prose",
+   "note": "Called 'Shakespeare of divines'"
+  },
+  {
+   "author": "Jeremy Taylor",
+   "work": "Holy Dying",
+   "year": "1651",
+   "type": "devotional prose",
+   "note": "Companion to Holy Living"
+  },
+  {
+   "author": "Thomas Fuller",
+   "work": "The History of the Worthies of England",
+   "year": "1662",
+   "type": "biographical history",
+   "note": "Posthumous; county-wise lives of notable English people"
+  },
+  {
+   "author": "Thomas Hobbes",
+   "work": "Leviathan",
+   "year": "1651",
+   "type": "political philosophy",
+   "note": "Life 'solitary, poor, nasty, brutish, and short'; social contract"
+  },
+  {
+   "author": "Gerrard Winstanley",
+   "work": "The Law of Freedom",
+   "year": "1652",
+   "type": "political tract",
+   "note": "Digger leader's communist commonwealth plan"
+  },
+  {
+   "author": "Margaret Cavendish",
+   "work": "The Blazing World",
+   "year": "1666",
+   "type": "prose fiction / utopia",
+   "note": "Early science-fiction utopia by a woman"
+  },
+  {
+   "author": "John Bunyan",
+   "work": "Grace Abounding to the Chief of Sinners",
+   "year": "1666",
+   "type": "spiritual autobiography",
+   "note": "Bunyan's conversion story"
+  },
+  {
+   "author": "John Bunyan",
+   "work": "The Pilgrim's Progress",
+   "year": "1678",
+   "type": "prose allegory",
+   "note": "Christian's journey to the Celestial City"
+  },
+  {
+   "author": "Samuel Pepys",
+   "work": "Diary",
+   "year": "1660-69 (published 1825)",
+   "type": "diary",
+   "note": "Shorthand diary; Great Plague and Great Fire of London"
+  },
+  {
+   "author": "John Evelyn",
+   "work": "Sylva",
+   "year": "1664",
+   "type": "treatise",
+   "note": "On forest trees; Evelyn's Diary published 1818"
+  },
+  {
+   "author": "Thomas Sprat",
+   "work": "The History of the Royal Society",
+   "year": "1667",
+   "type": "history",
+   "note": "Praises plain style, 'mathematical plainness'"
+  },
+  {
+   "author": "John Dryden",
+   "work": "An Essay of Dramatic Poesy",
+   "year": "1668",
+   "type": "critical dialogue",
+   "note": "Speakers Crites, Eugenius, Lisideius, Neander"
+  },
+  {
+   "author": "John Locke",
+   "work": "An Essay Concerning Human Understanding",
+   "year": "1690",
+   "type": "philosophy",
+   "note": "Mind at birth like 'white paper' (tabula rasa)"
+  },
+  {
+   "author": "John Locke",
+   "work": "Two Treatises of Government",
+   "year": "1690",
+   "type": "political philosophy",
+   "note": "Natural rights: life, liberty and property"
+  },
+  {
+   "author": "John Locke",
+   "work": "Some Thoughts Concerning Education",
+   "year": "1693",
+   "type": "treatise",
+   "note": "Influential Enlightenment work on education"
+  },
+  {
+   "author": "Sir William Temple",
+   "work": "An Essay upon the Ancient and Modern Learning",
+   "year": "1690",
+   "type": "essay",
+   "note": "Triggered Ancients vs Moderns quarrel; Swift's patron"
+  },
+  {
+   "author": "Earl of Clarendon",
+   "work": "The History of the Rebellion",
+   "year": "1702-04",
+   "type": "history",
+   "note": "Royalist history of the Civil War; character portraits"
+  },
+  {
+   "author": "Lucy Hutchinson",
+   "work": "Memoirs of the Life of Colonel Hutchinson",
+   "year": "1806",
+   "type": "biography",
+   "note": "Wife's biography of a Parliamentarian; published posthumously"
+  },
+  {
+   "author": "Daniel Defoe",
+   "work": "An Essay upon Projects",
+   "year": "1697",
+   "type": "essay",
+   "note": "Proposals incl. an academy for women"
+  },
+  {
+   "author": "Daniel Defoe",
+   "work": "The Shortest-Way with the Dissenters",
+   "year": "1702",
+   "type": "ironic pamphlet",
+   "note": "Irony misread; Defoe pilloried"
+  },
+  {
+   "author": "Daniel Defoe",
+   "work": "A Tour thro' the Whole Island of Great Britain",
+   "year": "1724-27",
+   "type": "travel book",
+   "note": "Survey of Britain's economy and towns"
+  },
+  {
+   "author": "Jonathan Swift",
+   "work": "A Tale of a Tub",
+   "year": "1704",
+   "type": "prose satire",
+   "note": "Satire on religion through three brothers Peter, Martin, Jack"
+  },
+  {
+   "author": "Jonathan Swift",
+   "work": "The Battle of the Books",
+   "year": "1704",
+   "type": "prose satire",
+   "note": "Ancients vs Moderns; spider and bee; 'sweetness and light'"
+  },
+  {
+   "author": "Jonathan Swift",
+   "work": "The Drapier's Letters",
+   "year": "1724",
+   "type": "pamphlets",
+   "note": "Persona M. B. Drapier against Wood's halfpence"
+  },
+  {
+   "author": "Jonathan Swift",
+   "work": "A Modest Proposal",
+   "year": "1729",
+   "type": "satirical pamphlet",
+   "note": "Ironic proposal to eat Irish children"
+  },
+  {
+   "author": "Richard Steele",
+   "work": "The Tatler",
+   "year": "1709-11",
+   "type": "periodical",
+   "note": "Persona Isaac Bickerstaff; 271 numbers"
+  },
+  {
+   "author": "Joseph Addison and Richard Steele",
+   "work": "The Spectator",
+   "year": "1711-12; 1714",
+   "type": "periodical",
+   "note": "Mr. Spectator, Sir Roger de Coverley; 555 numbers"
+  },
+  {
+   "author": "Richard Steele and Joseph Addison",
+   "work": "The Guardian",
+   "year": "1713",
+   "type": "periodical",
+   "note": "Persona Nestor Ironside"
+  },
+  {
+   "author": "Joseph Addison",
+   "work": "The Pleasures of the Imagination",
+   "year": "1712",
+   "type": "essay series",
+   "note": "Spectator Nos. 411-421; early English aesthetics"
+  },
+  {
+   "author": "Earl of Shaftesbury",
+   "work": "Characteristicks of Men, Manners, Opinions, Times",
+   "year": "1711",
+   "type": "philosophical essays",
+   "note": "Moral sense and taste; influential on aesthetics"
+  },
+  {
+   "author": "Bernard Mandeville",
+   "work": "The Fable of the Bees",
+   "year": "1714",
+   "type": "satire / treatise",
+   "note": "Subtitle 'Private Vices, Publick Benefits'"
+  },
+  {
+   "author": "George Berkeley",
+   "work": "A Treatise Concerning the Principles of Human Knowledge",
+   "year": "1710",
+   "type": "philosophy",
+   "note": "Idealism: 'esse est percipi'"
+  },
+  {
+   "author": "David Hume",
+   "work": "A Treatise of Human Nature",
+   "year": "1739-40",
+   "type": "philosophy",
+   "note": "Hume said it 'fell dead-born from the press'"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "Life of Mr Richard Savage",
+   "year": "1744",
+   "type": "biography",
+   "note": "Life of his poet friend; early critical biography"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "The Rambler",
+   "year": "1750-52",
+   "type": "periodical",
+   "note": "208 numbers, almost all by Johnson"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "A Dictionary of the English Language",
+   "year": "1755",
+   "type": "dictionary",
+   "note": "Lexicographer 'a harmless drudge'; letter to Chesterfield"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "The Idler",
+   "year": "1758-60",
+   "type": "periodical essays",
+   "note": "Appeared in the Universal Chronicle"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "Rasselas, Prince of Abyssinia",
+   "year": "1759",
+   "type": "philosophical tale",
+   "note": "Happy Valley; written to pay for mother's funeral"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "Preface to Shakespeare",
+   "year": "1765",
+   "type": "critical essay",
+   "note": "Shakespeare 'the poet of nature'; rejects unities of time and place"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "A Journey to the Western Islands of Scotland",
+   "year": "1775",
+   "type": "travel book",
+   "note": "From 1773 Hebrides tour with Boswell"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "Lives of the Poets",
+   "year": "1779-81",
+   "type": "critical biography",
+   "note": "52 lives; metaphysical wit in Life of Cowley"
+  },
+  {
+   "author": "James Boswell",
+   "work": "An Account of Corsica",
+   "year": "1768",
+   "type": "travel book",
+   "note": "Made Boswell famous; portrait of Pasquale Paoli"
+  },
+  {
+   "author": "James Boswell",
+   "work": "The Journal of a Tour to the Hebrides",
+   "year": "1785",
+   "type": "travel journal",
+   "note": "Record of 1773 tour with Johnson"
+  },
+  {
+   "author": "James Boswell",
+   "work": "The Life of Samuel Johnson",
+   "year": "1791",
+   "type": "biography",
+   "note": "Often called the greatest English biography"
+  },
+  {
+   "author": "Oliver Goldsmith",
+   "work": "The Citizen of the World",
+   "year": "1762",
+   "type": "periodical letters",
+   "note": "Chinese philosopher Lien Chi Altangi; Beau Tibbs"
+  },
+  {
+   "author": "Lord Chesterfield",
+   "work": "Letters to His Son",
+   "year": "1774",
+   "type": "letters",
+   "note": "Worldly advice to his son Philip Stanhope"
+  },
+  {
+   "author": "Lady Mary Wortley Montagu",
+   "work": "Turkish Embassy Letters",
+   "year": "1763",
+   "type": "travel letters",
+   "note": "Ottoman life; smallpox inoculation"
+  },
+  {
+   "author": "Laurence Sterne",
+   "work": "A Sentimental Journey through France and Italy",
+   "year": "1768",
+   "type": "travel narrative",
+   "note": "Narrator Yorick; sentimental travel"
+  },
+  {
+   "author": "Edmund Burke",
+   "work": "A Philosophical Enquiry into the Sublime and Beautiful",
+   "year": "1757",
+   "type": "aesthetic treatise",
+   "note": "Sublime rooted in terror; beauty in love"
+  },
+  {
+   "author": "Edmund Burke",
+   "work": "Reflections on the Revolution in France",
+   "year": "1790",
+   "type": "political prose",
+   "note": "'The age of chivalry is gone'; conservative classic"
+  },
+  {
+   "author": "Thomas Paine",
+   "work": "Common Sense",
+   "year": "1776",
+   "type": "pamphlet",
+   "note": "Argued for American independence"
+  },
+  {
+   "author": "Thomas Paine",
+   "work": "Rights of Man",
+   "year": "1791-92",
+   "type": "political prose",
+   "note": "Reply to Burke's Reflections"
+  },
+  {
+   "author": "Mary Wollstonecraft",
+   "work": "A Vindication of the Rights of Men",
+   "year": "1790",
+   "type": "political prose",
+   "note": "One of the first replies to Burke"
+  },
+  {
+   "author": "Mary Wollstonecraft",
+   "work": "A Vindication of the Rights of Woman",
+   "year": "1792",
+   "type": "political prose",
+   "note": "Foundational feminist text; education for women"
+  },
+  {
+   "author": "William Godwin",
+   "work": "An Enquiry Concerning Political Justice",
+   "year": "1793",
+   "type": "political philosophy",
+   "note": "Philosophical anarchism; influenced Shelley"
+  },
+  {
+   "author": "Adam Smith",
+   "work": "The Wealth of Nations",
+   "year": "1776",
+   "type": "economics",
+   "note": "Division of labour; 'invisible hand'"
+  },
+  {
+   "author": "Edward Gibbon",
+   "work": "The History of the Decline and Fall of the Roman Empire",
+   "year": "1776-88",
+   "type": "history",
+   "note": "Six volumes; ironic Augustan style"
+  },
+  {
+   "author": "Edward Gibbon",
+   "work": "Memoirs of My Life",
+   "year": "1796",
+   "type": "autobiography",
+   "note": "Posthumous; conceived history amid ruins of the Capitol, 1764"
+  },
+  {
+   "author": "Jeremy Bentham",
+   "work": "An Introduction to the Principles of Morals and Legislation",
+   "year": "1789",
+   "type": "philosophy",
+   "note": "Utilitarian 'felicific calculus'"
+  },
+  {
+   "author": "Gilbert White",
+   "work": "The Natural History of Selborne",
+   "year": "1789",
+   "type": "natural history letters",
+   "note": "Classic English nature writing"
+  },
+  {
+   "author": "Olaudah Equiano",
+   "work": "The Interesting Narrative of the Life of Olaudah Equiano",
+   "year": "1789",
+   "type": "slave narrative",
+   "note": "Also called Gustavus Vassa; abolitionist landmark"
+  },
+  {
+   "author": "Thomas Malthus",
+   "work": "An Essay on the Principle of Population",
+   "year": "1798",
+   "type": "treatise",
+   "note": "Population grows faster than food supply"
+  },
+  {
+   "author": "Jean-Jacques Rousseau",
+   "work": "Confessions",
+   "year": "1782-89",
+   "type": "autobiography",
+   "note": "Model of the secular confessional autobiography"
+  },
+  {
+   "author": "Sake Dean Mahomet",
+   "work": "The Travels of Dean Mahomet",
+   "year": "1794",
+   "type": "travel narrative",
+   "note": "First book written in English by an Indian"
+  },
+  {
+   "author": "Charles Lamb",
+   "work": "Tales from Shakespeare",
+   "year": "1807",
+   "type": "children's prose",
+   "note": "Written with sister Mary Lamb"
+  },
+  {
+   "author": "Charles Lamb",
+   "work": "Essays of Elia",
+   "year": "1823",
+   "type": "familiar essays",
+   "note": "Dream-Children, Roast Pig, The South-Sea House"
+  },
+  {
+   "author": "Charles Lamb",
+   "work": "The Last Essays of Elia",
+   "year": "1833",
+   "type": "familiar essays",
+   "note": "Old China, The Superannuated Man, Poor Relations"
+  },
+  {
+   "author": "William Hazlitt",
+   "work": "The Round Table",
+   "year": "1817",
+   "type": "essays",
+   "note": "With Leigh Hunt; includes 'On Gusto'"
+  },
+  {
+   "author": "William Hazlitt",
+   "work": "Characters of Shakespear's Plays",
+   "year": "1817",
+   "type": "criticism",
+   "note": "Dedicated to Lamb; Romantic character criticism"
+  },
+  {
+   "author": "William Hazlitt",
+   "work": "Table-Talk",
+   "year": "1821-22",
+   "type": "essays",
+   "note": "'On Going a Journey', 'The Indian Jugglers', 'On Familiar Style'"
+  },
+  {
+   "author": "William Hazlitt",
+   "work": "Liber Amoris",
+   "year": "1823",
+   "type": "confessional prose",
+   "note": "His infatuation with Sarah Walker"
+  },
+  {
+   "author": "William Hazlitt",
+   "work": "The Spirit of the Age",
+   "year": "1825",
+   "type": "portrait essays",
+   "note": "Portraits of Bentham, Godwin, Coleridge, Wordsworth and others"
+  },
+  {
+   "author": "William Hazlitt",
+   "work": "The Plain Speaker",
+   "year": "1826",
+   "type": "essays",
+   "note": "Includes 'On the Prose Style of Poets'"
+  },
+  {
+   "author": "Thomas De Quincey",
+   "work": "Confessions of an English Opium-Eater",
+   "year": "1821 (book 1822)",
+   "type": "autobiographical prose",
+   "note": "Ann of Oxford Street; opium dreams; revised 1856"
+  },
+  {
+   "author": "Thomas De Quincey",
+   "work": "On the Knocking at the Gate in Macbeth",
+   "year": "1823",
+   "type": "critical essay",
+   "note": "Knocking restores the human world after murder"
+  },
+  {
+   "author": "Thomas De Quincey",
+   "work": "On Murder Considered as One of the Fine Arts",
+   "year": "1827",
+   "type": "satirical essay",
+   "note": "Ironic aesthetic appraisal of murder"
+  },
+  {
+   "author": "Thomas De Quincey",
+   "work": "Suspiria de Profundis",
+   "year": "1845",
+   "type": "impassioned prose",
+   "note": "Levana and Our Ladies of Sorrow"
+  },
+  {
+   "author": "Thomas De Quincey",
+   "work": "The English Mail-Coach",
+   "year": "1849",
+   "type": "impassioned prose",
+   "note": "'The Vision of Sudden Death', 'Dream-Fugue'"
+  },
+  {
+   "author": "Leigh Hunt",
+   "work": "Autobiography",
+   "year": "1850",
+   "type": "autobiography",
+   "note": "Editor of The Examiner; friend of Keats and Shelley"
+  },
+  {
+   "author": "Walter Savage Landor",
+   "work": "Imaginary Conversations",
+   "year": "1824-29",
+   "type": "prose dialogues",
+   "note": "Imagined dialogues between historical figures"
+  },
+  {
+   "author": "S. T. Coleridge",
+   "work": "Biographia Literaria",
+   "year": "1817",
+   "type": "critical autobiography",
+   "note": "Fancy vs imagination; 'willing suspension of disbelief'"
+  },
+  {
+   "author": "Thomas Love Peacock",
+   "work": "The Four Ages of Poetry",
+   "year": "1820",
+   "type": "essay",
+   "note": "Provoked Shelley's 'A Defence of Poetry'"
+  },
+  {
+   "author": "William Cobbett",
+   "work": "Rural Rides",
+   "year": "1830",
+   "type": "travel journalism",
+   "note": "Radical's rides through rural England"
+  },
+  {
+   "author": "T. B. Macaulay",
+   "work": "Essay on Milton",
+   "year": "1825",
+   "type": "essay",
+   "note": "Edinburgh Review essay that made him famous"
+  },
+  {
+   "author": "T. B. Macaulay",
+   "work": "Minute on Indian Education",
+   "year": "1835",
+   "type": "official minute",
+   "note": "English education in India; 'a single shelf' remark"
+  },
+  {
+   "author": "T. B. Macaulay",
+   "work": "The History of England",
+   "year": "1848-61",
+   "type": "history",
+   "note": "Classic Whig interpretation of history"
+  },
+  {
+   "author": "Thomas Carlyle",
+   "work": "Signs of the Times",
+   "year": "1829",
+   "type": "essay",
+   "note": "Calls his age 'the Mechanical Age'"
+  },
+  {
+   "author": "Thomas Carlyle",
+   "work": "Sartor Resartus",
+   "year": "1833-34",
+   "type": "philosophical fiction",
+   "note": "Teufelsdrockh; philosophy of clothes; Everlasting Yea"
+  },
+  {
+   "author": "Thomas Carlyle",
+   "work": "The French Revolution: A History",
+   "year": "1837",
+   "type": "history",
+   "note": "First manuscript burnt at Mill's house"
+  },
+  {
+   "author": "Thomas Carlyle",
+   "work": "On Heroes, Hero-Worship and the Heroic in History",
+   "year": "1841",
+   "type": "lectures",
+   "note": "'History of the world is biography of great men'"
+  },
+  {
+   "author": "Thomas Carlyle",
+   "work": "Past and Present",
+   "year": "1843",
+   "type": "social criticism",
+   "note": "Abbot Samson; 'cash nexus'; Condition-of-England"
+  },
+  {
+   "author": "John Henry Newman",
+   "work": "The Idea of a University",
+   "year": "1852; 1873",
+   "type": "discourses",
+   "note": "Liberal knowledge its own end; definition of a gentleman"
+  },
+  {
+   "author": "John Henry Newman",
+   "work": "Apologia Pro Vita Sua",
+   "year": "1864",
+   "type": "spiritual autobiography",
+   "note": "Reply to Charles Kingsley"
+  },
+  {
+   "author": "J. S. Mill",
+   "work": "On Liberty",
+   "year": "1859",
+   "type": "political philosophy",
+   "note": "Harm principle; freedom of thought and discussion"
+  },
+  {
+   "author": "J. S. Mill",
+   "work": "The Subjection of Women",
+   "year": "1869",
+   "type": "political essay",
+   "note": "Argues for legal equality of the sexes"
+  },
+  {
+   "author": "J. S. Mill",
+   "work": "Autobiography",
+   "year": "1873",
+   "type": "autobiography",
+   "note": "Mental crisis of 1826 healed by Wordsworth's poetry"
+  },
+  {
+   "author": "John Ruskin",
+   "work": "Modern Painters",
+   "year": "1843-60",
+   "type": "art criticism",
+   "note": "Defence of Turner; coins 'pathetic fallacy'"
+  },
+  {
+   "author": "John Ruskin",
+   "work": "The Stones of Venice",
+   "year": "1851-53",
+   "type": "art history",
+   "note": "Contains 'The Nature of Gothic'"
+  },
+  {
+   "author": "John Ruskin",
+   "work": "Unto This Last",
+   "year": "1860 (book 1862)",
+   "type": "essays on economics",
+   "note": "'There is no wealth but life'; Gandhi's Sarvodaya"
+  },
+  {
+   "author": "John Ruskin",
+   "work": "Sesame and Lilies",
+   "year": "1865",
+   "type": "lectures",
+   "note": "'Of Kings' Treasuries' and 'Of Queens' Gardens'"
+  },
+  {
+   "author": "John Ruskin",
+   "work": "Praeterita",
+   "year": "1885-89",
+   "type": "autobiography",
+   "note": "Unfinished autobiography"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "On Translating Homer",
+   "year": "1861",
+   "type": "lectures",
+   "note": "Homer rapid, plain and direct, noble"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "Essays in Criticism, First Series",
+   "year": "1865",
+   "type": "critical essays",
+   "note": "Opens with 'The Function of Criticism at the Present Time'"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "Culture and Anarchy",
+   "year": "1869",
+   "type": "social criticism",
+   "note": "Sweetness and light; Barbarians, Philistines, Populace"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "The Study of Poetry",
+   "year": "1880",
+   "type": "critical essay",
+   "note": "Touchstones; poetry a 'criticism of life'"
+  },
+  {
+   "author": "T. H. Huxley",
+   "work": "Science and Culture",
+   "year": "1880",
+   "type": "lecture-essay",
+   "note": "Science as education; answered by Arnold 1882"
+  },
+  {
+   "author": "Charles Darwin",
+   "work": "On the Origin of Species",
+   "year": "1859",
+   "type": "scientific prose",
+   "note": "Natural selection; shook Victorian faith"
+  },
+  {
+   "author": "Samuel Smiles",
+   "work": "Self-Help",
+   "year": "1859",
+   "type": "conduct book",
+   "note": "Victorian gospel of individual effort"
+  },
+  {
+   "author": "Friedrich Engels",
+   "work": "The Condition of the Working Class in England",
+   "year": "1845",
+   "type": "social study",
+   "note": "Manchester's industrial poor; written in German"
+  },
+  {
+   "author": "George Eliot",
+   "work": "Silly Novels by Lady Novelists",
+   "year": "1856",
+   "type": "review essay",
+   "note": "Westminster Review attack on trivial women's fiction"
+  },
+  {
+   "author": "Walter Pater",
+   "work": "Studies in the History of the Renaissance",
+   "year": "1873",
+   "type": "essays",
+   "note": "'Hard, gem-like flame'; aesthetic manifesto"
+  },
+  {
+   "author": "Walter Pater",
+   "work": "Marius the Epicurean",
+   "year": "1885",
+   "type": "philosophical novel",
+   "note": "Set in Rome of Marcus Aurelius"
+  },
+  {
+   "author": "Oscar Wilde",
+   "work": "Intentions",
+   "year": "1891",
+   "type": "critical dialogues/essays",
+   "note": "'The Decay of Lying', 'The Critic as Artist'"
+  },
+  {
+   "author": "Oscar Wilde",
+   "work": "De Profundis",
+   "year": "1905",
+   "type": "prison letter",
+   "note": "Letter to Lord Alfred Douglas from Reading Gaol"
+  },
+  {
+   "author": "A. W. Kinglake",
+   "work": "Eothen",
+   "year": "1844",
+   "type": "travel book",
+   "note": "Travels in the Ottoman Near East"
+  },
+  {
+   "author": "Elizabeth Gaskell",
+   "work": "The Life of Charlotte Bronte",
+   "year": "1857",
+   "type": "biography",
+   "note": "Classic Victorian literary biography"
+  },
+  {
+   "author": "Anthony Trollope",
+   "work": "An Autobiography",
+   "year": "1883",
+   "type": "autobiography",
+   "note": "Posthumous; revealed his clockwork writing routine"
+  },
+  {
+   "author": "R. L. Stevenson",
+   "work": "Virginibus Puerisque",
+   "year": "1881",
+   "type": "essays",
+   "note": "'An Apology for Idlers', 'El Dorado'"
+  },
+  {
+   "author": "Edmund Gosse",
+   "work": "Father and Son",
+   "year": "1907",
+   "type": "autobiography",
+   "note": "Conflict with Plymouth Brethren naturalist father"
+  },
+  {
+   "author": "G. K. Chesterton",
+   "work": "Orthodoxy",
+   "year": "1908",
+   "type": "essays",
+   "note": "Master of paradox; Christian apologetics"
+  },
+  {
+   "author": "Hilaire Belloc",
+   "work": "On Nothing and Kindred Subjects",
+   "year": "1908",
+   "type": "essays",
+   "note": "Light, witty Edwardian essays"
+  },
+  {
+   "author": "Lytton Strachey",
+   "work": "Eminent Victorians",
+   "year": "1918",
+   "type": "biography",
+   "note": "Manning, Nightingale, Dr Arnold, Gordon; ironic new biography"
+  },
+  {
+   "author": "Lytton Strachey",
+   "work": "Queen Victoria",
+   "year": "1921",
+   "type": "biography",
+   "note": "Concise ironic biography; dedicated to Virginia Woolf"
+  },
+  {
+   "author": "Virginia Woolf",
+   "work": "Mr. Bennett and Mrs. Brown",
+   "year": "1924",
+   "type": "essay",
+   "note": "'On or about December 1910 human character changed'"
+  },
+  {
+   "author": "Virginia Woolf",
+   "work": "The Common Reader",
+   "year": "1925",
+   "type": "essays",
+   "note": "Includes 'Modern Fiction'; title from Johnson"
+  },
+  {
+   "author": "Virginia Woolf",
+   "work": "A Room of One's Own",
+   "year": "1929",
+   "type": "extended essay",
+   "note": "Money and a room of her own; Judith Shakespeare"
+  },
+  {
+   "author": "Virginia Woolf",
+   "work": "Three Guineas",
+   "year": "1938",
+   "type": "extended essay",
+   "note": "Links patriarchy, fascism and war"
+  },
+  {
+   "author": "E. M. Forster",
+   "work": "Aspects of the Novel",
+   "year": "1927",
+   "type": "lectures",
+   "note": "Flat and round characters; story vs plot"
+  },
+  {
+   "author": "E. M. Forster",
+   "work": "Two Cheers for Democracy",
+   "year": "1951",
+   "type": "essays",
+   "note": "Contains 'What I Believe'"
+  },
+  {
+   "author": "Robert Graves",
+   "work": "Goodbye to All That",
+   "year": "1929",
+   "type": "autobiography",
+   "note": "First World War memoir"
+  },
+  {
+   "author": "Clive Bell",
+   "work": "Art",
+   "year": "1914",
+   "type": "aesthetic theory",
+   "note": "'Significant form'"
+  },
+  {
+   "author": "George Orwell",
+   "work": "Shooting an Elephant",
+   "year": "1936",
+   "type": "essay",
+   "note": "Burma; imperialism destroys the ruler's freedom"
+  },
+  {
+   "author": "George Orwell",
+   "work": "Homage to Catalonia",
+   "year": "1938",
+   "type": "memoir",
+   "note": "Spanish Civil War, POUM militia"
+  },
+  {
+   "author": "George Orwell",
+   "work": "Inside the Whale",
+   "year": "1940",
+   "type": "essays",
+   "note": "Title essay on Henry Miller; also Dickens essay"
+  },
+  {
+   "author": "George Orwell",
+   "work": "Politics and the English Language",
+   "year": "1946",
+   "type": "essay",
+   "note": "Six rules of clear writing"
+  },
+  {
+   "author": "Bertrand Russell",
+   "work": "In Praise of Idleness",
+   "year": "1935",
+   "type": "essays",
+   "note": "Argues for a four-hour working day"
+  },
+  {
+   "author": "Bertrand Russell",
+   "work": "A History of Western Philosophy",
+   "year": "1945",
+   "type": "philosophy",
+   "note": "Bestseller; Nobel in Literature 1950"
+  },
+  {
+   "author": "C. P. Snow",
+   "work": "The Two Cultures",
+   "year": "1959",
+   "type": "lecture",
+   "note": "Rede Lecture; gap between science and humanities"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "Notes towards the Definition of Culture",
+   "year": "1948",
+   "type": "cultural criticism",
+   "note": "Culture as a whole way of life"
+  },
+  {
+   "author": "John Winthrop",
+   "work": "A Model of Christian Charity",
+   "year": "1630",
+   "type": "sermon",
+   "note": "'We shall be as a city upon a hill'"
+  },
+  {
+   "author": "Jonathan Edwards",
+   "work": "Sinners in the Hands of an Angry God",
+   "year": "1741",
+   "type": "sermon",
+   "note": "Great Awakening hellfire sermon"
+  },
+  {
+   "author": "J. Hector St. John de Crevecoeur",
+   "work": "Letters from an American Farmer",
+   "year": "1782",
+   "type": "epistolary essays",
+   "note": "'What then is the American, this new man?'"
+  },
+  {
+   "author": "Hamilton, Madison and Jay",
+   "work": "The Federalist Papers",
+   "year": "1787-88",
+   "type": "political essays",
+   "note": "85 essays under the pen name Publius"
+  },
+  {
+   "author": "Ralph Waldo Emerson",
+   "work": "Nature",
+   "year": "1836",
+   "type": "essay",
+   "note": "Transcendentalist manifesto; 'transparent eyeball'"
+  },
+  {
+   "author": "Ralph Waldo Emerson",
+   "work": "The American Scholar",
+   "year": "1837",
+   "type": "address",
+   "note": "'America's intellectual Declaration of Independence' (Holmes)"
+  },
+  {
+   "author": "Ralph Waldo Emerson",
+   "work": "Essays: First Series",
+   "year": "1841",
+   "type": "essays",
+   "note": "Includes 'Self-Reliance', 'The Over-Soul', 'Circles'"
+  },
+  {
+   "author": "Henry David Thoreau",
+   "work": "Civil Disobedience",
+   "year": "1849",
+   "type": "essay",
+   "note": "First titled 'Resistance to Civil Government'; influenced Gandhi"
+  },
+  {
+   "author": "Henry David Thoreau",
+   "work": "Walden",
+   "year": "1854",
+   "type": "nature memoir",
+   "note": "Two years two months at Walden Pond"
+  },
+  {
+   "author": "Frederick Douglass",
+   "work": "Narrative of the Life of Frederick Douglass",
+   "year": "1845",
+   "type": "slave narrative",
+   "note": "Landmark abolitionist autobiography"
+  },
+  {
+   "author": "W. E. B. Du Bois",
+   "work": "The Souls of Black Folk",
+   "year": "1903",
+   "type": "essays",
+   "note": "'Double consciousness'; 'the color-line'"
+  },
+  {
+   "author": "James Baldwin",
+   "work": "Notes of a Native Son",
+   "year": "1955",
+   "type": "essays",
+   "note": "Race and identity in America"
+  },
+  {
+   "author": "Martin Luther King Jr.",
+   "work": "Letter from Birmingham Jail",
+   "year": "1963",
+   "type": "open letter",
+   "note": "Defends nonviolent direct action"
+  },
+  {
+   "author": "Raja Rammohan Roy",
+   "work": "Letter to Lord Amherst",
+   "year": "1823",
+   "type": "letter",
+   "note": "Pleads for Western scientific education in India"
+  },
+  {
+   "author": "Jotirao Phule",
+   "work": "Gulamgiri (Slavery)",
+   "year": "1873",
+   "type": "polemical prose (Marathi)",
+   "note": "Attack on caste slavery; dedicated to US anti-slavery campaigners"
+  },
+  {
+   "author": "Pandita Ramabai",
+   "work": "The High-Caste Hindu Woman",
+   "year": "1887",
+   "type": "social criticism",
+   "note": "Plight of upper-caste Hindu women; published in USA"
+  },
+  {
+   "author": "Dadabhai Naoroji",
+   "work": "Poverty and Un-British Rule in India",
+   "year": "1901",
+   "type": "economic critique",
+   "note": "'Drain theory' of British economic exploitation"
+  },
+  {
+   "author": "M. K. Gandhi",
+   "work": "Hind Swaraj",
+   "year": "1909",
+   "type": "dialogue tract (Gujarati)",
+   "note": "Reader-Editor dialogue; written aboard the Kildonan Castle"
+  },
+  {
+   "author": "M. K. Gandhi",
+   "work": "An Autobiography: The Story of My Experiments with Truth",
+   "year": "1927-29",
+   "type": "autobiography",
+   "note": "Gujarati original; translated by Mahadev Desai"
+  },
+  {
+   "author": "Rabindranath Tagore",
+   "work": "Nationalism",
+   "year": "1917",
+   "type": "lectures",
+   "note": "Critique of the Western nation-state"
+  },
+  {
+   "author": "Rabindranath Tagore",
+   "work": "Crisis in Civilization",
+   "year": "1941",
+   "type": "essay",
+   "note": "Last essay, read on his 80th birthday"
+  },
+  {
+   "author": "Jawaharlal Nehru",
+   "work": "Glimpses of World History",
+   "year": "1934",
+   "type": "letters",
+   "note": "Prison letters to Indira on world history"
+  },
+  {
+   "author": "Jawaharlal Nehru",
+   "work": "An Autobiography",
+   "year": "1936",
+   "type": "autobiography",
+   "note": "US title Toward Freedom"
+  },
+  {
+   "author": "Jawaharlal Nehru",
+   "work": "The Discovery of India",
+   "year": "1946",
+   "type": "history/reflection",
+   "note": "Written in Ahmednagar Fort prison, 1944"
+  },
+  {
+   "author": "B. R. Ambedkar",
+   "work": "Castes in India",
+   "year": "1917",
+   "type": "paper",
+   "note": "Columbia seminar paper of 1916; endogamy and caste"
+  },
+  {
+   "author": "B. R. Ambedkar",
+   "work": "Annihilation of Caste",
+   "year": "1936",
+   "type": "undelivered speech",
+   "note": "For Jat-Pat-Todak Mandal, Lahore; Gandhi replied"
+  },
+  {
+   "author": "B. R. Ambedkar",
+   "work": "The Buddha and His Dhamma",
+   "year": "1957",
+   "type": "religious text",
+   "note": "Posthumous; basis of Navayana Buddhism"
+  },
+  {
+   "author": "Cornelia Sorabji",
+   "work": "India Calling",
+   "year": "1934",
+   "type": "memoir",
+   "note": "India's first woman lawyer's memoir"
+  },
+  {
+   "author": "Nirad C. Chaudhuri",
+   "work": "The Autobiography of an Unknown Indian",
+   "year": "1951",
+   "type": "autobiography",
+   "note": "Dedicated to the memory of the British Empire"
+  },
+  {
+   "author": "Nirad C. Chaudhuri",
+   "work": "The Continent of Circe",
+   "year": "1965",
+   "type": "essay-book",
+   "note": "Won the Duff Cooper Prize"
+  },
+  {
+   "author": "Ved Mehta",
+   "work": "Face to Face",
+   "year": "1957",
+   "type": "autobiography",
+   "note": "Blind Indian writer's early life"
+  },
+  {
+   "author": "Kamala Das",
+   "work": "My Story",
+   "year": "1976",
+   "type": "autobiography",
+   "note": "Frank confessional memoir; Malayalam Ente Katha"
+  },
+  {
+   "author": "Daya Pawar",
+   "work": "Baluta",
+   "year": "1978",
+   "type": "Dalit autobiography (Marathi)",
+   "note": "First major Marathi Dalit autobiography"
+  },
+  {
+   "author": "Sharankumar Limbale",
+   "work": "Akkarmashi (The Outcaste)",
+   "year": "1984",
+   "type": "Dalit autobiography (Marathi)",
+   "note": "Life as a child of mixed caste"
+  },
+  {
+   "author": "Bama",
+   "work": "Karukku",
+   "year": "1992",
+   "type": "Dalit autobiography (Tamil)",
+   "note": "Dalit Christian woman's life; tr. Lakshmi Holmstrom"
+  },
+  {
+   "author": "Omprakash Valmiki",
+   "work": "Joothan",
+   "year": "1997",
+   "type": "Dalit autobiography (Hindi)",
+   "note": "Leftover food as symbol of caste humiliation"
+  },
+  {
+   "author": "A. P. J. Abdul Kalam",
+   "work": "Wings of Fire",
+   "year": "1999",
+   "type": "autobiography",
+   "note": "With Arun Tiwari; missile scientist's life"
+  },
+  {
+   "author": "Amartya Sen",
+   "work": "The Argumentative Indian",
+   "year": "2005",
+   "type": "essays",
+   "note": "India's tradition of public reasoning and debate"
+  },
+  {
+   "author": "Amartya Sen",
+   "work": "The Idea of Justice",
+   "year": "2009",
+   "type": "philosophy",
+   "note": "Niti vs nyaya"
+  },
+  {
+   "author": "Amitav Ghosh",
+   "work": "In an Antique Land",
+   "year": "1992",
+   "type": "travel/history",
+   "note": "Egypt; Abraham Ben Yiju and slave Bomma"
+  },
+  {
+   "author": "Amitav Ghosh",
+   "work": "The Great Derangement",
+   "year": "2016",
+   "type": "essays",
+   "note": "Climate change and the limits of the novel"
+  },
+  {
+   "author": "Shashi Tharoor",
+   "work": "An Era of Darkness",
+   "year": "2016",
+   "type": "history",
+   "note": "Case against British rule in India"
+  },
+  {
+   "author": "Arundhati Roy",
+   "work": "The End of Imagination",
+   "year": "1998",
+   "type": "essay",
+   "note": "Against India's 1998 nuclear tests"
+  },
+  {
+   "author": "V. S. Naipaul",
+   "work": "An Area of Darkness",
+   "year": "1964",
+   "type": "travel book",
+   "note": "First of India trilogy"
+  },
+  {
+   "author": "V. S. Naipaul",
+   "work": "India: A Million Mutinies Now",
+   "year": "1990",
+   "type": "travel book",
+   "note": "Third of India trilogy"
+  },
+  {
+   "author": "Chinua Achebe",
+   "work": "An Image of Africa",
+   "year": "1977",
+   "type": "essay",
+   "note": "Attacks Conrad's Heart of Darkness as racist"
+  },
+  {
+   "author": "Ngugi wa Thiong'o",
+   "work": "Decolonising the Mind",
+   "year": "1986",
+   "type": "essays",
+   "note": "Language and colonialism; farewell to English"
+  },
+  {
+   "author": "Salman Rushdie",
+   "work": "Imaginary Homelands",
+   "year": "1991",
+   "type": "essays",
+   "note": "Migrant writer and memory"
+  },
+  {
+   "author": "Jamaica Kincaid",
+   "work": "A Small Place",
+   "year": "1988",
+   "type": "essay",
+   "note": "Tourism and colonialism in Antigua"
+  },
+  {
+   "author": "Wole Soyinka",
+   "work": "Ake: The Years of Childhood",
+   "year": "1981",
+   "type": "autobiography",
+   "note": "Nigerian childhood memoir"
+  },
+  {
+   "author": "Nelson Mandela",
+   "work": "Long Walk to Freedom",
+   "year": "1994",
+   "type": "autobiography",
+   "note": "Anti-apartheid struggle and prison years"
+  },
+  {
+   "author": "Margaret Atwood",
+   "work": "Survival",
+   "year": "1972",
+   "type": "criticism",
+   "note": "Thematic guide to Canadian literature; victim positions"
+  },
+  {
+   "author": "Susanna Moodie",
+   "work": "Roughing It in the Bush",
+   "year": "1852",
+   "type": "settler memoir",
+   "note": "Pioneer life in Upper Canada"
+  },
+  {
+   "author": "Bruce Chatwin",
+   "work": "In Patagonia",
+   "year": "1977",
+   "type": "travel book",
+   "note": "Modern travel classic"
+  },
+  {
+   "author": "Paul Theroux",
+   "work": "The Great Railway Bazaar",
+   "year": "1975",
+   "type": "travel book",
+   "note": "Train journey across Asia"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "I am myself the matter of my book.",
+   "by": "Michel de Montaigne",
+   "source": "Essais, 'To the Reader' (1580)"
+  },
+  {
+   "quote": "What is truth? said jesting Pilate, and would not stay for an answer.",
+   "by": "Francis Bacon",
+   "source": "'Of Truth', Essays (1625)"
+  },
+  {
+   "quote": "Studies serve for delight, for ornament, and for ability.",
+   "by": "Francis Bacon",
+   "source": "'Of Studies', Essays (1597)"
+  },
+  {
+   "quote": "Reading maketh a full man; conference a ready man; and writing an exact man.",
+   "by": "Francis Bacon",
+   "source": "'Of Studies', Essays (1625 text)"
+  },
+  {
+   "quote": "Revenge is a kind of wild justice; which the more man's nature runs to, the more ought law to weed it out.",
+   "by": "Francis Bacon",
+   "source": "'Of Revenge', Essays (1625)"
+  },
+  {
+   "quote": "He that hath wife and children hath given hostages to fortune.",
+   "by": "Francis Bacon",
+   "source": "'Of Marriage and Single Life', Essays (1612)"
+  },
+  {
+   "quote": "Men fear death, as children fear to go in the dark.",
+   "by": "Francis Bacon",
+   "source": "'Of Death', Essays (1612)"
+  },
+  {
+   "quote": "God Almighty first planted a garden.",
+   "by": "Francis Bacon",
+   "source": "'Of Gardens', Essays (1625)"
+  },
+  {
+   "quote": "Man is a noble animal, splendid in ashes, and pompous in the grave.",
+   "by": "Sir Thomas Browne",
+   "source": "Hydriotaphia, Urn-Burial (1658)"
+  },
+  {
+   "quote": "No man is an island, entire of itself.",
+   "by": "John Donne",
+   "source": "Devotions upon Emergent Occasions, Meditation XVII (1624)"
+  },
+  {
+   "quote": "And the life of man, solitary, poor, nasty, brutish, and short.",
+   "by": "Thomas Hobbes",
+   "source": "Leviathan (1651)"
+  },
+  {
+   "quote": "A good book is the precious life-blood of a master spirit, embalmed and treasured up on purpose to a life beyond life.",
+   "by": "John Milton",
+   "source": "Areopagitica (1644)"
+  },
+  {
+   "quote": "Who kills a man kills a reasonable creature, God's image; but he who destroys a good book, kills reason itself.",
+   "by": "John Milton",
+   "source": "Areopagitica (1644)"
+  },
+  {
+   "quote": "Let her and Falsehood grapple; who ever knew Truth put to the worse, in a free and open encounter?",
+   "by": "John Milton",
+   "source": "Areopagitica (1644)"
+  },
+  {
+   "quote": "I cannot praise a fugitive and cloistered virtue, unexercised and unbreathed.",
+   "by": "John Milton",
+   "source": "Areopagitica (1644)"
+  },
+  {
+   "quote": "Instead of dirt and poison we have rather chosen to fill our hives with honey and wax; thus furnishing mankind with the two noblest of things, which are sweetness and light.",
+   "by": "Jonathan Swift",
+   "source": "The Battle of the Books (1704)"
+  },
+  {
+   "quote": "I shall be ambitious to have it said of me, that I have brought philosophy out of closets and libraries, schools and colleges, to dwell in clubs and assemblies, at tea-tables and in coffee-houses.",
+   "by": "Joseph Addison",
+   "source": "The Spectator No. 10 (1711)"
+  },
+  {
+   "quote": "Is not a patron, my Lord, one who looks with unconcern on a man struggling for life in the water, and, when he has reached ground, encumbers him with help?",
+   "by": "Samuel Johnson",
+   "source": "Letter to Lord Chesterfield (1755)"
+  },
+  {
+   "quote": "Lexicographer: a writer of dictionaries; a harmless drudge.",
+   "by": "Samuel Johnson",
+   "source": "A Dictionary of the English Language (1755)"
+  },
+  {
+   "quote": "Shakespeare is above all writers, at least above all modern writers, the poet of nature; the poet that holds up to his readers a faithful mirrour of manners and of life.",
+   "by": "Samuel Johnson",
+   "source": "Preface to Shakespeare (1765)"
+  },
+  {
+   "quote": "The most heterogeneous ideas are yoked by violence together.",
+   "by": "Samuel Johnson",
+   "source": "Life of Cowley, Lives of the Poets (1779)"
+  },
+  {
+   "quote": "When a man is tired of London, he is tired of life; for there is in London all that life can afford.",
+   "by": "Samuel Johnson (reported)",
+   "source": "Boswell, The Life of Samuel Johnson (1791)"
+  },
+  {
+   "quote": "They order, said I, this matter better in France.",
+   "by": "Laurence Sterne",
+   "source": "A Sentimental Journey (1768), opening line"
+  },
+  {
+   "quote": "But the age of chivalry is gone. That of sophisters, economists, and calculators, has succeeded.",
+   "by": "Edmund Burke",
+   "source": "Reflections on the Revolution in France (1790)"
+  },
+  {
+   "quote": "We are not of Alice, nor of thee, nor are we children at all.",
+   "by": "Charles Lamb",
+   "source": "'Dream-Children: A Reverie', Essays of Elia (1823)"
+  },
+  {
+   "quote": "One of the pleasantest things in the world is going a journey; but I like to go by myself.",
+   "by": "William Hazlitt",
+   "source": "'On Going a Journey', Table-Talk (1822)"
+  },
+  {
+   "quote": "There is, first, the literature of knowledge; and secondly, the literature of power. The function of the first is to teach; the function of the second is to move.",
+   "by": "Thomas De Quincey",
+   "source": "Essay on Pope (1848)"
+  },
+  {
+   "quote": "Close thy Byron; open thy Goethe.",
+   "by": "Thomas Carlyle",
+   "source": "Sartor Resartus, 'The Everlasting Yea' (1833-34)"
+  },
+  {
+   "quote": "The history of the world is but the biography of great men.",
+   "by": "Thomas Carlyle",
+   "source": "On Heroes, Hero-Worship and the Heroic in History (1841)"
+  },
+  {
+   "quote": "There is no wealth but life.",
+   "by": "John Ruskin",
+   "source": "Unto This Last (1860)"
+  },
+  {
+   "quote": "A disinterested endeavour to learn and propagate the best that is known and thought in the world.",
+   "by": "Matthew Arnold",
+   "source": "'The Function of Criticism at the Present Time' (1864)"
+  },
+  {
+   "quote": "Poetry is at bottom a criticism of life.",
+   "by": "Matthew Arnold",
+   "source": "'The Study of Poetry' (1880)"
+  },
+  {
+   "quote": "A beautiful and ineffectual angel, beating in the void his luminous wings in vain.",
+   "by": "Matthew Arnold",
+   "source": "'Shelley', Essays in Criticism, Second Series (1888)"
+  },
+  {
+   "quote": "To burn always with this hard, gem-like flame, to maintain this ecstasy, is success in life.",
+   "by": "Walter Pater",
+   "source": "Conclusion, The Renaissance (1873)"
+  },
+  {
+   "quote": "All art constantly aspires towards the condition of music.",
+   "by": "Walter Pater",
+   "source": "'The School of Giorgione', The Renaissance (1877)"
+  },
+  {
+   "quote": "Life imitates Art far more than Art imitates Life.",
+   "by": "Oscar Wilde",
+   "source": "'The Decay of Lying', Intentions (1891)"
+  },
+  {
+   "quote": "It is almost a definition of a gentleman to say he is one who never inflicts pain.",
+   "by": "John Henry Newman",
+   "source": "The Idea of a University (1852)"
+  },
+  {
+   "quote": "Eloquence is heard; poetry is overheard.",
+   "by": "J. S. Mill",
+   "source": "'What is Poetry?' (1833)"
+  },
+  {
+   "quote": "If all mankind minus one were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that one person, than he, if he had the power, would be justified in silencing mankind.",
+   "by": "J. S. Mill",
+   "source": "On Liberty (1859)"
+  },
+  {
+   "quote": "A single shelf of a good European library was worth the whole native literature of India and Arabia.",
+   "by": "T. B. Macaulay",
+   "source": "Minute on Indian Education (1835)"
+  },
+  {
+   "quote": "Ignorance is the first requisite of the historian.",
+   "by": "Lytton Strachey",
+   "source": "Preface, Eminent Victorians (1918)"
+  },
+  {
+   "quote": "A woman must have money and a room of her own if she is to write fiction.",
+   "by": "Virginia Woolf",
+   "source": "A Room of One's Own (1929)"
+  },
+  {
+   "quote": "On or about December 1910 human character changed.",
+   "by": "Virginia Woolf",
+   "source": "'Mr. Bennett and Mrs. Brown' (1924)"
+  },
+  {
+   "quote": "Life is not a series of gig lamps symmetrically arranged; life is a luminous halo.",
+   "by": "Virginia Woolf",
+   "source": "'Modern Fiction', The Common Reader (1925)"
+  },
+  {
+   "quote": "Good prose is like a window pane.",
+   "by": "George Orwell",
+   "source": "'Why I Write' (1946)"
+  },
+  {
+   "quote": "Political language is designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind.",
+   "by": "George Orwell",
+   "source": "'Politics and the English Language' (1946)"
+  },
+  {
+   "quote": "Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.",
+   "by": "Bertrand Russell",
+   "source": "Prologue, Autobiography (1967)"
+  },
+  {
+   "quote": "Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge.",
+   "by": "Jawaharlal Nehru",
+   "source": "'Tryst with Destiny' speech (14-15 August 1947)"
+  },
+  {
+   "quote": "A foolish consistency is the hobgoblin of little minds.",
+   "by": "Ralph Waldo Emerson",
+   "source": "'Self-Reliance', Essays: First Series (1841)"
+  },
+  {
+   "quote": "The mass of men lead lives of quiet desperation.",
+   "by": "Henry David Thoreau",
+   "source": "Walden (1854)"
+  }
+ ],
+ "people": [
+  {
+   "name": "Democritus Junior",
+   "where": "The Anatomy of Melancholy, Robert Burton, 1621",
+   "note": "Burton's pseudonym as the book's learned narrator"
+  },
+  {
+   "name": "Salomon's House",
+   "where": "New Atlantis, Francis Bacon, 1627",
+   "note": "Scientific college of Bensalem; model for the Royal Society"
+  },
+  {
+   "name": "Piscator",
+   "where": "The Compleat Angler, Izaak Walton, 1653",
+   "note": "The fisherman who teaches angling; Walton's own voice"
+  },
+  {
+   "name": "Venator",
+   "where": "The Compleat Angler, Izaak Walton, 1653",
+   "note": "The hunter who becomes Piscator's pupil"
+  },
+  {
+   "name": "Raphael Hythloday",
+   "where": "Utopia, Thomas More, 1516",
+   "note": "Traveller who describes the island of Utopia"
+  },
+  {
+   "name": "Neander",
+   "where": "An Essay of Dramatic Poesy, John Dryden, 1668",
+   "note": "Speaker usually taken as Dryden himself; defends English drama"
+  },
+  {
+   "name": "Christian",
+   "where": "The Pilgrim's Progress, John Bunyan, 1678",
+   "note": "Pilgrim travelling from City of Destruction to Celestial City"
+  },
+  {
+   "name": "Isaac Bickerstaff",
+   "where": "The Tatler, Richard Steele, 1709",
+   "note": "Steele's persona; name borrowed from Swift's hoax"
+  },
+  {
+   "name": "Mr. Spectator",
+   "where": "The Spectator, Addison and Steele, 1711",
+   "note": "Silent, observant narrator of the paper"
+  },
+  {
+   "name": "Sir Roger de Coverley",
+   "where": "The Spectator, Addison and Steele, 1711",
+   "note": "Good-natured Tory country squire of Worcestershire"
+  },
+  {
+   "name": "Sir Andrew Freeport",
+   "where": "The Spectator, Addison and Steele, 1711",
+   "note": "Whig London merchant of the Spectator Club"
+  },
+  {
+   "name": "Will Honeycomb",
+   "where": "The Spectator, Addison and Steele, 1711",
+   "note": "Ageing fashionable beau of the Spectator Club"
+  },
+  {
+   "name": "Captain Sentry",
+   "where": "The Spectator, Addison and Steele, 1711",
+   "note": "Retired army officer; Sir Roger's heir"
+  },
+  {
+   "name": "Will Wimble",
+   "where": "The Spectator No. 108, Joseph Addison, 1711",
+   "note": "Idle younger son of a gentleman; Sir Roger's neighbour"
+  },
+  {
+   "name": "Nestor Ironside",
+   "where": "The Guardian, Steele and Addison, 1713",
+   "note": "Persona of The Guardian"
+  },
+  {
+   "name": "M. B. Drapier",
+   "where": "The Drapier's Letters, Jonathan Swift, 1724",
+   "note": "Swift's persona, a Dublin draper fighting Wood's halfpence"
+  },
+  {
+   "name": "Lien Chi Altangi",
+   "where": "The Citizen of the World, Oliver Goldsmith, 1762",
+   "note": "Chinese philosopher satirising English manners"
+  },
+  {
+   "name": "Beau Tibbs",
+   "where": "The Citizen of the World, Oliver Goldsmith, 1762",
+   "note": "Shabby-genteel boaster pretending to fashion"
+  },
+  {
+   "name": "Rasselas",
+   "where": "Rasselas, Samuel Johnson, 1759",
+   "note": "Abyssinian prince who leaves the Happy Valley in search of happiness"
+  },
+  {
+   "name": "Imlac",
+   "where": "Rasselas, Samuel Johnson, 1759",
+   "note": "Poet-philosopher guide; 'dissertation upon poetry'"
+  },
+  {
+   "name": "Yorick",
+   "where": "A Sentimental Journey, Laurence Sterne, 1768",
+   "note": "Sentimental parson-narrator travelling in France"
+  },
+  {
+   "name": "Elia",
+   "where": "Essays of Elia, Charles Lamb, 1823",
+   "note": "Lamb's persona, name of an Italian clerk at South-Sea House"
+  },
+  {
+   "name": "Bridget Elia",
+   "where": "Essays of Elia, Charles Lamb, 1823",
+   "note": "Elia's 'cousin', representing Mary Lamb"
+  },
+  {
+   "name": "Alice and John",
+   "where": "'Dream-Children', Essays of Elia, Charles Lamb, 1823",
+   "note": "Elia's imagined children who fade at the end"
+  },
+  {
+   "name": "Ho-ti and Bo-bo",
+   "where": "'A Dissertation upon Roast Pig', Charles Lamb, 1823",
+   "note": "Chinese father and son who discover roast pork"
+  },
+  {
+   "name": "Mrs. Battle",
+   "where": "'Mrs. Battle's Opinions on Whist', Charles Lamb, 1823",
+   "note": "Old lady devoted to a 'clear fire, a clean hearth, and the rigour of the game'"
+  },
+  {
+   "name": "Ann of Oxford Street",
+   "where": "Confessions of an English Opium-Eater, De Quincey, 1821",
+   "note": "Young street girl who helped him in London; later lost"
+  },
+  {
+   "name": "Our Ladies of Sorrow",
+   "where": "Suspiria de Profundis, De Quincey, 1845",
+   "note": "Mater Lachrymarum, Suspiriorum, Tenebrarum: Tears, Sighs, Darkness"
+  },
+  {
+   "name": "Diogenes Teufelsdrockh",
+   "where": "Sartor Resartus, Thomas Carlyle, 1833-34",
+   "note": "German professor of Things in General; philosophy of clothes"
+  },
+  {
+   "name": "Abbot Samson",
+   "where": "Past and Present, Thomas Carlyle, 1843",
+   "note": "12th-century abbot of Bury St Edmunds, ideal leader"
+  },
+  {
+   "name": "Marius",
+   "where": "Marius the Epicurean, Walter Pater, 1885",
+   "note": "Young Roman whose spiritual journey reflects Pater's ideals"
+  },
+  {
+   "name": "Judith Shakespeare",
+   "where": "A Room of One's Own, Virginia Woolf, 1929",
+   "note": "Shakespeare's imagined gifted sister, denied a chance"
+  },
+  {
+   "name": "Mary Beton",
+   "where": "A Room of One's Own, Virginia Woolf, 1929",
+   "note": "Name the narrator invites us to call her"
+  },
+  {
+   "name": "Mrs. Brown",
+   "where": "'Mr. Bennett and Mrs. Brown', Virginia Woolf, 1924",
+   "note": "Old woman in a railway carriage, symbol of character"
+  },
+  {
+   "name": "The Angel in the House",
+   "where": "'Professions for Women', Virginia Woolf, 1931",
+   "note": "Self-sacrificing ideal woman whom the writer must kill"
+  },
+  {
+   "name": "The Reader and the Editor",
+   "where": "Hind Swaraj, M. K. Gandhi, 1909",
+   "note": "Two speakers of the dialogue; Editor voices Gandhi"
+  },
+  {
+   "name": "Montaigne",
+   "where": "Essais, 1580",
+   "note": "French inventor of the essay; personal, sceptical 'Que sais-je?'"
+  },
+  {
+   "name": "Francis Bacon",
+   "where": "Essays 1597-1625; Novum Organum 1620",
+   "note": "Father of English essay and of inductive method; Lord Chancellor"
+  },
+  {
+   "name": "Sir Thomas Browne",
+   "where": "Religio Medici 1643",
+   "note": "Norwich physician, master of baroque prose"
+  },
+  {
+   "name": "Thomas Hobbes",
+   "where": "Leviathan 1651",
+   "note": "Materialist political philosopher of absolute sovereignty"
+  },
+  {
+   "name": "John Locke",
+   "where": "An Essay Concerning Human Understanding 1690",
+   "note": "Empiricist philosopher; tabula rasa; liberal political theory"
+  },
+  {
+   "name": "Joseph Addison",
+   "where": "The Spectator 1711-12",
+   "note": "Polished periodical essayist; Johnson praised his 'middle style'"
+  },
+  {
+   "name": "Richard Steele",
+   "where": "The Tatler 1709",
+   "note": "Founder of the Tatler; sentimental warmth"
+  },
+  {
+   "name": "Samuel Johnson",
+   "where": "Dictionary 1755; Lives of the Poets 1779-81",
+   "note": "Great Cham of literature; lexicographer, moralist, critic"
+  },
+  {
+   "name": "James Boswell",
+   "where": "The Life of Samuel Johnson 1791",
+   "note": "Scottish biographer who recorded Johnson's talk"
+  },
+  {
+   "name": "Hester Thrale (Piozzi)",
+   "where": "Anecdotes of the Late Samuel Johnson 1786",
+   "note": "Johnson's friend and rival memoirist to Boswell"
+  },
+  {
+   "name": "Lord Chesterfield",
+   "where": "Johnson's Letter of 1755",
+   "note": "Patron rebuked by Johnson for neglecting the Dictionary"
+  },
+  {
+   "name": "Charles Lamb",
+   "where": "Essays of Elia 1823",
+   "note": "Master of the familiar essay; East India House clerk"
+  },
+  {
+   "name": "Mary Lamb",
+   "where": "Tales from Shakespeare 1807",
+   "note": "Lamb's sister and co-author; Bridget Elia"
+  },
+  {
+   "name": "William Hazlitt",
+   "where": "Table-Talk 1821-22; The Spirit of the Age 1825",
+   "note": "Romantic essayist and critic; 'gusto'"
+  },
+  {
+   "name": "Sarah Walker",
+   "where": "Liber Amoris, William Hazlitt, 1823",
+   "note": "Lodging-house keeper's daughter Hazlitt loved"
+  },
+  {
+   "name": "Thomas De Quincey",
+   "where": "Confessions of an English Opium-Eater 1821",
+   "note": "Master of 'impassioned prose'"
+  },
+  {
+   "name": "Leigh Hunt",
+   "where": "The Examiner 1808",
+   "note": "Radical editor jailed for libelling the Prince Regent"
+  },
+  {
+   "name": "Thomas Carlyle",
+   "where": "Sartor Resartus; On Heroes 1841",
+   "note": "Sage of Chelsea; prophetic Victorian critic"
+  },
+  {
+   "name": "John Ruskin",
+   "where": "Modern Painters; Unto This Last 1860",
+   "note": "Art and social critic; influenced Gandhi"
+  },
+  {
+   "name": "Matthew Arnold",
+   "where": "Culture and Anarchy 1869",
+   "note": "Poet-critic; apostle of culture; touchstone method"
+  },
+  {
+   "name": "John Henry Newman",
+   "where": "Apologia Pro Vita Sua 1864",
+   "note": "Oxford Movement leader, Catholic convert, Cardinal"
+  },
+  {
+   "name": "Charles Kingsley",
+   "where": "Attack on Newman, 1864",
+   "note": "Novelist whose charge provoked Newman's Apologia"
+  },
+  {
+   "name": "J. S. Mill",
+   "where": "On Liberty 1859",
+   "note": "Utilitarian liberal; champion of women's rights"
+  },
+  {
+   "name": "Walter Pater",
+   "where": "The Renaissance 1873",
+   "note": "Oxford don; prophet of Aestheticism"
+  },
+  {
+   "name": "Lytton Strachey",
+   "where": "Eminent Victorians 1918",
+   "note": "Bloomsbury biographer of the debunking 'new biography'"
+  },
+  {
+   "name": "Virginia Woolf",
+   "where": "A Room of One's Own 1929",
+   "note": "Modernist novelist-essayist; feminist critic"
+  },
+  {
+   "name": "George Orwell",
+   "where": "'Politics and the English Language' 1946",
+   "note": "Eric Blair; plain-style political essayist"
+  },
+  {
+   "name": "Bertrand Russell",
+   "where": "In Praise of Idleness 1935",
+   "note": "Philosopher; Nobel Prize in Literature 1950"
+  },
+  {
+   "name": "Mahadev Desai",
+   "where": "The Story of My Experiments with Truth",
+   "note": "Gandhi's secretary who translated the Autobiography into English"
+  },
+  {
+   "name": "Nirad C. Chaudhuri",
+   "where": "The Autobiography of an Unknown Indian 1951",
+   "note": "Bengali essayist, controversial Anglophile"
+  },
+  {
+   "name": "Ralph Waldo Emerson",
+   "where": "Nature 1836",
+   "note": "Leader of American Transcendentalism"
+  },
+  {
+   "name": "Henry David Thoreau",
+   "where": "Walden 1854",
+   "note": "Transcendentalist; civil disobedience inspired Gandhi and King"
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "To whom did Bacon dedicate the 1625 edition of his Essays?",
+   "options": [
+    "Anthony Bacon",
+    "Prince Henry",
+    "George Villiers, Duke of Buckingham",
+    "King James I"
+   ],
+   "answer": 2,
+   "exp": "1625 edition Buckingham ko dedicate; 1597 wali bhai Anthony ko."
+  },
+  {
+   "q": "'Men fear death, as children fear to go in the dark' is the opening of Bacon's:",
+   "options": [
+    "Of Adversity",
+    "Of Truth",
+    "Of Revenge",
+    "Of Death"
+   ],
+   "answer": 3,
+   "exp": "Yeh 'Of Death' ki pehli line hai."
+  },
+  {
+   "q": "Which essay opened the first (1597) edition of Bacon's Essays?",
+   "options": [
+    "Of Death",
+    "Of Studies",
+    "Of Friendship",
+    "Of Truth"
+   ],
+   "answer": 1,
+   "exp": "1597 ka pehla essay 'Of Studies'; 1625 ka pehla 'Of Truth'."
+  },
+  {
+   "q": "Robert Burton published The Anatomy of Melancholy under the pseudonym:",
+   "options": [
+    "Isaac Bickerstaff",
+    "Democritus Junior",
+    "Heraclitus Minor",
+    "Christopher North"
+   ],
+   "answer": 1,
+   "exp": "Burton = Democritus Junior, 1621."
+  },
+  {
+   "q": "The 'quincunx' pattern in art and nature is the subject of Browne's:",
+   "options": [
+    "Hydriotaphia",
+    "The Garden of Cyrus",
+    "Christian Morals",
+    "Religio Medici"
+   ],
+   "answer": 1,
+   "exp": "Garden of Cyrus (1658) quincunx par hai."
+  },
+  {
+   "q": "The title Leviathan is taken from the sea-monster described in:",
+   "options": [
+    "Virgil's Aeneid",
+    "The Book of Job",
+    "The Book of Genesis",
+    "Plato's Republic"
+   ],
+   "answer": 1,
+   "exp": "Leviathan Job ki kitaab ka samudri rakshas hai."
+  },
+  {
+   "q": "'No man is an island, entire of itself' occurs in John Donne's:",
+   "options": [
+    "Pseudo-Martyr",
+    "Ignatius his Conclave",
+    "Biathanatos",
+    "Devotions upon Emergent Occasions"
+   ],
+   "answer": 3,
+   "exp": "Devotions (1624), Meditation XVII."
+  },
+  {
+   "q": "Locke compares the mind at birth to:",
+   "options": [
+    "a lamp projecting light",
+    "a seed containing innate ideas",
+    "a mirror reflecting nature",
+    "white paper, void of all characters"
+   ],
+   "answer": 3,
+   "exp": "Locke ki tabula rasa: khaali kaagaz."
+  },
+  {
+   "q": "The Compleat Angler carries the subtitle:",
+   "options": [
+    "The Contemplative Man's Recreation",
+    "A Discourse of Rivers",
+    "The Art of Fishing Made Easy",
+    "The Angler's Calendar"
+   ],
+   "answer": 0,
+   "exp": "Walton ki kitaab ka subtitle."
+  },
+  {
+   "q": "Milton's Of Education (1644) is addressed to:",
+   "options": [
+    "Oliver Cromwell",
+    "Samuel Hartlib",
+    "Andrew Marvell",
+    "Charles Diodati"
+   ],
+   "answer": 1,
+   "exp": "Of Education Hartlib ko patra ke roop mein."
+  },
+  {
+   "q": "Which persona did Steele use in The Guardian (1713)?",
+   "options": [
+    "Mr. Spectator",
+    "Nestor Ironside",
+    "M. B. Drapier",
+    "Isaac Bickerstaff"
+   ],
+   "answer": 1,
+   "exp": "Guardian = Nestor Ironside."
+  },
+  {
+   "q": "Swift's The Drapier's Letters (1724) were written against:",
+   "options": [
+    "the Test Act",
+    "the Act of Union",
+    "Wood's halfpence for Ireland",
+    "the South Sea Bubble"
+   ],
+   "answer": 2,
+   "exp": "Wood ke copper sikkon ke khilaaf."
+  },
+  {
+   "q": "The fable of the Spider and the Bee appears in Swift's:",
+   "options": [
+    "A Tale of a Tub",
+    "Gulliver's Travels",
+    "The Battle of the Books",
+    "A Modest Proposal"
+   ],
+   "answer": 2,
+   "exp": "Ancients vs Moderns wali Battle of the Books."
+  },
+  {
+   "q": "Addison's 'Pleasures of the Imagination' series appeared in:",
+   "options": [
+    "The Spectator",
+    "The Guardian",
+    "The Rambler",
+    "The Tatler"
+   ],
+   "answer": 0,
+   "exp": "Spectator Nos. 411-421 (1712)."
+  },
+  {
+   "q": "Johnson's The Idler essays first appeared in:",
+   "options": [
+    "The Gentleman's Magazine",
+    "The Universal Chronicle",
+    "The London Magazine",
+    "The Public Ledger"
+   ],
+   "answer": 1,
+   "exp": "Idler 1758-60 Universal Chronicle mein."
+  },
+  {
+   "q": "In whose bookshop did Boswell first meet Johnson in May 1763?",
+   "options": [
+    "Edward Cave",
+    "John Murray",
+    "Robert Dodsley",
+    "Thomas Davies"
+   ],
+   "answer": 3,
+   "exp": "Thomas Davies ki dukaan, 16 May 1763."
+  },
+  {
+   "q": "Which work of Boswell first made him famous?",
+   "options": [
+    "The London Journal",
+    "An Account of Corsica",
+    "The Life of Samuel Johnson",
+    "The Journal of a Tour to the Hebrides"
+   ],
+   "answer": 1,
+   "exp": "Account of Corsica (1768), Paoli ka portrait."
+  },
+  {
+   "q": "Mandeville's The Fable of the Bees is subtitled:",
+   "options": [
+    "The Wealth of Hives",
+    "The Grumbling Hive Reformed",
+    "Private Vices, Publick Benefits",
+    "An Essay on Man"
+   ],
+   "answer": 2,
+   "exp": "Private vices se public fayda - Mandeville."
+  },
+  {
+   "q": "Which essay by Hazlitt appears in Table-Talk?",
+   "options": [
+    "On the Prose Style of Poets",
+    "My First Acquaintance with Poets",
+    "On Gusto",
+    "The Indian Jugglers"
+   ],
+   "answer": 3,
+   "exp": "Indian Jugglers Table-Talk mein; On Gusto Round Table mein."
+  },
+  {
+   "q": "Hazlitt's Liber Amoris (1823) records his infatuation with:",
+   "options": [
+    "Fanny Brawne",
+    "Sarah Walker",
+    "Mary Lamb",
+    "Sarah Hutchinson"
+   ],
+   "answer": 1,
+   "exp": "Sarah Walker, lodging-house ki beti."
+  },
+  {
+   "q": "'Ann of Oxford Street' appears in:",
+   "options": [
+    "Essays of Elia",
+    "The Spirit of the Age",
+    "Confessions of an English Opium-Eater",
+    "Liber Amoris"
+   ],
+   "answer": 2,
+   "exp": "De Quincey ki Confessions."
+  },
+  {
+   "q": "'The Vision of Sudden Death' and 'Dream-Fugue' belong to De Quincey's:",
+   "options": [
+    "The English Mail-Coach",
+    "Confessions of an English Opium-Eater",
+    "Suspiria de Profundis",
+    "Recollections of the Lake Poets"
+   ],
+   "answer": 0,
+   "exp": "English Mail-Coach (1849)."
+  },
+  {
+   "q": "'Close thy Byron; open thy Goethe' is advice given in:",
+   "options": [
+    "Chartism",
+    "Past and Present",
+    "Sartor Resartus",
+    "On Heroes, Hero-Worship and the Heroic in History"
+   ],
+   "answer": 2,
+   "exp": "Sartor ka 'Everlasting Yea' chapter."
+  },
+  {
+   "q": "Abbot Samson of Bury St Edmunds is presented as an ideal ruler in Carlyle's:",
+   "options": [
+    "The French Revolution",
+    "Sartor Resartus",
+    "Past and Present",
+    "Latter-Day Pamphlets"
+   ],
+   "answer": 2,
+   "exp": "Past and Present (1843)."
+  },
+  {
+   "q": "Carlyle called which subject 'the dismal science'?",
+   "options": [
+    "Statistics",
+    "Utilitarian ethics",
+    "Political economy",
+    "Theology"
+   ],
+   "answer": 2,
+   "exp": "Economics = dismal science (1849)."
+  },
+  {
+   "q": "'The Roots of Honour' and 'Ad Valorem' are essays in Ruskin's:",
+   "options": [
+    "The Crown of Wild Olive",
+    "Sesame and Lilies",
+    "Unto This Last",
+    "Munera Pulveris"
+   ],
+   "answer": 2,
+   "exp": "Unto This Last ke 4 essays: Roots of Honour, Veins of Wealth, Qui Judicatis Terram, Ad Valorem."
+  },
+  {
+   "q": "Ruskin's 'Of Queens' Gardens' deals mainly with:",
+   "options": [
+    "Gothic architecture",
+    "political economy",
+    "the education and role of women",
+    "Turner's landscapes"
+   ],
+   "answer": 2,
+   "exp": "Sesame and Lilies ka doosra lecture, auraton par."
+  },
+  {
+   "q": "Which essay opens Arnold's Essays in Criticism, First Series (1865)?",
+   "options": [
+    "The Function of Criticism at the Present Time",
+    "The Study of Poetry",
+    "Wordsworth",
+    "Sweetness and Light"
+   ],
+   "answer": 0,
+   "exp": "First Series 'Function of Criticism' se khulti hai."
+  },
+  {
+   "q": "According to Arnold in 'The Study of Poetry', Chaucer lacks:",
+   "options": [
+    "high seriousness",
+    "gusto",
+    "the grand style of melody",
+    "wit"
+   ],
+   "answer": 0,
+   "exp": "Chaucer mein 'high seriousness' nahi - Arnold."
+  },
+  {
+   "q": "Arnold's Rede Lecture 'Literature and Science' (1882) was a reply to:",
+   "options": [
+    "J. S. Mill",
+    "T. H. Huxley",
+    "Herbert Spencer",
+    "Charles Darwin"
+   ],
+   "answer": 1,
+   "exp": "Huxley ke 'Science and Culture' (1880) ka jawab."
+  },
+  {
+   "q": "Newman delivered the discourses of The Idea of a University as rector of:",
+   "options": [
+    "the Birmingham Oratory",
+    "the Catholic University in Dublin",
+    "Oriel College, Oxford",
+    "Maynooth College"
+   ],
+   "answer": 1,
+   "exp": "Dublin ki Catholic University, 1852."
+  },
+  {
+   "q": "The Oxford Movement is traditionally dated from Keble's sermon:",
+   "options": [
+    "The Christian Year",
+    "Tract 90",
+    "Lead, Kindly Light",
+    "National Apostasy"
+   ],
+   "answer": 3,
+   "exp": "Keble ka Assize Sermon 'National Apostasy', 14 July 1833."
+  },
+  {
+   "q": "In his Autobiography, Mill says his mental crisis was relieved chiefly by the poetry of:",
+   "options": [
+    "Byron",
+    "Shelley",
+    "Coleridge",
+    "Wordsworth"
+   ],
+   "answer": 3,
+   "exp": "Wordsworth ki kavita se Mill theek hua."
+  },
+  {
+   "q": "Pater's Marius the Epicurean is set in:",
+   "options": [
+    "Rome in the age of Marcus Aurelius",
+    "Renaissance Florence",
+    "Victorian Oxford",
+    "Athens of Pericles"
+   ],
+   "answer": 0,
+   "exp": "Marcus Aurelius ka Rome."
+  },
+  {
+   "q": "Which work contains the line 'Ignorance is the first requisite of the historian'?",
+   "options": [
+    "Eminent Victorians",
+    "Queen Victoria",
+    "Landmarks in French Literature",
+    "Elizabeth and Essex"
+   ],
+   "answer": 0,
+   "exp": "Strachey ki Eminent Victorians ki preface."
+  },
+  {
+   "q": "Woolf borrowed the phrase 'the Angel in the House' from:",
+   "options": [
+    "Christina Rossetti",
+    "John Ruskin",
+    "Alfred Tennyson",
+    "Coventry Patmore"
+   ],
+   "answer": 3,
+   "exp": "Patmore ki kavita 'The Angel in the House'."
+  },
+  {
+   "q": "Orwell's 'Such, Such Were the Joys' recalls his days at:",
+   "options": [
+    "the Burma police training school",
+    "St Cyprian's preparatory school",
+    "Eton College",
+    "the POUM barracks"
+   ],
+   "answer": 1,
+   "exp": "St Cyprian's prep school ki yaadein."
+  },
+  {
+   "q": "'A Free Man's Worship' by Russell is collected in:",
+   "options": [
+    "Portraits from Memory",
+    "In Praise of Idleness",
+    "Unpopular Essays",
+    "Mysticism and Logic"
+   ],
+   "answer": 3,
+   "exp": "Mysticism and Logic (1918)."
+  },
+  {
+   "q": "C. P. Snow's 'The Two Cultures' (1959) was famously attacked by:",
+   "options": [
+    "Raymond Williams",
+    "Aldous Huxley",
+    "F. R. Leavis",
+    "T. S. Eliot"
+   ],
+   "answer": 2,
+   "exp": "Leavis ka Richmond Lecture 1962."
+  },
+  {
+   "q": "Who called Emerson's 'The American Scholar' America's 'intellectual Declaration of Independence'?",
+   "options": [
+    "James Russell Lowell",
+    "Walt Whitman",
+    "Oliver Wendell Holmes Sr.",
+    "Henry David Thoreau"
+   ],
+   "answer": 2,
+   "exp": "Holmes ne kaha tha."
+  },
+  {
+   "q": "Match the periodical with its founder/editor. List I: (a) The Tatler; (b) The Rambler; (c) The Examiner (1808); (d) The Criterion || List II: (i) Samuel Johnson; (ii) Leigh Hunt; (iii) T. S. Eliot; (iv) Richard Steele",
+   "options": [
+    "a-ii, b-i, c-iv, d-iii",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-i, b-iv, c-ii, d-iii",
+    "a-iv, b-i, c-iii, d-ii"
+   ],
+   "answer": 1,
+   "exp": "Tatler-Steele, Rambler-Johnson, Examiner-Hunt, Criterion-Eliot."
+  },
+  {
+   "q": "Match the work with its author. List I: (a) The Anatomy of Melancholy; (b) The Compleat Angler; (c) Leviathan; (d) Holy Dying || List II: (i) Thomas Hobbes; (ii) Jeremy Taylor; (iii) Robert Burton; (iv) Izaak Walton",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-ii, b-iv, c-i, d-iii"
+   ],
+   "answer": 2,
+   "exp": "Burton, Walton, Hobbes, Taylor."
+  },
+  {
+   "q": "Match the essay with the essayist. List I: (a) On Gusto; (b) The Superannuated Man; (c) On Murder Considered as One of the Fine Arts; (d) An Apology for Idlers || List II: (i) Charles Lamb; (ii) R. L. Stevenson; (iii) William Hazlitt; (iv) Thomas De Quincey",
+   "options": [
+    "a-iv, b-i, c-iii, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-iii, b-i, c-ii, d-iv",
+    "a-i, b-iii, c-iv, d-ii"
+   ],
+   "answer": 1,
+   "exp": "Gusto-Hazlitt, Superannuated-Lamb, Murder-De Quincey, Idlers-Stevenson."
+  },
+  {
+   "q": "Match Arnold's terms in Culture and Anarchy with their meanings. List I: (a) Barbarians; (b) Philistines; (c) Populace; (d) Hellenism || List II: (i) the middle class; (ii) spontaneity of consciousness; (iii) the aristocracy; (iv) the working class",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iv, b-i, c-iii, d-ii",
+    "a-i, b-iii, c-iv, d-ii",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "answer": 3,
+   "exp": "Barbarians aristocracy, Philistines middle class, Populace working class, Hellenism spontaneity."
+  },
+  {
+   "q": "Match the autobiography with its author. List I: (a) Apologia Pro Vita Sua; (b) Praeterita; (c) Father and Son; (d) Autobiography (1873) || List II: (i) Edmund Gosse; (ii) J. S. Mill; (iii) J. H. Newman; (iv) John Ruskin",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Newman, Ruskin, Gosse, Mill."
+  },
+  {
+   "q": "Match the work with the Indian writer. List I: (a) Gulamgiri; (b) Poverty and Un-British Rule in India; (c) Gita Rahasya; (d) The High-Caste Hindu Woman || List II: (i) Bal Gangadhar Tilak; (ii) Pandita Ramabai; (iii) Jotirao Phule; (iv) Dadabhai Naoroji",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 2,
+   "exp": "Phule, Naoroji, Tilak, Ramabai."
+  },
+  {
+   "q": "Match the Dalit autobiography with its author. List I: (a) Joothan; (b) Karukku; (c) Akkarmashi; (d) Baluta || List II: (i) Daya Pawar; (ii) Bama; (iii) Omprakash Valmiki; (iv) Sharankumar Limbale",
+   "options": [
+    "a-iii, b-ii, c-i, d-iv",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-iii, b-ii, c-iv, d-i"
+   ],
+   "answer": 3,
+   "exp": "Joothan-Valmiki, Karukku-Bama, Akkarmashi-Limbale, Baluta-Pawar."
+  },
+  {
+   "q": "Match the travel book with the region it describes. List I: (a) Eothen; (b) Travels in Arabia Deserta; (c) Journey Without Maps; (d) In Patagonia || List II: (i) Liberia; (ii) South America; (iii) the Ottoman Near East; (iv) Arabia",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-i, b-iv, c-iii, d-ii",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 0,
+   "exp": "Kinglake-Near East, Doughty-Arabia, Greene-Liberia, Chatwin-Patagonia."
+  },
+  {
+   "q": "Match the American work with its author. List I: (a) Walden; (b) The Souls of Black Folk; (c) Letters from an American Farmer; (d) Self-Reliance || List II: (i) R. W. Emerson; (ii) H. D. Thoreau; (iii) W. E. B. Du Bois; (iv) J. Hector St. John de Crevecoeur",
+   "options": [
+    "a-iii, b-ii, c-iv, d-i",
+    "a-i, b-iii, c-iv, d-ii",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-ii, b-iii, c-iv, d-i"
+   ],
+   "answer": 3,
+   "exp": "Thoreau, Du Bois, Crevecoeur, Emerson."
+  },
+  {
+   "q": "Match the quotation with its author. List I: (a) 'Good prose is like a window pane.'; (b) 'There is no wealth but life.'; (c) 'Life imitates Art far more than Art imitates Life.'; (d) 'Eloquence is heard; poetry is overheard.' || List II: (i) Oscar Wilde; (ii) J. S. Mill; (iii) George Orwell; (iv) John Ruskin",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-ii, b-iv, c-i, d-iii"
+   ],
+   "answer": 1,
+   "exp": "Orwell, Ruskin, Wilde, Mill."
+  },
+  {
+   "q": "Assertion (A): Bacon's essays are aphoristic and impersonal in manner. Reason (R): Bacon modelled his essays as intimate self-portraits in the manner of Montaigne.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2,
+   "exp": "A sahi; R galat - Bacon Montaigne jaise personal nahi the."
+  },
+  {
+   "q": "Assertion (A): Milton's Areopagitica opposes licensing of books before publication. Reason (R): Milton believed that Truth never loses in a free and open encounter with Falsehood.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0,
+   "exp": "Dono sahi aur R hi A ka kaaran hai."
+  },
+  {
+   "q": "Assertion (A): Lamb's Elia essays are regarded as classic familiar essays. Reason (R): Through the persona of Elia, Lamb shares his personal memories, whims and moods.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0,
+   "exp": "Personal yaadein hi unhe familiar essay banati hain."
+  },
+  {
+   "q": "Assertion (A): Ruskin's Unto This Last attacks the classical political economy of his day. Reason (R): Ruskin became the first Slade Professor of Fine Art at Oxford.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sahi, par R ka A se koi sambandh nahi."
+  },
+  {
+   "q": "Assertion (A): Johnson's Preface to Shakespeare defends the mingling of tragic and comic scenes. Reason (R): Johnson held that Shakespeare's greatness lay in his strict observance of the unities of time and place.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2,
+   "exp": "A sahi; R galat - Johnson ne unities of time and place ko reject kiya."
+  },
+  {
+   "q": "Assertion (A): A Room of One's Own grew out of lectures Woolf gave at two Oxford colleges. Reason (R): Woolf argues that a woman must have money and a room of her own if she is to write fiction.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3,
+   "exp": "Lectures Cambridge (Newnham, Girton) mein the, isliye A galat; R sahi."
+  },
+  {
+   "q": "Assertion (A): Gandhi's Hind Swaraj is a critique of modern Western civilisation. Reason (R): Hind Swaraj is cast as a dialogue between a Reader and an Editor.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sahi, par dialogue form critique ka kaaran nahi."
+  },
+  {
+   "q": "Assertion (A): Orwell's 'Shooting an Elephant' is set in British India's Punjab. Reason (R): Orwell served in the Indian Imperial Police in Burma.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3,
+   "exp": "Essay Burma (Moulmein) mein set hai, A galat; R sahi."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Areopagitica (ii) Leviathan (iii) Religio Medici (authorised edition) (iv) The Anatomy of Melancholy",
+   "options": [
+    "(iv), (iii), (ii), (i)",
+    "(iii), (iv), (i), (ii)",
+    "(iv), (i), (iii), (ii)",
+    "(iv), (iii), (i), (ii)"
+   ],
+   "answer": 3,
+   "exp": "Anatomy 1621, Religio 1643, Areopagitica 1644, Leviathan 1651."
+  },
+  {
+   "q": "Arrange in chronological order: (i) The Spectator (ii) The Rambler (iii) The Tatler (iv) The Idler",
+   "options": [
+    "(iii), (ii), (i), (iv)",
+    "(i), (iii), (ii), (iv)",
+    "(iii), (i), (iv), (ii)",
+    "(iii), (i), (ii), (iv)"
+   ],
+   "answer": 3,
+   "exp": "Tatler 1709, Spectator 1711, Rambler 1750, Idler 1758."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Essays of Elia (ii) Confessions of an English Opium-Eater (book) (iii) The Spirit of the Age (iv) The Round Table",
+   "options": [
+    "(iv), (ii), (i), (iii)",
+    "(iv), (i), (ii), (iii)",
+    "(ii), (iv), (i), (iii)",
+    "(iv), (ii), (iii), (i)"
+   ],
+   "answer": 0,
+   "exp": "Round Table 1817, Confessions 1822, Elia 1823, Spirit 1825."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Past and Present (ii) Signs of the Times (iii) Latter-Day Pamphlets (iv) The French Revolution",
+   "options": [
+    "(ii), (iv), (i), (iii)",
+    "(iv), (ii), (i), (iii)",
+    "(ii), (i), (iv), (iii)",
+    "(ii), (iv), (iii), (i)"
+   ],
+   "answer": 0,
+   "exp": "1829, 1837, 1843, 1850."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Culture and Anarchy (ii) On Translating Homer (iii) The Study of Poetry (iv) The Function of Criticism at the Present Time",
+   "options": [
+    "(ii), (i), (iv), (iii)",
+    "(ii), (iv), (i), (iii)",
+    "(ii), (iv), (iii), (i)",
+    "(iv), (ii), (i), (iii)"
+   ],
+   "answer": 1,
+   "exp": "1861, 1864, 1869, 1880."
+  },
+  {
+   "q": "Arrange in chronological order: (i) Three Guineas (ii) A Room of One's Own (iii) Mr. Bennett and Mrs. Brown (iv) The Common Reader",
+   "options": [
+    "(iii), (iv), (i), (ii)",
+    "(iv), (iii), (ii), (i)",
+    "(iii), (iv), (ii), (i)",
+    "(iii), (ii), (iv), (i)"
+   ],
+   "answer": 2,
+   "exp": "1924, 1925, 1929, 1938."
+  },
+  {
+   "q": "Arrange in chronological order: (i) The Discovery of India (ii) Hind Swaraj (iii) Annihilation of Caste (iv) The Autobiography of an Unknown Indian",
+   "options": [
+    "(iii), (ii), (i), (iv)",
+    "(ii), (iii), (i), (iv)",
+    "(ii), (iii), (iv), (i)",
+    "(ii), (i), (iii), (iv)"
+   ],
+   "answer": 1,
+   "exp": "1909, 1936, 1946, 1951."
+  },
+  {
+   "q": "Identify the correct statement.",
+   "options": [
+    "Florio translated Bacon's Essays into French.",
+    "Montaigne's Essais were first published in 1580.",
+    "Bacon's 1597 edition of the Essays contained 58 essays.",
+    "Bacon's New Atlantis was published in his lifetime in 1605."
+   ],
+   "answer": 1,
+   "exp": "Montaigne 1580 sahi; Bacon 1597 mein 10 essays, New Atlantis 1627 posthumous."
+  },
+  {
+   "q": "Identify the correct statement about The Spectator.",
+   "options": [
+    "Sir Roger de Coverley was first introduced by Steele in Spectator No. 2.",
+    "The Whig merchant of the Spectator Club is Will Honeycomb.",
+    "The Spectator was a monthly magazine.",
+    "Addison founded The Tatler in 1709."
+   ],
+   "answer": 0,
+   "exp": "Sir Roger Steele ne No. 2 mein banaya; Tatler Steele ka, Freeport Whig merchant, Spectator daily tha."
+  },
+  {
+   "q": "Identify the correct statement about Samuel Johnson.",
+   "options": [
+    "Boswell's Life of Johnson was published in 1785.",
+    "A Dictionary of the English Language appeared in 1765.",
+    "Rasselas was written to pay for his father's funeral.",
+    "Lives of the Poets contains fifty-two lives."
+   ],
+   "answer": 3,
+   "exp": "52 lives sahi; Rasselas maa ke funeral ke liye, Dictionary 1755, Life 1791."
+  },
+  {
+   "q": "Identify the correct statement about Victorian prose.",
+   "options": [
+    "Mill's The Subjection of Women was published in 1869.",
+    "Ruskin's Modern Painters began as a defence of Constable.",
+    "Pater's Studies in the History of the Renaissance appeared in 1893.",
+    "In Culture and Anarchy Arnold calls the aristocracy Philistines."
+   ],
+   "answer": 0,
+   "exp": "Subjection 1869 sahi; Modern Painters Turner ke liye, Renaissance 1873, aristocracy = Barbarians."
+  },
+  {
+   "q": "Identify the correct statement about George Orwell.",
+   "options": [
+    "'Politics and the English Language' lays down four rules.",
+    "Down and Out is set in Paris and Berlin.",
+    "Homage to Catalonia describes the Second World War.",
+    "He was born at Motihari in Bihar."
+   ],
+   "answer": 3,
+   "exp": "Motihari sahi; Catalonia Spanish Civil War, 6 rules, Paris aur London."
+  }
+ ]
+}

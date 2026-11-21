@@ -1,0 +1,774 @@
+{
+ "mcqs": [
+  {
+   "q": "'Culture is ordinary' (1958) is an essay by:",
+   "options": [
+    "Richard Hoggart",
+    "Raymond Williams",
+    "E. P. Thompson",
+    "Stuart Hall"
+   ],
+   "answer": 1,
+   "exp": "Raymond Williams's 1958 essay 'Culture is Ordinary' rejects the idea of culture as the possession of a cultivated minority."
+  },
+  {
+   "q": "Who described 'culture' as 'one of the two or three most complicated words in the English language'?",
+   "options": [
+    "Matthew Arnold",
+    "T. S. Eliot",
+    "F. R. Leavis",
+    "Raymond Williams"
+   ],
+   "answer": 3,
+   "exp": "The remark opens Williams's entry on 'Culture' in Keywords: A Vocabulary of Culture and Society (1976)."
+  },
+  {
+   "q": "Matthew Arnold's Culture and Anarchy (1869) divides English society into:",
+   "options": [
+    "Barbarians, Philistines and Populace",
+    "Aristocrats, Bourgeoisie and Proletariat",
+    "Hebraists, Hellenists and Barbarians",
+    "Elite, Masses and Minority"
+   ],
+   "answer": 0,
+   "exp": "Arnold calls the aristocracy Barbarians, the middle class Philistines and the working class the Populace."
+  },
+  {
+   "q": "F. R. Leavis's pamphlet Mass Civilisation and Minority Culture was published in:",
+   "options": [
+    "1919",
+    "1948",
+    "1930",
+    "1957"
+   ],
+   "answer": 2,
+   "exp": "Leavis published it in 1930 through the Minority Press, Cambridge. In it he argues that a small minority keeps cultural standards alive."
+  },
+  {
+   "q": "Policing the Crisis: Mugging, the State, and Law and Order (1978) was written by:",
+   "options": [
+    "Dick Hebdige and Angela McRobbie",
+    "Stuart Hall, Chas Critcher, Tony Jefferson, John Clarke and Brian Roberts",
+    "Richard Hoggart and Raymond Williams",
+    "Paul Willis and Phil Cohen"
+   ],
+   "answer": 1,
+   "exp": "This CCCS collective study by Hall and others reads the 1970s 'mugging' moral panic as a sign of a crisis of hegemony."
+  },
+  {
+   "q": "In 'Cultural Studies: Two Paradigms' (1980), Stuart Hall identifies the two paradigms as:",
+   "options": [
+    "Formalism and Marxism",
+    "Modernism and postmodernism",
+    "Textualism and ethnography",
+    "Culturalism and structuralism"
+   ],
+   "answer": 3,
+   "exp": "Hall sets the culturalism of Williams and Thompson against the structuralism of Lévi-Strauss and Althusser."
+  },
+  {
+   "q": "In 'Cultural Identity and Diaspora', Stuart Hall discusses Caribbean identity through three 'presences'. They are:",
+   "options": [
+    "Présence Africaine, Présence Européenne, Présence Américaine",
+    "Présence Indienne, Présence Chinoise, Présence Africaine",
+    "Présence Coloniale, Présence Nationale, Présence Globale",
+    "Présence Créole, Présence Noire, Présence Blanche"
+   ],
+   "answer": 0,
+   "exp": "Hall names the African, European and American (New World) presences as the elements of Caribbean cultural identity."
+  },
+  {
+   "q": "Stanley Cohen's Folk Devils and Moral Panics (1972) studied media reaction to the clashes between:",
+   "options": [
+    "Punks and skinheads",
+    "Teddy boys and Rastafarians",
+    "Mods and Rockers",
+    "Hippies and hooligans"
+   ],
+   "answer": 2,
+   "exp": "Cohen analysed the media's amplification of the 1964 seaside clashes between Mods and Rockers."
+  },
+  {
+   "q": "The subculture at the centre of Dick Hebdige's Subculture: The Meaning of Style (1979) is mainly:",
+   "options": [
+    "Punk",
+    "Hip-hop",
+    "Goth",
+    "Rave"
+   ],
+   "answer": 0,
+   "exp": "Hebdige reads punk style (safety pins, bin liners, the swastika) as semiotic resistance through bricolage."
+  },
+  {
+   "q": "Paul Willis's Learning to Labour (1977) studies a group of working-class schoolboys he calls:",
+   "options": [
+    "The mods",
+    "The lads",
+    "The ear'oles",
+    "The boys"
+   ],
+   "answer": 1,
+   "exp": "'The lads' are non-conformist boys whose counter-school culture leads them into working-class jobs. 'Ear'oles' is their word for the conformist pupils."
+  },
+  {
+   "q": "The 'Frankfurt School' is the informal name for the thinkers associated with:",
+   "options": [
+    "The Centre for Contemporary Cultural Studies",
+    "The Vienna Circle",
+    "The Prague Linguistic Circle",
+    "The Institute for Social Research"
+   ],
+   "answer": 3,
+   "exp": "The Institut für Sozialforschung was founded in Frankfurt in 1923. Its members included Horkheimer, Adorno, Marcuse and later Habermas."
+  },
+  {
+   "q": "'Repressive desublimation' is a concept from:",
+   "options": [
+    "Herbert Marcuse's One-Dimensional Man",
+    "Theodor Adorno's Minima Moralia",
+    "Walter Benjamin's Illuminations",
+    "Jürgen Habermas's Knowledge and Human Interests"
+   ],
+   "answer": 0,
+   "exp": "In One-Dimensional Man (1964), Marcuse argues that advanced capitalism neutralises dissent by permitting controlled release of desire."
+  },
+  {
+   "q": "According to Walter Benjamin's 'The Work of Art in the Age of Mechanical Reproduction', Fascism responds to the masses by:",
+   "options": [
+    "Politicizing art",
+    "Abolishing film",
+    "Aestheticizing politics",
+    "Restoring the aura"
+   ],
+   "answer": 2,
+   "exp": "The epilogue says that Fascism aestheticizes politics and Communism responds by politicizing art."
+  },
+  {
+   "q": "Walter Benjamin's unfinished study of nineteenth-century Parisian shopping passages, with its figure of the flâneur, is:",
+   "options": [
+    "The Origin of German Tragic Drama",
+    "One-Way Street",
+    "Illuminations",
+    "The Arcades Project"
+   ],
+   "answer": 3,
+   "exp": "The Arcades Project (Passagen-Werk) studies the Paris arcades, commodity culture and the flâneur, drawing on Baudelaire."
+  },
+  {
+   "q": "Who wrote The Structural Transformation of the Public Sphere (1962)?",
+   "options": [
+    "Jürgen Habermas",
+    "Hannah Arendt",
+    "Max Horkheimer",
+    "Herbert Marcuse"
+   ],
+   "answer": 0,
+   "exp": "Habermas traces how the bourgeois public sphere arose in 18th-century coffee houses and salons and later declined."
+  },
+  {
+   "q": "Gramsci contrasts 'traditional' intellectuals with:",
+   "options": [
+    "Public intellectuals",
+    "Organic intellectuals",
+    "Specific intellectuals",
+    "Universal intellectuals"
+   ],
+   "answer": 1,
+   "exp": "In the Prison Notebooks, organic intellectuals arise from a social class and give it homogeneity and awareness. Traditional intellectuals see themselves as autonomous."
+  },
+  {
+   "q": "Althusser illustrates interpellation through the scene of:",
+   "options": [
+    "A child seeing itself in a mirror",
+    "A priest hearing confession",
+    "A policeman hailing 'Hey, you there!'",
+    "A worker clocking in at a factory"
+   ],
+   "answer": 2,
+   "exp": "The individual who turns round at the hail recognises that it is addressed to him and so becomes a subject."
+  },
+  {
+   "q": "Foucault's account of the Panopticon in Discipline and Punish (1975) draws on an architectural design by:",
+   "options": [
+    "Jeremy Bentham",
+    "John Stuart Mill",
+    "Le Corbusier",
+    "Claude-Nicolas Ledoux"
+   ],
+   "answer": 0,
+   "exp": "Bentham designed the Panopticon as a prison in which a central watchman can see every inmate. Foucault makes it the diagram of disciplinary power."
+  },
+  {
+   "q": "Foucault's term for power exercised over life, through managing populations and bodies, is:",
+   "options": [
+    "Hegemony",
+    "Governmentality of the sign",
+    "Symbolic violence",
+    "Biopower"
+   ],
+   "answer": 3,
+   "exp": "Foucault develops biopower in The History of Sexuality, Vol. 1 (1976), in the section 'Right of Death and Power over Life'."
+  },
+  {
+   "q": "Edward Said's Orientalism (1978) takes the notion of 'discourse' chiefly from:",
+   "options": [
+    "Jacques Derrida",
+    "Michel Foucault",
+    "Louis Althusser",
+    "Roland Barthes"
+   ],
+   "answer": 1,
+   "exp": "Said draws on Foucault's notion of discourse in The Archaeology of Knowledge and Discipline and Punish, and on Gramsci's hegemony."
+  },
+  {
+   "q": "Homi Bhabha describes the colonial mimic as 'almost the same, but not quite' in:",
+   "options": [
+    "'DissemiNation'",
+    "'Signs Taken for Wonders'",
+    "'The Commitment to Theory'",
+    "'Of Mimicry and Man'"
+   ],
+   "answer": 3,
+   "exp": "'Of Mimicry and Man: The Ambivalence of Colonial Discourse', collected in The Location of Culture (1994)."
+  },
+  {
+   "q": "The 'Third Space' of enunciation and cultural hybridity are associated with:",
+   "options": [
+    "Homi K. Bhabha",
+    "Gayatri Chakravorty Spivak",
+    "Aijaz Ahmad",
+    "Frantz Fanon"
+   ],
+   "answer": 0,
+   "exp": "Bhabha's The Location of Culture (1994) argues that hybridity arises in a Third Space that unsettles fixed cultural identities."
+  },
+  {
+   "q": "Benedict Anderson links the rise of 'imagined communities' chiefly to:",
+   "options": [
+    "Religious revival",
+    "Print capitalism",
+    "Industrial warfare",
+    "Racial science"
+   ],
+   "answer": 1,
+   "exp": "In Imagined Communities (1983), print capitalism (newspapers and novels in vernaculars) lets strangers imagine themselves as one nation."
+  },
+  {
+   "q": "In The Invention of Tradition (1983), edited by Hobsbawm and Ranger, Hugh Trevor-Roper's essay argues that a 'traditional' symbol is a relatively recent invention. That symbol is:",
+   "options": [
+    "The British coronation",
+    "The Indian durbar",
+    "The Scottish Highland kilt and clan tartans",
+    "The Welsh eisteddfod"
+   ],
+   "answer": 2,
+   "exp": "Trevor-Roper's 'The Highland Tradition of Scotland' shows that the kilt and clan tartans are largely 18th–19th-century inventions."
+  },
+  {
+   "q": "Paul Gilroy's The Black Atlantic (1993) is subtitled:",
+   "options": [
+    "Modernity and Double Consciousness",
+    "Race, Nation and Diaspora",
+    "Music, Memory and Migration",
+    "Slavery and the Postcolonial"
+   ],
+   "answer": 0,
+   "exp": "Gilroy takes 'double consciousness' from W. E. B. Du Bois and uses the ship as a central chronotope."
+  },
+  {
+   "q": "Fredric Jameson describes postmodern pastiche as:",
+   "options": [
+    "Ironic parody",
+    "Blank parody",
+    "Mock-heroic imitation",
+    "Subversive mimicry"
+   ],
+   "answer": 1,
+   "exp": "In Postmodernism, or, the Cultural Logic of Late Capitalism (1991), pastiche is 'blank parody', imitation without parody's satiric impulse."
+  },
+  {
+   "q": "Lyotard's The Postmodern Condition (1979) is subtitled:",
+   "options": [
+    "An Essay on Simulation",
+    "A Critique of Cynical Reason",
+    "A Report on Knowledge",
+    "The Cultural Logic of Late Capitalism"
+   ],
+   "answer": 2,
+   "exp": "Lyotard wrote it as a report on knowledge in advanced societies, commissioned by the Conseil des universités of Quebec."
+  },
+  {
+   "q": "'The spectacle is not a collection of images, but a social relation among people, mediated by images.' The statement is by:",
+   "options": [
+    "Jean Baudrillard",
+    "Roland Barthes",
+    "Henri Lefebvre",
+    "Guy Debord"
+   ],
+   "answer": 3,
+   "exp": "This is Thesis 4 of Guy Debord's The Society of the Spectacle (1967)."
+  },
+  {
+   "q": "'I would rather be a cyborg than a goddess' concludes:",
+   "options": [
+    "Donna Haraway's 'A Cyborg Manifesto'",
+    "Judith Butler's Gender Trouble",
+    "Hélène Cixous's 'The Laugh of the Medusa'",
+    "Rosi Braidotti's Nomadic Subjects"
+   ],
+   "answer": 0,
+   "exp": "Haraway's 'A Manifesto for Cyborgs' (1985) ends with this line, against eco-feminist goddess imagery."
+  },
+  {
+   "q": "Clifford Geertz borrowed the term 'thick description' from:",
+   "options": [
+    "Bronisław Malinowski",
+    "Gilbert Ryle",
+    "Claude Lévi-Strauss",
+    "Max Weber"
+   ],
+   "answer": 1,
+   "exp": "Geertz adopts Ryle's term in 'Thick Description: Toward an Interpretive Theory of Culture', in The Interpretation of Cultures (1973)."
+  },
+  {
+   "q": "Ien Ang's Watching Dallas (English trans. 1985) studies:",
+   "options": [
+    "Fan fiction on the internet",
+    "Romance novel readers in the USA",
+    "Viewers' letters about an American TV soap opera",
+    "Advertising in women's magazines"
+   ],
+   "answer": 2,
+   "exp": "Ang analysed letters from Dutch viewers of Dallas. She describes the pleasures of the show and the 'ideology of mass culture' that viewers used to judge it."
+  },
+  {
+   "q": "Angela McRobbie's early CCCS study of ideologies of adolescent femininity analysed:",
+   "options": [
+    "Jackie magazine",
+    "Cosmopolitan",
+    "Coronation Street",
+    "Mills & Boon romances"
+   ],
+   "answer": 0,
+   "exp": "'Jackie: An Ideology of Adolescent Femininity' (1978) studied the British magazine for teenage girls."
+  },
+  {
+   "q": "The distinction between 'strategies' and 'tactics' in everyday practice is drawn by:",
+   "options": [
+    "Henri Lefebvre",
+    "Pierre Bourdieu",
+    "Erving Goffman",
+    "Michel de Certeau"
+   ],
+   "answer": 3,
+   "exp": "In The Practice of Everyday Life (1980), strategies belong to institutions with a 'proper' place. Tactics are the makeshift moves of the weak. He also calls reading 'poaching'."
+  },
+  {
+   "q": "Henry Jenkins's study of media fandom, which borrows de Certeau's idea of 'poaching', is:",
+   "options": [
+    "Convergence Culture",
+    "Textual Poachers",
+    "Fans, Bloggers, and Gamers",
+    "Spreadable Media"
+   ],
+   "answer": 1,
+   "exp": "Textual Poachers: Television Fans and Participatory Culture (1992)."
+  },
+  {
+   "q": "Neil Postman's Amusing Ourselves to Death (1985) argues that our media culture more closely fulfils the vision of:",
+   "options": [
+    "George Orwell's Nineteen Eighty-Four",
+    "H. G. Wells's The Time Machine",
+    "Aldous Huxley's Brave New World",
+    "Ray Bradbury's Fahrenheit 451"
+   ],
+   "answer": 2,
+   "exp": "Postman contrasts Orwell's fear of imposed oppression with Huxley's fear that people will come to love what oppresses them through entertainment. He finds Huxley closer to the truth."
+  },
+  {
+   "q": "Bakhtin develops the concept of the 'carnivalesque' chiefly in:",
+   "options": [
+    "Rabelais and His World",
+    "Problems of Dostoevsky's Poetics",
+    "The Dialogic Imagination",
+    "Toward a Philosophy of the Act"
+   ],
+   "answer": 0,
+   "exp": "Rabelais and His World (written 1940, published 1965) treats carnival as the temporary overturning of official hierarchies."
+  },
+  {
+   "q": "Ranajit Guha and the Subaltern Studies historians took the term 'subaltern' from:",
+   "options": [
+    "Frantz Fanon",
+    "Karl Marx",
+    "Mahatma Gandhi",
+    "Antonio Gramsci"
+   ],
+   "answer": 3,
+   "exp": "Gramsci used 'subaltern classes' in the Prison Notebooks for groups shut out of hegemonic power."
+  },
+  {
+   "q": "The term 'strategic essentialism' is associated with:",
+   "options": [
+    "Gayatri Chakravorty Spivak",
+    "Luce Irigaray",
+    "Chandra Talpade Mohanty",
+    "Kimberlé Crenshaw"
+   ],
+   "answer": 0,
+   "exp": "Spivak used it in the mid-1980s (notably in relation to Subaltern Studies) for the provisional, political use of a group identity."
+  },
+  {
+   "q": "bell hooks's essay 'The Oppositional Gaze' appears in:",
+   "options": [
+    "Ain't I a Woman",
+    "Black Looks: Race and Representation",
+    "Feminist Theory: From Margin to Center",
+    "Talking Back"
+   ],
+   "answer": 1,
+   "exp": "'The Oppositional Gaze: Black Female Spectators' is in Black Looks (1992). It answers Mulvey's account of the gaze."
+  },
+  {
+   "q": "Said's method of 'contrapuntal reading' is proposed in:",
+   "options": [
+    "Orientalism",
+    "The World, the Text, and the Critic",
+    "Culture and Imperialism",
+    "Covering Islam"
+   ],
+   "answer": 2,
+   "exp": "Culture and Imperialism (1993) reads canonical texts such as Mansfield Park alongside the imperial histories they mute."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Work): A. Orientalism  B. The Location of Culture  C. Imagined Communities  D. The Black Atlantic\nList II (Author): I. Homi K. Bhabha  II. Edward Said  III. Paul Gilroy  IV. Benedict Anderson\nChoose the correct answer:",
+   "options": [
+    "A-II, B-IV, C-III, D-I",
+    "A-II, B-I, C-IV, D-III",
+    "A-I, B-IV, C-II, D-III",
+    "A-I, B-II, C-IV, D-III"
+   ],
+   "answer": 1,
+   "exp": "Orientalism (1978) is Said's; The Location of Culture (1994) Bhabha's; Imagined Communities (1983) Anderson's; The Black Atlantic (1993) Gilroy's."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Concept): A. Habitus  B. Panopticism  C. Carnivalesque  D. Thick description\nList II (Thinker): I. Clifford Geertz  II. Mikhail Bakhtin  III. Pierre Bourdieu  IV. Michel Foucault\nChoose the correct answer:",
+   "options": [
+    "A-III, B-IV, C-II, D-I",
+    "A-I, B-IV, C-II, D-III",
+    "A-IV, B-II, C-III, D-I",
+    "A-III, B-II, C-IV, D-I"
+   ],
+   "answer": 0,
+   "exp": "Habitus belongs to Bourdieu, panopticism to Foucault, the carnivalesque to Bakhtin, and thick description to Geertz."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Work): A. One-Dimensional Man  B. Minima Moralia  C. The Structural Transformation of the Public Sphere  D. Eclipse of Reason\nList II (Author): I. Theodor W. Adorno  II. Herbert Marcuse  III. Max Horkheimer  IV. Jürgen Habermas\nChoose the correct answer:",
+   "options": [
+    "A-I, B-II, C-IV, D-III",
+    "A-IV, B-II, C-I, D-III",
+    "A-II, B-I, C-IV, D-III",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 2,
+   "exp": "One-Dimensional Man (1964) is Marcuse's, Minima Moralia (1951) Adorno's, Structural Transformation (1962) Habermas's, and Eclipse of Reason (1947) Horkheimer's."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Idea): A. Incredulity toward metanarratives  B. Society of the spectacle  C. Precession of simulacra  D. Cultural logic of late capitalism\nList II (Thinker): I. Fredric Jameson  II. Jean-François Lyotard  III. Guy Debord  IV. Jean Baudrillard\nChoose the correct answer:",
+   "options": [
+    "A-I, B-III, C-IV, D-II",
+    "A-I, B-III, C-II, D-IV",
+    "A-III, B-II, C-IV, D-I",
+    "A-II, B-III, C-IV, D-I"
+   ],
+   "answer": 3,
+   "exp": "The ideas belong to Lyotard (The Postmodern Condition), Debord (The Society of the Spectacle), Baudrillard (Simulacra and Simulation) and Jameson (Postmodernism) respectively."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Work): A. Watching Dallas  B. Textual Poachers  C. Television Culture  D. Amusing Ourselves to Death\nList II (Author): I. John Fiske  II. Neil Postman  III. Henry Jenkins  IV. Ien Ang\nChoose the correct answer:",
+   "options": [
+    "A-IV, B-III, C-I, D-II",
+    "A-III, B-IV, C-I, D-II",
+    "A-II, B-III, C-I, D-IV",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 0,
+   "exp": "Watching Dallas is by Ang, Textual Poachers (1992) by Jenkins, Television Culture (1987) by Fiske, and Amusing Ourselves to Death (1985) by Postman."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Work): A. The Intimate Enemy  B. Provincializing Europe  C. The Nation and Its Fragments  D. Masks of Conquest\nList II (Author): I. Partha Chatterjee  II. Ashis Nandy  III. Gauri Viswanathan  IV. Dipesh Chakrabarty\nChoose the correct answer:",
+   "options": [
+    "A-III, B-II, C-I, D-IV",
+    "A-II, B-IV, C-I, D-III",
+    "A-II, B-IV, C-III, D-I",
+    "A-I, B-IV, C-III, D-II"
+   ],
+   "answer": 1,
+   "exp": "The Intimate Enemy (1983) is Nandy's, Provincializing Europe (2000) Chakrabarty's, The Nation and Its Fragments (1993) Chatterjee's, and Masks of Conquest (1989) Viswanathan's."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Term): A. Colonial mimicry  B. Contrapuntal reading  C. Strategic essentialism  D. Double consciousness\nList II (Thinker): I. Gayatri Chakravorty Spivak  II. W. E. B. Du Bois  III. Homi K. Bhabha  IV. Edward Said\nChoose the correct answer:",
+   "options": [
+    "A-I, B-III, C-IV, D-II",
+    "A-I, B-IV, C-II, D-III",
+    "A-III, B-IV, C-I, D-II",
+    "A-I, B-IV, C-III, D-II"
+   ],
+   "answer": 2,
+   "exp": "Mimicry is Bhabha's term, contrapuntal reading Said's, strategic essentialism Spivak's, and double consciousness Du Bois's (The Souls of Black Folk, 1903)."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Work): A. Gender Trouble  B. 'A Cyborg Manifesto'  C. 'The Oppositional Gaze'  D. Technologies of Gender\nList II (Author): I. Donna Haraway  II. bell hooks  III. Teresa de Lauretis  IV. Judith Butler\nChoose the correct answer:",
+   "options": [
+    "A-II, B-III, C-IV, D-I",
+    "A-III, B-II, C-I, D-IV",
+    "A-IV, B-III, C-II, D-I",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 3,
+   "exp": "Gender Trouble (1990) is Butler's, 'A Cyborg Manifesto' (1985) Haraway's, 'The Oppositional Gaze' (1992) hooks's, and Technologies of Gender (1987) de Lauretis's."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Work): A. Culture and Anarchy  B. Mass Civilisation and Minority Culture  C. The Uses of Literacy  D. Culture and Society 1780–1950\nList II (Year): I. 1957  II. 1869  III. 1958  IV. 1930\nChoose the correct answer:",
+   "options": [
+    "A-II, B-IV, C-I, D-III",
+    "A-IV, B-II, C-I, D-III",
+    "A-I, B-II, C-IV, D-III",
+    "A-IV, B-III, C-I, D-II"
+   ],
+   "answer": 0,
+   "exp": "Arnold's Culture and Anarchy appeared in 1869, Leavis's pamphlet in 1930, Hoggart's The Uses of Literacy in 1957, and Williams's Culture and Society in 1958."
+  },
+  {
+   "q": "Match List I with List II:\nList I (Thinker): A. Jürgen Habermas  B. Michel de Certeau  C. Zygmunt Bauman  D. Ulrich Beck\nList II (Concept): I. Liquid modernity  II. Public sphere  III. Risk society  IV. Tactics of everyday life\nChoose the correct answer:",
+   "options": [
+    "A-II, B-IV, C-III, D-I",
+    "A-II, B-IV, C-I, D-III",
+    "A-II, B-I, C-IV, D-III",
+    "A-I, B-II, C-IV, D-III"
+   ],
+   "answer": 1,
+   "exp": "The public sphere is Habermas's concept, tactics de Certeau's, liquid modernity (2000) Bauman's, and risk society (1986) Beck's."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): For Stuart Hall, the meaning of a television message is not fixed at the moment of encoding.\nReason (R): Decoding draws on frameworks of knowledge, relations of production and technical infrastructure that may differ from those of encoding.\nChoose the correct answer:",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Hall argues that encoding and decoding are not symmetrical because they draw on different frameworks. That lack of fit is why meaning stays open, so R explains A."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): Gramsci's hegemony secures the dominance of a class through consent as well as coercion.\nReason (R): For Gramsci, civil society plays no part in maintaining ruling-class power.\nChoose the correct answer:",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "A is true. R is false: for Gramsci, civil society (church, schools, press) is the very terrain where consent is organised."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): Adorno argues that popular music is standardized.\nReason (R): Adorno argues that 'pseudo-individualization' gives standardized songs an appearance of free choice and novelty.\nChoose the correct answer:",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Both claims come from 'On Popular Music' (1941). Pseudo-individualization disguises standardization but does not explain why music is standardized; Adorno traces that to industrial mass production."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): Said holds that Orientalism is merely an airy European fantasy about the Orient.\nReason (R): Said treats Orientalism as a discourse bound up with institutions of colonial power and knowledge.\nChoose the correct answer:",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Said says explicitly that Orientalism is not 'an airy European fantasy about the Orient' but a created body of theory and practice. So A is false and R is true."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): Benedict Anderson defines the nation as an 'imagined' political community.\nReason (R): Members of even the smallest nation will never know most of their fellow-members, yet in the minds of each lives the image of their communion.\nChoose the correct answer:",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "R is Anderson's own explanation, in Imagined Communities, of why the nation is 'imagined'."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): Bhabha regards colonial mimicry as ambivalent, at once resemblance and menace.\nReason (R): Bhabha holds that colonial discourse is fully stable, unified and secure in its authority.\nChoose the correct answer:",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "A is true. R is false: Bhabha argues that colonial authority is split and anxious, and mimicry exposes that instability."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): Baudrillard argues that Disneyland is the only hyperreal space in America, while the rest of the country remains real.\nReason (R): For Baudrillard, Disneyland is presented as imaginary in order to make us believe that the rest is real.\nChoose the correct answer:",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "In Simulacra and Simulation, Disneyland conceals that all of 'real' America is itself hyperreal. A misstates him; R is his claim."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): Foucault presents the Panopticon as a model of disciplinary power in modern society.\nReason (R): The Panopticon was originally an architectural design for a prison proposed by Jeremy Bentham.\nChoose the correct answer:",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Both are true, but Bentham's authorship does not explain why Foucault takes it as a model. That rests on visibility producing self-surveillance."
+  },
+  {
+   "q": "Arrange the following in chronological order of publication:\nA. The Long Revolution  B. Culture and Anarchy  C. Notes Towards the Definition of Culture  D. Mass Civilisation and Minority Culture\nChoose the correct answer:",
+   "options": [
+    "B, C, D, A",
+    "D, B, C, A",
+    "B, D, C, A",
+    "B, D, A, C"
+   ],
+   "answer": 2,
+   "exp": "The order is Arnold, Culture and Anarchy (1869); Leavis, Mass Civilisation and Minority Culture (1930); Eliot, Notes Towards the Definition of Culture (1948); Williams, The Long Revolution (1961)."
+  },
+  {
+   "q": "Arrange the following in chronological order of publication:\nA. Imagined Communities  B. Provincializing Europe  C. Orientalism  D. The Location of Culture\nChoose the correct answer:",
+   "options": [
+    "A, C, D, B",
+    "C, D, A, B",
+    "C, A, B, D",
+    "C, A, D, B"
+   ],
+   "answer": 3,
+   "exp": "The order is Orientalism (1978), Imagined Communities (1983), The Location of Culture (1994), Provincializing Europe (2000)."
+  },
+  {
+   "q": "Arrange the following in chronological order:\nA. Publication of Dialectic of Enlightenment (Querido, Amsterdam)  B. Founding of the Institute for Social Research, Frankfurt  C. One-Dimensional Man  D. Benjamin's 'The Work of Art in the Age of Mechanical Reproduction'\nChoose the correct answer:",
+   "options": [
+    "B, A, D, C",
+    "B, D, A, C",
+    "D, B, A, C",
+    "B, D, C, A"
+   ],
+   "answer": 1,
+   "exp": "The order is the Institute's founding (1923), Benjamin's essay (1935–36), Dialectic of Enlightenment in print (1947; mimeographed 1944), and One-Dimensional Man (1964)."
+  },
+  {
+   "q": "Arrange the following in chronological order of publication:\nA. Simulacra and Simulation  B. Postmodernism, or, the Cultural Logic of Late Capitalism (book)  C. The Society of the Spectacle  D. The Postmodern Condition\nChoose the correct answer:",
+   "options": [
+    "C, A, D, B",
+    "D, C, A, B",
+    "C, D, B, A",
+    "C, D, A, B"
+   ],
+   "answer": 3,
+   "exp": "The order is Debord (1967), Lyotard (1979), Baudrillard (1981), and Jameson's book (1991; the essay appeared in 1984)."
+  },
+  {
+   "q": "Arrange the following Birmingham (CCCS) related texts in chronological order:\nA. Subculture: The Meaning of Style  B. 'Encoding and Decoding in the Television Discourse'  C. Learning to Labour  D. Resistance through Rituals\nChoose the correct answer:",
+   "options": [
+    "B, C, D, A",
+    "D, B, C, A",
+    "B, D, C, A",
+    "B, D, A, C"
+   ],
+   "answer": 2,
+   "exp": "The order is Hall's encoding/decoding paper (1973), Resistance through Rituals (1975 as WPCS 7/8; book 1976), Willis (1977), Hebdige (1979)."
+  },
+  {
+   "q": "Arrange the following in chronological order of publication:\nA. Gender Trouble  B. 'Visual Pleasure and Narrative Cinema'  C. Black Looks: Race and Representation  D. 'A Cyborg Manifesto'\nChoose the correct answer:",
+   "options": [
+    "B, A, D, C",
+    "B, D, A, C",
+    "D, B, A, C",
+    "B, D, C, A"
+   ],
+   "answer": 1,
+   "exp": "The order is Mulvey (1975), Haraway (1985), Butler (1990), hooks (1992)."
+  },
+  {
+   "q": "Arrange the following in chronological order of publication:\nA. Masks of Conquest  B. Nationalist Thought and the Colonial World  C. Subaltern Studies I  D. The Intimate Enemy\nChoose the correct answer:",
+   "options": [
+    "D, C, B, A",
+    "C, B, D, A",
+    "C, D, A, B",
+    "C, D, B, A"
+   ],
+   "answer": 3,
+   "exp": "The order is Subaltern Studies I (1982), Nandy (1983), Chatterjee (1986), Viswanathan (1989)."
+  },
+  {
+   "q": "Which of the following statements about the Centre for Contemporary Cultural Studies (CCCS) are correct?\nA. It was founded in 1964 at the University of Birmingham.\nB. Richard Hoggart was its first director.\nC. Raymond Williams succeeded Hoggart as its director.\nD. It was closed by the University of Birmingham in 2002.\nChoose the correct answer:",
+   "options": [
+    "A, B and C only",
+    "A and D only",
+    "A, B and D only",
+    "B, C and D only"
+   ],
+   "answer": 2,
+   "exp": "C is false: Stuart Hall followed Hoggart and was director in the 1970s, and Williams was never its director. The university closed the Centre (by then a department) in 2002."
+  },
+  {
+   "q": "Which of the following statements about Benjamin's 'The Work of Art in the Age of Mechanical Reproduction' is correct?",
+   "options": [
+    "It links the aura to the work's unique presence in time and space",
+    "It argues that photography strengthens the aura of the original",
+    "It was written at the Birmingham Centre for Contemporary Cultural Studies",
+    "It denies film any political potential"
+   ],
+   "answer": 0,
+   "exp": "For Benjamin, the aura comes from the original's unique existence in time and space, which reproduction withers. He sees revolutionary potential in film."
+  },
+  {
+   "q": "Which of the following statements about Antonio Gramsci are correct?\nA. He wrote the Prison Notebooks while imprisoned by Mussolini's Fascist regime.\nB. He coined the term 'culture industry'.\nC. He distinguished between 'civil society' and 'political society'.\nD. He was a founding member of the Communist Party of Italy (1921).\nChoose the correct answer:",
+   "options": [
+    "A and B only",
+    "A, C and D only",
+    "B, C and D only",
+    "A, B, C and D"
+   ],
+   "answer": 1,
+   "exp": "B is false: Adorno and Horkheimer coined 'culture industry' in Dialectic of Enlightenment."
+  },
+  {
+   "q": "Which of the following statements about Edward Said are correct?\nA. Orientalism was published in 1978.\nB. Said was born in Jerusalem.\nC. Orientalism is chiefly a study of British representations of India.\nD. Said coined the term 'hybridity' in postcolonial theory.\nChoose the correct answer:",
+   "options": [
+    "A and C only",
+    "B and D only",
+    "A and B only",
+    "A, B and C only"
+   ],
+   "answer": 2,
+   "exp": "C is false: Orientalism deals mainly with Anglo-French and American representations of the Arab-Islamic Orient. D is false: hybridity is associated with Bhabha."
+  },
+  {
+   "q": "Which of the following statements about Benedict Anderson's Imagined Communities is correct?",
+   "options": [
+    "It treats nations as ancient and primordial entities",
+    "It was first published in 1993",
+    "It argues that the nation is imagined as boundless, embracing all humanity",
+    "It argues that the nation is imagined as both inherently limited and sovereign"
+   ],
+   "answer": 3,
+   "exp": "Anderson defines the nation as 'an imagined political community – and imagined as both inherently limited and sovereign' (1983). He stresses the nation's modernity."
+  }
+ ]
+}

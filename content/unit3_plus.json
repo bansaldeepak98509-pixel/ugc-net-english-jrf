@@ -1,0 +1,2590 @@
+{
+ "id": 3,
+ "pyq_focus": [
+  "Unit 3 se NET mein sabse zyada author-work matching aata hai: kaun sa novel kisne likha aur kab.",
+  "Characters ko novel se match karna (Becky Sharp, Heathcliff, Okonkwo, Saleem Sinai) har cycle ka favourite hai.",
+  "Chronology questions: Dickens, Hardy, Woolf, Achebe aur 18th century novels ka order yaad rakho, approx decade kaafi hai.",
+  "Famous opening lines aur epigraphs (Call me Ishmael, It is a truth universally acknowledged) baar baar pooche gaye hain.",
+  "Booker aur Nobel winners, khaas kar Indian aur African writers, saal ke saath ratt lo.",
+  "Narrative theory: Forster (story vs plot, flat vs round), Booth (unreliable narrator), Genette, Bakhtin, Watt ke terms zaroor padho.",
+  "Short story mein Poe ka single effect, Gogol, Maupassant, Chekhov, O. Henry, Mansfield aur Indian writers (Premchand, Manto, Narayan) aate hain.",
+  "Indian English novel (Big Three, Partition novels, Rushdie ke baad wale) se 2-3 sawal pakke hote hain.",
+  "Taiyari ka tareeka: har author ki 3-4 main works, 1 character, 1 famous line ka chhota card banao aur roz 20 MCQ lagao."
+ ],
+ "easy": [
+  {
+   "title": "Precursors and the Rise of the Novel",
+   "story": "Novel ek naya khilona tha jo 18th century England mein aaya. Pehle log lambi allegory padhte the, jaise Bunyan ki The Pilgrim's Progress. Phir Defoe ne Robinson Crusoe likha, ek aadmi jo island par akela reh gaya, bilkul real lagne wali kahani. Richardson ne Pamela likha, poori kahani chitthiyon mein, jaise WhatsApp chats padh rahe ho. Fielding ko Pamela pasand nahi aaya, toh usne Shamela naam se uska mazaak udaya aur phir Joseph Andrews aur Tom Jones likhe. Sterne ki Tristram Shandy itni ulti-seedhi hai ki hero ka janam bhi der se hota hai.",
+   "trick": "DRF = Defoe, Richardson, Fielding, jaise DRF ki teen bhai ki dukaan: Crusoe (1719), Pamela (1740), Tom Jones (1749). Ian Watt ne inhi teen par Rise of the Novel (1957) likhi."
+  },
+  {
+   "title": "Later 18th Century: Gothic, Sentimental and Romantic-era Fiction",
+   "story": "Socho ek purana haveli jahan raat ko darwaze apne aap khulte hain, yahi Gothic novel hai. Walpole ki The Castle of Otranto (1764) pehla Gothic novel tha. Radcliffe darr dikhati thi par end mein sab samjha deti thi, isko explained supernatural kehte hain. Phir Jane Austen aayi jo gaon ke 3-4 parivaron ki shaadi aur samajh ki kahaniyan likhti thi, jaise mohalle ki aunty jo sab jaanti hai. Walter Scott ne Waverley se historical novel shuru kiya. Mary Shelley ne Frankenstein mein ek scientist dikhaya jo naya insaan bana deta hai.",
+   "trick": "Gothic order: Otranto-Vathek-Udolpho-Monk = 'O Very Ugly Monk' (1764, 1786, 1794, 1796). Austen ke 6 novels: 'Sense Pride Mansfield Emma, Northanger Persuasion' = SPM-E-NP."
+  },
+  {
+   "title": "Victorian Novel I: Dickens, Thackeray, Brontes, Gaskell",
+   "story": "Victorian England mein factories, garibi aur bachche kaam karte the. Dickens ne in sab par bade bade novels likhe jo magazines mein kisto mein chhapte the, jaise TV serial ke episodes. Oliver Twist khana maangta hai, Pip ko ameer banne ke sapne dikhte hain. Thackeray ki Vanity Fair mein koi hero hi nahi, bas chalak Becky Sharp. Teen Bronte behnein mard naam (Currer, Ellis, Acton Bell) se likhti thi, jaise ghar ki ladkiyan ghoonghat mein. Gaskell ne mill workers ki dukh bhari zindagi dikhayi.",
+   "trick": "Bronte naam: C-E-A = Currer, Ellis, Acton: Charlotte-Jane Eyre, Emily-Wuthering Heights, Anne-Agnes Grey. Teeno 1847 mein, '47 ki teen behnein'."
+  },
+  {
+   "title": "Victorian Novel II: Eliot, Trollope, Hardy and Late Victorians",
+   "story": "George Eliot asal mein ek aurat thi, Mary Ann Evans, jisne mard naam rakha taaki log seriously padhein. Uska Middlemarch ek pura chhota shehar dikhata hai, jaise poore mohalle ka CCTV. Hardy ne Wessex naam ka nakli ilaaka banaya aur wahan kismat se haare logon ki kahaniyan likhi. Tess aur Jude ke saath itna bura hua ki log naraz ho gaye, aur Hardy ne novel likhna chhod kar poetry pakad li. Late Victorian zamane mein Dracula, Dr Jekyll aur Dorian Gray jaise darawne aur ajeeb kirdaar aaye.",
+   "trick": "Hardy order: 'Far Return Mayor Tess Jude' = 'Far se Return karke Mayor ne Tess aur Jude ko dekha' (1874, 1878, 1886, 1891, 1895)."
+  },
+  {
+   "title": "Transition: James, Conrad and the Edwardians",
+   "story": "Yeh 1900 ke aas paas ka bridge hai, purane Victorian aur naye Modernist novel ke beech. Henry James Americans ko Europe bhejta tha aur dekhta tha unke dimaag mein kya chal raha hai. Conrad, jo Polish tha, samundar aur Africa ki kahaniyan English mein likhta tha; Heart of Darkness mein Marlow Kurtz ko dhoondhne jata hai. Forster ne India par A Passage to India likha, jahan Marabar Caves mein kuch hua par pata nahi kya. Wells, Bennett aur Galsworthy bahar ki cheezein gin gin kar likhte the, isliye Woolf ne unko materialists kaha.",
+   "trick": "Conrad ka mantra 'to make you see' = Conrad ka chashma. Forster ka mantra 'Only connect' = Forster ka charger (Howards End, 1910)."
+  },
+  {
+   "title": "Modernist Novel: Joyce, Woolf, Lawrence",
+   "story": "Modernist novel mein kahani bahar kam aur dimaag ke andar zyada hoti hai. Jaise tum class mein baithe ho par dimaag mein ghar, khana, dost sab ghoom rahe hain, isko stream of consciousness kehte hain. Joyce ka Ulysses sirf ek din, 16 June 1904, Dublin mein chalta hai. Woolf ki Mrs Dalloway bhi ek din mein party ki taiyari karti hai. Lawrence ne maa-bete aur pyaar ke rishton par Sons and Lovers likha. Yeh writers purani seedhi kahani todkar nayi shape bana rahe the.",
+   "trick": "'J-W-L = Jaldi Woh Ladka': Joyce (Ulysses 1922), Woolf (Mrs Dalloway 1925), Lawrence (Sons and Lovers 1913). 1922 = Ulysses + The Waste Land, modernism ka 'magic year'."
+  },
+  {
+   "title": "1930s to Post-war British Fiction",
+   "story": "World War ke baad duniya darr aur sawalon se bhari thi. Orwell ne Animal Farm mein jaanwaron ke zariye bataya ki sarkar kaise dhoka deti hai, aur 1984 mein Big Brother sab dekh raha hai, jaise har gali mein camera. Golding ne Lord of the Flies mein dikhaya ki bachche bhi island par jungli ban jaate hain. Kingsley Amis aur Angry Young Men gusse wale middle class naujawan ki kahani likhte the. Murdoch, Lessing, Spark aur Fowles ne novel ko aur naye tareeke se likha.",
+   "trick": "Orwell ka 1949 aur 1984 ulta yaad rakho: '49 likha, 84 ka darr'. Golding ka Piggy ka chashma = aag, jab chashma toota toh civilisation tooti."
+  },
+  {
+   "title": "Contemporary British Fiction (1980s onward)",
+   "story": "1980 ke baad British novel mein bahar se aaye log aur purani history ko naye tareeke se dekhna shuru hua. Ishiguro ka butler Stevens apni yaadon mein khoya rehta hai, jaise dada ji jo purani naukri ki baat karte hain. McEwan ki Atonement mein ek ladki ka chhota sa jhooth sabki zindagi badal deta hai. Mantel ne Henry VIII ke darbar par trilogy likhi aur do baar Booker jeeti. Kai novels apne aap ko novel bata dete hain, isko metafiction kehte hain.",
+   "trick": "Double Booker queen = Mantel (Wolf Hall 2009, Bring Up the Bodies 2012): 'Mantel ne do baar mantel (trophy shelf) bhara'. Ishiguro Nobel 2017 = 'Ishi-17'."
+  },
+  {
+   "title": "American Novel: 19th Century to 1920",
+   "story": "America naya desh tha aur apni kahani dhoondh raha tha. Cooper ne jungle aur Native Americans ki kahani di, Hawthorne ne Puritan samaj mein ek aurat Hester ko laal 'A' pehna kar sharam dikhayi. Melville ka Captain Ahab ek safed whale ke peeche pagal hai, jaise koi ek cheez ke peeche sab kuch lutaa de. Mark Twain ka Huck ek ladka hai jo raft par Mississippi nadi mein bhagta hai, aur gaon wali boli mein baat karta hai. Baad mein Crane, Dreiser jaise naturalists ne dikhaya ki insaan halaat ka ghulam hai.",
+   "trick": "Ameriki 1850-51 = 'Scarlet aur Whale', The Scarlet Letter 1850, Moby-Dick 1851, dono ek saath, aur Moby-Dick Hawthorne ko dedicated."
+  },
+  {
+   "title": "American Novel: 20th Century to Contemporary",
+   "story": "20th century America mein jazz, party aur paisa tha, par andar khalipan bhi. Fitzgerald ka Gatsby badi parties deta hai sirf ek ladki Daisy ke liye, jaise koi shaadi mein sirf ek insaan ko impress karne ke liye DJ bulaye. Hemingway chhote seedhe vakya likhta tha, baaki matlab paani ke neeche chhupe iceberg jaisa. Faulkner ne ek hi parivar ko alag alag dimaagon se dikhaya. Phir Black writers jaise Ellison, Morrison aur Walker ne apni awaaz di, aur Vonnegut, Pynchon ne postmodern khel khele.",
+   "trick": "Nobel American novelists ka order: 'Lewis-Faulkner-Hemingway-Steinbeck-Bellow-Morrison' = 'LFHSBM: Lalu Fauji Hamesha Sabko Bada Maante' (1930, 1949, 1954, 1962, 1976, 1993)."
+  },
+  {
+   "title": "Indian English Novel I: Beginnings to 1970s",
+   "story": "Indian English novel ki shuruaat Bankim ke Rajmohan's Wife (1864) se hoti hai. Phir 1930s mein teen bade naam aaye: Anand, Narayan aur Raja Rao, inko Big Three kehte hain. Anand ne garib aur achhoot Bakha ka ek din dikhaya. Narayan ne Malgudi naam ka pyara sa chhota shehar banaya, jaise apna kasba. Raja Rao ne Kanthapura gaon mein Gandhi ji ke andolan ko daadi-nani ki kahani ki tarah sunaya. Partition par Khushwant Singh ka Train to Pakistan bahut zaroori hai.",
+   "trick": "Big Three = 'ANR' jaise ANR film star: Anand (Untouchable 1935), Narayan (Swami 1935), Rao (Kanthapura 1938). Do 1935 mein, ek 1938 mein."
+  },
+  {
+   "title": "Indian English Novel II: Rushdie and After",
+   "story": "1981 mein Rushdie ka Midnight's Children aaya, jismein Saleem 15 August 1947 ki aadhi raat ko paida hota hai, bilkul India ke saath. Iske baad Indian English novel duniya bhar mein famous ho gaya. Amitav Ghosh ne borders aur yaadon par The Shadow Lines likha. Arundhati Roy ki The God of Small Things Kerala ke judwan bachchon ki dukh bhari kahani hai. Kiran Desai aur Aravind Adiga ne bhi Booker jeeta. Adiga ka Balram ek driver hai jo Chinese Premier ko chitthiyan likhta hai.",
+   "trick": "Indian Booker train: '81 Rushdie, '97 Roy, '06 Kiran, '08 Adiga' = 'R-R-K-A, Rail Ruki Kaise Achanak'. (Naipaul 1971 Trinidad wale.)"
+  },
+  {
+   "title": "African Fiction",
+   "story": "Angrezon ne Africa ko apne novels mein jungli dikhaya tha. Achebe ne jawab mein Things Fall Apart likha, jismein Igbo samaj ki apni izzat, rasm aur kanoon hain. Okonkwo ek takatwar aadmi hai jo naye zamane ke aage toot jata hai. Ngugi ne baad mein English chhod kar apni Gikuyu bhasha mein likhna shuru kiya, jaise koi Hindi mein hi likhne ki kasam kha le. South Africa se Gordimer aur Coetzee ne apartheid ka dard likha. Soyinka pehle African the jinhe Nobel mila.",
+   "trick": "Achebe ki trilogy order: 'Things-No-Arrow' = 'Things No Arrow' (1958, 1960, 1964): pehle cheezein toot-ti hain, phir chain nahi, phir teer."
+  },
+  {
+   "title": "Caribbean, Canadian, Australian and Other Postcolonial Fiction",
+   "story": "Angrezi raj sirf India mein nahi tha, Caribbean, Canada, Australia sab jagah tha. Trinidad ke Naipaul ne Mr Biswas ki kahani likhi jo bas apna ek ghar chahta hai, jaise har middle class aadmi ka sapna. Sam Selvon ne London aaye Caribbean logon ki boli mein The Lonely Londoners likha. Canada ki Atwood ne Handmaid's Tale mein ek darawni sarkar Gilead dikhayi. Colombia ke Marquez ne magic aur sach ko mila kar Macondo gaon banaya.",
+   "trick": "'Biswas ka Bungalow' = A House for Mr Biswas (1961). Atwood ki 2 Bookers: 2000 aur 2019 = 'Atwood double, 2000 + 19'."
+  },
+  {
+   "title": "Short Story: Theory and Western Masters",
+   "story": "Short story ek baar mein baith kar padhi jaane wali kahani hai, jaise chai khatam hone tak ki kahani. Poe ne kaha ki poori kahani ka ek hi asar hona chahiye, single effect. Maupassant aur O. Henry end mein twist dete hain, jaise Necklace mein haar nakli nikalta hai. Chekhov ki kahaniyon mein bada plot nahi, bas ek mood hota hai. Joyce ki Dubliners mein achanak samajh aane wala pal hota hai, jise epiphany kehte hain.",
+   "trick": "Twist wale do: 'M aur O' = Maupassant (Necklace 1884) aur O. Henry (Gift of the Magi 1905). Mood wala ek: Chekhov = 'Chai jaisa mood'."
+  },
+  {
+   "title": "Indian Short Story (English and in Translation)",
+   "story": "Indian short story mein gaon, garibi, partition aur aurat ki chhupi ichhaon ki kahaniyan hain. Premchand ki Kafan mein baap-beta kafan ke paise se sharab pee jaate hain, kyunki bhookh ne unhe pathar bana diya. Manto ki Toba Tek Singh mein ek paagal aadmi partition ki line par hi mar jaata hai. Narayan ki Malgudi Days chhote shehar ki halki mazedaar kahaniyan hain. Ruskin Bond pahadon aur trains ki pyaari kahaniyan likhte hain. Mahasweta Devi ki Draupadi ko Spivak ne English mein laya.",
+   "trick": "Urdu ke teen: 'Premchand-Manto-Chughtai = PMC': Kafan, Toba Tek Singh, Lihaaf. Lihaaf = rajai = court case (1942)."
+  },
+  {
+   "title": "Narrative Theory and Criticism of the Novel",
+   "story": "Narrative theory batati hai ki kahani kaise banti hai, jaise recipe batati hai ki biryani kaise banti hai. Forster ne kaha raja mara phir rani mari, yeh story hai, par rani dukh se mari, yeh plot hai kyunki isme 'kyun' hai. Booth ne bataya ki kuch narrators jhooth ya galat samajh se kahani sunate hain. Genette ne flashback ko analepsis aur flash-forward ko prolepsis naam diya. Bakhtin ne kaha novel mein kai awaazein ek saath bolti hain, jaise joint family ka dinner table.",
+   "trick": "'Forster ka Flat-Round, Booth ka Bura (unreliable) Narrator, Genette ka Gyaan (focalization), Bakhtin ka Bazaar (polyphony)'."
+  },
+  {
+   "title": "Famous Opening Lines of Novels",
+   "story": "Novel ki pehli line hi uski pehchaan hoti hai, jaise film ka pehla dialogue. 'Call me Ishmael' sunte hi Moby-Dick yaad aata hai. Austen ki pehli line mazaak mein kehti hai ki ameer kunwara ladka biwi dhoondh raha hai. 1984 mein ghadi tera baja rahi hai, toh pata chal jaata hai kuch gadbad duniya hai. NET aksar pehli line dekar novel poochta hai, isliye inhe gaane ki tarah gaa kar yaad karo.",
+   "trick": "'Ishmael, Truth, Thirteen' teen sabse famous: Call me Ishmael (Moby-Dick), truth universally acknowledged (P&P), clocks striking thirteen (1984)."
+  }
+ ],
+ "works": [
+  {
+   "author": "Aphra Behn",
+   "work": "Oroonoko",
+   "year": "1688",
+   "type": "novella",
+   "note": "Early prose fiction; enslaved African prince in Surinam"
+  },
+  {
+   "author": "John Bunyan",
+   "work": "The Pilgrim's Progress",
+   "year": "1678",
+   "type": "allegory",
+   "note": "Christian, Vanity Fair, Slough of Despond; precursor of novel"
+  },
+  {
+   "author": "Daniel Defoe",
+   "work": "Robinson Crusoe",
+   "year": "1719",
+   "type": "novel",
+   "note": "Often called first English novel; castaway with Man Friday"
+  },
+  {
+   "author": "Daniel Defoe",
+   "work": "Moll Flanders",
+   "year": "1722",
+   "type": "novel",
+   "note": "Picaresque first-person life of a female criminal"
+  },
+  {
+   "author": "Jonathan Swift",
+   "work": "Gulliver's Travels",
+   "year": "1726",
+   "type": "satire",
+   "note": "Lilliput, Brobdingnag, Laputa, Houyhnhnms and Yahoos"
+  },
+  {
+   "author": "Samuel Richardson",
+   "work": "Pamela, or Virtue Rewarded",
+   "year": "1740",
+   "type": "novel",
+   "note": "Epistolary; servant Pamela resists Mr B."
+  },
+  {
+   "author": "Samuel Richardson",
+   "work": "Clarissa",
+   "year": "1747-48",
+   "type": "novel",
+   "note": "Epistolary; Clarissa Harlowe and Lovelace; among longest English novels"
+  },
+  {
+   "author": "Henry Fielding",
+   "work": "Shamela",
+   "year": "1741",
+   "type": "novel (parody)",
+   "note": "Parody of Richardson's Pamela"
+  },
+  {
+   "author": "Henry Fielding",
+   "work": "Joseph Andrews",
+   "year": "1742",
+   "type": "novel",
+   "note": "Preface: 'comic epic poem in prose'; Parson Adams"
+  },
+  {
+   "author": "Henry Fielding",
+   "work": "Tom Jones",
+   "year": "1749",
+   "type": "novel",
+   "note": "Foundling hero; Squire Allworthy, Sophia Western"
+  },
+  {
+   "author": "Tobias Smollett",
+   "work": "Humphry Clinker",
+   "year": "1771",
+   "type": "novel",
+   "note": "Epistolary picaresque; Matthew Bramble's family tour"
+  },
+  {
+   "author": "Laurence Sterne",
+   "work": "Tristram Shandy",
+   "year": "1759-67",
+   "type": "novel",
+   "note": "Digressions, black page; Uncle Toby; proto-metafiction"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "Rasselas",
+   "year": "1759",
+   "type": "philosophical romance",
+   "note": "Prince of Abyssinia leaves the Happy Valley"
+  },
+  {
+   "author": "Oliver Goldsmith",
+   "work": "The Vicar of Wakefield",
+   "year": "1766",
+   "type": "novel",
+   "note": "Dr Primrose and family"
+  },
+  {
+   "author": "Horace Walpole",
+   "work": "The Castle of Otranto",
+   "year": "1764",
+   "type": "novel",
+   "note": "First Gothic novel"
+  },
+  {
+   "author": "Ann Radcliffe",
+   "work": "The Mysteries of Udolpho",
+   "year": "1794",
+   "type": "Gothic novel",
+   "note": "Emily St Aubert; 'explained supernatural'"
+  },
+  {
+   "author": "M.G. Lewis",
+   "work": "The Monk",
+   "year": "1796",
+   "type": "Gothic novel",
+   "note": "Ambrosio; sensational horror Gothic"
+  },
+  {
+   "author": "Fanny Burney",
+   "work": "Evelina",
+   "year": "1778",
+   "type": "novel",
+   "note": "Epistolary novel of a young lady's entrance into the world"
+  },
+  {
+   "author": "William Godwin",
+   "work": "Caleb Williams",
+   "year": "1794",
+   "type": "novel",
+   "note": "Political novel; Falkland's secret; Jacobin fiction"
+  },
+  {
+   "author": "Henry Mackenzie",
+   "work": "The Man of Feeling",
+   "year": "1771",
+   "type": "novel",
+   "note": "Sentimental novel; hero Harley"
+  },
+  {
+   "author": "Maria Edgeworth",
+   "work": "Castle Rackrent",
+   "year": "1800",
+   "type": "novel",
+   "note": "Early regional novel; narrator Thady Quirk"
+  },
+  {
+   "author": "Jane Austen",
+   "work": "Sense and Sensibility",
+   "year": "1811",
+   "type": "novel",
+   "note": "Elinor and Marianne Dashwood; Austen's first published"
+  },
+  {
+   "author": "Jane Austen",
+   "work": "Pride and Prejudice",
+   "year": "1813",
+   "type": "novel",
+   "note": "Elizabeth Bennet and Darcy; famous 'truth universally acknowledged'"
+  },
+  {
+   "author": "Jane Austen",
+   "work": "Mansfield Park",
+   "year": "1814",
+   "type": "novel",
+   "note": "Fanny Price; Said's reading of Antigua plantation"
+  },
+  {
+   "author": "Jane Austen",
+   "work": "Emma",
+   "year": "1815",
+   "type": "novel",
+   "note": "Matchmaker Emma Woodhouse, Mr Knightley, Harriet Smith"
+  },
+  {
+   "author": "Jane Austen",
+   "work": "Northanger Abbey",
+   "year": "1817",
+   "type": "novel",
+   "note": "Posthumous; Catherine Morland; parody of Gothic"
+  },
+  {
+   "author": "Jane Austen",
+   "work": "Persuasion",
+   "year": "1817",
+   "type": "novel",
+   "note": "Posthumous; Anne Elliot and Captain Wentworth"
+  },
+  {
+   "author": "Walter Scott",
+   "work": "Waverley",
+   "year": "1814",
+   "type": "historical novel",
+   "note": "Jacobite rising of 1745; first of Waverley novels"
+  },
+  {
+   "author": "Walter Scott",
+   "work": "Ivanhoe",
+   "year": "1819",
+   "type": "historical novel",
+   "note": "Medieval England; Rebecca, Rowena, Richard the Lionheart"
+  },
+  {
+   "author": "Mary Shelley",
+   "work": "Frankenstein; or, The Modern Prometheus",
+   "year": "1818",
+   "type": "novel",
+   "note": "Frame narrative via Walton's letters; Victor and Creature"
+  },
+  {
+   "author": "Charles Dickens",
+   "work": "Oliver Twist",
+   "year": "1837-39",
+   "type": "novel",
+   "note": "Fagin, Artful Dodger, Bill Sikes, Nancy"
+  },
+  {
+   "author": "Charles Dickens",
+   "work": "A Christmas Carol",
+   "year": "1843",
+   "type": "novella",
+   "note": "Ebenezer Scrooge; opens 'Marley was dead'"
+  },
+  {
+   "author": "Charles Dickens",
+   "work": "David Copperfield",
+   "year": "1849-50",
+   "type": "novel",
+   "note": "Semi-autobiographical; Micawber, Uriah Heep; Dickens's favourite"
+  },
+  {
+   "author": "Charles Dickens",
+   "work": "Bleak House",
+   "year": "1852-53",
+   "type": "novel",
+   "note": "Jarndyce and Jarndyce; Esther Summerson; Lady Dedlock"
+  },
+  {
+   "author": "Charles Dickens",
+   "work": "Hard Times",
+   "year": "1854",
+   "type": "novel",
+   "note": "Gradgrind, Coketown; dedicated to Carlyle; industrial novel"
+  },
+  {
+   "author": "Charles Dickens",
+   "work": "A Tale of Two Cities",
+   "year": "1859",
+   "type": "novel",
+   "note": "London and Paris; Sydney Carton; 'best of times'"
+  },
+  {
+   "author": "Charles Dickens",
+   "work": "Great Expectations",
+   "year": "1860-61",
+   "type": "novel",
+   "note": "Pip, Miss Havisham, Magwitch, Estella; Bildungsroman"
+  },
+  {
+   "author": "W.M. Thackeray",
+   "work": "Vanity Fair",
+   "year": "1847-48",
+   "type": "novel",
+   "note": "'A Novel without a Hero'; Becky Sharp; title from Bunyan"
+  },
+  {
+   "author": "Charlotte Bronte",
+   "work": "Jane Eyre",
+   "year": "1847",
+   "type": "novel",
+   "note": "Rochester, Bertha Mason; 'Reader, I married him'"
+  },
+  {
+   "author": "Emily Bronte",
+   "work": "Wuthering Heights",
+   "year": "1847",
+   "type": "novel",
+   "note": "Heathcliff, Catherine; narrators Lockwood and Nelly Dean"
+  },
+  {
+   "author": "Elizabeth Gaskell",
+   "work": "Mary Barton",
+   "year": "1848",
+   "type": "novel",
+   "note": "Manchester industrial novel; condition-of-England"
+  },
+  {
+   "author": "Benjamin Disraeli",
+   "work": "Sybil, or The Two Nations",
+   "year": "1845",
+   "type": "novel",
+   "note": "Rich and poor as 'two nations'"
+  },
+  {
+   "author": "George Eliot",
+   "work": "The Mill on the Floss",
+   "year": "1860",
+   "type": "novel",
+   "note": "Maggie and Tom Tulliver drown in flood"
+  },
+  {
+   "author": "George Eliot",
+   "work": "Silas Marner",
+   "year": "1861",
+   "type": "novel",
+   "note": "Weaver of Raveloe; little Eppie"
+  },
+  {
+   "author": "George Eliot",
+   "work": "Middlemarch",
+   "year": "1871-72",
+   "type": "novel",
+   "note": "'A Study of Provincial Life'; Dorothea Brooke, Casaubon, Lydgate"
+  },
+  {
+   "author": "Anthony Trollope",
+   "work": "Barchester Towers",
+   "year": "1857",
+   "type": "novel",
+   "note": "Barsetshire series; Mrs Proudie, Mr Slope"
+  },
+  {
+   "author": "Thomas Hardy",
+   "work": "Far from the Madding Crowd",
+   "year": "1874",
+   "type": "novel",
+   "note": "Bathsheba Everdene, Gabriel Oak; title from Gray's Elegy"
+  },
+  {
+   "author": "Thomas Hardy",
+   "work": "The Return of the Native",
+   "year": "1878",
+   "type": "novel",
+   "note": "Egdon Heath; Eustacia Vye, Clym Yeobright"
+  },
+  {
+   "author": "Thomas Hardy",
+   "work": "The Mayor of Casterbridge",
+   "year": "1886",
+   "type": "novel",
+   "note": "Henchard sells wife and daughter at a fair"
+  },
+  {
+   "author": "Thomas Hardy",
+   "work": "Tess of the d'Urbervilles",
+   "year": "1891",
+   "type": "novel",
+   "note": "Subtitle 'A Pure Woman'; Angel Clare, Alec"
+  },
+  {
+   "author": "Thomas Hardy",
+   "work": "Jude the Obscure",
+   "year": "1895",
+   "type": "novel",
+   "note": "Jude and Sue Bridehead; Hardy's last novel"
+  },
+  {
+   "author": "Wilkie Collins",
+   "work": "The Moonstone",
+   "year": "1868",
+   "type": "detective novel",
+   "note": "Sergeant Cuff; Eliot: first, longest, best English detective novel"
+  },
+  {
+   "author": "R.L. Stevenson",
+   "work": "Strange Case of Dr Jekyll and Mr Hyde",
+   "year": "1886",
+   "type": "novella",
+   "note": "Split self; double"
+  },
+  {
+   "author": "Oscar Wilde",
+   "work": "The Picture of Dorian Gray",
+   "year": "1890-91",
+   "type": "novel",
+   "note": "Aestheticism; preface 'All art is quite useless'"
+  },
+  {
+   "author": "Bram Stoker",
+   "work": "Dracula",
+   "year": "1897",
+   "type": "Gothic novel",
+   "note": "Epistolary; Jonathan Harker, Van Helsing"
+  },
+  {
+   "author": "Henry James",
+   "work": "The Portrait of a Lady",
+   "year": "1881",
+   "type": "novel",
+   "note": "Isabel Archer marries Gilbert Osmond; international theme"
+  },
+  {
+   "author": "Henry James",
+   "work": "The Turn of the Screw",
+   "year": "1898",
+   "type": "novella",
+   "note": "Governess and ghosts; ambiguity"
+  },
+  {
+   "author": "Henry James",
+   "work": "The Ambassadors",
+   "year": "1903",
+   "type": "novel",
+   "note": "Lambert Strether sent to Paris; centre of consciousness"
+  },
+  {
+   "author": "Henry James",
+   "work": "The Art of Fiction",
+   "year": "1884",
+   "type": "essay",
+   "note": "Reply to Walter Besant; novel as impression of life"
+  },
+  {
+   "author": "Joseph Conrad",
+   "work": "Heart of Darkness",
+   "year": "1899",
+   "type": "novella",
+   "note": "Marlow, Kurtz; 'The horror! The horror!'"
+  },
+  {
+   "author": "E.M. Forster",
+   "work": "Howards End",
+   "year": "1910",
+   "type": "novel",
+   "note": "Epigraph 'Only connect...'; Schlegels and Wilcoxes"
+  },
+  {
+   "author": "E.M. Forster",
+   "work": "A Passage to India",
+   "year": "1924",
+   "type": "novel",
+   "note": "Aziz, Adela Quested, Marabar Caves"
+  },
+  {
+   "author": "E.M. Forster",
+   "work": "Aspects of the Novel",
+   "year": "1927",
+   "type": "criticism",
+   "note": "Story vs plot; flat and round characters"
+  },
+  {
+   "author": "Ford Madox Ford",
+   "work": "The Good Soldier",
+   "year": "1915",
+   "type": "novel",
+   "note": "Unreliable narrator Dowell; 'saddest story'"
+  },
+  {
+   "author": "Rudyard Kipling",
+   "work": "Kim",
+   "year": "1901",
+   "type": "novel",
+   "note": "Kimball O'Hara and the lama; the Great Game"
+  },
+  {
+   "author": "James Joyce",
+   "work": "Dubliners",
+   "year": "1914",
+   "type": "short stories",
+   "note": "Paralysis and epiphany; 'Araby', 'The Dead'"
+  },
+  {
+   "author": "James Joyce",
+   "work": "A Portrait of the Artist as a Young Man",
+   "year": "1916",
+   "type": "novel",
+   "note": "Stephen Dedalus; Kunstlerroman"
+  },
+  {
+   "author": "James Joyce",
+   "work": "Ulysses",
+   "year": "1922",
+   "type": "novel",
+   "note": "Bloomsday, 16 June 1904; Leopold Bloom; Odyssey parallel"
+  },
+  {
+   "author": "Virginia Woolf",
+   "work": "Mrs Dalloway",
+   "year": "1925",
+   "type": "novel",
+   "note": "One June day; Clarissa and Septimus"
+  },
+  {
+   "author": "Virginia Woolf",
+   "work": "To the Lighthouse",
+   "year": "1927",
+   "type": "novel",
+   "note": "Mrs Ramsay, Lily Briscoe; 'Time Passes'"
+  },
+  {
+   "author": "Virginia Woolf",
+   "work": "The Waves",
+   "year": "1931",
+   "type": "novel",
+   "note": "Six soliloquising voices"
+  },
+  {
+   "author": "Virginia Woolf",
+   "work": "A Room of One's Own",
+   "year": "1929",
+   "type": "essay",
+   "note": "'A woman must have money and a room of her own'"
+  },
+  {
+   "author": "D.H. Lawrence",
+   "work": "Sons and Lovers",
+   "year": "1913",
+   "type": "novel",
+   "note": "Paul Morel, mother Gertrude, Miriam"
+  },
+  {
+   "author": "D.H. Lawrence",
+   "work": "Women in Love",
+   "year": "1920",
+   "type": "novel",
+   "note": "Ursula and Gudrun Brangwen, Birkin, Gerald"
+  },
+  {
+   "author": "Aldous Huxley",
+   "work": "Brave New World",
+   "year": "1932",
+   "type": "dystopian novel",
+   "note": "World State, soma, Bernard Marx, John the Savage"
+  },
+  {
+   "author": "George Orwell",
+   "work": "Animal Farm",
+   "year": "1945",
+   "type": "fable",
+   "note": "Napoleon, Snowball; satire on Soviet Russia"
+  },
+  {
+   "author": "George Orwell",
+   "work": "Nineteen Eighty-Four",
+   "year": "1949",
+   "type": "dystopian novel",
+   "note": "Winston Smith, Big Brother, Newspeak, doublethink"
+  },
+  {
+   "author": "Graham Greene",
+   "work": "The Power and the Glory",
+   "year": "1940",
+   "type": "novel",
+   "note": "Mexican 'whisky priest'"
+  },
+  {
+   "author": "William Golding",
+   "work": "Lord of the Flies",
+   "year": "1954",
+   "type": "novel",
+   "note": "Ralph, Piggy, Jack, Simon; boys on an island"
+  },
+  {
+   "author": "Kingsley Amis",
+   "work": "Lucky Jim",
+   "year": "1954",
+   "type": "campus novel",
+   "note": "Jim Dixon; Angry Young Men"
+  },
+  {
+   "author": "Doris Lessing",
+   "work": "The Golden Notebook",
+   "year": "1962",
+   "type": "novel",
+   "note": "Anna Wulf's four notebooks plus golden one"
+  },
+  {
+   "author": "Anthony Burgess",
+   "work": "A Clockwork Orange",
+   "year": "1962",
+   "type": "dystopian novel",
+   "note": "Alex, Nadsat slang"
+  },
+  {
+   "author": "John Fowles",
+   "work": "The French Lieutenant's Woman",
+   "year": "1969",
+   "type": "novel",
+   "note": "Metafiction, multiple endings; Sarah Woodruff"
+  },
+  {
+   "author": "Jean Rhys",
+   "work": "Wide Sargasso Sea",
+   "year": "1966",
+   "type": "novel",
+   "note": "Antoinette Cosway; writes back to Jane Eyre"
+  },
+  {
+   "author": "Kazuo Ishiguro",
+   "work": "The Remains of the Day",
+   "year": "1989",
+   "type": "novel",
+   "note": "Booker 1989; butler Stevens of Darlington Hall"
+  },
+  {
+   "author": "Ian McEwan",
+   "work": "Atonement",
+   "year": "2001",
+   "type": "novel",
+   "note": "Briony Tallis's false accusation of Robbie Turner"
+  },
+  {
+   "author": "Julian Barnes",
+   "work": "The Sense of an Ending",
+   "year": "2011",
+   "type": "novel",
+   "note": "Booker 2011; Tony Webster"
+  },
+  {
+   "author": "Hilary Mantel",
+   "work": "Wolf Hall",
+   "year": "2009",
+   "type": "historical novel",
+   "note": "Booker 2009; Thomas Cromwell"
+  },
+  {
+   "author": "A.S. Byatt",
+   "work": "Possession",
+   "year": "1990",
+   "type": "novel",
+   "note": "Booker 1990; 'A Romance'; two Victorian poets"
+  },
+  {
+   "author": "James Fenimore Cooper",
+   "work": "The Last of the Mohicans",
+   "year": "1826",
+   "type": "novel",
+   "note": "Leatherstocking Tales; Natty Bumppo/Hawkeye, Uncas"
+  },
+  {
+   "author": "Nathaniel Hawthorne",
+   "work": "The Scarlet Letter",
+   "year": "1850",
+   "type": "romance",
+   "note": "Hester Prynne, Dimmesdale; 'The Custom-House'"
+  },
+  {
+   "author": "Herman Melville",
+   "work": "Moby-Dick",
+   "year": "1851",
+   "type": "novel",
+   "note": "'Call me Ishmael'; Ahab, Pequod; dedicated to Hawthorne"
+  },
+  {
+   "author": "Harriet Beecher Stowe",
+   "work": "Uncle Tom's Cabin",
+   "year": "1852",
+   "type": "novel",
+   "note": "Anti-slavery novel"
+  },
+  {
+   "author": "Mark Twain",
+   "work": "Adventures of Huckleberry Finn",
+   "year": "1884",
+   "type": "novel",
+   "note": "Huck and Jim on the Mississippi; vernacular"
+  },
+  {
+   "author": "Stephen Crane",
+   "work": "The Red Badge of Courage",
+   "year": "1895",
+   "type": "novel",
+   "note": "Henry Fleming in the Civil War"
+  },
+  {
+   "author": "Kate Chopin",
+   "work": "The Awakening",
+   "year": "1899",
+   "type": "novel",
+   "note": "Edna Pontellier; early feminist novel"
+  },
+  {
+   "author": "Edith Wharton",
+   "work": "The Age of Innocence",
+   "year": "1920",
+   "type": "novel",
+   "note": "Newland Archer; Pulitzer 1921"
+  },
+  {
+   "author": "F. Scott Fitzgerald",
+   "work": "The Great Gatsby",
+   "year": "1925",
+   "type": "novel",
+   "note": "Narrator Nick Carraway; green light; Jazz Age"
+  },
+  {
+   "author": "Ernest Hemingway",
+   "work": "The Sun Also Rises",
+   "year": "1926",
+   "type": "novel",
+   "note": "Jake Barnes; 'lost generation' epigraph"
+  },
+  {
+   "author": "Ernest Hemingway",
+   "work": "The Old Man and the Sea",
+   "year": "1952",
+   "type": "novella",
+   "note": "Santiago and the marlin; Pulitzer 1953"
+  },
+  {
+   "author": "William Faulkner",
+   "work": "The Sound and the Fury",
+   "year": "1929",
+   "type": "novel",
+   "note": "Compsons; Benjy section; title from Macbeth"
+  },
+  {
+   "author": "William Faulkner",
+   "work": "As I Lay Dying",
+   "year": "1930",
+   "type": "novel",
+   "note": "Bundren family carry Addie's coffin; 15 narrators"
+  },
+  {
+   "author": "John Steinbeck",
+   "work": "The Grapes of Wrath",
+   "year": "1939",
+   "type": "novel",
+   "note": "Joad family; Dust Bowl migration"
+  },
+  {
+   "author": "Zora Neale Hurston",
+   "work": "Their Eyes Were Watching God",
+   "year": "1937",
+   "type": "novel",
+   "note": "Janie Crawford; Harlem Renaissance"
+  },
+  {
+   "author": "Ralph Ellison",
+   "work": "Invisible Man",
+   "year": "1952",
+   "type": "novel",
+   "note": "Nameless Black narrator; 'I am an invisible man'"
+  },
+  {
+   "author": "Toni Morrison",
+   "work": "Beloved",
+   "year": "1987",
+   "type": "novel",
+   "note": "Sethe; Pulitzer 1988; based on Margaret Garner"
+  },
+  {
+   "author": "Alice Walker",
+   "work": "The Color Purple",
+   "year": "1982",
+   "type": "epistolary novel",
+   "note": "Celie's letters to God; Pulitzer 1983"
+  },
+  {
+   "author": "J.D. Salinger",
+   "work": "The Catcher in the Rye",
+   "year": "1951",
+   "type": "novel",
+   "note": "Holden Caulfield; 'phony'"
+  },
+  {
+   "author": "Vladimir Nabokov",
+   "work": "Lolita",
+   "year": "1955",
+   "type": "novel",
+   "note": "Unreliable narrator Humbert Humbert"
+  },
+  {
+   "author": "Joseph Heller",
+   "work": "Catch-22",
+   "year": "1961",
+   "type": "novel",
+   "note": "Yossarian; absurd war satire"
+  },
+  {
+   "author": "Kurt Vonnegut",
+   "work": "Slaughterhouse-Five",
+   "year": "1969",
+   "type": "novel",
+   "note": "Billy Pilgrim; Dresden; 'So it goes'"
+  },
+  {
+   "author": "Bankim Chandra Chatterjee",
+   "work": "Rajmohan's Wife",
+   "year": "1864",
+   "type": "novel",
+   "note": "First Indian novel in English"
+  },
+  {
+   "author": "Mulk Raj Anand",
+   "work": "Untouchable",
+   "year": "1935",
+   "type": "novel",
+   "note": "One day of sweeper Bakha; Forster's preface"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "Swami and Friends",
+   "year": "1935",
+   "type": "novel",
+   "note": "First Malgudi novel; Graham Greene's help"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "The Guide",
+   "year": "1958",
+   "type": "novel",
+   "note": "Raju and Rosie; Sahitya Akademi 1960"
+  },
+  {
+   "author": "Raja Rao",
+   "work": "Kanthapura",
+   "year": "1938",
+   "type": "novel",
+   "note": "Narrator Achakka; Moorthy; Gandhian sthala-purana"
+  },
+  {
+   "author": "Raja Rao",
+   "work": "The Serpent and the Rope",
+   "year": "1960",
+   "type": "novel",
+   "note": "Ramaswamy and Madeleine; Sahitya Akademi 1964"
+  },
+  {
+   "author": "Khushwant Singh",
+   "work": "Train to Pakistan",
+   "year": "1956",
+   "type": "novel",
+   "note": "Mano Majra; Partition; Juggut Singh"
+  },
+  {
+   "author": "Kamala Markandaya",
+   "work": "Nectar in a Sieve",
+   "year": "1954",
+   "type": "novel",
+   "note": "Rukmani; title from Coleridge"
+  },
+  {
+   "author": "Anita Desai",
+   "work": "Clear Light of Day",
+   "year": "1980",
+   "type": "novel",
+   "note": "Old Delhi family; Bim and Tara"
+  },
+  {
+   "author": "Salman Rushdie",
+   "work": "Midnight's Children",
+   "year": "1981",
+   "type": "novel",
+   "note": "Saleem Sinai; Booker 1981, Booker of Bookers 1993"
+  },
+  {
+   "author": "Amitav Ghosh",
+   "work": "The Shadow Lines",
+   "year": "1988",
+   "type": "novel",
+   "note": "Tridib, Ila, Thamma; Sahitya Akademi 1989"
+  },
+  {
+   "author": "Vikram Seth",
+   "work": "A Suitable Boy",
+   "year": "1993",
+   "type": "novel",
+   "note": "Lata Mehra's search for a husband"
+  },
+  {
+   "author": "Arundhati Roy",
+   "work": "The God of Small Things",
+   "year": "1997",
+   "type": "novel",
+   "note": "Booker 1997; Estha, Rahel, Velutha; Ayemenem"
+  },
+  {
+   "author": "Kiran Desai",
+   "work": "The Inheritance of Loss",
+   "year": "2006",
+   "type": "novel",
+   "note": "Booker 2006; Kalimpong; Sai and the judge"
+  },
+  {
+   "author": "Aravind Adiga",
+   "work": "The White Tiger",
+   "year": "2008",
+   "type": "novel",
+   "note": "Booker 2008; Balram Halwai; Rooster Coop"
+  },
+  {
+   "author": "Shashi Deshpande",
+   "work": "That Long Silence",
+   "year": "1988",
+   "type": "novel",
+   "note": "Jaya; Sahitya Akademi 1990"
+  },
+  {
+   "author": "Bapsi Sidhwa",
+   "work": "Ice-Candy-Man",
+   "year": "1988",
+   "type": "novel",
+   "note": "Partition seen by Parsi child Lenny"
+  },
+  {
+   "author": "Chinua Achebe",
+   "work": "Things Fall Apart",
+   "year": "1958",
+   "type": "novel",
+   "note": "Okonkwo, Umuofia; title from Yeats"
+  },
+  {
+   "author": "Chinua Achebe",
+   "work": "Arrow of God",
+   "year": "1964",
+   "type": "novel",
+   "note": "Chief priest Ezeulu"
+  },
+  {
+   "author": "Ngugi wa Thiong'o",
+   "work": "A Grain of Wheat",
+   "year": "1967",
+   "type": "novel",
+   "note": "Kenyan independence; Mugo"
+  },
+  {
+   "author": "Ngugi wa Thiong'o",
+   "work": "Decolonising the Mind",
+   "year": "1986",
+   "type": "essays",
+   "note": "Farewell to English; language and colonialism"
+  },
+  {
+   "author": "J.M. Coetzee",
+   "work": "Disgrace",
+   "year": "1999",
+   "type": "novel",
+   "note": "Booker 1999; David Lurie"
+  },
+  {
+   "author": "J.M. Coetzee",
+   "work": "Foe",
+   "year": "1986",
+   "type": "novel",
+   "note": "Rewrites Robinson Crusoe; Susan Barton, mute Friday"
+  },
+  {
+   "author": "Ben Okri",
+   "work": "The Famished Road",
+   "year": "1991",
+   "type": "novel",
+   "note": "Booker 1991; abiku spirit-child Azaro"
+  },
+  {
+   "author": "V.S. Naipaul",
+   "work": "A House for Mr Biswas",
+   "year": "1961",
+   "type": "novel",
+   "note": "Mohun Biswas's struggle for a house; Trinidad"
+  },
+  {
+   "author": "Sam Selvon",
+   "work": "The Lonely Londoners",
+   "year": "1956",
+   "type": "novel",
+   "note": "Moses; creolised narration; Windrush generation"
+  },
+  {
+   "author": "Margaret Atwood",
+   "work": "The Handmaid's Tale",
+   "year": "1985",
+   "type": "dystopian novel",
+   "note": "Offred in Gilead"
+  },
+  {
+   "author": "Gabriel Garcia Marquez",
+   "work": "One Hundred Years of Solitude",
+   "year": "1967",
+   "type": "novel",
+   "note": "Macondo, Buendia family; magic realism"
+  },
+  {
+   "author": "Edgar Allan Poe",
+   "work": "Review of Hawthorne's Twice-Told Tales",
+   "year": "1842",
+   "type": "review",
+   "note": "Short story theory: single effect"
+  },
+  {
+   "author": "Edgar Allan Poe",
+   "work": "The Fall of the House of Usher",
+   "year": "1839",
+   "type": "short story",
+   "note": "Roderick and Madeline Usher; Gothic"
+  },
+  {
+   "author": "Nikolai Gogol",
+   "work": "The Overcoat",
+   "year": "1842",
+   "type": "short story",
+   "note": "Akaky Akakievich; Russian realism's source"
+  },
+  {
+   "author": "Guy de Maupassant",
+   "work": "The Necklace",
+   "year": "1884",
+   "type": "short story",
+   "note": "Mathilde Loisel; twist ending"
+  },
+  {
+   "author": "Charlotte Perkins Gilman",
+   "work": "The Yellow Wallpaper",
+   "year": "1892",
+   "type": "short story",
+   "note": "Rest cure; feminist Gothic"
+  },
+  {
+   "author": "O. Henry",
+   "work": "The Gift of the Magi",
+   "year": "1905",
+   "type": "short story",
+   "note": "Della and Jim; surprise ending"
+  },
+  {
+   "author": "Franz Kafka",
+   "work": "The Metamorphosis",
+   "year": "1915",
+   "type": "novella",
+   "note": "Gregor Samsa becomes an insect"
+  },
+  {
+   "author": "Katherine Mansfield",
+   "work": "The Garden Party",
+   "year": "1922",
+   "type": "short story",
+   "note": "Laura Sheridan; class and death"
+  },
+  {
+   "author": "William Faulkner",
+   "work": "A Rose for Emily",
+   "year": "1930",
+   "type": "short story",
+   "note": "Emily Grierson; Southern Gothic"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "Malgudi Days",
+   "year": "1943",
+   "type": "short stories",
+   "note": "'An Astrologer's Day'"
+  },
+  {
+   "author": "Premchand",
+   "work": "Kafan (The Shroud)",
+   "year": "1936",
+   "type": "short story",
+   "note": "Ghisu and Madhav drink away shroud money"
+  },
+  {
+   "author": "Saadat Hasan Manto",
+   "work": "Toba Tek Singh",
+   "year": "1955",
+   "type": "short story",
+   "note": "Bishan Singh dies in no-man's-land"
+  },
+  {
+   "author": "Ismat Chughtai",
+   "work": "Lihaaf (The Quilt)",
+   "year": "1942",
+   "type": "short story",
+   "note": "Obscenity trial in Lahore"
+  },
+  {
+   "author": "Jhumpa Lahiri",
+   "work": "Interpreter of Maladies",
+   "year": "1999",
+   "type": "short stories",
+   "note": "Pulitzer 2000; Mr Kapasi"
+  },
+  {
+   "author": "Ian Watt",
+   "work": "The Rise of the Novel",
+   "year": "1957",
+   "type": "criticism",
+   "note": "Defoe, Richardson, Fielding; formal realism"
+  },
+  {
+   "author": "Percy Lubbock",
+   "work": "The Craft of Fiction",
+   "year": "1921",
+   "type": "criticism",
+   "note": "Point of view; showing vs telling"
+  },
+  {
+   "author": "F.R. Leavis",
+   "work": "The Great Tradition",
+   "year": "1948",
+   "type": "criticism",
+   "note": "Austen, Eliot, James, Conrad"
+  },
+  {
+   "author": "Wayne C. Booth",
+   "work": "The Rhetoric of Fiction",
+   "year": "1961",
+   "type": "criticism",
+   "note": "Implied author; unreliable narrator"
+  },
+  {
+   "author": "Frank O'Connor",
+   "work": "The Lonely Voice",
+   "year": "1963",
+   "type": "criticism",
+   "note": "Short story and 'submerged population groups'"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+   "by": "Jane Austen",
+   "source": "Pride and Prejudice (1813), opening line"
+  },
+  {
+   "quote": "Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence.",
+   "by": "Jane Austen",
+   "source": "Emma (1815), opening line"
+  },
+  {
+   "quote": "the little bit (two Inches wide) of Ivory on which I work with so fine a Brush",
+   "by": "Jane Austen",
+   "source": "Letter to J. Edward Austen, December 1816"
+  },
+  {
+   "quote": "a comic epic poem in prose",
+   "by": "Henry Fielding",
+   "source": "Preface to Joseph Andrews (1742)"
+  },
+  {
+   "quote": "There was no possibility of taking a walk that day.",
+   "by": "Charlotte Bronte",
+   "source": "Jane Eyre (1847), opening line"
+  },
+  {
+   "quote": "Reader, I married him.",
+   "by": "Charlotte Bronte",
+   "source": "Jane Eyre (1847), final chapter"
+  },
+  {
+   "quote": "It was the best of times, it was the worst of times.",
+   "by": "Charles Dickens",
+   "source": "A Tale of Two Cities (1859), opening line"
+  },
+  {
+   "quote": "Whether I shall turn out to be the hero of my own life, or whether that station will be held by anybody else, these pages must show.",
+   "by": "Charles Dickens",
+   "source": "David Copperfield (1849-50), opening line"
+  },
+  {
+   "quote": "Marley was dead: to begin with.",
+   "by": "Charles Dickens",
+   "source": "A Christmas Carol (1843), opening line"
+  },
+  {
+   "quote": "Now, what I want is, Facts.",
+   "by": "Mr Gradgrind (Charles Dickens)",
+   "source": "Hard Times (1854), opening line"
+  },
+  {
+   "quote": "Call me Ishmael.",
+   "by": "Herman Melville",
+   "source": "Moby-Dick (1851), opening line"
+  },
+  {
+   "quote": "I would prefer not to.",
+   "by": "Bartleby (Herman Melville)",
+   "source": "Bartleby, the Scrivener (1853)"
+  },
+  {
+   "quote": "A novel is in its broadest definition a personal, a direct impression of life.",
+   "by": "Henry James",
+   "source": "The Art of Fiction (1884)"
+  },
+  {
+   "quote": "loose baggy monsters",
+   "by": "Henry James",
+   "source": "Preface to The Tragic Muse (New York Edition, 1908)"
+  },
+  {
+   "quote": "My task which I am trying to achieve is, by the power of the written word, to make you hear, to make you feel - it is, before all, to make you see.",
+   "by": "Joseph Conrad",
+   "source": "Preface to The Nigger of the 'Narcissus' (1897)"
+  },
+  {
+   "quote": "The horror! The horror!",
+   "by": "Kurtz (Joseph Conrad)",
+   "source": "Heart of Darkness (1899)"
+  },
+  {
+   "quote": "Mistah Kurtz - he dead.",
+   "by": "Joseph Conrad",
+   "source": "Heart of Darkness (1899); epigraph to Eliot's The Hollow Men (1925)"
+  },
+  {
+   "quote": "Only connect...",
+   "by": "E.M. Forster",
+   "source": "Howards End (1910), epigraph"
+  },
+  {
+   "quote": "This is the saddest story I have ever heard.",
+   "by": "Ford Madox Ford",
+   "source": "The Good Soldier (1915), opening line"
+  },
+  {
+   "quote": "The king died and then the queen died is a story. The king died, and then the queen died of grief is a plot.",
+   "by": "E.M. Forster",
+   "source": "Aspects of the Novel (1927)"
+  },
+  {
+   "quote": "Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed.",
+   "by": "James Joyce",
+   "source": "Ulysses (1922), opening line"
+  },
+  {
+   "quote": "yes I said yes I will Yes.",
+   "by": "Molly Bloom (James Joyce)",
+   "source": "Ulysses (1922), closing words"
+  },
+  {
+   "quote": "I will try to express myself in some mode of life or art as freely as I can and as wholly as I can, using for my defence the only arms I allow myself to use - silence, exile, and cunning.",
+   "by": "Stephen Dedalus (James Joyce)",
+   "source": "A Portrait of the Artist as a Young Man (1916)"
+  },
+  {
+   "quote": "Mrs Dalloway said she would buy the flowers herself.",
+   "by": "Virginia Woolf",
+   "source": "Mrs Dalloway (1925), opening line"
+  },
+  {
+   "quote": "Life is not a series of gig lamps symmetrically arranged; life is a luminous halo, a semi-transparent envelope surrounding us from the beginning of consciousness to the end.",
+   "by": "Virginia Woolf",
+   "source": "Modern Fiction (1919; in The Common Reader, 1925)"
+  },
+  {
+   "quote": "On or about December 1910 human character changed.",
+   "by": "Virginia Woolf",
+   "source": "Mr Bennett and Mrs Brown (1924)"
+  },
+  {
+   "quote": "A woman must have money and a room of her own if she is to write fiction.",
+   "by": "Virginia Woolf",
+   "source": "A Room of One's Own (1929)"
+  },
+  {
+   "quote": "The novel is the one bright book of life.",
+   "by": "D.H. Lawrence",
+   "source": "Why the Novel Matters (essay, posthumously published)"
+  },
+  {
+   "quote": "It was a bright cold day in April, and the clocks were striking thirteen.",
+   "by": "George Orwell",
+   "source": "Nineteen Eighty-Four (1949), opening line"
+  },
+  {
+   "quote": "All animals are equal but some animals are more equal than others.",
+   "by": "George Orwell",
+   "source": "Animal Farm (1945)"
+  },
+  {
+   "quote": "Last night I dreamt I went to Manderley again.",
+   "by": "Daphne du Maurier",
+   "source": "Rebecca (1938), opening line"
+  },
+  {
+   "quote": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.",
+   "by": "F. Scott Fitzgerald",
+   "source": "The Great Gatsby (1925), opening line"
+  },
+  {
+   "quote": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+   "by": "F. Scott Fitzgerald",
+   "source": "The Great Gatsby (1925), closing line"
+  },
+  {
+   "quote": "You are all a lost generation.",
+   "by": "Gertrude Stein",
+   "source": "Epigraph to Hemingway's The Sun Also Rises (1926)"
+  },
+  {
+   "quote": "All modern American literature comes from one book by Mark Twain called Huckleberry Finn.",
+   "by": "Ernest Hemingway",
+   "source": "Green Hills of Africa (1935)"
+  },
+  {
+   "quote": "I am an invisible man.",
+   "by": "Ralph Ellison",
+   "source": "Invisible Man (1952), opening line"
+  },
+  {
+   "quote": "If you really want to hear about it, the first thing you'll probably want to know is where I was born.",
+   "by": "J.D. Salinger",
+   "source": "The Catcher in the Rye (1951), opening line"
+  },
+  {
+   "quote": "Lolita, light of my life, fire of my loins.",
+   "by": "Vladimir Nabokov",
+   "source": "Lolita (1955), opening line"
+  },
+  {
+   "quote": "So it goes.",
+   "by": "Kurt Vonnegut",
+   "source": "Slaughterhouse-Five (1969), refrain"
+  },
+  {
+   "quote": "Happy families are all alike; every unhappy family is unhappy in its own way.",
+   "by": "Leo Tolstoy",
+   "source": "Anna Karenina (1875-77), opening line"
+  },
+  {
+   "quote": "Many years later, as he faced the firing squad, Colonel Aureliano Buendia was to remember that distant afternoon when his father took him to discover ice.",
+   "by": "Gabriel Garcia Marquez",
+   "source": "One Hundred Years of Solitude (1967), opening line"
+  },
+  {
+   "quote": "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect.",
+   "by": "Franz Kafka",
+   "source": "The Metamorphosis (1915), opening line (Muir translation)"
+  },
+  {
+   "quote": "If his very initial sentence tend not to the outbringing of this effect, then he has failed in his first step.",
+   "by": "Edgar Allan Poe",
+   "source": "Review of Hawthorne's Twice-Told Tales (1842)"
+  },
+  {
+   "quote": "One has to convey in a language that is not one's own the spirit that is one's own.",
+   "by": "Raja Rao",
+   "source": "Foreword to Kanthapura (1938)"
+  },
+  {
+   "quote": "I was born in the city of Bombay... once upon a time.",
+   "by": "Salman Rushdie",
+   "source": "Midnight's Children (1981), opening line"
+  },
+  {
+   "quote": "May in Ayemenem is a hot, brooding month.",
+   "by": "Arundhati Roy",
+   "source": "The God of Small Things (1997), opening line"
+  },
+  {
+   "quote": "Okonkwo was well known throughout the nine villages and even beyond.",
+   "by": "Chinua Achebe",
+   "source": "Things Fall Apart (1958), opening line"
+  },
+  {
+   "quote": "Things fall apart; the centre cannot hold; Mere anarchy is loosed upon the world.",
+   "by": "W.B. Yeats",
+   "source": "The Second Coming (1920); epigraph and title source of Things Fall Apart"
+  },
+  {
+   "quote": "The great English novelists are Jane Austen, George Eliot, Henry James and Joseph Conrad.",
+   "by": "F.R. Leavis",
+   "source": "The Great Tradition (1948), opening sentence"
+  },
+  {
+   "quote": "The past is a foreign country: they do things differently there.",
+   "by": "L.P. Hartley",
+   "source": "The Go-Between (1953), opening line"
+  }
+ ],
+ "people": [
+  {
+   "name": "Man Friday",
+   "where": "Robinson Crusoe, Daniel Defoe, 1719",
+   "note": "Native rescued by Crusoe on a Friday; becomes his servant"
+  },
+  {
+   "name": "Pamela Andrews",
+   "where": "Pamela, Samuel Richardson, 1740",
+   "note": "Servant girl who resists Mr B. and finally marries him"
+  },
+  {
+   "name": "Clarissa Harlowe",
+   "where": "Clarissa, Samuel Richardson, 1747-48",
+   "note": "Virtuous heroine ruined by the rake Lovelace; dies"
+  },
+  {
+   "name": "Parson Adams",
+   "where": "Joseph Andrews, Henry Fielding, 1742",
+   "note": "Good-hearted, absent-minded clergyman, Joseph's companion"
+  },
+  {
+   "name": "Sophia Western",
+   "where": "Tom Jones, Henry Fielding, 1749",
+   "note": "Heroine loved by the foundling Tom Jones"
+  },
+  {
+   "name": "Uncle Toby",
+   "where": "Tristram Shandy, Laurence Sterne, 1759-67",
+   "note": "Gentle old soldier whose hobby-horse is siege fortifications"
+  },
+  {
+   "name": "Elizabeth Bennet",
+   "where": "Pride and Prejudice, Jane Austen, 1813",
+   "note": "Witty heroine who overcomes prejudice against Mr Darcy"
+  },
+  {
+   "name": "Emma Woodhouse",
+   "where": "Emma, Jane Austen, 1815",
+   "note": "Rich meddling matchmaker; finally marries Mr Knightley"
+  },
+  {
+   "name": "Catherine Morland",
+   "where": "Northanger Abbey, Jane Austen, 1817",
+   "note": "Gothic-novel-reading heroine; Austen's parody of the Gothic"
+  },
+  {
+   "name": "Victor Frankenstein",
+   "where": "Frankenstein, Mary Shelley, 1818",
+   "note": "Scientist who creates and abandons the Creature"
+  },
+  {
+   "name": "Pip (Philip Pirrip)",
+   "where": "Great Expectations, Charles Dickens, 1860-61",
+   "note": "Orphan whose secret benefactor is the convict Magwitch"
+  },
+  {
+   "name": "Miss Havisham",
+   "where": "Great Expectations, Charles Dickens, 1860-61",
+   "note": "Jilted bride in her old wedding dress, clocks stopped"
+  },
+  {
+   "name": "Mr Micawber",
+   "where": "David Copperfield, Charles Dickens, 1849-50",
+   "note": "Debt-ridden optimist: 'something will turn up'"
+  },
+  {
+   "name": "Thomas Gradgrind",
+   "where": "Hard Times, Charles Dickens, 1854",
+   "note": "Utilitarian schoolmaster obsessed with 'Facts'"
+  },
+  {
+   "name": "Becky Sharp",
+   "where": "Vanity Fair, W.M. Thackeray, 1847-48",
+   "note": "Clever social climber in 'A Novel without a Hero'"
+  },
+  {
+   "name": "Bertha Mason",
+   "where": "Jane Eyre, Charlotte Bronte, 1847",
+   "note": "Rochester's Creole wife locked in the attic; Antoinette in Rhys"
+  },
+  {
+   "name": "Heathcliff",
+   "where": "Wuthering Heights, Emily Bronte, 1847",
+   "note": "Foundling whose passion for Catherine Earnshaw turns to revenge"
+  },
+  {
+   "name": "Dorothea Brooke",
+   "where": "Middlemarch, George Eliot, 1871-72",
+   "note": "Idealistic heroine; marries Casaubon, later Will Ladislaw"
+  },
+  {
+   "name": "Maggie Tulliver",
+   "where": "The Mill on the Floss, George Eliot, 1860",
+   "note": "Passionate heroine; drowns with brother Tom in the flood"
+  },
+  {
+   "name": "Michael Henchard",
+   "where": "The Mayor of Casterbridge, Thomas Hardy, 1886",
+   "note": "Sells wife and child when drunk; later becomes mayor"
+  },
+  {
+   "name": "Tess Durbeyfield",
+   "where": "Tess of the d'Urbervilles, Thomas Hardy, 1891",
+   "note": "'A Pure Woman' wronged by Alec, rejected by Angel Clare"
+  },
+  {
+   "name": "Jude Fawley",
+   "where": "Jude the Obscure, Thomas Hardy, 1895",
+   "note": "Stonemason who dreams of studying at Christminster"
+  },
+  {
+   "name": "Isabel Archer",
+   "where": "The Portrait of a Lady, Henry James, 1881",
+   "note": "American heiress trapped in marriage with Gilbert Osmond"
+  },
+  {
+   "name": "Lambert Strether",
+   "where": "The Ambassadors, Henry James, 1903",
+   "note": "Sent to Paris to bring back Chad Newsome"
+  },
+  {
+   "name": "Marlow",
+   "where": "Heart of Darkness, Joseph Conrad, 1899 (also Lord Jim)",
+   "note": "Conrad's narrator who travels up the Congo to find Kurtz"
+  },
+  {
+   "name": "Dr Aziz",
+   "where": "A Passage to India, E.M. Forster, 1924",
+   "note": "Indian doctor falsely accused after the Marabar Caves visit"
+  },
+  {
+   "name": "Leopold Bloom",
+   "where": "Ulysses, James Joyce, 1922",
+   "note": "Jewish advertising canvasser; modern Odysseus of Dublin"
+  },
+  {
+   "name": "Septimus Warren Smith",
+   "where": "Mrs Dalloway, Virginia Woolf, 1925",
+   "note": "Shell-shocked war veteran who commits suicide; Clarissa's double"
+  },
+  {
+   "name": "Lily Briscoe",
+   "where": "To the Lighthouse, Virginia Woolf, 1927",
+   "note": "Painter who finally completes her picture: 'I have had my vision'"
+  },
+  {
+   "name": "Paul Morel",
+   "where": "Sons and Lovers, D.H. Lawrence, 1913",
+   "note": "Son torn between his mother and his lovers Miriam and Clara"
+  },
+  {
+   "name": "Winston Smith",
+   "where": "Nineteen Eighty-Four, George Orwell, 1949",
+   "note": "Ministry of Truth clerk who rebels against Big Brother"
+  },
+  {
+   "name": "Piggy",
+   "where": "Lord of the Flies, William Golding, 1954",
+   "note": "Fat, rational boy whose spectacles make fire; killed by a rock"
+  },
+  {
+   "name": "Jim Dixon",
+   "where": "Lucky Jim, Kingsley Amis, 1954",
+   "note": "Junior history lecturer; comic anti-hero of the campus novel"
+  },
+  {
+   "name": "Stevens",
+   "where": "The Remains of the Day, Kazuo Ishiguro, 1989",
+   "note": "Butler of Darlington Hall; unreliable, repressed narrator"
+  },
+  {
+   "name": "Briony Tallis",
+   "where": "Atonement, Ian McEwan, 2001",
+   "note": "Girl whose false accusation ruins Robbie Turner; later novelist"
+  },
+  {
+   "name": "Hester Prynne",
+   "where": "The Scarlet Letter, Nathaniel Hawthorne, 1850",
+   "note": "Adulteress forced to wear the scarlet 'A'"
+  },
+  {
+   "name": "Captain Ahab",
+   "where": "Moby-Dick, Herman Melville, 1851",
+   "note": "Monomaniac captain of the Pequod hunting the white whale"
+  },
+  {
+   "name": "Huckleberry Finn",
+   "where": "Adventures of Huckleberry Finn, Mark Twain, 1884",
+   "note": "Boy who floats down the Mississippi with runaway slave Jim"
+  },
+  {
+   "name": "Jay Gatsby",
+   "where": "The Great Gatsby, F. Scott Fitzgerald, 1925",
+   "note": "Born James Gatz; throws parties to win back Daisy"
+  },
+  {
+   "name": "Benjy Compson",
+   "where": "The Sound and the Fury, William Faulkner, 1929",
+   "note": "Mentally disabled narrator of the novel's first section"
+  },
+  {
+   "name": "Santiago",
+   "where": "The Old Man and the Sea, Ernest Hemingway, 1952",
+   "note": "Old Cuban fisherman who catches a giant marlin"
+  },
+  {
+   "name": "Holden Caulfield",
+   "where": "The Catcher in the Rye, J.D. Salinger, 1951",
+   "note": "Teenager expelled from Pencey Prep; hates 'phonies'"
+  },
+  {
+   "name": "Sethe",
+   "where": "Beloved, Toni Morrison, 1987",
+   "note": "Escaped slave who killed her daughter to save her from slavery"
+  },
+  {
+   "name": "Yossarian",
+   "where": "Catch-22, Joseph Heller, 1961",
+   "note": "Bombardier trying to escape the absurd logic of war"
+  },
+  {
+   "name": "Billy Pilgrim",
+   "where": "Slaughterhouse-Five, Kurt Vonnegut, 1969",
+   "note": "Becomes 'unstuck in time'; survives Dresden bombing"
+  },
+  {
+   "name": "Bakha",
+   "where": "Untouchable, Mulk Raj Anand, 1935",
+   "note": "Young sweeper; novel covers one day of his life"
+  },
+  {
+   "name": "Raju",
+   "where": "The Guide, R.K. Narayan, 1958",
+   "note": "Railway Raju, tourist guide who ends as a fasting swami"
+  },
+  {
+   "name": "Moorthy",
+   "where": "Kanthapura, Raja Rao, 1938",
+   "note": "Gandhian young man who leads the village's struggle"
+  },
+  {
+   "name": "Saleem Sinai",
+   "where": "Midnight's Children, Salman Rushdie, 1981",
+   "note": "Born at Independence midnight; telepathic narrator"
+  },
+  {
+   "name": "Velutha",
+   "where": "The God of Small Things, Arundhati Roy, 1997",
+   "note": "Paravan carpenter, Ammu's lover, killed for breaking Love Laws"
+  },
+  {
+   "name": "Balram Halwai",
+   "where": "The White Tiger, Aravind Adiga, 2008",
+   "note": "Village boy turned driver who kills his master Ashok"
+  },
+  {
+   "name": "Okonkwo",
+   "where": "Things Fall Apart, Chinua Achebe, 1958",
+   "note": "Proud Igbo warrior of Umuofia; hangs himself at the end"
+  },
+  {
+   "name": "Mohun Biswas",
+   "where": "A House for Mr Biswas, V.S. Naipaul, 1961",
+   "note": "Trinidad journalist longing for a house of his own"
+  },
+  {
+   "name": "Offred",
+   "where": "The Handmaid's Tale, Margaret Atwood, 1985",
+   "note": "Handmaid narrator in the theocracy of Gilead"
+  },
+  {
+   "name": "David Lurie",
+   "where": "Disgrace, J.M. Coetzee, 1999",
+   "note": "Cape Town professor disgraced after an affair with a student"
+  },
+  {
+   "name": "Gregor Samsa",
+   "where": "The Metamorphosis, Franz Kafka, 1915",
+   "note": "Travelling salesman who wakes up as a giant insect"
+  },
+  {
+   "name": "Mathilde Loisel",
+   "where": "The Necklace, Guy de Maupassant, 1884",
+   "note": "Loses a borrowed necklace that turns out to be fake"
+  },
+  {
+   "name": "Akaky Akakievich",
+   "where": "The Overcoat, Nikolai Gogol, 1842",
+   "note": "Poor copying clerk whose new overcoat is stolen"
+  },
+  {
+   "name": "Ian Watt",
+   "where": "The Rise of the Novel, 1957",
+   "note": "Linked the novel's rise to the middle class; 'formal realism'"
+  },
+  {
+   "name": "Percy Lubbock",
+   "where": "The Craft of Fiction, 1921",
+   "note": "Systematised point of view and showing vs telling"
+  },
+  {
+   "name": "F.R. Leavis",
+   "where": "The Great Tradition, 1948",
+   "note": "Named Austen, Eliot, James, Conrad as the great tradition"
+  },
+  {
+   "name": "Wayne C. Booth",
+   "where": "The Rhetoric of Fiction, 1961",
+   "note": "Coined 'implied author' and 'unreliable narrator'"
+  },
+  {
+   "name": "Gerard Genette",
+   "where": "Narrative Discourse (Figures III, 1972; Eng. 1980)",
+   "note": "Order, duration, frequency, mood, voice; focalization"
+  },
+  {
+   "name": "Mikhail Bakhtin",
+   "where": "Problems of Dostoevsky's Poetics (1929); The Dialogic Imagination (Eng. 1981)",
+   "note": "Polyphony, dialogism, heteroglossia, chronotope, carnivalesque"
+  },
+  {
+   "name": "Georg Lukacs",
+   "where": "The Theory of the Novel (1916); The Historical Novel (1937)",
+   "note": "Marxist critic; novel as epic of a world abandoned by God"
+  },
+  {
+   "name": "Vladimir Propp",
+   "where": "Morphology of the Folktale (1928)",
+   "note": "Found 31 functions and 7 spheres of action in folktales"
+  },
+  {
+   "name": "Linda Hutcheon",
+   "where": "A Poetics of Postmodernism (1988)",
+   "note": "Coined 'historiographic metafiction'"
+  },
+  {
+   "name": "Frank Kermode",
+   "where": "The Sense of an Ending (1967)",
+   "note": "How fictions of endings shape our sense of time"
+  },
+  {
+   "name": "Frank O'Connor",
+   "where": "The Lonely Voice (1963)",
+   "note": "Short story speaks for 'submerged population groups'"
+  },
+  {
+   "name": "Franz Roh",
+   "where": "Nach-Expressionismus (1925)",
+   "note": "Art critic who coined the term 'magic realism'"
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "Who wrote Oroonoko, or The Royal Slave (1688)?",
+   "options": [
+    "Eliza Haywood",
+    "Aphra Behn",
+    "Delarivier Manley",
+    "Fanny Burney"
+   ],
+   "answer": 1,
+   "exp": "Aphra Behn ka Oroonoko early English prose fiction ka landmark hai."
+  },
+  {
+   "q": "Which novel, subtitled 'A Gothic Story' in its second edition, is called the first Gothic novel?",
+   "options": [
+    "The Castle of Otranto",
+    "The Monk",
+    "Vathek",
+    "The Italian"
+   ],
+   "answer": 0,
+   "exp": "Horace Walpole, The Castle of Otranto (1764)."
+  },
+  {
+   "q": "Jane Austen's Northanger Abbey parodies the Gothic vogue, especially:",
+   "options": [
+    "The Castle of Otranto",
+    "Frankenstein",
+    "Melmoth the Wanderer",
+    "The Mysteries of Udolpho"
+   ],
+   "answer": 3,
+   "exp": "Catherine Morland Radcliffe ka Udolpho padhti hai."
+  },
+  {
+   "q": "The subtitle of Mary Shelley's Frankenstein (1818) is:",
+   "options": [
+    "A Gothic Tale",
+    "The New Adam",
+    "The Modern Prometheus",
+    "The Creature's Tale"
+   ],
+   "answer": 2,
+   "exp": "Frankenstein; or, The Modern Prometheus."
+  },
+  {
+   "q": "Walter Scott's first novel was:",
+   "options": [
+    "Ivanhoe",
+    "Waverley",
+    "Rob Roy",
+    "The Heart of Midlothian"
+   ],
+   "answer": 1,
+   "exp": "Waverley (1814), ''Tis Sixty Years Since'."
+  },
+  {
+   "q": "Evelina, or the History of a Young Lady's Entrance into the World (1778) was written by:",
+   "options": [
+    "Frances (Fanny) Burney",
+    "Maria Edgeworth",
+    "Ann Radcliffe",
+    "Clara Reeve"
+   ],
+   "answer": 0,
+   "exp": "Fanny Burney ka epistolary novel."
+  },
+  {
+   "q": "Which Dickens novel was left unfinished at his death in 1870?",
+   "options": [
+    "Our Mutual Friend",
+    "Little Dorrit",
+    "Barnaby Rudge",
+    "The Mystery of Edwin Drood"
+   ],
+   "answer": 3,
+   "exp": "Edwin Drood adhoora reh gaya."
+  },
+  {
+   "q": "Thackeray's Vanity Fair carries the subtitle:",
+   "options": [
+    "A Study of Provincial Life",
+    "A Pure Woman",
+    "A Novel without a Hero",
+    "Pen and Pencil Sketches of English Society"
+   ],
+   "answer": 2,
+   "exp": "Vanity Fair: A Novel without a Hero."
+  },
+  {
+   "q": "The subtitle of George Eliot's Middlemarch is:",
+   "options": [
+    "A Novel without a Hero",
+    "A Study of Provincial Life",
+    "Scenes of Clerical Life",
+    "A Tale of English Life"
+   ],
+   "answer": 1,
+   "exp": "Middlemarch: A Study of Provincial Life."
+  },
+  {
+   "q": "Elizabeth Gaskell's first novel, set in industrial Manchester, is:",
+   "options": [
+    "Mary Barton",
+    "North and South",
+    "Cranford",
+    "Ruth"
+   ],
+   "answer": 0,
+   "exp": "Mary Barton (1848)."
+  },
+  {
+   "q": "In Jude the Obscure, the university city 'Christminster' is modelled on:",
+   "options": [
+    "Cambridge",
+    "Durham",
+    "Salisbury",
+    "Oxford"
+   ],
+   "answer": 3,
+   "exp": "Christminster = Oxford."
+  },
+  {
+   "q": "In Heart of Darkness, Marlow tells his story aboard the yawl:",
+   "options": [
+    "Patna",
+    "Narcissus",
+    "Nellie",
+    "Pequod"
+   ],
+   "answer": 2,
+   "exp": "Nellie Thames par khadi hai; Patna Lord Jim ka ship."
+  },
+  {
+   "q": "Kurtz's dying words in Heart of Darkness are:",
+   "options": [
+    "'Exterminate all the brutes!'",
+    "'The horror! The horror!'",
+    "'Mistah Kurtz, he dead.'",
+    "'It is finished.'"
+   ],
+   "answer": 1,
+   "exp": "'Mistah Kurtz-he dead' manager ka boy kehta hai."
+  },
+  {
+   "q": "The protagonist of D.H. Lawrence's Sons and Lovers is:",
+   "options": [
+    "Paul Morel",
+    "Rupert Birkin",
+    "Walter Morel",
+    "Tom Brangwen"
+   ],
+   "answer": 0,
+   "exp": "Paul Morel, Gertrude ka beta."
+  },
+  {
+   "q": "The shell-shocked war veteran in Mrs Dalloway is:",
+   "options": [
+    "Peter Walsh",
+    "Richard Dalloway",
+    "Hugh Whitbread",
+    "Septimus Warren Smith"
+   ],
+   "answer": 3,
+   "exp": "Septimus Clarissa ka 'double' hai."
+  },
+  {
+   "q": "The short middle section of To the Lighthouse is titled:",
+   "options": [
+    "The Window",
+    "The Lighthouse",
+    "Time Passes",
+    "Interlude"
+   ],
+   "answer": 2,
+   "exp": "The Window, Time Passes, The Lighthouse."
+  },
+  {
+   "q": "'Silence, exile, and cunning' are the weapons Stephen Dedalus chooses in:",
+   "options": [
+    "Ulysses",
+    "A Portrait of the Artist as a Young Man",
+    "Dubliners",
+    "Stephen Hero"
+   ],
+   "answer": 1,
+   "exp": "Portrait ke end mein Stephen yeh kehta hai."
+  },
+  {
+   "q": "The subtitle of Orwell's Animal Farm (1945) is:",
+   "options": [
+    "A Fairy Story",
+    "A Political Fable",
+    "A Beast Fable",
+    "A Satire"
+   ],
+   "answer": 0,
+   "exp": "Animal Farm: A Fairy Story."
+  },
+  {
+   "q": "Lucky Jim (1954), the campus novel about Jim Dixon, was written by:",
+   "options": [
+    "John Wain",
+    "John Braine",
+    "Alan Sillitoe",
+    "Kingsley Amis"
+   ],
+   "answer": 3,
+   "exp": "Kingsley Amis, Angry Young Men era."
+  },
+  {
+   "q": "Midnight's Children was named the 'Booker of Bookers' in:",
+   "options": [
+    "1981",
+    "2001",
+    "1993",
+    "1998"
+   ],
+   "answer": 2,
+   "exp": "Booker 1981; Booker of Bookers 1993 (aur Best of the Booker 2008)."
+  },
+  {
+   "q": "Anita Desai's first novel is:",
+   "options": [
+    "Clear Light of Day",
+    "Cry, the Peacock",
+    "Fire on the Mountain",
+    "In Custody"
+   ],
+   "answer": 1,
+   "exp": "Cry, the Peacock (1963), Maya ki kahani."
+  },
+  {
+   "q": "R.K. Narayan's first novel, which introduced Malgudi, is:",
+   "options": [
+    "Swami and Friends",
+    "The Bachelor of Arts",
+    "The English Teacher",
+    "Mr Sampath"
+   ],
+   "answer": 0,
+   "exp": "Swami and Friends (1935)."
+  },
+  {
+   "q": "The first novel of Amitav Ghosh's Ibis trilogy is:",
+   "options": [
+    "River of Smoke",
+    "Flood of Fire",
+    "The Glass Palace",
+    "Sea of Poppies"
+   ],
+   "answer": 3,
+   "exp": "Sea of Poppies (2008), phir River of Smoke, Flood of Fire."
+  },
+  {
+   "q": "Vikram Seth's novel in verse, written in Onegin stanzas, is:",
+   "options": [
+    "A Suitable Boy",
+    "An Equal Music",
+    "The Golden Gate",
+    "From Heaven Lake"
+   ],
+   "answer": 2,
+   "exp": "The Golden Gate (1986), San Francisco mein set."
+  },
+  {
+   "q": "The protagonist of Upamanyu Chatterjee's English, August is:",
+   "options": [
+    "Saleem Sinai",
+    "Agastya Sen",
+    "Balram Halwai",
+    "Biju"
+   ],
+   "answer": 1,
+   "exp": "IAS trainee Agastya Sen, Madna town."
+  },
+  {
+   "q": "The twins in Arundhati Roy's The God of Small Things are:",
+   "options": [
+    "Estha and Rahel",
+    "Ammu and Velutha",
+    "Sophie and Chacko",
+    "Baby and Pappachi"
+   ],
+   "answer": 0,
+   "exp": "Estha (Esthappen) aur Rahel, Ayemenem."
+  },
+  {
+   "q": "Which Ngugi novel is set in the days just before Kenya's Uhuru (independence) in December 1963?",
+   "options": [
+    "Weep Not, Child",
+    "The River Between",
+    "Petals of Blood",
+    "A Grain of Wheat"
+   ],
+   "answer": 3,
+   "exp": "A Grain of Wheat (1967), Mugo ki betrayal."
+  },
+  {
+   "q": "Ezeulu, chief priest of Ulu, is the protagonist of:",
+   "options": [
+    "No Longer at Ease",
+    "A Man of the People",
+    "Arrow of God",
+    "Anthills of the Savannah"
+   ],
+   "answer": 2,
+   "exp": "Achebe, Arrow of God (1964)."
+  },
+  {
+   "q": "J.M. Coetzee won the Booker Prize twice, for Life & Times of Michael K and:",
+   "options": [
+    "Waiting for the Barbarians",
+    "Disgrace",
+    "Foe",
+    "Age of Iron"
+   ],
+   "answer": 1,
+   "exp": "Michael K 1983, Disgrace 1999."
+  },
+  {
+   "q": "A House for Mr Biswas (1961) was written by:",
+   "options": [
+    "V.S. Naipaul",
+    "Sam Selvon",
+    "George Lamming",
+    "Derek Walcott"
+   ],
+   "answer": 0,
+   "exp": "Naipaul, Mohun Biswas Trinidad mein ghar chahta hai."
+  },
+  {
+   "q": "The narrator of Margaret Atwood's The Handmaid's Tale is:",
+   "options": [
+    "Moira",
+    "Serena Joy",
+    "Ofglen",
+    "Offred"
+   ],
+   "answer": 3,
+   "exp": "Offred, Gilead ki handmaid."
+  },
+  {
+   "q": "Which Australian novelist, author of Voss, won the Nobel Prize in 1973?",
+   "options": [
+    "Peter Carey",
+    "Thomas Keneally",
+    "Patrick White",
+    "David Malouf"
+   ],
+   "answer": 2,
+   "exp": "Patrick White, Australia ka pehla Nobel."
+  },
+  {
+   "q": "In The Scarlet Letter, Hester Prynne's daughter is named:",
+   "options": [
+    "Phoebe",
+    "Pearl",
+    "Prudence",
+    "Priscilla"
+   ],
+   "answer": 1,
+   "exp": "Pearl, Dimmesdale ki beti."
+  },
+  {
+   "q": "Hemingway said 'All modern American literature comes from one book' by Mark Twain, namely:",
+   "options": [
+    "Adventures of Huckleberry Finn",
+    "The Adventures of Tom Sawyer",
+    "Life on the Mississippi",
+    "A Connecticut Yankee in King Arthur's Court"
+   ],
+   "answer": 0,
+   "exp": "Green Hills of Africa (1935) mein kaha."
+  },
+  {
+   "q": "The title of Faulkner's The Sound and the Fury is taken from:",
+   "options": [
+    "King Lear",
+    "Hamlet",
+    "The Book of Ecclesiastes",
+    "Macbeth"
+   ],
+   "answer": 3,
+   "exp": "'Tomorrow, and tomorrow...' wala Macbeth speech."
+  },
+  {
+   "q": "The narrator of Kazuo Ishiguro's The Remains of the Day is:",
+   "options": [
+    "Miss Kenton",
+    "Lord Darlington",
+    "Stevens, the butler",
+    "Kathy H."
+   ],
+   "answer": 2,
+   "exp": "Stevens; Booker 1989. Kathy H. Never Let Me Go ki narrator."
+  },
+  {
+   "q": "Hilary Mantel won the Booker for Wolf Hall (2009) and for its sequel:",
+   "options": [
+    "The Mirror and the Light",
+    "Bring Up the Bodies",
+    "A Place of Greater Safety",
+    "Beyond Black"
+   ],
+   "answer": 1,
+   "exp": "Bring Up the Bodies (2012), dono Thomas Cromwell par."
+  },
+  {
+   "q": "The last and longest story in Joyce's Dubliners is:",
+   "options": [
+    "The Dead",
+    "Araby",
+    "Eveline",
+    "Ivy Day in the Committee Room"
+   ],
+   "answer": 0,
+   "exp": "The Dead, Gabriel Conroy."
+  },
+  {
+   "q": "Ghisu and Madhav, who drink away the money collected for a shroud, appear in Premchand's:",
+   "options": [
+    "Idgah",
+    "Shatranj ke Khiladi",
+    "Panch Parmeshwar",
+    "Kafan"
+   ],
+   "answer": 3,
+   "exp": "Kafan (The Shroud), 1936."
+  },
+  {
+   "q": "Bishan Singh, who refuses to be sent across the new border, is the protagonist of Manto's:",
+   "options": [
+    "Thanda Gosht",
+    "Khol Do",
+    "Toba Tek Singh",
+    "Tetwal ka Kutta"
+   ],
+   "answer": 2,
+   "exp": "Toba Tek Singh, Partition par satire."
+  },
+  {
+   "q": "Match the Gothic novel with its author. List I: (a) The Monk; (b) The Mysteries of Udolpho; (c) Melmoth the Wanderer; (d) Vathek || List II: (i) William Beckford; (ii) Matthew Gregory Lewis; (iii) Charles Robert Maturin; (iv) Ann Radcliffe",
+   "options": [
+    "a-ii, b-iv, c-iii, d-i",
+    "a-ii, b-iii, c-i, d-iv",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iv, b-ii, c-iii, d-i"
+   ],
+   "answer": 0,
+   "exp": "Lewis, Radcliffe, Maturin, Beckford."
+  },
+  {
+   "q": "Match the Dickens character with the novel. List I: (a) Mr Micawber; (b) Miss Havisham; (c) Mr Gradgrind; (d) Little Nell || List II: (i) David Copperfield; (ii) The Old Curiosity Shop; (iii) Hard Times; (iv) Great Expectations",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-i, b-iv, c-iii, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "answer": 1,
+   "exp": "Micawber-DC, Havisham-GE, Gradgrind-Hard Times, Nell-Old Curiosity Shop."
+  },
+  {
+   "q": "Match the Hardy character with the novel. List I: (a) Bathsheba Everdene; (b) Eustacia Vye; (c) Sue Bridehead; (d) Angel Clare || List II: (i) Jude the Obscure; (ii) Far from the Madding Crowd; (iii) The Return of the Native; (iv) Tess of the d'Urbervilles",
+   "options": [
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-ii, b-iii, c-i, d-iv",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 2,
+   "exp": "Bathsheba-FFMC, Eustacia-Return, Sue-Jude, Angel-Tess."
+  },
+  {
+   "q": "Match the character with the modernist novel. List I: (a) Leopold Bloom; (b) Clarissa; (c) Mrs Ramsay; (d) Rupert Birkin || List II: (i) To the Lighthouse; (ii) Mrs Dalloway; (iii) Ulysses; (iv) Women in Love",
+   "options": [
+    "a-ii, b-iii, c-i, d-iv",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-iii, b-ii, c-i, d-iv"
+   ],
+   "answer": 3,
+   "exp": "Bloom-Ulysses, Clarissa-Mrs Dalloway, Mrs Ramsay-Lighthouse, Birkin-Women in Love."
+  },
+  {
+   "q": "Match the Indian English novel with its author. List I: (a) The Serpent and the Rope; (b) Clear Light of Day; (c) The Shadow Lines; (d) A Fine Balance || List II: (i) Rohinton Mistry; (ii) Amitav Ghosh; (iii) Raja Rao; (iv) Anita Desai",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-ii, b-i, c-iii, d-iv"
+   ],
+   "answer": 0,
+   "exp": "Raja Rao, Anita Desai, Amitav Ghosh, Rohinton Mistry."
+  },
+  {
+   "q": "Match the postcolonial novel with its author. List I: (a) Season of Migration to the North; (b) Petals of Blood; (c) The Lonely Londoners; (d) In the Castle of My Skin || List II: (i) George Lamming; (ii) Ngugi wa Thiong'o; (iii) Sam Selvon; (iv) Tayeb Salih",
+   "options": [
+    "a-i, b-iii, c-iv, d-ii",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-iv, b-ii, c-i, d-iii",
+    "a-ii, b-iv, c-i, d-iii"
+   ],
+   "answer": 1,
+   "exp": "Salih (Sudan), Ngugi (Kenya), Selvon (Trinidad), Lamming (Barbados)."
+  },
+  {
+   "q": "Match the American novel with its character. List I: (a) Moby-Dick; (b) The Sun Also Rises; (c) The Portrait of a Lady; (d) Native Son || List II: (i) Captain Ahab; (ii) Bigger Thomas; (iii) Isabel Archer; (iv) Jake Barnes",
+   "options": [
+    "a-ii, b-iv, c-iii, d-i",
+    "a-i, b-ii, c-iii, d-iv",
+    "a-i, b-iv, c-iii, d-ii",
+    "a-iii, b-i, c-ii, d-iv"
+   ],
+   "answer": 2,
+   "exp": "Melville, Hemingway, James, Richard Wright."
+  },
+  {
+   "q": "Match the short story with its author. List I: (a) The Fall of the House of Usher; (b) The Lady with the Dog; (c) Araby; (d) Kabuliwala || List II: (i) Edgar Allan Poe; (ii) Anton Chekhov; (iii) Rabindranath Tagore; (iv) James Joyce",
+   "options": [
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-i, c-iii, d-iv",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-i, b-ii, c-iv, d-iii"
+   ],
+   "answer": 3,
+   "exp": "Poe, Chekhov, Joyce, Tagore."
+  },
+  {
+   "q": "Match the critical book with its author. List I: (a) Aspects of the Novel; (b) The Craft of Fiction; (c) The Rise of the Novel; (d) The Historical Novel || List II: (i) Ian Watt; (ii) Percy Lubbock; (iii) Georg Lukacs; (iv) E.M. Forster",
+   "options": [
+    "a-iv, b-ii, c-i, d-iii",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 0,
+   "exp": "Forster 1927, Lubbock 1921, Watt 1957, Lukacs 1937."
+  },
+  {
+   "q": "Match the Booker-winning novel with the year it won. List I: (a) Midnight's Children; (b) In a Free State; (c) The Inheritance of Loss; (d) The White Tiger || List II: (i) 1971; (ii) 2006; (iii) 2008; (iv) 1981",
+   "options": [
+    "a-i, b-iii, c-ii, d-iv",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-i, b-iii, c-iv, d-ii",
+    "a-ii, b-iv, c-i, d-iii"
+   ],
+   "answer": 1,
+   "exp": "Rushdie 1981, Naipaul 1971, Kiran Desai 2006, Adiga 2008."
+  },
+  {
+   "q": "Assertion (A): Robinson Crusoe is often taken as an early example of the 'formal realism' of the English novel. Reason (R): Ian Watt in The Rise of the Novel linked formal realism to the economic individualism and Puritanism of the rising middle class.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Watt ka argument hi Crusoe ko realism se jodta hai."
+  },
+  {
+   "q": "Assertion (A): Hardy's Tess of the d'Urbervilles is subtitled 'A Pure Woman Faithfully Presented'. Reason (R): Hardy wished to challenge the Victorian moral code that condemned Tess as a fallen woman.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Subtitle isi challenge ke liye rakha gaya."
+  },
+  {
+   "q": "Assertion (A): Joseph Conrad wrote his novels in English. Reason (R): Conrad was born into a Polish family in Russian-ruled Ukraine.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach, par Polish birth English mein likhne ka kaaran nahi."
+  },
+  {
+   "q": "Assertion (A): Virginia Woolf's Mrs Dalloway covers a single day in June 1923. Reason (R): Woolf attacked the Edwardian novelists Wells, Bennett and Galsworthy in 'Mr Bennett and Mrs Brown'.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach, par R A ko explain nahi karta."
+  },
+  {
+   "q": "Assertion (A): Mulk Raj Anand's Untouchable describes a single day in the life of Bakha, a sweeper. Reason (R): Untouchable was published without any preface by E.M. Forster.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "Forster ne Untouchable (1935) ka preface likha tha, R galat."
+  },
+  {
+   "q": "Assertion (A): Things Fall Apart presents Igbo society from the inside, with its own laws and culture. Reason (R): Achebe wrote partly to counter colonial portrayals of Africans, such as Joyce Cary's Mister Johnson.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Achebe ka maksad hi Africa ko andar se dikhana tha."
+  },
+  {
+   "q": "Assertion (A): Midnight's Children is narrated by Shiva, Saleem Sinai's rival. Reason (R): Saleem Sinai is born at the stroke of midnight on 15 August 1947.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Narrator Saleem khud hai, isliye A galat."
+  },
+  {
+   "q": "Assertion (A): Poe held that a short story should be long enough to need several sittings. Reason (R): Poe held that a tale should aim at a single, unified effect.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Poe ke hisaab se story ek sitting mein padhi jaye; A galat."
+  },
+  {
+   "q": "Arrange in chronological order of publication: (a) Clarissa (b) Gulliver's Travels (c) Evelina (d) Robinson Crusoe",
+   "options": [
+    "(d), (b), (a), (c)",
+    "(b), (c), (a), (d)",
+    "(b), (d), (c), (a)",
+    "(b), (a), (c), (d)"
+   ],
+   "answer": 0,
+   "exp": "1719, 1726, 1748, 1778."
+  },
+  {
+   "q": "Arrange Jane Austen's novels in order of publication: (a) Sense and Sensibility (b) Emma (c) Mansfield Park (d) Pride and Prejudice",
+   "options": [
+    "(c), (b), (d), (a)",
+    "(a), (d), (c), (b)",
+    "(d), (b), (a), (c)",
+    "(c), (d), (a), (b)"
+   ],
+   "answer": 1,
+   "exp": "1811, 1813, 1814, 1815."
+  },
+  {
+   "q": "Arrange Dickens's novels in order of publication: (a) Oliver Twist (b) David Copperfield (c) Great Expectations (d) Bleak House",
+   "options": [
+    "(b), (d), (a), (c)",
+    "(c), (d), (a), (b)",
+    "(a), (b), (d), (c)",
+    "(a), (c), (d), (b)"
+   ],
+   "answer": 2,
+   "exp": "1837-39, 1849-50, 1852-53, 1860-61."
+  },
+  {
+   "q": "Arrange Virginia Woolf's novels in order of publication: (a) The Waves (b) To the Lighthouse (c) Mrs Dalloway (d) Jacob's Room",
+   "options": [
+    "(c), (a), (b), (d)",
+    "(b), (d), (c), (a)",
+    "(a), (c), (d), (b)",
+    "(d), (c), (b), (a)"
+   ],
+   "answer": 3,
+   "exp": "1922, 1925, 1927, 1931."
+  },
+  {
+   "q": "Arrange these Indian English novels in order of publication: (a) Train to Pakistan (b) The Guide (c) Untouchable (d) Kanthapura",
+   "options": [
+    "(c), (d), (a), (b)",
+    "(b), (d), (a), (c)",
+    "(d), (c), (b), (a)",
+    "(a), (d), (c), (b)"
+   ],
+   "answer": 0,
+   "exp": "1935, 1938, 1956, 1958."
+  },
+  {
+   "q": "Arrange Chinua Achebe's novels in order of publication: (a) Things Fall Apart (b) No Longer at Ease (c) Arrow of God (d) A Man of the People",
+   "options": [
+    "(a), (c), (b), (d)",
+    "(a), (b), (c), (d)",
+    "(d), (c), (b), (a)",
+    "(a), (c), (d), (b)"
+   ],
+   "answer": 1,
+   "exp": "1958, 1960, 1964, 1966."
+  },
+  {
+   "q": "Arrange these American novels in order of publication: (a) The Scarlet Letter (b) The Great Gatsby (c) Moby-Dick (d) Adventures of Huckleberry Finn",
+   "options": [
+    "(c), (b), (a), (d)",
+    "(c), (d), (b), (a)",
+    "(a), (c), (d), (b)",
+    "(b), (c), (d), (a)"
+   ],
+   "answer": 2,
+   "exp": "1850, 1851, 1884 (UK)/1885 (US), 1925."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Wuthering Heights was published under the pseudonym Currer Bell.",
+    "Middlemarch was published in 1859.",
+    "Frankenstein was first published anonymously in 1818.",
+    "Ivanhoe is set in Scotland during the 1745 Jacobite rising."
+   ],
+   "answer": 2,
+   "exp": "Wuthering Heights Ellis Bell ke naam se; Middlemarch 1871-72; Ivanhoe medieval England."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Henry James was born in London.",
+    "Heart of Darkness was first serialised in Blackwood's Magazine in 1899.",
+    "Lambert Strether is the hero of The Portrait of a Lady.",
+    "Lord Jim is narrated entirely by Jim himself."
+   ],
+   "answer": 1,
+   "exp": "James New York mein paida hue; Strether The Ambassadors ka; Lord Jim mostly Marlow narrate karta hai."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "R.K. Narayan's The Guide won the Sahitya Akademi Award.",
+    "Raja Rao wrote Coolie.",
+    "Train to Pakistan is set in a Bengal village called Mano Majra.",
+    "Nectar in a Sieve is set on a Kerala tea plantation."
+   ],
+   "answer": 0,
+   "exp": "Coolie Anand ka; Mano Majra Punjab border par; Nectar in a Sieve South Indian village."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Maupassant's literary mentor was Balzac.",
+    "Katherine Mansfield was born in Australia.",
+    "Akaky Akakievich is the hero of Gogol's The Nose.",
+    "O. Henry was the pen name of William Sydney Porter."
+   ],
+   "answer": 3,
+   "exp": "Maupassant ke mentor Flaubert; Mansfield New Zealand; Akaky The Overcoat mein."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Bakhtin coined the term 'implied author'.",
+    "Forster defined plot as a narrative of events arranged in time sequence.",
+    "Genette's 'focalization' separates who sees from who speaks.",
+    "Propp identified thirteen functions in the folktale."
+   ],
+   "answer": 2,
+   "exp": "Implied author Booth ka; time sequence story hai, plot causality; Propp ke 31 functions."
+  }
+ ]
+}

@@ -1,0 +1,774 @@
+{
+ "mcqs": [
+  {
+   "q": "According to Aristotle, tragedy effects the catharsis of which emotions?",
+   "options": [
+    "Pity and fear",
+    "Love and hate",
+    "Joy and sorrow",
+    "Anger and shame"
+   ],
+   "answer": 0,
+   "exp": "Poetics ch. 6: tragedy, through pity (eleos) and fear (phobos), effects the catharsis of such emotions."
+  },
+  {
+   "q": "In Aristotle's Poetics, 'hamartia' refers to:",
+   "options": [
+    "The reversal of the situation",
+    "An error or flaw of judgement in the tragic hero",
+    "The recognition of the truth",
+    "The spectacle of suffering"
+   ],
+   "answer": 1,
+   "exp": "Hamartia is the hero's error of judgement (Poetics ch. 13), not necessarily a moral vice."
+  },
+  {
+   "q": "Aristotle's term for 'a change from ignorance to knowledge' in the plot is:",
+   "options": [
+    "Peripeteia",
+    "Hamartia",
+    "Anagnorisis",
+    "Hubris"
+   ],
+   "answer": 2,
+   "exp": "Poetics ch. 11 defines anagnorisis (recognition) as a change from ignorance to knowledge; peripeteia is reversal."
+  },
+  {
+   "q": "In the final chapter of the Poetics, which form does Aristotle judge superior?",
+   "options": [
+    "Epic, over tragedy",
+    "Comedy, over tragedy",
+    "Lyric, over epic",
+    "Tragedy, over epic"
+   ],
+   "answer": 3,
+   "exp": "Poetics ch. 26 concludes that tragedy is superior to epic because it attains its end more vividly and in a more concentrated form."
+  },
+  {
+   "q": "Plato speaks of 'an ancient quarrel between philosophy and poetry' in which Book of the Republic?",
+   "options": [
+    "Book X",
+    "Book II",
+    "Book VII",
+    "Book V"
+   ],
+   "answer": 0,
+   "exp": "The phrase occurs in Republic Book X (607b), where Plato returns to the expulsion of the poets."
+  },
+  {
+   "q": "Horace's Ars Poetica is written in the form of a verse epistle addressed to:",
+   "options": [
+    "Maecenas",
+    "The Pisos",
+    "Augustus",
+    "Virgil"
+   ],
+   "answer": 1,
+   "exp": "The Ars Poetica is also called the Epistula ad Pisones, a letter to Piso and his sons."
+  },
+  {
+   "q": "How many acts does Horace prescribe for a play in the Ars Poetica?",
+   "options": [
+    "Three",
+    "Four",
+    "Five",
+    "Seven"
+   ],
+   "answer": 2,
+   "exp": "Horace says a play should be neither shorter nor longer than five acts."
+  },
+  {
+   "q": "Longinus's treatise On the Sublime is addressed to:",
+   "options": [
+    "Caecilius of Calacte",
+    "Dionysius of Halicarnassus",
+    "Lucius Piso",
+    "Postumius Terentianus"
+   ],
+   "answer": 3,
+   "exp": "The treatise is addressed to Postumius Terentianus; it answers an earlier treatise on the sublime by Caecilius."
+  },
+  {
+   "q": "Which two of Longinus's five sources of the sublime are largely innate?",
+   "options": [
+    "Grandeur of thought and vehement, inspired passion",
+    "Figures of speech and noble diction",
+    "Noble diction and dignified composition",
+    "Figures of speech and dignified composition"
+   ],
+   "answer": 0,
+   "exp": "Longinus says the first two sources are mostly innate, while figures, noble diction and dignified composition come from art."
+  },
+  {
+   "q": "Which Platonic dialogue discusses rhetoric and writing and contains the myth of the soul as a charioteer?",
+   "options": [
+    "Ion",
+    "Phaedrus",
+    "Symposium",
+    "Timaeus"
+   ],
+   "answer": 1,
+   "exp": "The Phaedrus treats rhetoric, love and writing, and gives the charioteer myth of the soul."
+  },
+  {
+   "q": "Aristotle's remark that tragedy tries to confine itself 'to a single revolution of the sun' later became the basis of the unity of:",
+   "options": [
+    "Place",
+    "Action",
+    "Time",
+    "Character"
+   ],
+   "answer": 2,
+   "exp": "Poetics ch. 5; Renaissance critics hardened this observation into the unity of time."
+  },
+  {
+   "q": "Dante's De Vulgari Eloquentia is chiefly a defence of:",
+   "options": [
+    "Latin as the only literary language",
+    "Allegorical interpretation of scripture",
+    "Classical tragedy",
+    "Poetry in the vernacular"
+   ],
+   "answer": 3,
+   "exp": "Written in Latin, De Vulgari Eloquentia argues for the dignity of the Italian vernacular as a literary language."
+  },
+  {
+   "q": "In An Apology for Poetry, Sidney calls the poet the ______ of all human sciences.",
+   "options": [
+    "Monarch",
+    "Servant",
+    "Physician",
+    "Architect"
+   ],
+   "answer": 0,
+   "exp": "Sidney: 'Now therein of all sciences ... is our poet the monarch.'"
+  },
+  {
+   "q": "Ben Jonson's critical notes and reflections were published under the title:",
+   "options": [
+    "The Arte of English Poesie",
+    "Timber, or Discoveries",
+    "A Defence of Ryme",
+    "Observations in the Art of English Poesie"
+   ],
+   "answer": 1,
+   "exp": "Timber, or Discoveries was published posthumously (1640-41). The other titles belong to Puttenham, Daniel and Campion."
+  },
+  {
+   "q": "Dryden's An Essay of Dramatic Poesy (1668) is set on the day of:",
+   "options": [
+    "The Great Fire of London",
+    "The coronation of Charles II",
+    "A naval battle between the English and the Dutch",
+    "The reopening of the theatres in 1660"
+   ],
+   "answer": 2,
+   "exp": "The four speakers talk on a barge on the Thames while the English and Dutch fleets fight in June 1665."
+  },
+  {
+   "q": "Who described Shakespeare as the man 'who of all modern, and perhaps ancient poets, had the largest and most comprehensive soul'?",
+   "options": [
+    "Samuel Johnson",
+    "Ben Jonson",
+    "Alexander Pope",
+    "John Dryden"
+   ],
+   "answer": 3,
+   "exp": "Neander (Dryden) says this in An Essay of Dramatic Poesy."
+  },
+  {
+   "q": "Dryden's famous judgement on Chaucer, 'Here is God's plenty', occurs in:",
+   "options": [
+    "Preface to the Fables, Ancient and Modern",
+    "An Essay of Dramatic Poesy",
+    "A Discourse concerning Satire",
+    "Preface to All for Love"
+   ],
+   "answer": 0,
+   "exp": "The remark appears in the Preface to Fables, Ancient and Modern (1700)."
+  },
+  {
+   "q": "'Shakespeare is above all writers, at least above all modern writers, the poet of nature' is from:",
+   "options": [
+    "Dryden's An Essay of Dramatic Poesy",
+    "Johnson's Preface to Shakespeare",
+    "Pope's Preface to Shakespeare",
+    "Coleridge's Lectures on Shakespeare"
+   ],
+   "answer": 1,
+   "exp": "Johnson's Preface to Shakespeare (1765) opens its praise with this claim."
+  },
+  {
+   "q": "In Johnson's Rasselas, who says that the poet does not 'number the streaks of the tulip'?",
+   "options": [
+    "Rasselas",
+    "Nekayah",
+    "Imlac",
+    "Pekuah"
+   ],
+   "answer": 2,
+   "exp": "Imlac's dissertation on poetry (ch. 10) says the poet examines the species, not the individual."
+  },
+  {
+   "q": "Addison's essays on 'The Pleasures of the Imagination' appeared in:",
+   "options": [
+    "The Tatler",
+    "The Rambler",
+    "The Idler",
+    "The Spectator"
+   ],
+   "answer": 3,
+   "exp": "Addison published the series in The Spectator in 1712 (Nos. 411-421)."
+  },
+  {
+   "q": "Wordsworth's Preface first appeared in which edition of Lyrical Ballads?",
+   "options": [
+    "1800",
+    "1798",
+    "1802",
+    "1815"
+   ],
+   "answer": 0,
+   "exp": "The 1798 volume had only a short Advertisement. The Preface came in 1800 and was enlarged in 1802."
+  },
+  {
+   "q": "In the Preface to Lyrical Ballads, Wordsworth defines the poet as:",
+   "options": [
+    "An unacknowledged legislator",
+    "A man speaking to men",
+    "A seer and a prophet",
+    "A maker of verbal icons"
+   ],
+   "answer": 1,
+   "exp": "Wordsworth: the poet 'is a man speaking to men', though gifted with more lively sensibility."
+  },
+  {
+   "q": "Coleridge's phrase 'that willing suspension of disbelief for the moment, which constitutes poetic faith' occurs in:",
+   "options": [
+    "Biographia Literaria, Chapter XIII",
+    "Table Talk",
+    "Biographia Literaria, Chapter XIV",
+    "Lectures on Shakespeare"
+   ],
+   "answer": 2,
+   "exp": "Chapter XIV explains the plan of Lyrical Ballads and gives the phrase."
+  },
+  {
+   "q": "Coleridge coined which word for the unifying, shaping power of the imagination?",
+   "options": [
+    "Synaesthetic",
+    "Mimetic",
+    "Organic",
+    "Esemplastic"
+   ],
+   "answer": 3,
+   "exp": "In Biographia Literaria (ch. X) Coleridge coins 'esemplastic', meaning 'to shape into one'."
+  },
+  {
+   "q": "Keats first defined 'Negative Capability' in a letter of December 1817 to:",
+   "options": [
+    "His brothers George and Tom",
+    "Benjamin Bailey",
+    "John Hamilton Reynolds",
+    "Fanny Brawne"
+   ],
+   "answer": 0,
+   "exp": "The letter to George and Tom Keats defines Negative Capability as being 'capable of being in uncertainties, Mysteries, doubts, without any irritable reaching after fact and reason'."
+  },
+  {
+   "q": "Arnold's definition of criticism as 'a disinterested endeavour to learn and propagate the best that is known and thought in the world' is from:",
+   "options": [
+    "The Study of Poetry",
+    "The Function of Criticism at the Present Time",
+    "Culture and Anarchy",
+    "On Translating Homer"
+   ],
+   "answer": 1,
+   "exp": "The definition closes 'The Function of Criticism at the Present Time' (1864)."
+  },
+  {
+   "q": "In 'Tradition and the Individual Talent', Eliot compares the mind of the poet to:",
+   "options": [
+    "A lamp that projects light",
+    "A mirror held up to nature",
+    "A shred of platinum acting as a catalyst",
+    "An Aeolian harp"
+   ],
+   "answer": 2,
+   "exp": "Eliot's analogy: the mind is a shred of platinum, a catalyst that stays unchanged while oxygen and sulphur dioxide combine."
+  },
+  {
+   "q": "Eliot introduced the phrase 'dissociation of sensibility' in:",
+   "options": [
+    "Hamlet and His Problems (1919)",
+    "The Function of Criticism (1923)",
+    "Tradition and the Individual Talent (1919)",
+    "The Metaphysical Poets (1921)"
+   ],
+   "answer": 3,
+   "exp": "In 'The Metaphysical Poets' Eliot says a dissociation of sensibility set in during the seventeenth century."
+  },
+  {
+   "q": "I.A. Richards's Practical Criticism (1929) was based on:",
+   "options": [
+    "Responses ('protocols') written by Cambridge students to unsigned poems",
+    "A survey of Victorian periodical reviews",
+    "Lectures on Shakespeare's tragedies",
+    "A study of myths and archetypes"
+   ],
+   "answer": 0,
+   "exp": "Richards gave his students poems without author or date and analysed the protocols they wrote."
+  },
+  {
+   "q": "Which work by William Empson, a pupil of I.A. Richards, appeared in 1930?",
+   "options": [
+    "Some Versions of Pastoral",
+    "Seven Types of Ambiguity",
+    "The Structure of Complex Words",
+    "Milton's God"
+   ],
+   "answer": 1,
+   "exp": "Seven Types of Ambiguity (1930) was Empson's first book. The others came in 1935, 1951 and 1961."
+  },
+  {
+   "q": "'The Heresy of Paraphrase' is a chapter in:",
+   "options": [
+    "John Crowe Ransom's The New Criticism",
+    "W.K. Wimsatt's The Verbal Icon",
+    "Cleanth Brooks's The Well Wrought Urn",
+    "Allen Tate's Reason in Madness"
+   ],
+   "answer": 2,
+   "exp": "Brooks argues in The Well Wrought Urn (1947) that a poem's meaning cannot be reduced to a prose paraphrase."
+  },
+  {
+   "q": "Allen Tate formed his critical term 'tension' by taking the prefixes off which two logical terms?",
+   "options": [
+    "Intention and attention",
+    "Extension and pretension",
+    "Intension and dissension",
+    "Extension and intension"
+   ],
+   "answer": 3,
+   "exp": "In 'Tension in Poetry' (1938) Tate takes the prefixes off extension and intension."
+  },
+  {
+   "q": "Kavyalankara, the work that founded the alamkara school, was written by:",
+   "options": [
+    "Bhamaha",
+    "Dandin",
+    "Udbhata",
+    "Rudrata"
+   ],
+   "answer": 0,
+   "exp": "Bhamaha's Kavyalankara (c. 7th century) treats alamkara as the central element of poetry."
+  },
+  {
+   "q": "Dandin's Kavyadarsha distinguishes which two margas (styles) of poetry?",
+   "options": [
+    "Vaidarbhi and Panchali",
+    "Vaidarbha and Gauda",
+    "Gaudi and Lati",
+    "Panchali and Lati"
+   ],
+   "answer": 1,
+   "exp": "Dandin describes two margas, Vaidarbha and Gauda, and links ten gunas to the Vaidarbha."
+  },
+  {
+   "q": "Which of the following is NOT one of Anandavardhana's three kinds of dhvani?",
+   "options": [
+    "Vastu-dhvani",
+    "Alamkara-dhvani",
+    "Riti-dhvani",
+    "Rasa-dhvani"
+   ],
+   "answer": 2,
+   "exp": "The Dhvanyaloka names three kinds of suggestion: of a fact (vastu), of a figure (alamkara) and of emotion (rasa)."
+  },
+  {
+   "q": "Bhatta Nayaka's interpretation of the rasa sutra is known as:",
+   "options": [
+    "Utpattivada",
+    "Anumitivada",
+    "Abhivyaktivada",
+    "Bhuktivada"
+   ],
+   "answer": 3,
+   "exp": "Bhatta Nayaka posits the powers of bhavakatva (generalisation) and bhojakatva (enjoyment) beyond abhidha. Hence his theory is called bhuktivada."
+  },
+  {
+   "q": "Who defined poetry as 'tad adoshau shabdarthau sagunav analankriti punah kvapi'?",
+   "options": [
+    "Mammata",
+    "Vishvanatha",
+    "Jagannatha",
+    "Rajashekhara"
+   ],
+   "answer": 0,
+   "exp": "Mammata's Kavyaprakasha defines poetry as word and meaning free from faults, having gunas, and sometimes without evident ornament."
+  },
+  {
+   "q": "'Vakyam rasatmakam kavyam' (poetry is a sentence whose soul is rasa) is the definition given by:",
+   "options": [
+    "Mammata in Kavyaprakasha",
+    "Vishvanatha in Sahityadarpana",
+    "Bharata in Natyashastra",
+    "Kshemendra in Kavikanthabharana"
+   ],
+   "answer": 1,
+   "exp": "Vishvanatha (14th century) gives this definition in the Sahityadarpana."
+  },
+  {
+   "q": "'Ramaniyartha-pratipadakah shabdah kavyam' is the definition of poetry given in:",
+   "options": [
+    "Dhvanyaloka",
+    "Kavyamimamsa",
+    "Rasagangadhara",
+    "Vakroktijivita"
+   ],
+   "answer": 2,
+   "exp": "Jagannatha's Rasagangadhara (17th century) defines poetry as words that convey a charming meaning."
+  },
+  {
+   "q": "Shri Shankuka explained the realisation of rasa through the analogy of the 'chitraturaga nyaya' (picture of a horse). His theory is called:",
+   "options": [
+    "Bhuktivada",
+    "Utpattivada",
+    "Abhivyaktivada",
+    "Anumitivada"
+   ],
+   "answer": 3,
+   "exp": "Shankuka held that rasa is inferred (anumiti) in the actor, as one takes a painted horse for a horse."
+  },
+  {
+   "q": "Match List I (concept) with List II (critic): List I: (a) Catharsis (b) Decorum (c) The sublime (d) Poetry as imitation of an imitation List II: (i) Plato (ii) Longinus (iii) Aristotle (iv) Horace",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iii, b-i, c-ii, d-iv",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-i, c-iii, d-iv"
+   ],
+   "answer": 0,
+   "exp": "Catharsis comes from Aristotle, decorum from Horace, the sublime from Longinus, and the poet as copier of appearances from Plato."
+  },
+  {
+   "q": "Match List I (work) with List II (author): List I: (a) Biographia Literaria (b) A Defence of Poetry (c) Essays in Criticism (d) Preface to Lyrical Ballads List II: (i) Wordsworth (ii) Arnold (iii) Coleridge (iv) Shelley",
+   "options": [
+    "a-iii, b-ii, c-iv, d-i",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-ii, b-iii, c-i, d-iv"
+   ],
+   "answer": 1,
+   "exp": "Biographia Literaria is by Coleridge (1817), A Defence of Poetry by Shelley (1821), Essays in Criticism by Arnold, and the Preface by Wordsworth (1800)."
+  },
+  {
+   "q": "Match List I (book) with List II (critic): List I: (a) The Well Wrought Urn (b) The World's Body (c) The Verbal Icon (d) Principles of Literary Criticism List II: (i) I.A. Richards (ii) W.K. Wimsatt (iii) Cleanth Brooks (iv) John Crowe Ransom",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-i, b-iv, c-iii, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-i, b-iii, c-iv, d-ii"
+   ],
+   "answer": 2,
+   "exp": "The Well Wrought Urn is by Brooks (1947), The World's Body by Ransom (1938), The Verbal Icon by Wimsatt (1954), and Principles of Literary Criticism by Richards (1924)."
+  },
+  {
+   "q": "Match List I (critical concept) with List II (critic): List I: (a) Negative capability (b) Touchstone method (c) Dissociation of sensibility (d) Heresy of paraphrase List II: (i) T.S. Eliot (ii) Cleanth Brooks (iii) John Keats (iv) Matthew Arnold",
+   "options": [
+    "a-ii, b-iv, c-i, d-iii",
+    "a-ii, b-iii, c-i, d-iv",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "answer": 3,
+   "exp": "Negative capability is Keats's, the touchstone method Arnold's, dissociation of sensibility Eliot's, and the heresy of paraphrase Brooks's."
+  },
+  {
+   "q": "Match List I (text) with List II (author): List I: (a) Natyashastra (b) Kavyadarsha (c) Kavyaprakasha (d) Sahityadarpana List II: (i) Mammata (ii) Bharata (iii) Vishvanatha (iv) Dandin",
+   "options": [
+    "a-ii, b-iv, c-i, d-iii",
+    "a-i, b-iv, c-ii, d-iii",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "answer": 0,
+   "exp": "The Natyashastra is Bharata's, Kavyadarsha Dandin's, Kavyaprakasha Mammata's, and Sahityadarpana Vishvanatha's."
+  },
+  {
+   "q": "Match List I (interpreter of the rasa sutra) with List II (theory): List I: (a) Bhatta Lollata (b) Shri Shankuka (c) Bhatta Nayaka (d) Abhinavagupta List II: (i) Anumitivada (ii) Abhivyaktivada (iii) Utpattivada (iv) Bhuktivada",
+   "options": [
+    "a-iv, b-i, c-iii, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iv, b-i, c-ii, d-iii"
+   ],
+   "answer": 1,
+   "exp": "Lollata held utpattivada (production), Shankuka anumitivada (inference), Bhatta Nayaka bhuktivada (enjoyment), and Abhinavagupta abhivyaktivada (manifestation)."
+  },
+  {
+   "q": "Match List I (sthayibhava) with List II (rasa): List I: (a) Rati (b) Hasa (c) Krodha (d) Bhaya List II: (i) Raudra (ii) Bhayanaka (iii) Shringara (iv) Hasya",
+   "options": [
+    "a-iii, b-ii, c-i, d-iv",
+    "a-i, b-iii, c-iv, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-i, b-iii, c-ii, d-iv"
+   ],
+   "answer": 2,
+   "exp": "Rati gives shringara, hasa gives hasya, krodha gives raudra, and bhaya gives bhayanaka (Natyashastra ch. 6)."
+  },
+  {
+   "q": "Match List I (quotation) with List II (author): List I: (a) 'Poetry is the breath and finer spirit of all knowledge' (b) 'Poetry is the record of the best and happiest moments of the happiest and best minds' (c) 'Poetry = the best words in the best order' (d) 'Poetry is not a turning loose of emotion, but an escape from emotion' List II: (i) Coleridge (ii) T.S. Eliot (iii) Wordsworth (iv) Shelley",
+   "options": [
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-ii, b-i, c-iii, d-iv",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "answer": 3,
+   "exp": "The first is from Wordsworth's Preface (1802), the second from Shelley's Defence, the third from Coleridge's Table Talk (1827), and the fourth from Eliot's 'Tradition and the Individual Talent'."
+  },
+  {
+   "q": "Match List I (work) with List II (author): List I: (a) Timber, or Discoveries (b) An Essay on Criticism (c) Lives of the Poets (d) Of Dramatic Poesy: An Essay List II: (i) Dryden (ii) Johnson (iii) Ben Jonson (iv) Pope",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-i, b-iv, c-iii, d-ii",
+    "a-i, b-iii, c-iv, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Timber is by Ben Jonson, An Essay on Criticism by Pope (1711), Lives of the Poets by Johnson (1779-81), and Of Dramatic Poesy by Dryden (1668)."
+  },
+  {
+   "q": "Match List I (essay) with List II (authors): List I: (a) 'The Intentional Fallacy' (b) 'Tension in Poetry' (c) 'Criticism, Inc.' (d) 'Hamlet and His Problems' List II: (i) T.S. Eliot (ii) Wimsatt and Beardsley (iii) Allen Tate (iv) John Crowe Ransom",
+   "options": [
+    "a-ii, b-i, c-iv, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-i, b-iii, c-ii, d-iv",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 1,
+   "exp": "'The Intentional Fallacy' is by Wimsatt and Beardsley (1946), 'Tension in Poetry' by Tate (1938), 'Criticism, Inc.' by Ransom (1937), and 'Hamlet and His Problems' by Eliot (1919)."
+  },
+  {
+   "q": "Given below are two statements, one labelled Assertion (A) and the other Reason (R). Assertion (A): Plato would banish poets from his ideal republic. Reason (R): Poetry imitates appearances, which are themselves copies of the Ideas, and it feeds the irrational passions. In the light of the above statements, choose the correct answer from the options given below.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "In Republic X Plato expels poets because poetry is at a third remove from truth and nourishes the passions. R gives his reason for A."
+  },
+  {
+   "q": "Given below are two statements, one labelled Assertion (A) and the other Reason (R). Assertion (A): Horace holds that poetry should both delight and instruct. Reason (R): Horace insists that a play should have exactly three acts. In the light of the above statements, choose the correct answer from the options given below.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "Horace's ideal is 'dulce et utile', but he prescribes five acts, not three. So R is false."
+  },
+  {
+   "q": "Given below are two statements, one labelled Assertion (A) and the other Reason (R). Assertion (A): Eliot holds that poetry is the expression of the poet's personality. Reason (R): Eliot says that the progress of an artist is a continual self-sacrifice, a continual extinction of personality. In the light of the above statements, choose the correct answer from the options given below.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Eliot says that poetry 'is not the expression of personality, but an escape from personality'. So A is false and R is a true quotation."
+  },
+  {
+   "q": "Given below are two statements, one labelled Assertion (A) and the other Reason (R). Assertion (A): Wordsworth rejected the poetic diction of the eighteenth-century poets. Reason (R): The Preface first appeared in the 1800 edition of Lyrical Ballads. In the light of the above statements, choose the correct answer from the options given below.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Both statements are true, but the date of the Preface does not explain why he rejected poetic diction. His reason was his wish to use 'the real language of men'."
+  },
+  {
+   "q": "Given below are two statements, one labelled Assertion (A) and the other Reason (R). Assertion (A): Vamana regards alamkara as the soul of poetry. Reason (R): Vamana defines riti as a special arrangement of words (vishishta padaracana ritih). In the light of the above statements, choose the correct answer from the options given below.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Vamana says 'ritir atma kavyasya': riti, not alamkara, is the soul of poetry. So A is false. R is his own definition of riti."
+  },
+  {
+   "q": "Given below are two statements, one labelled Assertion (A) and the other Reason (R). Assertion (A): Arnold calls Dryden and Pope 'classics of our prose' rather than of our poetry. Reason (R): Arnold believes their poetry is conceived and composed in their wits, whereas genuine poetry is conceived and composed in the soul. In the light of the above statements, choose the correct answer from the options given below.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Both are from 'The Study of Poetry', and R is Arnold's stated reason for A."
+  },
+  {
+   "q": "Given below are two statements, one labelled Assertion (A) and the other Reason (R). Assertion (A): Johnson defends Shakespeare's disregard of the unities of time and place. Reason (R): Johnson is the author of Lives of the Poets. In the light of the above statements, choose the correct answer from the options given below.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Both are true. Johnson argues that the spectator always knows he is in a theatre, so time and place may change, but his authorship of Lives of the Poets does not explain this."
+  },
+  {
+   "q": "Given below are two statements, one labelled Assertion (A) and the other Reason (R). Assertion (A): Kuntaka regards vakrokti as the life of poetry. Reason (R): Kuntaka holds that only the content of poetry matters and that its mode of expression is of no importance. In the light of the above statements, choose the correct answer from the options given below.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "In the Vakroktijivita Kuntaka makes vakrokti, a striking and oblique mode of expression, the life (jivita) of poetry. So R misstates his view."
+  },
+  {
+   "q": "Arrange the following in chronological order of composition: (a) Ars Poetica (b) Poetics (c) On the Sublime (d) Republic Choose the correct answer from the options given below.",
+   "options": [
+    "(a), (b), (d), (c)",
+    "(b), (a), (d), (c)",
+    "(d), (b), (a), (c)",
+    "(a), (d), (c), (b)"
+   ],
+   "answer": 2,
+   "exp": "Plato's Republic dates from c. 375 BC, Aristotle's Poetics c. 335 BC, Horace's Ars Poetica c. 19 BC, and Longinus's On the Sublime the 1st century AD."
+  },
+  {
+   "q": "Arrange the following in chronological order of publication: (a) Pope's An Essay on Criticism (b) Johnson's Preface to Shakespeare (c) Sidney's An Apology for Poetry (d) Dryden's An Essay of Dramatic Poesy Choose the correct answer from the options given below.",
+   "options": [
+    "(b), (d), (a), (c)",
+    "(b), (d), (c), (a)",
+    "(b), (a), (c), (d)",
+    "(c), (d), (a), (b)"
+   ],
+   "answer": 3,
+   "exp": "Sidney's Apology was published in 1595, Dryden's Essay in 1668, Pope's Essay on Criticism in 1711, and Johnson's Preface in 1765."
+  },
+  {
+   "q": "Arrange the following in chronological order: (a) Biographia Literaria (b) The Function of Criticism at the Present Time (c) Preface to Lyrical Ballads (d) A Defence of Poetry (written) Choose the correct answer from the options given below.",
+   "options": [
+    "(c), (a), (d), (b)",
+    "(c), (a), (b), (d)",
+    "(c), (b), (a), (d)",
+    "(b), (d), (a), (c)"
+   ],
+   "answer": 0,
+   "exp": "The Preface dates from 1800, Biographia Literaria from 1817, A Defence of Poetry was written in 1821, and Arnold's essay is from 1864."
+  },
+  {
+   "q": "Arrange the following in chronological order of publication: (a) The Well Wrought Urn (b) Seven Types of Ambiguity (c) Principles of Literary Criticism (d) 'Tradition and the Individual Talent' Choose the correct answer from the options given below.",
+   "options": [
+    "(d), (a), (b), (c)",
+    "(d), (c), (b), (a)",
+    "(c), (b), (d), (a)",
+    "(b), (d), (a), (c)"
+   ],
+   "answer": 1,
+   "exp": "'Tradition and the Individual Talent' appeared in 1919, Principles of Literary Criticism in 1924, Seven Types of Ambiguity in 1930, and The Well Wrought Urn in 1947."
+  },
+  {
+   "q": "Arrange the following Indian theorists in chronological order: (a) Kuntaka (b) Vishvanatha (c) Vamana (d) Anandavardhana Choose the correct answer from the options given below.",
+   "options": [
+    "(c), (d), (b), (a)",
+    "(a), (c), (d), (b)",
+    "(c), (d), (a), (b)",
+    "(d), (a), (c), (b)"
+   ],
+   "answer": 2,
+   "exp": "Vamana is dated c. late 8th century, Anandavardhana the 9th century, Kuntaka the late 10th or early 11th century, and Vishvanatha the 14th century."
+  },
+  {
+   "q": "Arrange the following in chronological order of publication: (a) Ransom's The New Criticism (b) Arnold's 'The Study of Poetry' (c) Eliot's The Sacred Wood (d) Pater's Studies in the History of the Renaissance Choose the correct answer from the options given below.",
+   "options": [
+    "(a), (b), (c), (d)",
+    "(b), (a), (c), (d)",
+    "(a), (d), (b), (c)",
+    "(d), (b), (c), (a)"
+   ],
+   "answer": 3,
+   "exp": "Pater's Renaissance was published in 1873, 'The Study of Poetry' in 1880, The Sacred Wood in 1920, and The New Criticism in 1941."
+  },
+  {
+   "q": "Arrange the following Sanskrit theorists in chronological order: (a) Mammata (b) Jagannatha (c) Dandin (d) Abhinavagupta Choose the correct answer from the options given below.",
+   "options": [
+    "(c), (d), (a), (b)",
+    "(a), (d), (c), (b)",
+    "(a), (d), (b), (c)",
+    "(d), (b), (a), (c)"
+   ],
+   "answer": 0,
+   "exp": "Dandin is dated c. 7th century, Abhinavagupta c. 950-1016, Mammata the 11th century, and Jagannatha the 17th century."
+  },
+  {
+   "q": "Which of the following statements about Aristotle's Poetics are correct? (a) Tragedy is an imitation of an action that is serious, complete and of a certain magnitude. (b) Plot is the first principle and, as it were, the soul of tragedy. (c) Aristotle laid down the three unities of time, place and action as binding rules. (d) Tragedy effects, through pity and fear, the catharsis of such emotions. Choose the correct answer from the options given below.",
+   "options": [
+    "(a) and (c) only",
+    "(a), (b) and (d) only",
+    "(b), (c) and (d) only",
+    "(a), (b), (c) and (d)"
+   ],
+   "answer": 1,
+   "exp": "Aristotle insists only on unity of action. Later critics, notably Castelvetro, added the unity of place and made the unities rules."
+  },
+  {
+   "q": "Which of the following statements about the New Criticism are correct? (a) It treats the biographical and historical context as the key to a poem's meaning. (b) Wimsatt and Beardsley reject the author's intention as a standard for judging a work. (c) Cleanth Brooks wrote The Well Wrought Urn. (d) John Crowe Ransom's The New Criticism (1941) gave the movement its name. Choose the correct answer from the options given below.",
+   "options": [
+    "(a), (b) and (c) only",
+    "(a) and (d) only",
+    "(b), (c) and (d) only",
+    "(a), (b), (c) and (d)"
+   ],
+   "answer": 2,
+   "exp": "The New Critics practised close reading of the text itself and set aside biography and history. So (a) is false."
+  },
+  {
+   "q": "Which of the following statements are correct? (a) Anandavardhana wrote the Dhvanyaloka. (b) Abhinavagupta wrote the Locana, a commentary on the Dhvanyaloka. (c) Kuntaka wrote the Kavyadarsha. (d) Bharata wrote the Dhvanyaloka. Choose the correct answer from the options given below.",
+   "options": [
+    "(a), (b) and (c) only",
+    "(b) and (d) only",
+    "(c) and (d) only",
+    "(a) and (b) only"
+   ],
+   "answer": 3,
+   "exp": "Kavyadarsha is by Dandin, and Bharata wrote the Natyashastra. Abhinavagupta also wrote the Abhinavabharati on the Natyashastra."
+  },
+  {
+   "q": "Which of the following statements about Coleridge's Biographia Literaria are correct? (a) The primary imagination is 'the living Power and prime Agent of all human Perception'. (b) The secondary imagination 'dissolves, diffuses, dissipates, in order to re-create'. (c) Coleridge distinguishes between imagination and fancy. (d) Coleridge holds fancy to be superior to imagination. Choose the correct answer from the options given below.",
+   "options": [
+    "(a), (b) and (c) only",
+    "(a), (c) and (d) only",
+    "(b) and (d) only",
+    "(a), (b), (c) and (d)"
+   ],
+   "answer": 0,
+   "exp": "In Chapter XIII fancy is called a mode of memory that deals in 'fixities and definites', so it is lower than imagination."
+  },
+  {
+   "q": "Which of the following statements about On the Sublime are correct? (a) It names five sources of sublimity. (b) It holds that the sublime's effect is transport (ekstasis) rather than persuasion. (c) It was written in Latin. (d) Boileau's French translation (1674) did much to spread its influence. Choose the correct answer from the options given below.",
+   "options": [
+    "(a) and (c) only",
+    "(a), (b) and (d) only",
+    "(b), (c) and (d) only",
+    "(c) and (d) only"
+   ],
+   "answer": 1,
+   "exp": "The treatise is in Greek. Boileau's 1674 translation made it influential in neoclassical Europe."
+  }
+ ]
+}

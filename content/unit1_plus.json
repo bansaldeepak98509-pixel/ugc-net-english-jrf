@@ -1,0 +1,2589 @@
+{
+ "id": 1,
+ "pyq_focus": [
+  "Drama unit se NET har baar 8-12 sawal tak puchta hai, isliye ye sabse scoring unit hai.",
+  "Sabse zyada sawal author-work matching par aate hain: kaun sa play kisne likha (Jacobean, Restoration, American, Indian).",
+  "Chronology bahut aati hai: 4 plays ko saal ke order mein lagana. Har bade play ka saal yaad karo, kam se kam decade.",
+  "Characters se play pehchanna: Mosca, Bosola, Millamant, Mrs Malaprop, Jimmy Porter, Blanche, Willy Loman, Leela Benare.",
+  "Famous lines ka speaker aur play: Shakespeare, Webster, Congreve, Wilde, Beckett, Williams ki lines baar baar aati hain.",
+  "Terms aur unke coiner: catharsis, objective correlative, comedy of menace, Theatre of the Absurd, alienation effect, in-yer-face.",
+  "Assertion-Reason mein Aristotle, Brecht, Absurd theatre, sentimental comedy aur Licensing Act jaise topics aate hain.",
+  "Taiyari: pehle 'easy' story padho, phir works list aur people list ko flashcard ki tarah 3-4 baar dohrao, phir 100 MCQ lagao.",
+  "Indian drama (Karnad, Tendulkar, Sircar, Dattani) aur Nobel winner dramatists (Shaw, O'Neill, Beckett, Soyinka, Pinter) ko alag se pakka karo."
+ ],
+ "easy": [
+  {
+   "title": "Greek Tragedy and Aristotle's Poetics",
+   "story": "Socho purane Athens mein Dionysus devta ka bada mela lagta tha, bilkul hamari Ramlila jaisa. Wahan Aeschylus, Sophocles aur Euripides apne dukh bhare natak dikhate the. Hero bada aadmi hota tha, par ek galti (hamartia) ki wajah se gir jata tha, jaise Oedipus. Achanak kismat palat jati (peripeteia) aur hero ko sach pata chalta (anagnorisis). Dekhne wale ko daya aur dar mehsoos hota, phir dil halka ho jata - isko catharsis kehte hain. Aristotle ne Poetics mein ye sab niyam likh diye aur kaha ki plot natak ki aatma hai.",
+   "trick": "'Aaj Sabko Exam' = Aeschylus, Sophocles, Euripides (purane se naye). Actor gino: Aeschylus ne 2nd actor joda, Sophocles ne 3rd - S matlab 'Sabse zyada' actors."
+  },
+  {
+   "title": "Greek and Roman Comedy; Seneca",
+   "story": "Tragedy ke saath Greece mein hasi wale natak bhi the. Aristophanes bade netaon aur Socrates ka mazaak udate the, jaise aaj ke comedy shows. Baad mein Menander ne ghar-parivaar wali comedy likhi. Rome mein Plautus aur Terence ne yahi style apnayi, aur Shakespeare ne Plautus se Comedy of Errors banayi. Seneca ke natak khoon, bhoot aur badle se bhare the, jaise purani masala film. Elizabethan revenge tragedy isi Seneca se nikli.",
+   "trick": "'Aristophanes = Aaj ki Satire' (Clouds mein Socrates ka mazaak). 'Plautus ke Twins = Comedy of Errors'. 'Seneca = Sirf Khoon aur Bhoot'."
+  },
+  {
+   "title": "Medieval English Drama",
+   "story": "Purane England mein natak church se shuru hua, jaise mandir mein katha. Easter par 'Quem Quaeritis' (kise dhoondh rahe ho?) wala chhota sa dialogue gaya jata tha. Phir Bible ki kahaniyan gaon ke karigar (guilds) gaadiyon par dikhane lage - ye Mystery plays the. Morality plays mein achchai aur buraai insaan ban kar aate the, jaise Everyman mein Death, Good Deeds. Everyman ka saath maut tak sirf Good Deeds deta hai, dost aur paisa nahi. Phir Ralph Roister Doister aur Gorboduc se asli English comedy aur tragedy shuru hui.",
+   "trick": "'Maut ke time sirf achhe karam saath jaate hain' = Everyman + Good Deeds. 'Ralph Roya, Gorboduc Gaya': pehli comedy (Udall) aur pehli blank verse tragedy (1561)."
+  },
+  {
+   "title": "University Wits, Kyd and Marlowe",
+   "story": "Shakespeare se pehle Oxford-Cambridge se padhe kuch hoshiyaar ladke London aaye aur natak likhne lage - inhe University Wits kehte hain. Inme sabse bada star Marlowe tha, jisne blank verse ko taaqatwar banaya. Uska Doctor Faustus apni aatma shaitan ko 24 saal ke liye bech deta hai, jaise koi shortcut ke liye sab kuch daav par laga de. Kyd ki The Spanish Tragedy ne badle wale natak ka trend shuru kiya. Greene ne jalan mein Shakespeare ko 'upstart crow' keh diya.",
+   "trick": "Wits ke naam: 'Lyly Peele Greene, Lodge Nashe Marlowe' - 'LPG Lo Na Mar'. Marlowe ke 4 hero: Tamburlaine, Faustus, Barabas, Edward - 'TFBE: Taaqat, Faustus, Bania, Edward'."
+  },
+  {
+   "title": "Shakespeare",
+   "story": "Shakespeare English ke sabse bade natakkaar hain, jaise Hindi mein Premchand kahani ke. Unhone comedy, history, tragedy aur romance sab likhe. Char badi tragedies hain Hamlet, Othello, King Lear aur Macbeth - har hero ki ek kamzori use dubo deti hai. Unke marne ke baad 1623 mein dost Heminges aur Condell ne First Folio chhapa. Globe Theatre unka 'ghar' tha. Critics jaise Johnson, Coleridge, Bradley aur Eliot ne unpar bahut likha.",
+   "trick": "Badi 4 tragedies: 'HOLM' = Hamlet, Othello, Lear, Macbeth (likhne ka order bhi yahi). Last romances: 'Pehle Cymbal bajao, Winter mein Tempest' = Pericles, Cymbeline, Winter's Tale, Tempest."
+  },
+  {
+   "title": "Jacobean and Caroline Drama",
+   "story": "James I ke time (Jacobean) ke natak andhere, khooni aur chalaak logon se bhare the. Ben Jonson ne 'humours' wali comedy likhi, jahan har kirdaar ek hi aadat ka gulaam hota hai, jaise koi sirf paise ka bhooka. Volpone mein sab kirdaaron ke naam jaanwaron par hain - lomdi, makkhi, giddh. Webster ki Duchess of Malfi ko uske hi bhai maarwa dete hain. Middleton, Ford, Tourneur ne bhi badle aur paap ke natak likhe. 1642 mein Puritans ne saare theatre band kar diye.",
+   "trick": "Volpone = 'Fox ka Zoo': Volpone fox, Mosca fly, Voltore vulture, Corbaccio raven, Corvino crow. 'Webster = Death ka Master' (skull beneath the skin)."
+  },
+  {
+   "title": "Restoration Drama (1660-1700)",
+   "story": "1660 mein Charles II wapas aaye aur theatre phir se khul gaye, bilkul lockdown ke baad mall khulne jaisa. Ab pehli baar auraton ne stage par acting ki. Comedies mein London ke ameer, chalaak, flirt karne wale log the - isko comedy of manners kehte hain. Congreve ki The Way of the World mein Mirabell aur Millamant shaadi se pehle apni shartein (proviso scene) rakhte hain. Dryden ne heroic drama likha jisme pyaar aur izzat ki ladai hoti thi. 1698 mein Jeremy Collier ne in natakon ko gande keh kar attack kiya.",
+   "trick": "Comedy of manners ke 5: 'Every Wise Cat Visits Farms' = Etherege, Wycherley, Congreve, Vanbrugh, Farquhar. Collier 1698 = '98 mein Collier ne Chaar (charge) lagaya'."
+  },
+  {
+   "title": "Eighteenth-Century Drama",
+   "story": "18vi sadi mein log rona-dhona aur seekh wali 'sentimental comedy' pasand karne lage, jaise purani family TV serial. Goldsmith aur Sheridan ne iske khilaaf asli hasi wali 'laughing comedy' wapas laayi. She Stoops to Conquer mein Marlow ek ghar ko galti se hotel samajh leta hai. Sheridan ki Mrs Malaprop galat shabd bolti hai, isse 'malapropism' bana. John Gay ki The Beggar's Opera chor-dakuon ke gaanon wala natak tha. Fielding ke tikhe natakon se 1737 ka Licensing Act aaya aur censorship shuru hui.",
+   "trick": "'Sheridan ke 3 S': Scandal (School for Scandal), Sneerwell, Surface brothers. 'Goldsmith ne 1773 mein Stoop kiya' = She Stoops to Conquer + Essay on the Theatre, dono 1773."
+  },
+  {
+   "title": "Nineteenth-Century Drama: Romantics to Wilde and Shaw",
+   "story": "Romantic kavi (Shelley, Byron) ne natak likhe par ye padhne layak zyada the, stage ke kam - closet drama. Stage par melodrama ka raaj tha, jaise purani Bollywood masala. Phir Oscar Wilde aaye, jinke natak chatpate jumlon se bhare the - The Importance of Being Earnest sabse mashhoor. Bernard Shaw ne Ibsen se seekh kar samaaj ki buraiyon par sawaal uthaye, jaise paisa, garibi, aurat ki haalat. Pygmalion mein Professor Higgins phool bechne wali Eliza ko 'lady' banata hai. Shaw ko 1925 mein Nobel mila.",
+   "trick": "Wilde ke 4 comedies 'Lady Woman Ideal Earnest' (Fan 1892 se Earnest 1895). Shaw ka 'P.S.' = Pygmalion 1913, Saint Joan 1923 - dono ke beech 10 saal."
+  },
+  {
+   "title": "Modern and Contemporary British Drama",
+   "story": "20vi sadi mein T. S. Eliot ne kavita wale natak wapas laaye, jaise Murder in the Cathedral. 1956 mein Osborne ka Look Back in Anger aaya - Jimmy Porter gussa karne wala naujawan, jaise berozgar beta ghar mein sab par chilla raha ho. Pinter ke natakon mein chupi dhamki aur lambe pause hote hain - comedy of menace. Stoppard ne Hamlet ke do chhote kirdaaron ko hero bana diya. Caryl Churchill ne aurat aur paise ke sawaal uthaye. 1990s mein Sarah Kane jaise lekhakon ka 'in-yer-face' theatre aaya.",
+   "trick": "'8 May 1956 = Angry Day' (Look Back in Anger). Pinter ke 'B-C-H-B': Birthday Party, Caretaker, Homecoming, Betrayal - order mein."
+  },
+  {
+   "title": "Irish Drama",
+   "story": "Ireland ne apni pehchaan dikhane ke liye apna theatre banaya - Abbey Theatre, Dublin (1904). Yeats, Lady Gregory aur Synge iske neta the. Synge ke Riders to the Sea mein ek maa Maurya ke saare bete samundar le leta hai. Playboy of the Western World par 1907 mein dange ho gaye. O'Casey ne Dublin ke gareeb logon ki teen kahaniyan likhi. Beckett bhi Irish the, aur Brian Friel ne Translations mein bhasha aur angrezi raaj ka dard dikhaya.",
+   "trick": "O'Casey trilogy 'Gun-Juno-Plough' = 1923-24-26. 'Synge ka Sea aur Playboy: 1904 mein rona, 1907 mein danga'."
+  },
+  {
+   "title": "American Drama",
+   "story": "America ka asli natak Eugene O'Neill se shuru hua, jinhe 1936 mein Nobel mila. Tennessee Williams ne toote sapno wale logon ki kahani likhi - Blanche aur Laura jaise naazuk kirdaar. Arthur Miller ka Willy Loman ek salesman hai jo 'success' ke peeche bhaagte bhaagte toot jata hai, jaise EMI mein phansa aam aadmi. The Crucible mein chudailon ke jhoothe case dikha kar McCarthy ke daur par chot ki. Albee, Hansberry, August Wilson ne parivaar, nasl aur sapnon ki baat ki.",
+   "trick": "'Miller ke 3 = All Death Crucible' (1947, 1949, 1953). Williams = 'Glass todo, Streetcar pakdo, Cat ko chhat par bithao' (1944, 1947, 1955)."
+  },
+  {
+   "title": "Theatre of the Absurd",
+   "story": "Do world wars ke baad logon ko laga zindagi ka koi matlab hi nahi. Absurd theatre yahi dikhata hai: kahani aage nahi badhti, baatein bekaar lagti hain. Waiting for Godot mein do aadmi ek ped ke paas Godot ka intezaar karte hain jo kabhi nahi aata, jaise bus stop par aisi bus ka intezaar jo route par hai hi nahi. Ionesco ke Rhinoceros mein sab log gainda ban jaate hain. Martin Esslin ne 1961 mein is theatre ko ye naam diya. Iski philosophy Camus ki Myth of Sisyphus se aati hai.",
+   "trick": "Godot ke log 'V-E-P-L': Vladimir, Estragon, Pozzo, Lucky. Endgame mein 'Hamm aur Clov, mummy-papa dustbin mein' (Nagg, Nell)."
+  },
+  {
+   "title": "European and World Drama",
+   "story": "Norway ke Ibsen ko modern drama ka pita kehte hain - A Doll's House mein Nora darwaza patak kar ghar chhod deti hai. Strindberg aur Chekhov ne mann ke andar ki ulajhan dikhayi. Chekhov ki Cherry Orchard mein ek purana parivaar apna baag kho deta hai, jaise purani haveli bik jaye. Brecht chahta tha ki darshak roye nahi, sochein - isliye epic theatre aur alienation effect. Africa se Soyinka aur Fugard, Caribbean se Walcott ne apni zameen ki kahaniyan di.",
+   "trick": "Ibsen ka order 'Peer, Doll, Ghost, Duck, Hedda' (1867-1890). Chekhov ke 4: 'Seagull Uncle ki Teen Behnon ka Cherry Orchard'."
+  },
+  {
+   "title": "Indian Drama (Classical and Indian English)",
+   "story": "Bharat mein natak bahut purana hai - Bharata ka Natyashastra rasa theory deta hai, jaise khane ke swaad ki tarah natak ke bhi 'ras' hote hain. Kalidasa ka Shakuntala duniya bhar mein mashhoor hua jab William Jones ne 1789 mein uska anuvaad kiya. Aaj ke daur mein Karnad ne itihas aur lok-kathaon se Tughlaq aur Hayavadana likhe. Tendulkar ne Marathi mein samaaj ki hinsa dikhayi, Badal Sircar ne sadak par 'Third Theatre' kiya. Mahesh Dattani ne English mein ghar-parivaar aur gender ke chhupe sawal uthaye.",
+   "trick": "Karnad ka order 'Y-T-H-N' = Yayati 1961, Tughlaq 1964, Hayavadana 1971, Naga-Mandala 1988 - 'Yaar Tum Hamesha Nach'te ho'. Dattani = 'Dance, Tara, Final' (1989-90-93)."
+  },
+  {
+   "title": "Dramatic Theory and Criticism",
+   "story": "Natak kaise likha aur dekha jaye, is par bahut se logon ne niyam banaye. Sidney aur baad ke classical log 'unities' (ek kahani, ek jagah, ek din) chahte the. Dryden ne apne essay mein char doston ki bahas dikhayi, aur Johnson ne kaha darshak bewakoof nahi hain, wo jaante hain stage sirf stage hai. Freytag ne kahani ka pyramid banaya, jaise pahad par chadhna aur utarna. 20vi sadi mein Artaud, Grotowski, Brook aur Boal ne naye theatre ke ideas diye.",
+   "trick": "'Artaud = Atyachar (Cruelty), Grotowski = Gareeb (Poor), Brook = Bare Khali Space (Empty Space), Boal = Bechare Oppressed'."
+  }
+ ],
+ "works": [
+  {
+   "author": "Aeschylus",
+   "work": "Oresteia (Agamemnon, The Libation Bearers, The Eumenides)",
+   "year": "458 BC",
+   "type": "tragic trilogy",
+   "note": "Only complete surviving Greek trilogy; Clytemnestra kills Agamemnon"
+  },
+  {
+   "author": "Sophocles",
+   "work": "Antigone",
+   "year": "c. 441 BC",
+   "type": "play (tragedy)",
+   "note": "Antigone buries Polynices against Creon's order; Hegel's model"
+  },
+  {
+   "author": "Sophocles",
+   "work": "Oedipus Rex (Oedipus the King)",
+   "year": "c. 429 BC",
+   "type": "play (tragedy)",
+   "note": "Aristotle's model tragedy; recognition and reversal together"
+  },
+  {
+   "author": "Euripides",
+   "work": "Medea",
+   "year": "431 BC",
+   "type": "play (tragedy)",
+   "note": "Medea kills her children to punish Jason"
+  },
+  {
+   "author": "Euripides",
+   "work": "The Bacchae",
+   "year": "405 BC (staged posthumously)",
+   "type": "play (tragedy)",
+   "note": "Pentheus torn apart by Dionysus' maenads, including his mother"
+  },
+  {
+   "author": "Aristophanes",
+   "work": "The Clouds",
+   "year": "423 BC",
+   "type": "play (Old Comedy)",
+   "note": "Satirises Socrates and his 'thinkery'"
+  },
+  {
+   "author": "Aristophanes",
+   "work": "Lysistrata",
+   "year": "411 BC",
+   "type": "play (Old Comedy)",
+   "note": "Women's sex strike to end the Peloponnesian War"
+  },
+  {
+   "author": "Aristophanes",
+   "work": "The Frogs",
+   "year": "405 BC",
+   "type": "play (Old Comedy)",
+   "note": "Contest of Aeschylus and Euripides in Hades"
+  },
+  {
+   "author": "Plautus",
+   "work": "Menaechmi",
+   "year": "c. 2nd century BC",
+   "type": "play (Roman comedy)",
+   "note": "Twin brothers; source of Shakespeare's The Comedy of Errors"
+  },
+  {
+   "author": "Terence",
+   "work": "Adelphoe (The Brothers)",
+   "year": "160 BC",
+   "type": "play (Roman comedy)",
+   "note": "Contrasting ways of bringing up sons"
+  },
+  {
+   "author": "Seneca",
+   "work": "Thyestes",
+   "year": "1st century AD",
+   "type": "closet tragedy",
+   "note": "Cannibal feast revenge; model for Elizabethan revenge tragedy"
+  },
+  {
+   "author": "Aristotle",
+   "work": "Poetics",
+   "year": "c. 335 BC",
+   "type": "theory text",
+   "note": "Defines tragedy; catharsis, hamartia, plot as soul"
+  },
+  {
+   "author": "Anonymous",
+   "work": "Quem Quaeritis trope",
+   "year": "c. 10th century",
+   "type": "liturgical drama",
+   "note": "Easter trope; seed of English medieval drama"
+  },
+  {
+   "author": "The Wakefield Master",
+   "work": "The Second Shepherds' Play",
+   "year": "15th century",
+   "type": "mystery play",
+   "note": "Mak the sheep-stealer; farce plus Nativity, Wakefield cycle"
+  },
+  {
+   "author": "Anonymous",
+   "work": "Everyman",
+   "year": "late 15th century",
+   "type": "morality play",
+   "note": "Only Good Deeds accompanies Everyman to the grave"
+  },
+  {
+   "author": "Nicholas Udall",
+   "work": "Ralph Roister Doister",
+   "year": "c. 1553",
+   "type": "comedy",
+   "note": "First regular English comedy, modelled on Plautus"
+  },
+  {
+   "author": "Mr S. (attributed to William Stevenson)",
+   "work": "Gammer Gurton's Needle",
+   "year": "c. 1553-60",
+   "type": "comedy",
+   "note": "Early English comedy about a lost needle"
+  },
+  {
+   "author": "Thomas Sackville and Thomas Norton",
+   "work": "Gorboduc",
+   "year": "1561",
+   "type": "tragedy",
+   "note": "First English tragedy in blank verse; Senecan; dumb shows"
+  },
+  {
+   "author": "Robert Greene",
+   "work": "Friar Bacon and Friar Bungay",
+   "year": "c. 1589",
+   "type": "comedy",
+   "note": "Magician friars; romantic comedy of University Wits"
+  },
+  {
+   "author": "Robert Greene",
+   "work": "Greene's Groatsworth of Wit",
+   "year": "1592",
+   "type": "pamphlet",
+   "note": "Calls Shakespeare an 'upstart crow'"
+  },
+  {
+   "author": "Thomas Kyd",
+   "work": "The Spanish Tragedy",
+   "year": "c. 1587",
+   "type": "revenge tragedy",
+   "note": "Founded English revenge tragedy; Hieronimo; play-within-play"
+  },
+  {
+   "author": "Christopher Marlowe",
+   "work": "Tamburlaine the Great",
+   "year": "c. 1587",
+   "type": "tragedy",
+   "note": "Shepherd turned conqueror; 'Marlowe's mighty line' blank verse"
+  },
+  {
+   "author": "Christopher Marlowe",
+   "work": "The Jew of Malta",
+   "year": "c. 1589",
+   "type": "tragedy",
+   "note": "Barabas; Machiavel speaks the prologue"
+  },
+  {
+   "author": "Christopher Marlowe",
+   "work": "Doctor Faustus",
+   "year": "c. 1592",
+   "type": "tragedy",
+   "note": "Faustus sells soul for 24 years; Helen speech"
+  },
+  {
+   "author": "Christopher Marlowe",
+   "work": "Edward II",
+   "year": "c. 1592",
+   "type": "history play",
+   "note": "Weak king and favourite Gaveston; influenced Shakespeare's Richard II"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "The Comedy of Errors",
+   "year": "c. 1594",
+   "type": "comedy",
+   "note": "Two sets of twins; from Plautus' Menaechmi"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "Romeo and Juliet",
+   "year": "c. 1595",
+   "type": "tragedy",
+   "note": "'Star-crossed lovers'; Mercutio, Tybalt, Nurse"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "Twelfth Night",
+   "year": "c. 1601",
+   "type": "comedy",
+   "note": "Viola, Malvolio, Feste; subtitle 'What You Will'"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "Hamlet",
+   "year": "c. 1600-01",
+   "type": "revenge tragedy",
+   "note": "Longest play; 'To be, or not to be'; Mousetrap"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "Measure for Measure",
+   "year": "c. 1604",
+   "type": "problem play",
+   "note": "Angelo, Isabella, Duke Vincentio; F. S. Boas' problem play"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "Othello",
+   "year": "c. 1603-04",
+   "type": "tragedy",
+   "note": "Iago's jealousy plot; Desdemona's handkerchief"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "King Lear",
+   "year": "c. 1605-06",
+   "type": "tragedy",
+   "note": "Lear divides kingdom; Cordelia; Gloucester subplot"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "Macbeth",
+   "year": "c. 1606",
+   "type": "tragedy",
+   "note": "Shortest tragedy; witches, Lady Macbeth, porter scene"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "Antony and Cleopatra",
+   "year": "c. 1606",
+   "type": "Roman tragedy",
+   "note": "Love versus Roman duty; source for Dryden's All for Love"
+  },
+  {
+   "author": "William Shakespeare",
+   "work": "The Tempest",
+   "year": "c. 1611",
+   "type": "romance",
+   "note": "Prospero, Miranda, Caliban, Ariel; often called his farewell"
+  },
+  {
+   "author": "Ben Jonson",
+   "work": "Every Man in His Humour",
+   "year": "1598",
+   "type": "comedy of humours",
+   "note": "Launched comedy of humours; Shakespeare acted in it"
+  },
+  {
+   "author": "Ben Jonson",
+   "work": "Volpone",
+   "year": "1606",
+   "type": "comedy",
+   "note": "Beast-fable names: Volpone fox, Mosca fly"
+  },
+  {
+   "author": "Ben Jonson",
+   "work": "The Alchemist",
+   "year": "1610",
+   "type": "comedy",
+   "note": "Subtle, Face, Dol Common con victims in Lovewit's house"
+  },
+  {
+   "author": "Ben Jonson",
+   "work": "Bartholomew Fair",
+   "year": "1614",
+   "type": "comedy",
+   "note": "Panorama of London fair; Puritan Zeal-of-the-land Busy"
+  },
+  {
+   "author": "Thomas Dekker",
+   "work": "The Shoemaker's Holiday",
+   "year": "1599",
+   "type": "citizen comedy",
+   "note": "Simon Eyre, shoemaker who becomes Lord Mayor"
+  },
+  {
+   "author": "John Marston",
+   "work": "The Malcontent",
+   "year": "c. 1603",
+   "type": "tragicomedy",
+   "note": "Malevole, disguised deposed duke; malcontent figure"
+  },
+  {
+   "author": "Thomas Heywood",
+   "work": "A Woman Killed with Kindness",
+   "year": "1603",
+   "type": "domestic tragedy",
+   "note": "Unfaithful wife Anne Frankford; domestic tragedy"
+  },
+  {
+   "author": "Thomas Middleton (earlier attributed to Cyril Tourneur)",
+   "work": "The Revenger's Tragedy",
+   "year": "1606",
+   "type": "revenge tragedy",
+   "note": "Vindice and the skull of his beloved"
+  },
+  {
+   "author": "John Webster",
+   "work": "The White Devil",
+   "year": "1612",
+   "type": "tragedy",
+   "note": "Vittoria Corombona, Flamineo"
+  },
+  {
+   "author": "John Webster",
+   "work": "The Duchess of Malfi",
+   "year": "c. 1613-14",
+   "type": "tragedy",
+   "note": "Bosola, Ferdinand, Cardinal; 'I am Duchess of Malfi still'"
+  },
+  {
+   "author": "Thomas Middleton and William Rowley",
+   "work": "The Changeling",
+   "year": "1622",
+   "type": "tragedy",
+   "note": "Beatrice-Joanna and De Flores"
+  },
+  {
+   "author": "Philip Massinger",
+   "work": "A New Way to Pay Old Debts",
+   "year": "c. 1625",
+   "type": "comedy",
+   "note": "Sir Giles Overreach, greedy usurer"
+  },
+  {
+   "author": "John Ford",
+   "work": "'Tis Pity She's a Whore",
+   "year": "pub. 1633",
+   "type": "tragedy",
+   "note": "Incest of Giovanni and Annabella; heart on dagger"
+  },
+  {
+   "author": "John Dryden",
+   "work": "An Essay of Dramatic Poesy",
+   "year": "1668",
+   "type": "critical dialogue",
+   "note": "Crites, Eugenius, Lisideius, Neander debate drama"
+  },
+  {
+   "author": "George Villiers, Duke of Buckingham",
+   "work": "The Rehearsal",
+   "year": "1671",
+   "type": "burlesque",
+   "note": "Mocks heroic drama; Bayes caricatures Dryden"
+  },
+  {
+   "author": "William Wycherley",
+   "work": "The Country Wife",
+   "year": "1675",
+   "type": "comedy of manners",
+   "note": "Horner's pretended impotence; the 'china scene'"
+  },
+  {
+   "author": "George Etherege",
+   "work": "The Man of Mode",
+   "year": "1676",
+   "type": "comedy of manners",
+   "note": "Dorimant the rake, Sir Fopling Flutter the fop"
+  },
+  {
+   "author": "Aphra Behn",
+   "work": "The Rover",
+   "year": "1677",
+   "type": "comedy",
+   "note": "Willmore the rover; first professional English woman writer"
+  },
+  {
+   "author": "John Dryden",
+   "work": "All for Love",
+   "year": "1677",
+   "type": "tragedy",
+   "note": "Antony and Cleopatra in blank verse; subtitle 'World Well Lost'"
+  },
+  {
+   "author": "William Congreve",
+   "work": "Love for Love",
+   "year": "1695",
+   "type": "comedy of manners",
+   "note": "Valentine, Angelica; opened new Lincoln's Inn Fields theatre"
+  },
+  {
+   "author": "Colley Cibber",
+   "work": "Love's Last Shift",
+   "year": "1696",
+   "type": "sentimental comedy",
+   "note": "Regarded as the first sentimental comedy"
+  },
+  {
+   "author": "John Vanbrugh",
+   "work": "The Relapse",
+   "year": "1696",
+   "type": "comedy",
+   "note": "Sequel to Love's Last Shift; Lord Foppington"
+  },
+  {
+   "author": "Jeremy Collier",
+   "work": "A Short View of the Immorality and Profaneness of the English Stage",
+   "year": "1698",
+   "type": "pamphlet",
+   "note": "Attacked Restoration comedy's immorality"
+  },
+  {
+   "author": "William Congreve",
+   "work": "The Way of the World",
+   "year": "1700",
+   "type": "comedy of manners",
+   "note": "Mirabell, Millamant, Lady Wishfort; the proviso scene"
+  },
+  {
+   "author": "George Farquhar",
+   "work": "The Beaux' Stratagem",
+   "year": "1707",
+   "type": "comedy",
+   "note": "Aimwell and Archer, fortune-hunters at Lichfield"
+  },
+  {
+   "author": "Richard Steele",
+   "work": "The Conscious Lovers",
+   "year": "1722",
+   "type": "sentimental comedy",
+   "note": "Classic sentimental comedy; Bevil Junior"
+  },
+  {
+   "author": "John Gay",
+   "work": "The Beggar's Opera",
+   "year": "1728",
+   "type": "ballad opera",
+   "note": "Macheath, Polly Peachum; satire on Walpole"
+  },
+  {
+   "author": "George Lillo",
+   "work": "The London Merchant",
+   "year": "1731",
+   "type": "domestic tragedy",
+   "note": "Apprentice George Barnwell; middle-class tragedy in prose"
+  },
+  {
+   "author": "Oliver Goldsmith",
+   "work": "An Essay on the Theatre",
+   "year": "1773",
+   "type": "essay",
+   "note": "Laughing versus sentimental comedy"
+  },
+  {
+   "author": "Oliver Goldsmith",
+   "work": "She Stoops to Conquer",
+   "year": "1773",
+   "type": "comedy",
+   "note": "Subtitle 'The Mistakes of a Night'; Tony Lumpkin"
+  },
+  {
+   "author": "R. B. Sheridan",
+   "work": "The Rivals",
+   "year": "1775",
+   "type": "comedy",
+   "note": "Mrs Malaprop, Lydia Languish, Captain Absolute"
+  },
+  {
+   "author": "R. B. Sheridan",
+   "work": "The School for Scandal",
+   "year": "1777",
+   "type": "comedy of manners",
+   "note": "Lady Sneerwell, Surface brothers, screen scene"
+  },
+  {
+   "author": "P. B. Shelley",
+   "work": "The Cenci",
+   "year": "1819",
+   "type": "verse tragedy",
+   "note": "Beatrice Cenci kills her tyrannical father"
+  },
+  {
+   "author": "Oscar Wilde",
+   "work": "Lady Windermere's Fan",
+   "year": "1892",
+   "type": "comedy",
+   "note": "Mrs Erlynne; Wilde's first society comedy"
+  },
+  {
+   "author": "G. B. Shaw",
+   "work": "The Quintessence of Ibsenism",
+   "year": "1891",
+   "type": "critical book",
+   "note": "Shaw's defence of Ibsen and drama of ideas"
+  },
+  {
+   "author": "G. B. Shaw",
+   "work": "Mrs Warren's Profession",
+   "year": "1893",
+   "type": "problem play",
+   "note": "Prostitution as economic issue; banned by censor"
+  },
+  {
+   "author": "G. B. Shaw",
+   "work": "Arms and the Man",
+   "year": "1894",
+   "type": "comedy",
+   "note": "Bluntschli, 'chocolate cream soldier'; title from Virgil"
+  },
+  {
+   "author": "Oscar Wilde",
+   "work": "The Importance of Being Earnest",
+   "year": "1895",
+   "type": "comedy",
+   "note": "'A Trivial Comedy for Serious People'; Bunburying"
+  },
+  {
+   "author": "G. B. Shaw",
+   "work": "Man and Superman",
+   "year": "1903",
+   "type": "comedy of ideas",
+   "note": "Life Force; John Tanner, Ann Whitefield; Don Juan in Hell"
+  },
+  {
+   "author": "G. B. Shaw",
+   "work": "Pygmalion",
+   "year": "1913",
+   "type": "comedy",
+   "note": "Henry Higgins teaches flower-girl Eliza Doolittle"
+  },
+  {
+   "author": "G. B. Shaw",
+   "work": "Saint Joan",
+   "year": "1923",
+   "type": "chronicle play",
+   "note": "Joan of Arc with an Epilogue; Shaw won Nobel 1925"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "Murder in the Cathedral",
+   "year": "1935",
+   "type": "verse drama",
+   "note": "Becket's martyrdom; four tempters; Canterbury chorus"
+  },
+  {
+   "author": "John Osborne",
+   "work": "Look Back in Anger",
+   "year": "1956",
+   "type": "play",
+   "note": "Jimmy Porter; Angry Young Men; Royal Court"
+  },
+  {
+   "author": "John Osborne",
+   "work": "The Entertainer",
+   "year": "1957",
+   "type": "play",
+   "note": "Archie Rice, failing music-hall comedian"
+  },
+  {
+   "author": "Harold Pinter",
+   "work": "The Birthday Party",
+   "year": "1958",
+   "type": "comedy of menace",
+   "note": "Stanley Webber terrorised by Goldberg and McCann"
+  },
+  {
+   "author": "Shelagh Delaney",
+   "work": "A Taste of Honey",
+   "year": "1958",
+   "type": "kitchen-sink play",
+   "note": "Jo, her mother Helen; written at nineteen"
+  },
+  {
+   "author": "John Arden",
+   "work": "Serjeant Musgrave's Dance",
+   "year": "1959",
+   "type": "play",
+   "note": "Anti-war 'unhistorical parable'"
+  },
+  {
+   "author": "Harold Pinter",
+   "work": "The Caretaker",
+   "year": "1960",
+   "type": "play",
+   "note": "Tramp Davies, brothers Aston and Mick"
+  },
+  {
+   "author": "Harold Pinter",
+   "work": "The Homecoming",
+   "year": "1965",
+   "type": "play",
+   "note": "Ruth returns with Teddy to his all-male family"
+  },
+  {
+   "author": "Edward Bond",
+   "work": "Saved",
+   "year": "1965",
+   "type": "play",
+   "note": "Baby stoned in pram; led to end of censorship"
+  },
+  {
+   "author": "Tom Stoppard",
+   "work": "Rosencrantz and Guildenstern Are Dead",
+   "year": "1966",
+   "type": "absurdist comedy",
+   "note": "Two minor Hamlet courtiers as protagonists"
+  },
+  {
+   "author": "Caryl Churchill",
+   "work": "Top Girls",
+   "year": "1982",
+   "type": "play",
+   "note": "Marlene's dinner party of famous women from history"
+  },
+  {
+   "author": "Tom Stoppard",
+   "work": "Arcadia",
+   "year": "1993",
+   "type": "play",
+   "note": "Thomasina, chaos theory; 1809 and present"
+  },
+  {
+   "author": "Sarah Kane",
+   "work": "Blasted",
+   "year": "1995",
+   "type": "in-yer-face play",
+   "note": "Debut; violence of war in Leeds hotel room"
+  },
+  {
+   "author": "W. B. Yeats and Lady Gregory",
+   "work": "Cathleen ni Houlihan",
+   "year": "1902",
+   "type": "one-act play",
+   "note": "Old woman as Ireland; Maud Gonne played her"
+  },
+  {
+   "author": "J. M. Synge",
+   "work": "Riders to the Sea",
+   "year": "1904",
+   "type": "one-act tragedy",
+   "note": "Maurya loses all her sons to the sea"
+  },
+  {
+   "author": "J. M. Synge",
+   "work": "The Playboy of the Western World",
+   "year": "1907",
+   "type": "comedy",
+   "note": "Christy Mahon 'kills' his father; Abbey riots"
+  },
+  {
+   "author": "Sean O'Casey",
+   "work": "Juno and the Paycock",
+   "year": "1924",
+   "type": "tragicomedy",
+   "note": "Captain Boyle, Joxer; Dublin trilogy"
+  },
+  {
+   "author": "Sean O'Casey",
+   "work": "The Plough and the Stars",
+   "year": "1926",
+   "type": "tragicomedy",
+   "note": "Easter Rising 1916; caused riots at Abbey"
+  },
+  {
+   "author": "Samuel Beckett",
+   "work": "Waiting for Godot",
+   "year": "1953 (French), 1955 (English)",
+   "type": "absurd play",
+   "note": "'A tragicomedy in two acts'; Vladimir and Estragon"
+  },
+  {
+   "author": "Samuel Beckett",
+   "work": "Endgame",
+   "year": "1957",
+   "type": "absurd play",
+   "note": "Hamm, Clov; Nagg and Nell in dustbins"
+  },
+  {
+   "author": "Brendan Behan",
+   "work": "The Hostage",
+   "year": "1958",
+   "type": "play",
+   "note": "IRA holds English soldier in Dublin brothel"
+  },
+  {
+   "author": "Brian Friel",
+   "work": "Translations",
+   "year": "1980",
+   "type": "play",
+   "note": "Ballybeg 1833, Ordnance Survey; first Field Day production"
+  },
+  {
+   "author": "Eugene O'Neill",
+   "work": "The Emperor Jones",
+   "year": "1920",
+   "type": "expressionist play",
+   "note": "Brutus Jones flees through forest; tom-tom beat"
+  },
+  {
+   "author": "Eugene O'Neill",
+   "work": "The Hairy Ape",
+   "year": "1922",
+   "type": "expressionist play",
+   "note": "Stoker Yank seeks where he 'belongs'"
+  },
+  {
+   "author": "Eugene O'Neill",
+   "work": "Desire Under the Elms",
+   "year": "1924",
+   "type": "tragedy",
+   "note": "Ephraim Cabot, Abbie, Eben; Phaedra-Hippolytus pattern"
+  },
+  {
+   "author": "Thornton Wilder",
+   "work": "Our Town",
+   "year": "1938",
+   "type": "play",
+   "note": "Grover's Corners; Stage Manager; Emily Webb"
+  },
+  {
+   "author": "Tennessee Williams",
+   "work": "The Glass Menagerie",
+   "year": "1944",
+   "type": "memory play",
+   "note": "Tom, Laura, Amanda Wingfield; glass unicorn"
+  },
+  {
+   "author": "Eugene O'Neill",
+   "work": "The Iceman Cometh",
+   "year": "1946",
+   "type": "tragedy",
+   "note": "Hickey and pipe dreams in Harry Hope's saloon"
+  },
+  {
+   "author": "Tennessee Williams",
+   "work": "A Streetcar Named Desire",
+   "year": "1947",
+   "type": "play",
+   "note": "Blanche DuBois, Stanley Kowalski; Pulitzer"
+  },
+  {
+   "author": "Arthur Miller",
+   "work": "Death of a Salesman",
+   "year": "1949",
+   "type": "tragedy",
+   "note": "Willy Loman, Biff, Happy, Linda; 'Requiem' ending"
+  },
+  {
+   "author": "Arthur Miller",
+   "work": "The Crucible",
+   "year": "1953",
+   "type": "play",
+   "note": "Salem witch trials; allegory of McCarthyism"
+  },
+  {
+   "author": "Tennessee Williams",
+   "work": "Cat on a Hot Tin Roof",
+   "year": "1955",
+   "type": "play",
+   "note": "Maggie, Brick, Big Daddy; 'mendacity'"
+  },
+  {
+   "author": "Eugene O'Neill",
+   "work": "Long Day's Journey into Night",
+   "year": "1956 (written 1941)",
+   "type": "autobiographical tragedy",
+   "note": "Tyrone family; posthumous Pulitzer"
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "work": "A Raisin in the Sun",
+   "year": "1959",
+   "type": "play",
+   "note": "Younger family; first Broadway play by Black woman"
+  },
+  {
+   "author": "Edward Albee",
+   "work": "The Zoo Story",
+   "year": "1959",
+   "type": "one-act play",
+   "note": "Jerry and Peter on a Central Park bench"
+  },
+  {
+   "author": "Edward Albee",
+   "work": "Who's Afraid of Virginia Woolf?",
+   "year": "1962",
+   "type": "play",
+   "note": "George and Martha's imaginary son"
+  },
+  {
+   "author": "David Mamet",
+   "work": "Glengarry Glen Ross",
+   "year": "1983",
+   "type": "play",
+   "note": "Cut-throat real-estate salesmen; Pulitzer"
+  },
+  {
+   "author": "August Wilson",
+   "work": "Fences",
+   "year": "1985",
+   "type": "play",
+   "note": "Troy Maxson; part of Pittsburgh Cycle; Pulitzer"
+  },
+  {
+   "author": "Tony Kushner",
+   "work": "Angels in America",
+   "year": "1991-93",
+   "type": "play (two parts)",
+   "note": "'A Gay Fantasia on National Themes'; AIDS era"
+  },
+  {
+   "author": "Albert Camus",
+   "work": "The Myth of Sisyphus",
+   "year": "1942",
+   "type": "philosophical essay",
+   "note": "Philosophy of the absurd behind Absurd theatre"
+  },
+  {
+   "author": "Martin Esslin",
+   "work": "The Theatre of the Absurd",
+   "year": "1961",
+   "type": "critical book",
+   "note": "Coined and defined 'Theatre of the Absurd'"
+  },
+  {
+   "author": "Alfred Jarry",
+   "work": "Ubu Roi",
+   "year": "1896",
+   "type": "play",
+   "note": "Precursor of absurd; opens with 'Merdre'"
+  },
+  {
+   "author": "Jean Genet",
+   "work": "The Maids",
+   "year": "1947",
+   "type": "play",
+   "note": "Sisters Claire and Solange play-act killing Madame"
+  },
+  {
+   "author": "Eugene Ionesco",
+   "work": "The Bald Soprano",
+   "year": "1950",
+   "type": "anti-play",
+   "note": "The Smiths and Martins; no bald soprano appears"
+  },
+  {
+   "author": "Eugene Ionesco",
+   "work": "Rhinoceros",
+   "year": "1959",
+   "type": "absurd play",
+   "note": "Berenger alone resists turning into a rhinoceros"
+  },
+  {
+   "author": "Henrik Ibsen",
+   "work": "Peer Gynt",
+   "year": "1867",
+   "type": "verse drama",
+   "note": "Peeling-the-onion scene; Grieg's music"
+  },
+  {
+   "author": "Henrik Ibsen",
+   "work": "A Doll's House",
+   "year": "1879",
+   "type": "problem play",
+   "note": "Nora slams the door on Torvald"
+  },
+  {
+   "author": "Henrik Ibsen",
+   "work": "Ghosts",
+   "year": "1881",
+   "type": "play",
+   "note": "Mrs Alving, Oswald's inherited disease"
+  },
+  {
+   "author": "Henrik Ibsen",
+   "work": "Hedda Gabler",
+   "year": "1890",
+   "type": "play",
+   "note": "Hedda burns Lovborg's manuscript, shoots herself"
+  },
+  {
+   "author": "August Strindberg",
+   "work": "Miss Julie",
+   "year": "1888",
+   "type": "naturalist tragedy",
+   "note": "Julie and valet Jean; Preface is naturalist manifesto"
+  },
+  {
+   "author": "Anton Chekhov",
+   "work": "The Cherry Orchard",
+   "year": "1904",
+   "type": "play",
+   "note": "Ranevskaya loses orchard to Lopakhin; Firs left behind"
+  },
+  {
+   "author": "Luigi Pirandello",
+   "work": "Six Characters in Search of an Author",
+   "year": "1921",
+   "type": "metatheatre",
+   "note": "Unfinished characters interrupt a rehearsal"
+  },
+  {
+   "author": "Bertolt Brecht",
+   "work": "Mother Courage and Her Children",
+   "year": "1939",
+   "type": "epic theatre",
+   "note": "Anna Fierling profits from Thirty Years' War; mute Kattrin"
+  },
+  {
+   "author": "Bertolt Brecht",
+   "work": "A Short Organum for the Theatre",
+   "year": "1948",
+   "type": "theory text",
+   "note": "Brecht's theory of epic theatre and alienation"
+  },
+  {
+   "author": "Federico Garcia Lorca",
+   "work": "Blood Wedding",
+   "year": "1932",
+   "type": "tragedy",
+   "note": "Rural trilogy; Leonardo elopes with the Bride"
+  },
+  {
+   "author": "Jean-Paul Sartre",
+   "work": "No Exit (Huis Clos)",
+   "year": "1944",
+   "type": "existentialist play",
+   "note": "'Hell is other people'; Garcin, Inez, Estelle"
+  },
+  {
+   "author": "Wole Soyinka",
+   "work": "Death and the King's Horseman",
+   "year": "1975",
+   "type": "tragedy",
+   "note": "Elesin's failed ritual suicide; son Olunde dies instead"
+  },
+  {
+   "author": "Bharata",
+   "work": "Natyashastra",
+   "year": "c. 200 BC - AD 200 (date uncertain)",
+   "type": "theory text",
+   "note": "Rasa theory; first Indian treatise on drama"
+  },
+  {
+   "author": "Kalidasa",
+   "work": "Abhijnanashakuntalam",
+   "year": "c. 4th-5th century AD",
+   "type": "Sanskrit play",
+   "note": "Translated by Sir William Jones, 1789"
+  },
+  {
+   "author": "Sudraka",
+   "work": "Mricchakatika (The Little Clay Cart)",
+   "year": "date uncertain",
+   "type": "Sanskrit play (prakarana)",
+   "note": "Charudatta and courtesan Vasantasena"
+  },
+  {
+   "author": "Krishna Mohan Banerji",
+   "work": "The Persecuted",
+   "year": "1831",
+   "type": "play",
+   "note": "First Indian English play"
+  },
+  {
+   "author": "Rabindranath Tagore",
+   "work": "The Post Office (Dak Ghar)",
+   "year": "1912 (Bengali)",
+   "type": "play",
+   "note": "Sick boy Amal waits for the king's letter"
+  },
+  {
+   "author": "Mohan Rakesh",
+   "work": "Ashadh Ka Ek Din",
+   "year": "1958",
+   "type": "Hindi play",
+   "note": "Kalidasa and Mallika; modern Hindi drama landmark"
+  },
+  {
+   "author": "Badal Sircar",
+   "work": "Evam Indrajit",
+   "year": "1963",
+   "type": "Bengali play",
+   "note": "Writer struggles to write about Indrajit; absurdist"
+  },
+  {
+   "author": "Girish Karnad",
+   "work": "Tughlaq",
+   "year": "1964",
+   "type": "history play",
+   "note": "Muhammad bin Tughlaq; idealist who failed"
+  },
+  {
+   "author": "Vijay Tendulkar",
+   "work": "Silence! The Court Is in Session",
+   "year": "1967",
+   "type": "Marathi play",
+   "note": "Mock trial of Leela Benare"
+  },
+  {
+   "author": "Girish Karnad",
+   "work": "Hayavadana",
+   "year": "1971",
+   "type": "play",
+   "note": "Transposed heads; horse-headed man; Bhagavata narrator"
+  },
+  {
+   "author": "Vijay Tendulkar",
+   "work": "Ghashiram Kotwal",
+   "year": "1972",
+   "type": "Marathi play",
+   "note": "Nana Phadnavis makes Ghashiram kotwal of Pune"
+  },
+  {
+   "author": "Habib Tanvir",
+   "work": "Charandas Chor",
+   "year": "1975",
+   "type": "Hindi/Chhattisgarhi play",
+   "note": "Thief who never lies; Naya Theatre"
+  },
+  {
+   "author": "Girish Karnad",
+   "work": "Naga-Mandala",
+   "year": "1988",
+   "type": "play",
+   "note": "Rani, cobra lover Naga; folk tale"
+  },
+  {
+   "author": "Mahesh Dattani",
+   "work": "Tara",
+   "year": "1990",
+   "type": "play",
+   "note": "Conjoined twins Tara and Chandan; gender bias"
+  },
+  {
+   "author": "Philip Sidney",
+   "work": "An Apology for Poetry",
+   "year": "1595 (pub.)",
+   "type": "critical essay",
+   "note": "Mocks 'mongrel tragicomedy'; defends unities"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "Preface to Shakespeare",
+   "year": "1765",
+   "type": "critical essay",
+   "note": "Shakespeare 'poet of nature'; rejects unities of time and place"
+  },
+  {
+   "author": "Gustav Freytag",
+   "work": "Technique of the Drama",
+   "year": "1863",
+   "type": "theory text",
+   "note": "Freytag's pyramid of five-part structure"
+  },
+  {
+   "author": "Friedrich Nietzsche",
+   "work": "The Birth of Tragedy",
+   "year": "1872",
+   "type": "philosophy text",
+   "note": "Apollonian and Dionysian"
+  },
+  {
+   "author": "A. C. Bradley",
+   "work": "Shakespearean Tragedy",
+   "year": "1904",
+   "type": "critical book",
+   "note": "Character criticism of four major tragedies"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "Hamlet and His Problems",
+   "year": "1919",
+   "type": "essay",
+   "note": "Objective correlative; Hamlet 'an artistic failure'"
+  },
+  {
+   "author": "Antonin Artaud",
+   "work": "The Theatre and Its Double",
+   "year": "1938",
+   "type": "theory text",
+   "note": "Theatre of Cruelty"
+  },
+  {
+   "author": "Arthur Miller",
+   "work": "Tragedy and the Common Man",
+   "year": "1949",
+   "type": "essay",
+   "note": "Common man fit for tragedy"
+  },
+  {
+   "author": "George Steiner",
+   "work": "The Death of Tragedy",
+   "year": "1961",
+   "type": "critical book",
+   "note": "Tragedy impossible in modern secular world"
+  },
+  {
+   "author": "Lionel Abel",
+   "work": "Metatheatre",
+   "year": "1963",
+   "type": "critical book",
+   "note": "Coined 'metatheatre'"
+  },
+  {
+   "author": "Jerzy Grotowski",
+   "work": "Towards a Poor Theatre",
+   "year": "1968",
+   "type": "theory text",
+   "note": "Actor-centred theatre without spectacle"
+  },
+  {
+   "author": "Peter Brook",
+   "work": "The Empty Space",
+   "year": "1968",
+   "type": "theory text",
+   "note": "Deadly, holy, rough and immediate theatre"
+  },
+  {
+   "author": "Augusto Boal",
+   "work": "Theatre of the Oppressed",
+   "year": "1974",
+   "type": "theory text",
+   "note": "Forum theatre; spect-actor"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "Tragedy, then, is an imitation of an action that is serious, complete, and of a certain magnitude ... through pity and fear effecting the proper purgation of these emotions.",
+   "by": "Aristotle",
+   "source": "Poetics, c. 335 BC (Butcher's translation)"
+  },
+  {
+   "quote": "The plot, then, is the first principle, and, as it were, the soul of a tragedy.",
+   "by": "Aristotle",
+   "source": "Poetics, c. 335 BC"
+  },
+  {
+   "quote": "Was this the face that launched a thousand ships, / And burnt the topless towers of Ilium?",
+   "by": "Christopher Marlowe (Faustus, on Helen)",
+   "source": "Doctor Faustus, c. 1592"
+  },
+  {
+   "quote": "Why, this is hell, nor am I out of it.",
+   "by": "Christopher Marlowe (Mephistopheles)",
+   "source": "Doctor Faustus, c. 1592"
+  },
+  {
+   "quote": "To be, or not to be: that is the question.",
+   "by": "William Shakespeare (Hamlet)",
+   "source": "Hamlet, Act III, c. 1600-01"
+  },
+  {
+   "quote": "Something is rotten in the state of Denmark.",
+   "by": "William Shakespeare (Marcellus)",
+   "source": "Hamlet, Act I"
+  },
+  {
+   "quote": "The readiness is all.",
+   "by": "William Shakespeare (Hamlet)",
+   "source": "Hamlet, Act V"
+  },
+  {
+   "quote": "O, beware, my lord, of jealousy; / It is the green-eyed monster which doth mock / The meat it feeds on.",
+   "by": "William Shakespeare (Iago)",
+   "source": "Othello, Act III, c. 1603-04"
+  },
+  {
+   "quote": "As flies to wanton boys are we to the gods; / They kill us for their sport.",
+   "by": "William Shakespeare (Gloucester)",
+   "source": "King Lear, Act IV, c. 1605-06"
+  },
+  {
+   "quote": "Ripeness is all.",
+   "by": "William Shakespeare (Edgar)",
+   "source": "King Lear, Act V"
+  },
+  {
+   "quote": "Fair is foul, and foul is fair.",
+   "by": "William Shakespeare (the Witches)",
+   "source": "Macbeth, Act I, c. 1606"
+  },
+  {
+   "quote": "Tomorrow, and tomorrow, and tomorrow, / Creeps in this petty pace from day to day.",
+   "by": "William Shakespeare (Macbeth)",
+   "source": "Macbeth, Act V"
+  },
+  {
+   "quote": "All the world's a stage, / And all the men and women merely players.",
+   "by": "William Shakespeare (Jaques)",
+   "source": "As You Like It, Act II, c. 1599"
+  },
+  {
+   "quote": "Some are born great, some achieve greatness, and some have greatness thrust upon 'em.",
+   "by": "William Shakespeare (Malvolio reading Maria's forged letter)",
+   "source": "Twelfth Night, Act II, c. 1601"
+  },
+  {
+   "quote": "The course of true love never did run smooth.",
+   "by": "William Shakespeare (Lysander)",
+   "source": "A Midsummer Night's Dream, Act I, c. 1595"
+  },
+  {
+   "quote": "We are such stuff / As dreams are made on, and our little life / Is rounded with a sleep.",
+   "by": "William Shakespeare (Prospero)",
+   "source": "The Tempest, Act IV, c. 1611"
+  },
+  {
+   "quote": "He was not of an age, but for all time!",
+   "by": "Ben Jonson",
+   "source": "To the Memory of My Beloved, the Author Mr William Shakespeare, First Folio, 1623"
+  },
+  {
+   "quote": "Thou hadst small Latin and less Greek.",
+   "by": "Ben Jonson (on Shakespeare)",
+   "source": "First Folio tribute poem, 1623"
+  },
+  {
+   "quote": "Cover her face; mine eyes dazzle: she died young.",
+   "by": "John Webster (Ferdinand)",
+   "source": "The Duchess of Malfi, c. 1613-14"
+  },
+  {
+   "quote": "I am Duchess of Malfi still.",
+   "by": "John Webster (the Duchess)",
+   "source": "The Duchess of Malfi, c. 1613-14"
+  },
+  {
+   "quote": "He was the man who of all modern, and perhaps ancient poets, had the largest and most comprehensive soul.",
+   "by": "John Dryden (Neander, on Shakespeare)",
+   "source": "An Essay of Dramatic Poesy, 1668"
+  },
+  {
+   "quote": "I admire him, but I love Shakespeare.",
+   "by": "John Dryden (Neander, comparing Jonson)",
+   "source": "An Essay of Dramatic Poesy, 1668"
+  },
+  {
+   "quote": "Music has charms to soothe a savage breast.",
+   "by": "William Congreve (Almeria, opening line)",
+   "source": "The Mourning Bride, 1697"
+  },
+  {
+   "quote": "Heaven has no rage like love to hatred turned, / Nor hell a fury like a woman scorned.",
+   "by": "William Congreve (Zara)",
+   "source": "The Mourning Bride, 1697"
+  },
+  {
+   "quote": "I may by degrees dwindle into a wife.",
+   "by": "William Congreve (Millamant)",
+   "source": "The Way of the World, 1700, Act IV"
+  },
+  {
+   "quote": "He is the very pineapple of politeness!",
+   "by": "R. B. Sheridan (Mrs Malaprop)",
+   "source": "The Rivals, 1775"
+  },
+  {
+   "quote": "Shakespeare is above all writers, at least above all modern writers, the poet of nature.",
+   "by": "Samuel Johnson",
+   "source": "Preface to Shakespeare, 1765"
+  },
+  {
+   "quote": "The motive-hunting of a motiveless malignity.",
+   "by": "S. T. Coleridge (on Iago)",
+   "source": "Notes on Othello"
+  },
+  {
+   "quote": "To lose one parent, Mr Worthing, may be regarded as a misfortune; to lose both looks like carelessness.",
+   "by": "Oscar Wilde (Lady Bracknell)",
+   "source": "The Importance of Being Earnest, 1895"
+  },
+  {
+   "quote": "The truth is rarely pure and never simple.",
+   "by": "Oscar Wilde (Algernon)",
+   "source": "The Importance of Being Earnest, 1895"
+  },
+  {
+   "quote": "He who can, does. He who cannot, teaches.",
+   "by": "G. B. Shaw",
+   "source": "Man and Superman, 1903 ('Maxims for Revolutionists')"
+  },
+  {
+   "quote": "The last temptation is the greatest treason: / To do the right deed for the wrong reason.",
+   "by": "T. S. Eliot (Thomas Becket)",
+   "source": "Murder in the Cathedral, 1935"
+  },
+  {
+   "quote": "Human kind cannot bear very much reality.",
+   "by": "T. S. Eliot (Thomas Becket)",
+   "source": "Murder in the Cathedral, 1935"
+  },
+  {
+   "quote": "The only way of expressing emotion in the form of art is by finding an 'objective correlative'.",
+   "by": "T. S. Eliot",
+   "source": "Hamlet and His Problems, 1919"
+  },
+  {
+   "quote": "There aren't any good, brave causes left.",
+   "by": "John Osborne (Jimmy Porter)",
+   "source": "Look Back in Anger, 1956"
+  },
+  {
+   "quote": "They're all gone now, and there isn't anything more the sea can do to me.",
+   "by": "J. M. Synge (Maurya)",
+   "source": "Riders to the Sea, 1904"
+  },
+  {
+   "quote": "The whole worl's in a terrible state o' chassis.",
+   "by": "Sean O'Casey (Captain Boyle)",
+   "source": "Juno and the Paycock, 1924"
+  },
+  {
+   "quote": "Nothing to be done.",
+   "by": "Samuel Beckett (Estragon, opening line)",
+   "source": "Waiting for Godot, 1953/1955"
+  },
+  {
+   "quote": "A play in which nothing happens, twice.",
+   "by": "Vivian Mercier (on Waiting for Godot)",
+   "source": "Review in The Irish Times, 1956"
+  },
+  {
+   "quote": "Finished, it's finished, nearly finished, it must be nearly finished.",
+   "by": "Samuel Beckett (Clov, opening line)",
+   "source": "Endgame, 1957"
+  },
+  {
+   "quote": "I give you truth in the pleasant disguise of illusion.",
+   "by": "Tennessee Williams (Tom Wingfield)",
+   "source": "The Glass Menagerie, 1944"
+  },
+  {
+   "quote": "I have always depended on the kindness of strangers.",
+   "by": "Tennessee Williams (Blanche DuBois)",
+   "source": "A Streetcar Named Desire, 1947"
+  },
+  {
+   "quote": "Attention must be paid to such a person.",
+   "by": "Arthur Miller (Linda Loman)",
+   "source": "Death of a Salesman, 1949"
+  },
+  {
+   "quote": "I believe that the common man is as apt a subject for tragedy in its highest sense as kings were.",
+   "by": "Arthur Miller",
+   "source": "Tragedy and the Common Man, 1949"
+  },
+  {
+   "quote": "Hell is other people.",
+   "by": "Jean-Paul Sartre (Garcin)",
+   "source": "No Exit (Huis Clos), 1944"
+  },
+  {
+   "quote": "Unhappy the land that is in need of heroes.",
+   "by": "Bertolt Brecht (Galileo)",
+   "source": "Life of Galileo"
+  },
+  {
+   "quote": "I can take any empty space and call it a bare stage.",
+   "by": "Peter Brook (opening line)",
+   "source": "The Empty Space, 1968"
+  },
+  {
+   "quote": "Webster was much possessed by death / And saw the skull beneath the skin.",
+   "by": "T. S. Eliot",
+   "source": "Whispers of Immortality, 1919"
+  },
+  {
+   "quote": "Mongrel tragicomedy.",
+   "by": "Philip Sidney (on plays that mingle kings and clowns)",
+   "source": "An Apology for Poetry, pub. 1595"
+  }
+ ],
+ "people": [
+  {
+   "name": "Oedipus",
+   "where": "Oedipus Rex, Sophocles, c. 429 BC",
+   "note": "Kills father Laius, marries mother Jocasta unknowingly; blinds himself"
+  },
+  {
+   "name": "Tiresias",
+   "where": "Oedipus Rex and Antigone, Sophocles",
+   "note": "Blind prophet who 'sees' the truth"
+  },
+  {
+   "name": "Antigone",
+   "where": "Antigone, Sophocles, c. 441 BC",
+   "note": "Buries brother Polynices, defying King Creon; divine law versus state law"
+  },
+  {
+   "name": "Creon",
+   "where": "Antigone, Sophocles, c. 441 BC",
+   "note": "King of Thebes; his stubbornness destroys his son Haemon and wife"
+  },
+  {
+   "name": "Clytemnestra",
+   "where": "Agamemnon (Oresteia), Aeschylus, 458 BC",
+   "note": "Kills husband Agamemnon; later killed by son Orestes"
+  },
+  {
+   "name": "Medea",
+   "where": "Medea, Euripides, 431 BC",
+   "note": "Kills her own children to punish unfaithful Jason"
+  },
+  {
+   "name": "Pentheus",
+   "where": "The Bacchae, Euripides, 405 BC",
+   "note": "King of Thebes who denies Dionysus; torn apart by maenads"
+  },
+  {
+   "name": "Hieronimo",
+   "where": "The Spanish Tragedy, Thomas Kyd, c. 1587",
+   "note": "Father avenging murdered son Horatio through a play-within-play"
+  },
+  {
+   "name": "Barabas",
+   "where": "The Jew of Malta, Marlowe, c. 1589",
+   "note": "Rich Jewish merchant; Machiavellian villain-hero"
+  },
+  {
+   "name": "Faustus",
+   "where": "Doctor Faustus, Marlowe, c. 1592",
+   "note": "Scholar sells soul to Lucifer for 24 years of power; overreacher"
+  },
+  {
+   "name": "Mephistopheles",
+   "where": "Doctor Faustus, Marlowe, c. 1592",
+   "note": "Devil serving Faustus; 'Why, this is hell, nor am I out of it'"
+  },
+  {
+   "name": "Hamlet",
+   "where": "Hamlet, Shakespeare, c. 1600-01",
+   "note": "Prince of Denmark who delays revenge for father's murder"
+  },
+  {
+   "name": "Polonius",
+   "where": "Hamlet, Shakespeare",
+   "note": "Lord Chamberlain; 'Neither a borrower nor a lender be'; killed behind the arras"
+  },
+  {
+   "name": "Iago",
+   "where": "Othello, Shakespeare, c. 1603-04",
+   "note": "Othello's ensign; 'motiveless malignity' (Coleridge)"
+  },
+  {
+   "name": "Cordelia",
+   "where": "King Lear, Shakespeare, c. 1605-06",
+   "note": "Lear's honest youngest daughter; 'Nothing, my lord'"
+  },
+  {
+   "name": "Edmund",
+   "where": "King Lear, Shakespeare",
+   "note": "Gloucester's illegitimate son; 'Now, gods, stand up for bastards!'"
+  },
+  {
+   "name": "Lady Macbeth",
+   "where": "Macbeth, Shakespeare, c. 1606",
+   "note": "Pushes Macbeth to murder; sleepwalking scene"
+  },
+  {
+   "name": "Shylock",
+   "where": "The Merchant of Venice, Shakespeare, c. 1596-97",
+   "note": "Jewish moneylender demanding a pound of flesh; 'Hath not a Jew eyes?'"
+  },
+  {
+   "name": "Falstaff",
+   "where": "Henry IV Parts 1 and 2, The Merry Wives of Windsor, Shakespeare",
+   "note": "Fat comic knight, companion of Prince Hal"
+  },
+  {
+   "name": "Malvolio",
+   "where": "Twelfth Night, Shakespeare, c. 1601",
+   "note": "Olivia's pompous steward tricked by Maria's letter; cross-gartered"
+  },
+  {
+   "name": "Prospero",
+   "where": "The Tempest, Shakespeare, c. 1611",
+   "note": "Exiled Duke of Milan and magician; breaks his staff at end"
+  },
+  {
+   "name": "Caliban",
+   "where": "The Tempest, Shakespeare, c. 1611",
+   "note": "Son of Sycorax; read in postcolonial criticism as the colonised"
+  },
+  {
+   "name": "Mosca",
+   "where": "Volpone, Ben Jonson, 1606",
+   "note": "Volpone's parasite servant ('fly') who tries to cheat his master"
+  },
+  {
+   "name": "Subtle and Face",
+   "where": "The Alchemist, Ben Jonson, 1610",
+   "note": "Fake alchemist and butler who con gulls in Lovewit's house"
+  },
+  {
+   "name": "Bosola",
+   "where": "The Duchess of Malfi, Webster, c. 1613-14",
+   "note": "Malcontent spy hired by Ferdinand; kills the Duchess, then repents"
+  },
+  {
+   "name": "Vindice",
+   "where": "The Revenger's Tragedy, Middleton, 1606",
+   "note": "Revenger who kills the Duke using his poisoned dead love's skull"
+  },
+  {
+   "name": "De Flores",
+   "where": "The Changeling, Middleton and Rowley, 1622",
+   "note": "Ugly servant who murders for Beatrice-Joanna and demands her body"
+  },
+  {
+   "name": "Sir Giles Overreach",
+   "where": "A New Way to Pay Old Debts, Massinger, c. 1625",
+   "note": "Ruthless greedy extortioner who goes mad at the end"
+  },
+  {
+   "name": "Horner",
+   "where": "The Country Wife, Wycherley, 1675",
+   "note": "Rake who pretends to be impotent to seduce wives"
+  },
+  {
+   "name": "Dorimant",
+   "where": "The Man of Mode, Etherege, 1676",
+   "note": "Witty rake; said to be modelled on the Earl of Rochester"
+  },
+  {
+   "name": "Millamant",
+   "where": "The Way of the World, Congreve, 1700",
+   "note": "Witty heroine; sets conditions in the proviso scene with Mirabell"
+  },
+  {
+   "name": "Lady Wishfort",
+   "where": "The Way of the World, Congreve, 1700",
+   "note": "Vain old widow, aunt of Millamant"
+  },
+  {
+   "name": "Macheath",
+   "where": "The Beggar's Opera, John Gay, 1728",
+   "note": "Highwayman hero loved by Polly Peachum and Lucy Lockit"
+  },
+  {
+   "name": "Tony Lumpkin",
+   "where": "She Stoops to Conquer, Goldsmith, 1773",
+   "note": "Prankster who tells Marlow the Hardcastle house is an inn"
+  },
+  {
+   "name": "Mrs Malaprop",
+   "where": "The Rivals, Sheridan, 1775",
+   "note": "Misuses words; gave English 'malapropism'"
+  },
+  {
+   "name": "Lady Bracknell",
+   "where": "The Importance of Being Earnest, Wilde, 1895",
+   "note": "Formidable aunt; 'A handbag?'"
+  },
+  {
+   "name": "Captain Bluntschli",
+   "where": "Arms and the Man, Shaw, 1894",
+   "note": "Swiss mercenary, the practical 'chocolate cream soldier'"
+  },
+  {
+   "name": "Eliza Doolittle",
+   "where": "Pygmalion, Shaw, 1913",
+   "note": "Cockney flower girl trained by phonetician Henry Higgins"
+  },
+  {
+   "name": "Andrew Undershaft",
+   "where": "Major Barbara, Shaw, 1905",
+   "note": "Armaments millionaire, father of Salvation Army officer Barbara"
+  },
+  {
+   "name": "Thomas Becket",
+   "where": "Murder in the Cathedral, T. S. Eliot, 1935",
+   "note": "Archbishop tempted by four tempters; martyred in 1170"
+  },
+  {
+   "name": "Jimmy Porter",
+   "where": "Look Back in Anger, Osborne, 1956",
+   "note": "Angry working-class graduate running a sweet stall; husband of Alison"
+  },
+  {
+   "name": "Stanley Webber",
+   "where": "The Birthday Party, Pinter, 1958",
+   "note": "Ex-pianist in a seaside boarding house, taken away by Goldberg and McCann"
+  },
+  {
+   "name": "Davies",
+   "where": "The Caretaker, Pinter, 1960",
+   "note": "Tramp, alias Bernard Jenkins, between brothers Aston and Mick"
+  },
+  {
+   "name": "Marlene",
+   "where": "Top Girls, Caryl Churchill, 1982",
+   "note": "Ambitious career woman celebrating promotion with women from history"
+  },
+  {
+   "name": "Christy Mahon",
+   "where": "The Playboy of the Western World, Synge, 1907",
+   "note": "Becomes a hero for 'killing' his father, who returns alive"
+  },
+  {
+   "name": "Maurya",
+   "where": "Riders to the Sea, Synge, 1904",
+   "note": "Aran Island mother who loses husband and all sons to sea"
+  },
+  {
+   "name": "Captain Jack Boyle",
+   "where": "Juno and the Paycock, O'Casey, 1924",
+   "note": "Idle strutting 'paycock'; friend Joxer Daly; wife Juno"
+  },
+  {
+   "name": "Vladimir and Estragon",
+   "where": "Waiting for Godot, Beckett",
+   "note": "Didi and Gogo, two tramps waiting for Godot"
+  },
+  {
+   "name": "Pozzo and Lucky",
+   "where": "Waiting for Godot, Beckett",
+   "note": "Master and slave on a rope; Lucky's 'think' speech"
+  },
+  {
+   "name": "Hamm and Clov",
+   "where": "Endgame, Beckett, 1957",
+   "note": "Blind chair-bound master and servant; Hamm's parents in dustbins"
+  },
+  {
+   "name": "Winnie",
+   "where": "Happy Days, Beckett, 1961",
+   "note": "Buried waist-deep then neck-deep in a mound; husband Willie"
+  },
+  {
+   "name": "Berenger",
+   "where": "Rhinoceros, Ionesco, 1959",
+   "note": "Last human who refuses to become a rhinoceros"
+  },
+  {
+   "name": "Nora Helmer",
+   "where": "A Doll's House, Ibsen, 1879",
+   "note": "Leaves husband Torvald and children; door slam"
+  },
+  {
+   "name": "Hedda Gabler",
+   "where": "Hedda Gabler, Ibsen, 1890",
+   "note": "General's daughter married to Tesman; burns Lovborg's manuscript"
+  },
+  {
+   "name": "Lopakhin",
+   "where": "The Cherry Orchard, Chekhov, 1904",
+   "note": "Merchant, son of a serf, who buys Ranevskaya's estate"
+  },
+  {
+   "name": "Mother Courage (Anna Fierling)",
+   "where": "Mother Courage and Her Children, Brecht, 1939",
+   "note": "Canteen woman who loses Eilif, Swiss Cheese and Kattrin to war"
+  },
+  {
+   "name": "Yank",
+   "where": "The Hairy Ape, O'Neill, 1922",
+   "note": "Ship stoker searching where he 'belongs'"
+  },
+  {
+   "name": "Willy Loman",
+   "where": "Death of a Salesman, Miller, 1949",
+   "note": "Ageing salesman with false dream of success; sons Biff and Happy"
+  },
+  {
+   "name": "John Proctor",
+   "where": "The Crucible, Miller, 1953",
+   "note": "Farmer who dies rather than sign false confession; Abigail Williams accuses"
+  },
+  {
+   "name": "Blanche DuBois",
+   "where": "A Streetcar Named Desire, Williams, 1947",
+   "note": "Fading Southern belle destroyed by brother-in-law Stanley Kowalski"
+  },
+  {
+   "name": "Amanda Wingfield",
+   "where": "The Glass Menagerie, Williams, 1944",
+   "note": "Mother of Tom and Laura, living in Southern past"
+  },
+  {
+   "name": "Walter Lee Younger",
+   "where": "A Raisin in the Sun, Hansberry, 1959",
+   "note": "Chauffeur dreaming of a liquor store with insurance money"
+  },
+  {
+   "name": "Troy Maxson",
+   "where": "Fences, August Wilson, 1985",
+   "note": "Garbage collector and former baseball player; son Cory"
+  },
+  {
+   "name": "Muhammad bin Tughlaq",
+   "where": "Tughlaq, Girish Karnad, 1964",
+   "note": "Idealist Delhi sultan whose plans fail; shifts capital to Daulatabad"
+  },
+  {
+   "name": "Padmini",
+   "where": "Hayavadana, Girish Karnad, 1971",
+   "note": "Wife of Devadatta; heads of Devadatta and Kapila get transposed"
+  },
+  {
+   "name": "Leela Benare",
+   "where": "Silence! The Court Is in Session, Tendulkar, 1967",
+   "note": "Schoolteacher put on mock trial by her troupe"
+  },
+  {
+   "name": "Nana Phadnavis",
+   "where": "Ghashiram Kotwal, Tendulkar, 1972",
+   "note": "Peshwa minister who makes Ghashiram kotwal of Pune, then discards him"
+  },
+  {
+   "name": "Tara and Chandan",
+   "where": "Tara, Mahesh Dattani, 1990",
+   "note": "Separated conjoined twins; the girl gets the weaker leg"
+  },
+  {
+   "name": "Elesin Oba",
+   "where": "Death and the King's Horseman, Soyinka, 1975",
+   "note": "Horseman who fails to commit ritual suicide; son Olunde dies instead"
+  },
+  {
+   "name": "Amal",
+   "where": "The Post Office, Tagore, 1912",
+   "note": "Sick boy confined indoors waiting for the king's letter"
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "The Spanish Tragedy, the model Elizabethan revenge play, was written by:",
+   "options": [
+    "Christopher Marlowe",
+    "Thomas Kyd",
+    "Robert Greene",
+    "George Peele"
+   ],
+   "answer": 1,
+   "exp": "Thomas Kyd ne c. 1587 mein likha; Hieronimo ka badla, play-within-play."
+  },
+  {
+   "q": "Which play is generally regarded as the first regular English comedy?",
+   "options": [
+    "Gammer Gurton's Needle",
+    "Gorboduc",
+    "Ralph Roister Doister",
+    "Everyman"
+   ],
+   "answer": 2,
+   "exp": "Nicholas Udall ka Ralph Roister Doister (c. 1552), Plautus ke model par."
+  },
+  {
+   "q": "Bosola, the hired spy and malcontent, is a character in:",
+   "options": [
+    "The White Devil",
+    "The Duchess of Malfi",
+    "The Revenger's Tragedy",
+    "Women Beware Women"
+   ],
+   "answer": 1,
+   "exp": "Webster ki The Duchess of Malfi mein Bosola Ferdinand ka jasoos hai."
+  },
+  {
+   "q": "Mosca, the cunning parasite servant, appears in Ben Jonson's:",
+   "options": [
+    "The Alchemist",
+    "Bartholomew Fair",
+    "Every Man in His Humour",
+    "Volpone"
+   ],
+   "answer": 3,
+   "exp": "Volpone mein Mosca (makkhi) Volpone (lomdi) ka naukar hai."
+  },
+  {
+   "q": "The Shoemaker's Holiday (1599), a city comedy about Simon Eyre, is by:",
+   "options": [
+    "Thomas Heywood",
+    "Thomas Dekker",
+    "Thomas Middleton",
+    "Philip Massinger"
+   ],
+   "answer": 1,
+   "exp": "Thomas Dekker; Simon Eyre mochi se London ka Lord Mayor banta hai."
+  },
+  {
+   "q": "Sir Giles Overreach is the villain of A New Way to Pay Old Debts, written by:",
+   "options": [
+    "Philip Massinger",
+    "John Ford",
+    "James Shirley",
+    "Francis Beaumont"
+   ],
+   "answer": 0,
+   "exp": "Philip Massinger ka Caroline-era comedy, Overreach lalchi villain."
+  },
+  {
+   "q": "Malvolio, the steward cross-gartered in yellow stockings, belongs to:",
+   "options": [
+    "As You Like It",
+    "Much Ado About Nothing",
+    "Twelfth Night",
+    "The Merchant of Venice"
+   ],
+   "answer": 2,
+   "exp": "Twelfth Night mein Olivia ka steward Malvolio ka mazaak udaya jata hai."
+  },
+  {
+   "q": "Which of these characters appears in Sheridan's The School for Scandal?",
+   "options": [
+    "Lady Bracknell",
+    "Lady Teazle",
+    "Lady Wishfort",
+    "Mrs Hardcastle"
+   ],
+   "answer": 1,
+   "exp": "Lady Teazle (Sir Peter ki wife); Bracknell Wilde, Wishfort Congreve, Hardcastle Goldsmith."
+  },
+  {
+   "q": "Goldsmith's She Stoops to Conquer (1773) carries the subtitle:",
+   "options": [
+    "The Good-Natur'd Man",
+    "Love for Love",
+    "A Bold Stroke for a Wife",
+    "The Mistakes of a Night"
+   ],
+   "answer": 3,
+   "exp": "Poora title: She Stoops to Conquer, or The Mistakes of a Night."
+  },
+  {
+   "q": "Horner, who spreads a rumour of his own impotence, is the hero of:",
+   "options": [
+    "The Man of Mode",
+    "The Country Wife",
+    "The Plain Dealer",
+    "Love for Love"
+   ],
+   "answer": 1,
+   "exp": "Wycherley ki The Country Wife (1675), famous 'china scene'."
+  },
+  {
+   "q": "Sir Fopling Flutter, the archetypal Restoration fop, appears in Etherege's:",
+   "options": [
+    "She Would If She Could",
+    "The Comical Revenge",
+    "The Man of Mode",
+    "The Provoked Wife"
+   ],
+   "answer": 2,
+   "exp": "The Man of Mode (1676); hero Dorimant, fop Sir Fopling Flutter."
+  },
+  {
+   "q": "Dryden's All for Love (1677) retells the story of:",
+   "options": [
+    "Troilus and Cressida",
+    "Antony and Cleopatra",
+    "Aureng-Zebe",
+    "Romeo and Juliet"
+   ],
+   "answer": 1,
+   "exp": "All for Love, or The World Well Lost: Antony-Cleopatra, unities ke saath blank verse mein."
+  },
+  {
+   "q": "George Lillo's The London Merchant (1731) is a landmark of:",
+   "options": [
+    "heroic tragedy",
+    "comedy of manners",
+    "domestic (bourgeois) tragedy",
+    "ballad opera"
+   ],
+   "answer": 2,
+   "exp": "Apprentice George Barnwell ki kahani; aam middle-class tragedy."
+  },
+  {
+   "q": "The Cenci (1819), a verse tragedy of incest and murder, was written by:",
+   "options": [
+    "Lord Byron",
+    "S. T. Coleridge",
+    "William Wordsworth",
+    "P. B. Shelley"
+   ],
+   "answer": 3,
+   "exp": "Shelley ki Romantic closet drama; Beatrice Cenci apne pita ko marwati hai."
+  },
+  {
+   "q": "Which Wilde play is subtitled 'A Trivial Comedy for Serious People'?",
+   "options": [
+    "An Ideal Husband",
+    "A Woman of No Importance",
+    "The Importance of Being Earnest",
+    "Lady Windermere's Fan"
+   ],
+   "answer": 2,
+   "exp": "The Importance of Being Earnest (1895), Jack-Algernon, Lady Bracknell."
+  },
+  {
+   "q": "Mrs Warren's Profession belongs to Shaw's collection:",
+   "options": [
+    "Plays Pleasant",
+    "Plays Unpleasant",
+    "Three Plays for Puritans",
+    "Plays for Dancers"
+   ],
+   "answer": 1,
+   "exp": "Plays Unpleasant (1898): Widowers' Houses, The Philanderer, Mrs Warren's Profession."
+  },
+  {
+   "q": "In Look Back in Anger, Jimmy Porter's wife is:",
+   "options": [
+    "Alison",
+    "Helena",
+    "Ruth",
+    "Stella"
+   ],
+   "answer": 0,
+   "exp": "Alison Porter; Helena uski saheli. Ruth Homecoming ki, Stella Streetcar ki."
+  },
+  {
+   "q": "Stanley Webber, visited by the sinister Goldberg and McCann, is the central figure of Pinter's:",
+   "options": [
+    "The Caretaker",
+    "The Homecoming",
+    "The Birthday Party",
+    "The Dumb Waiter"
+   ],
+   "answer": 2,
+   "exp": "The Birthday Party (1958), comedy of menace ka classic."
+  },
+  {
+   "q": "Stoppard's Rosencrantz and Guildenstern Are Dead (1966) is built around:",
+   "options": [
+    "King Lear",
+    "Macbeth",
+    "Othello",
+    "Hamlet"
+   ],
+   "answer": 3,
+   "exp": "Hamlet ke do chhote dost main characters ban jate hain."
+  },
+  {
+   "q": "Riders to the Sea (1904), in which Maurya loses all her sons to the sea, was written by:",
+   "options": [
+    "J. M. Synge",
+    "W. B. Yeats",
+    "Lady Gregory",
+    "Sean O'Casey"
+   ],
+   "answer": 0,
+   "exp": "Synge ka one-act play, Aran Islands par set."
+  },
+  {
+   "q": "The Abbey Theatre, Dublin, opened in 1904 under the leadership of:",
+   "options": [
+    "G. B. Shaw and Oscar Wilde",
+    "W. B. Yeats and Lady Gregory",
+    "Sean O'Casey and Brendan Behan",
+    "Samuel Beckett and James Joyce"
+   ],
+   "answer": 1,
+   "exp": "Yeats aur Lady Gregory Irish Literary Revival ke national theatre ke founders."
+  },
+  {
+   "q": "Amanda, Laura and Tom Wingfield are characters in:",
+   "options": [
+    "The Glass Menagerie",
+    "Cat on a Hot Tin Roof",
+    "Summer and Smoke",
+    "The Night of the Iguana"
+   ],
+   "answer": 0,
+   "exp": "Tennessee Williams ka 'memory play' (1944); Tom narrator hai."
+  },
+  {
+   "q": "Arthur Miller's The Crucible (1953) is set during:",
+   "options": [
+    "the American Civil War",
+    "the Great Depression",
+    "the Salem witch trials of 1692",
+    "the Vietnam War"
+   ],
+   "answer": 2,
+   "exp": "Salem witch trials; McCarthyism ka allegory."
+  },
+  {
+   "q": "The quarrelling couple at the centre of Albee's Who's Afraid of Virginia Woolf? are:",
+   "options": [
+    "Willy and Linda",
+    "George and Martha",
+    "Stanley and Stella",
+    "James and Mary"
+   ],
+   "answer": 1,
+   "exp": "George aur Martha, mehmaan Nick aur Honey."
+  },
+  {
+   "q": "Brutus Jones, who flees into the forest as his fears take shape, is the protagonist of O'Neill's:",
+   "options": [
+    "The Hairy Ape",
+    "Desire Under the Elms",
+    "Anna Christie",
+    "The Emperor Jones"
+   ],
+   "answer": 3,
+   "exp": "The Emperor Jones (1920), expressionist play."
+  },
+  {
+   "q": "'Marlowe's mighty line' was praised in a famous poem by:",
+   "options": [
+    "Ben Jonson",
+    "Thomas Nashe",
+    "Robert Greene",
+    "John Dryden"
+   ],
+   "answer": 0,
+   "exp": "Jonson ki Shakespeare par First Folio (1623) wali poem mein."
+  },
+  {
+   "q": "The title A Raisin in the Sun (1959) is taken from a poem by:",
+   "options": [
+    "Countee Cullen",
+    "Claude McKay",
+    "Langston Hughes",
+    "Richard Wright"
+   ],
+   "answer": 2,
+   "exp": "Langston Hughes ki 'Harlem': 'What happens to a dream deferred?'"
+  },
+  {
+   "q": "Mrs Alving and her son Oswald are characters in Ibsen's:",
+   "options": [
+    "Hedda Gabler",
+    "Ghosts",
+    "The Wild Duck",
+    "An Enemy of the People"
+   ],
+   "answer": 1,
+   "exp": "Ghosts (1881); pita ki bimari ka 'bhoot' bete par."
+  },
+  {
+   "q": "In Chekhov's The Cherry Orchard, the estate is finally bought by:",
+   "options": [
+    "Gaev",
+    "Trofimov",
+    "Lopakhin",
+    "Firs"
+   ],
+   "answer": 2,
+   "exp": "Lopakhin, purane serf ka beta, orchard khareedta hai."
+  },
+  {
+   "q": "Six Characters in Search of an Author (1921) was written by:",
+   "options": [
+    "Federico Garcia Lorca",
+    "August Strindberg",
+    "Eugene Ionesco",
+    "Luigi Pirandello"
+   ],
+   "answer": 3,
+   "exp": "Italian dramatist Pirandello, metatheatre ka classic."
+  },
+  {
+   "q": "The preface to which play is a famous manifesto of naturalist drama?",
+   "options": [
+    "Miss Julie",
+    "The Father",
+    "A Dream Play",
+    "The Ghost Sonata"
+   ],
+   "answer": 0,
+   "exp": "Strindberg ki Miss Julie (1888) ki preface."
+  },
+  {
+   "q": "Which of the following is NOT part of Lorca's rural trilogy?",
+   "options": [
+    "Yerma",
+    "Blood Wedding",
+    "The Shoemaker's Prodigious Wife",
+    "The House of Bernarda Alba"
+   ],
+   "answer": 2,
+   "exp": "Trilogy = Blood Wedding, Yerma, The House of Bernarda Alba."
+  },
+  {
+   "q": "Mrichchhakatika (The Little Clay Cart) is attributed to:",
+   "options": [
+    "Kalidasa",
+    "Shudraka",
+    "Bhasa",
+    "Bhavabhuti"
+   ],
+   "answer": 1,
+   "exp": "Shudraka; Charudatta aur Vasantasena ki kahani."
+  },
+  {
+   "q": "The theory of rasa originates in:",
+   "options": [
+    "the Natyashastra of Bharata",
+    "the Dhvanyaloka of Anandavardhana",
+    "the Kavyadarsha of Dandin",
+    "the Sahityadarpana of Vishwanatha"
+   ],
+   "answer": 0,
+   "exp": "Bharata Muni ka Natyashastra; rasa sutra wahin se."
+  },
+  {
+   "q": "Tagore's play Dak Ghar is known in English as:",
+   "options": [
+    "Red Oleanders",
+    "The Post Office",
+    "Chitra",
+    "The King of the Dark Chamber"
+   ],
+   "answer": 1,
+   "exp": "The Post Office; bimar bachcha Amal raja ki chitthi ka intezaar karta hai."
+  },
+  {
+   "q": "The Second Shepherds' Play belongs to which English mystery cycle?",
+   "options": [
+    "York",
+    "Chester",
+    "Wakefield (Towneley)",
+    "N-Town"
+   ],
+   "answer": 2,
+   "exp": "Wakefield Master ki rachna; Mak sheep chor."
+  },
+  {
+   "q": "The original Marathi title of Tendulkar's Silence! The Court Is in Session is:",
+   "options": [
+    "Shantata! Court Chalu Aahe",
+    "Sakharam Binder",
+    "Kanyadaan",
+    "Gidhade"
+   ],
+   "answer": 0,
+   "exp": "Shantata! Court Chalu Aahe (1967), Leela Benare."
+  },
+  {
+   "q": "Badal Sircar's alternative, low-cost people's theatre is called:",
+   "options": [
+    "Epic Theatre",
+    "Poor Theatre",
+    "Third Theatre",
+    "Total Theatre"
+   ],
+   "answer": 2,
+   "exp": "Third Theatre: na proscenium na folk, seedha logon ke beech."
+  },
+  {
+   "q": "The 'Theatre of Cruelty' was proposed by:",
+   "options": [
+    "Jerzy Grotowski",
+    "Antonin Artaud",
+    "Peter Brook",
+    "Augusto Boal"
+   ],
+   "answer": 1,
+   "exp": "Artaud, The Theatre and Its Double (1938)."
+  },
+  {
+   "q": "Which is NOT one of the four kinds of theatre in Peter Brook's The Empty Space?",
+   "options": [
+    "Deadly",
+    "Holy",
+    "Rough",
+    "Epic"
+   ],
+   "answer": 3,
+   "exp": "Brook: Deadly, Holy, Rough, Immediate. Epic Brecht ka hai."
+  },
+  {
+   "q": "Match List I (Characters) with List II (Plays): (a) Sir Epicure Mammon (b) Sir Giles Overreach (c) Vindice (d) Beatrice-Joanna -- (i) The Revenger's Tragedy (ii) The Changeling (iii) The Alchemist (iv) A New Way to Pay Old Debts",
+   "options": [
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Mammon-Alchemist (Jonson), Overreach-Massinger, Vindice-Revenger's Tragedy, Beatrice-Joanna-Changeling."
+  },
+  {
+   "q": "Match List I (Plays) with List II (Dramatists): (a) The Rivals (b) The Beaux' Stratagem (c) The Relapse (d) The Conscious Lovers -- (i) George Farquhar (ii) Richard Steele (iii) John Vanbrugh (iv) R. B. Sheridan",
+   "options": [
+    "a-i, b-iv, c-iii, d-ii",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-iv, b-i, c-iii, d-ii"
+   ],
+   "answer": 3,
+   "exp": "Rivals-Sheridan, Beaux' Stratagem-Farquhar, Relapse-Vanbrugh, Conscious Lovers-Steele (sentimental comedy)."
+  },
+  {
+   "q": "Match List I (Plays) with List II (Dramatists): (a) The Iceman Cometh (b) Cat on a Hot Tin Roof (c) The Zoo Story (d) Fences -- (i) August Wilson (ii) Edward Albee (iii) Eugene O'Neill (iv) Tennessee Williams",
+   "options": [
+    "a-iv, b-iii, c-ii, d-i",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 3,
+   "exp": "Iceman-O'Neill, Cat-Williams, Zoo Story-Albee, Fences-August Wilson."
+  },
+  {
+   "q": "Match List I (Plays) with List II (Dramatists): (a) Rhinoceros (b) The Maids (c) Endgame (d) Mother Courage and Her Children -- (i) Bertolt Brecht (ii) Samuel Beckett (iii) Jean Genet (iv) Eugene Ionesco",
+   "options": [
+    "a-iv, b-iii, c-ii, d-i",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-ii, b-iii, c-iv, d-i"
+   ],
+   "answer": 0,
+   "exp": "Rhinoceros-Ionesco, The Maids-Genet, Endgame-Beckett, Mother Courage-Brecht."
+  },
+  {
+   "q": "Match List I (Characters) with List II (Plays): (a) Davies (b) Hamm (c) Archie Rice (d) Eliza Doolittle -- (i) Pygmalion (ii) The Entertainer (iii) Endgame (iv) The Caretaker",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iv, b-iii, c-ii, d-i"
+   ],
+   "answer": 3,
+   "exp": "Davies-Caretaker (Pinter), Hamm-Endgame (Beckett), Archie Rice-Entertainer (Osborne), Eliza-Pygmalion (Shaw)."
+  },
+  {
+   "q": "Match List I (Plays) with List II (Dramatists): (a) Tara (b) Nagamandala (c) Kanyadaan (d) Andha Yug -- (i) Dharamvir Bharati (ii) Mahesh Dattani (iii) Girish Karnad (iv) Vijay Tendulkar",
+   "options": [
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iii, b-ii, c-iv, d-i",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-ii, b-iii, c-i, d-iv"
+   ],
+   "answer": 0,
+   "exp": "Tara-Dattani, Nagamandala-Karnad, Kanyadaan-Tendulkar, Andha Yug-Dharamvir Bharati."
+  },
+  {
+   "q": "Match List I (Concepts) with List II (Theorists): (a) Theatre of Cruelty (b) Poor Theatre (c) Epic Theatre (d) Theatre of the Oppressed -- (i) Bertolt Brecht (ii) Augusto Boal (iii) Antonin Artaud (iv) Jerzy Grotowski",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-iv, c-i, d-iii"
+   ],
+   "answer": 1,
+   "exp": "Cruelty-Artaud, Poor-Grotowski, Epic-Brecht, Oppressed-Boal."
+  },
+  {
+   "q": "Match List I (Plays) with List II (Dramatists): (a) The Countess Cathleen (b) The Hostage (c) Translations (d) The Well of the Saints -- (i) Brian Friel (ii) J. M. Synge (iii) W. B. Yeats (iv) Brendan Behan",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "answer": 3,
+   "exp": "Countess Cathleen-Yeats, Hostage-Behan, Translations-Friel, Well of the Saints-Synge."
+  },
+  {
+   "q": "Match List I (Plays) with List II (Dramatists): (a) The Bacchae (b) The Frogs (c) Thyestes (d) The Brothers (Adelphoe) -- (i) Terence (ii) Seneca (iii) Aristophanes (iv) Euripides",
+   "options": [
+    "a-iv, b-iii, c-ii, d-i",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-ii, b-iii, c-iv, d-i"
+   ],
+   "answer": 0,
+   "exp": "Bacchae-Euripides, Frogs-Aristophanes, Thyestes-Seneca, Adelphoe-Terence."
+  },
+  {
+   "q": "Match List I (Critical works) with List II (Authors): (a) An Apology for Poetry (b) Preface to Shakespeare (c) The Quintessence of Ibsenism (d) The Death of Tragedy -- (i) George Steiner (ii) G. B. Shaw (iii) Samuel Johnson (iv) Philip Sidney",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-iv, b-iii, c-ii, d-i",
+    "a-iv, b-iii, c-i, d-ii"
+   ],
+   "answer": 2,
+   "exp": "Apology-Sidney, Preface-Johnson (1765), Quintessence-Shaw (1891), Death of Tragedy-Steiner (1961)."
+  },
+  {
+   "q": "Assertion (A): Women's roles on the Elizabethan public stage were played by boy actors. Reason (R): Women were not permitted to act on the professional English stage until the Restoration.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "1660 ke baad hi actresses aayi, isliye pehle ladke female roles karte the."
+  },
+  {
+   "q": "Assertion (A): Marlowe's Doctor Faustus is based on the German Faust legend as told in the Faustbuch. Reason (R): Marlowe also wrote The Jew of Malta.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach, par Jew of Malta likhna Faustus ke source ko explain nahi karta."
+  },
+  {
+   "q": "Assertion (A): Ben Jonson's plays are known as comedies of humours. Reason (R): Jonson rejected the old idea that bodily humours shape human character.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "A sahi; R galat, Jonson ne humours theory ko hi apni comedy ka base banaya."
+  },
+  {
+   "q": "Assertion (A): Beckett's Waiting for Godot was first written and staged in English. Reason (R): Beckett originally wrote it in French as En attendant Godot, staged in Paris in 1953.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Pehle French mein likha gaya, English version baad mein; isliye A galat, R sahi."
+  },
+  {
+   "q": "Assertion (A): Brecht wanted spectators to watch critically rather than identify emotionally with the characters. Reason (R): He used the alienation effect to make the familiar look strange.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Alienation effect ka maqsad hi critical distance banana hai."
+  },
+  {
+   "q": "Assertion (A): Wilde's The Importance of Being Earnest is a comedy of manners. Reason (R): Oscar Wilde was born in Dublin.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sach, par Dublin mein janam se play comedy of manners nahi banta."
+  },
+  {
+   "q": "Assertion (A): Ibsen's A Doll's House ends with Nora leaving her husband and children. Reason (R): Ibsen wrote A Doll's House in verse.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "A sahi (door slam); R galat, play prose mein hai."
+  },
+  {
+   "q": "Assertion (A): Aristotle held that character is the soul of tragedy. Reason (R): In the Poetics Aristotle calls plot the first principle and the soul of tragedy.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Aristotle ke liye plot soul hai, character doosre number par. A galat, R sahi."
+  },
+  {
+   "q": "Arrange in chronological order: (a) The Duchess of Malfi (b) Gorboduc (c) The Way of the World (d) The Spanish Tragedy",
+   "options": [
+    "b, d, a, c",
+    "d, b, a, c",
+    "b, a, d, c",
+    "b, d, c, a"
+   ],
+   "answer": 0,
+   "exp": "Gorboduc 1561, Spanish Tragedy c. 1587, Duchess of Malfi c. 1613, Way of the World 1700."
+  },
+  {
+   "q": "Arrange Shakespeare's plays in chronological order: (a) The Tempest (b) Romeo and Juliet (c) King Lear (d) Hamlet",
+   "options": [
+    "d, b, c, a",
+    "b, c, d, a",
+    "b, d, a, c",
+    "b, d, c, a"
+   ],
+   "answer": 3,
+   "exp": "Romeo c. 1595, Hamlet c. 1600, Lear c. 1605, Tempest c. 1611."
+  },
+  {
+   "q": "Arrange in chronological order: (a) She Stoops to Conquer (b) The Country Wife (c) The Beggar's Opera (d) The School for Scandal",
+   "options": [
+    "b, c, a, d",
+    "c, b, a, d",
+    "b, c, d, a",
+    "b, a, c, d"
+   ],
+   "answer": 0,
+   "exp": "Country Wife 1675, Beggar's Opera 1728, She Stoops 1773, School for Scandal 1777."
+  },
+  {
+   "q": "Arrange Ibsen's plays in chronological order: (a) Hedda Gabler (b) Peer Gynt (c) A Doll's House (d) The Wild Duck",
+   "options": [
+    "c, b, d, a",
+    "b, c, a, d",
+    "b, d, c, a",
+    "b, c, d, a"
+   ],
+   "answer": 3,
+   "exp": "Peer Gynt 1867, Doll's House 1879, Wild Duck 1884, Hedda Gabler 1890."
+  },
+  {
+   "q": "Arrange in chronological order: (a) Death of a Salesman (b) A Streetcar Named Desire (c) The Hairy Ape (d) Who's Afraid of Virginia Woolf?",
+   "options": [
+    "c, a, b, d",
+    "b, c, a, d",
+    "c, b, a, d",
+    "c, b, d, a"
+   ],
+   "answer": 2,
+   "exp": "Hairy Ape 1922, Streetcar 1947, Salesman 1949, Virginia Woolf 1962."
+  },
+  {
+   "q": "Arrange in chronological order: (a) The Birthday Party (b) Murder in the Cathedral (c) Arcadia (d) Saved",
+   "options": [
+    "b, a, d, c",
+    "a, b, d, c",
+    "b, d, a, c",
+    "b, a, c, d"
+   ],
+   "answer": 0,
+   "exp": "Murder in the Cathedral 1935, Birthday Party 1958, Saved (Bond) 1965, Arcadia (Stoppard) 1993."
+  },
+  {
+   "q": "Arrange in chronological order: (a) Tughlaq (b) The Post Office (c) Hayavadana (d) Tara",
+   "options": [
+    "a, b, c, d",
+    "b, c, a, d",
+    "b, a, d, c",
+    "b, a, c, d"
+   ],
+   "answer": 3,
+   "exp": "Post Office 1912, Tughlaq 1964, Hayavadana 1971, Tara 1990s."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Ralph Roister Doister was written by John Lyly.",
+    "Gorboduc was written by Thomas Sackville and Thomas Norton.",
+    "Everyman is a mystery (cycle) play.",
+    "Tamburlaine was written by Robert Greene."
+   ],
+   "answer": 1,
+   "exp": "Gorboduc: Sackville-Norton (1561). Ralph Roister Doister Udall ka, Everyman morality play, Tamburlaine Marlowe ka."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "John Webster wrote The Changeling.",
+    "Cyril Tourneur wrote The Alchemist.",
+    "Philip Massinger wrote The White Devil.",
+    "John Ford wrote The Broken Heart."
+   ],
+   "answer": 3,
+   "exp": "Ford - The Broken Heart. Changeling Middleton-Rowley, Alchemist Jonson, White Devil Webster."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Shelagh Delaney wrote A Taste of Honey.",
+    "John Arden wrote Look Back in Anger.",
+    "Caryl Churchill wrote Saved.",
+    "Sarah Kane wrote Top Girls."
+   ],
+   "answer": 0,
+   "exp": "Delaney - A Taste of Honey (1958). Look Back Osborne, Saved Bond, Top Girls Churchill."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "David Mamet wrote Angels in America.",
+    "August Wilson wrote Glengarry Glen Ross.",
+    "Sam Shepard wrote True West.",
+    "Tony Kushner wrote Fences."
+   ],
+   "answer": 2,
+   "exp": "Shepard - True West. Angels Kushner, Glengarry Mamet, Fences August Wilson."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "The Theatre and Its Double was written by Brecht.",
+    "Aristotle's Poetics deals mainly with lyric poetry.",
+    "Dryden's An Essay of Dramatic Poesy is a dialogue among five speakers.",
+    "Martin Esslin's The Theatre of the Absurd was first published in 1961."
+   ],
+   "answer": 3,
+   "exp": "Esslin 1961. Theatre and Its Double Artaud ka, Poetics tragedy/epic par, Dryden mein 4 speakers."
+  }
+ ]
+}

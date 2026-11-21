@@ -1,0 +1,1373 @@
+{
+ "id": 101,
+ "pyq_focus": [
+  "Teaching Aptitude se har paper mein lagbhag 5 sawal aate hain (Paper 1 mein total 50 sawal, 10 units).",
+  "Sabse zyada: levels of teaching (memory-Herbart, understanding-Morrison, reflective-Hunt) aur unka order.",
+  "Evaluation types bahut repeat hote hain: formative vs summative, diagnostic, placement, norm vs criterion referenced.",
+  "Methods: teacher-centred vs learner-centred list wale 'select the correct set' sawal; SWAYAM ke quadrants aur SWAYAM Prabha.",
+  "Statement type: 'effective teaching ke liye kaunsi practices sahi hain' - hamesha learner-centred, interactive, feedback wale option chuno.",
+  "Bloom's taxonomy order (original aur revised) aur domains par match-the-following aate hain.",
+  "CBCS grading (O=10, A+=9 ...), CBT aur Computer Adaptive Testing par naye sawal 2019 ke baad aaye hain.",
+  "Preparation: tables bana lo (level-thinker, method-father, evaluation-purpose) aur 5 saal ke PYQ zaroor solve karo."
+ ],
+ "easy": [
+  {
+   "title": "Teaching: Concept and Nature",
+   "story": "Socho mummy tumhe cycle chalana sikha rahi hai. Mummy (teacher), tum (learner) aur ghar ki gali (environment) - teeno milkar teaching banta hai. Teaching ek planned kaam hai jiska goal hai tumhara behaviour badalna. Pehle mummy plan karti hai (pre-active), phir cycle pakadti hai (interactive), phir sochti hai kya galti hui (post-active). Teaching art bhi hai aur science bhi.",
+   "trick": "Jackson ke 3 phase = 'Pehle Socho, Phir Padhao, Phir Parkho' (Pre-Inter-Post)."
+  },
+  {
+   "title": "Objectives of Teaching and Bloom's Taxonomy",
+   "story": "Teacher ka goal hai bachche ka sir, dil aur haath teeno badalna. Sir = cognitive (jaanna), dil = affective (feel karna), haath = psychomotor (karna). Bloom ne 1956 mein sir wali seedhi banayi: Knowledge se Evaluation tak. 2001 mein Anderson-Krathwohl ne usko verbs mein badla aur sabse upar 'Create' rakha. Jaise pehle recipe yaad karo, phir samjho, phir banao, phir apni nayi dish create karo.",
+   "trick": "Revised order: 'Ram Usually Applies Apni Extra Creativity' = Remember, Understand, Apply, Analyse, Evaluate, Create."
+  },
+  {
+   "title": "Levels of Teaching: Memory, Understanding and Reflective",
+   "story": "Teen seedhiyan socho. Pehli seedhi par tum sirf ratta maarte ho, jaise pahada (memory level - Herbart). Doosri par tum samajhte ho ki 2x3=6 kyun hai (understanding level - Morrison). Teesri par tum khud problem solve karte ho, jaise ghar ka budget banana (reflective level - Hunt). Upar jaane ke liye neeche wali seedhi zaroori hai.",
+   "trick": "'HMH' = Herbart-Morrison-Hunt, yaani Memory-Understanding-Reflective (Har Mummy Hasti hai)."
+  },
+  {
+   "title": "Characteristics and Basic Requirements of Effective Teaching",
+   "story": "Achha teacher wo hai jo plan karke, pyaar se, bachchon se baat karke padhaye. Wo 'jaane hue se anjaane ki taraf' le jata hai, jaise pehle aam dikhao phir 'fruit' samjhao. Micro-teaching mein teacher chhoti class mein 5-10 minute ek hi skill practice karta hai, jaise cricket nets mein sirf cover drive. Flanders ne class ki baat-cheet ko 10 dibbon mein baanta.",
+   "trick": "Micro-teaching India model = 6-6-12-6-6 = 36 minute (Teach-Feedback-Replan-Reteach-Refeedback)."
+  },
+  {
+   "title": "Learner's Characteristics: Adolescent and Adult Learners",
+   "story": "College ke students na bachche hain na pure bade - teenagers aur adults. Teenager ka mood cricket ball jaisa upar-neeche hota hai, isliye Stanley Hall ne isko 'storm and stress' kaha. Wo abstract soch sakte hain (Piaget ka formal operational stage). Adults ko 'kyun seekhna hai' pata hona chahiye, wo apne experience se seekhte hain - isko andragogy kehte hain (Knowles).",
+   "trick": "Pedagogy = Pede (bachcha), Andragogy = Andra (aadmi), Heutagogy = Heu (khud) - bachcha, bada, khud."
+  },
+  {
+   "title": "Individual Differences and Learning Styles",
+   "story": "Ek hi class mein koi gaana gaake yaad karta hai, koi likh kar, koi dekh kar. Yahi individual differences hain. Gardner ne kaha intelligence ek nahi, kai prakar ki hai (1983). Fleming ka VARK bolta hai koi Visual, koi Aural, koi Read-write, koi Kinaesthetic learner hai. Teacher ko sabke liye alag tarika apnana chahiye.",
+   "trick": "Gardner ke 8: 'LLMS BIIN' = Linguistic, Logical, Musical, Spatial, Bodily, Interpersonal, Intrapersonal, Naturalist."
+  },
+  {
+   "title": "Factors Affecting Teaching",
+   "story": "Teaching ek dish jaisi hai. Achhi dish ke liye cook (teacher), khane wala (learner), masale (support material), kitchen (facilities), mahaul (environment) aur restaurant ka malik (institution) - sab chahiye. Kisi ek ki kami ho to dish kharab. Andar se aane wala motivation (intrinsic) zyada time tak chalta hai.",
+   "trick": "6 factors = 'TLS-IEI': Teacher, Learner, Support material, Instructional facility, Environment, Institution."
+  },
+  {
+   "title": "Teacher-Centred vs Learner-Centred Methods",
+   "story": "Teacher-centred class mein teacher hero hota hai aur bachche audience, jaise lecture. Learner-centred class mein bachche hero hote hain - project, discussion, case study, brainstorming. Kilpatrick ne project method diya, Dewey ke 'learning by doing' se. NET mein learner-centred options zyada sahi maane jaate hain.",
+   "trick": "Fathers yaad karo: 'Kil-Project, Arm-Heuristic, Park-Dalton, Kel-PSI, Osborn-Brainstorm'."
+  },
+  {
+   "title": "Offline vs Online Methods: SWAYAM, SWAYAM Prabha, MOOCs",
+   "story": "Pehle padhai sirf class mein hoti thi (offline). Ab mobile par bhi hoti hai (online). SWAYAM sarkar ka free online college hai jisme chaar khane hain: video, padhne ka material, test aur doubt forum. SWAYAM Prabha TV ke free education channels hain. MOOC matlab bahut saare logon ke liye khula online course - shabd 2008 mein bana.",
+   "trick": "SWAYAM ke 4 quadrants = 'Video, Padho, Test, Charcha' (V-P-T-C); launch date 9 July 2017 dono ki."
+  },
+  {
+   "title": "Teaching Support System: Traditional, Modern and ICT-based",
+   "story": "Teaching support system ek toolbox hai. Purane tools: blackboard, chart, model (traditional). Naye tools: projector, TV, radio (modern). Sabse naye: computer, smart board, internet, LMS (ICT). Edgar Dale ka cone kehta hai khud karke seekhna sabse pakka hai, sirf sunna sabse kamzor.",
+   "trick": "Dale's cone: neeche 'Do' (karna), upar 'Words' (shabd) - 'Karo neeche, Bolo upar'."
+  },
+  {
+   "title": "Evaluation: Elements and Types",
+   "story": "Evaluation matlab sirf number dena nahi, judgement bhi dena. Doctor jaisa socho: pehle check karke ward decide (placement), ilaaj ke beech check (formative), bimari ka karan dhundho (diagnostic), aakhir mein discharge certificate (summative). Achhe test mein validity (sahi cheez naapna) aur reliability (har baar same result) dono chahiye.",
+   "trick": "Scriven 1967 = 'Form karo beech mein, Sum karo end mein'."
+  },
+  {
+   "title": "Evaluation in Choice Based Credit System (CBCS)",
+   "story": "CBCS ek buffet jaisa hai - core dish zaroori, baaki elective aur skill wali dish tum chuno. Har course ke credits hote hain aur grade points milte hain. O=10 sabse upar, phir A+=9, A=8 aur aage. SGPA ek semester ka average, CGPA saare semesters ka. NEP 2020 ne Academic Bank of Credits joda.",
+   "trick": "Grades: 'O A+ A B+ B C P' = 10 9 8 7 6 5 4 - ulti ginti."
+  },
+  {
+   "title": "Computer Based Testing and Innovations in Evaluation",
+   "story": "Pehle exam OMR sheet par hota tha, ab computer par (CBT). NTA 2018 se NET computer par leta hai. Computer Adaptive Test mein sahi jawab do to agla sawal mushkil, galat do to aasan - jaise video game ke level. Naye tareeke: open book exam, rubrics, online proctoring, e-portfolio.",
+   "trick": "CAT = 'Cat ki tarah adjust' - jawab ke hisaab se sawal badalta hai."
+  }
+ ],
+ "works": [
+  {
+   "author": "H.C. Morrison",
+   "work": "Basic Principles of Education (definition of teaching)",
+   "year": "1934",
+   "type": "book",
+   "note": "Teaching as contact between mature and less mature personality"
+  },
+  {
+   "author": "N.L. Gage",
+   "work": "Handbook of Research on Teaching (ed.)",
+   "year": "1963",
+   "type": "book",
+   "note": "Teaching as interpersonal influence"
+  },
+  {
+   "author": "P.W. Jackson",
+   "work": "Life in Classrooms",
+   "year": "1968",
+   "type": "book",
+   "note": "Pre-active, interactive, post-active phases of teaching"
+  },
+  {
+   "author": "Robert Glaser",
+   "work": "Basic Teaching Model",
+   "year": "1962",
+   "type": "model",
+   "note": "Objectives, entering behaviour, procedures, assessment"
+  },
+  {
+   "author": "Bruce Joyce and Marsha Weil",
+   "work": "Models of Teaching",
+   "year": "1972",
+   "type": "book",
+   "note": "Four families of teaching models"
+  },
+  {
+   "author": "Benjamin Bloom et al.",
+   "work": "Taxonomy of Educational Objectives, Handbook I: Cognitive Domain",
+   "year": "1956",
+   "type": "book",
+   "note": "Six cognitive levels, knowledge to evaluation"
+  },
+  {
+   "author": "Krathwohl, Bloom and Masia",
+   "work": "Taxonomy, Handbook II: Affective Domain",
+   "year": "1964",
+   "type": "book",
+   "note": "Receiving to characterisation"
+  },
+  {
+   "author": "R.H. Dave",
+   "work": "Psychomotor domain taxonomy",
+   "year": "1970",
+   "type": "taxonomy",
+   "note": "Imitation to naturalisation"
+  },
+  {
+   "author": "Elizabeth Simpson",
+   "work": "Psychomotor domain taxonomy",
+   "year": "1972",
+   "type": "taxonomy",
+   "note": "Perception to origination, seven levels"
+  },
+  {
+   "author": "Anderson and Krathwohl",
+   "work": "A Taxonomy for Learning, Teaching and Assessing (Revised Bloom)",
+   "year": "2001",
+   "type": "book",
+   "note": "Create becomes highest level"
+  },
+  {
+   "author": "G. Stanley Hall",
+   "work": "Adolescence",
+   "year": "1904",
+   "type": "book",
+   "note": "Storm and stress"
+  },
+  {
+   "author": "Malcolm Knowles",
+   "work": "The Modern Practice of Adult Education",
+   "year": "1970",
+   "type": "book",
+   "note": "Andragogy versus pedagogy"
+  },
+  {
+   "author": "Howard Gardner",
+   "work": "Frames of Mind",
+   "year": "1983",
+   "type": "book",
+   "note": "Multiple Intelligences theory"
+  },
+  {
+   "author": "David Kolb",
+   "work": "Experiential Learning",
+   "year": "1984",
+   "type": "book",
+   "note": "Four-stage experiential learning cycle"
+  },
+  {
+   "author": "Lev Vygotsky",
+   "work": "Mind in Society (English edition)",
+   "year": "1978",
+   "type": "book",
+   "note": "Zone of Proximal Development"
+  },
+  {
+   "author": "Edgar Dale",
+   "work": "Audio-Visual Methods in Teaching (Cone of Experience)",
+   "year": "1946",
+   "type": "book",
+   "note": "Concrete to abstract experiences"
+  },
+  {
+   "author": "W.H. Kilpatrick",
+   "work": "The Project Method",
+   "year": "1918",
+   "type": "essay",
+   "note": "Father of project method"
+  },
+  {
+   "author": "Helen Parkhurst",
+   "work": "Dalton Plan",
+   "year": "1920",
+   "type": "plan",
+   "note": "Individualised contract-based learning"
+  },
+  {
+   "author": "Fred S. Keller",
+   "work": "Personalised System of Instruction (Keller Plan)",
+   "year": "1968",
+   "type": "plan",
+   "note": "Self-paced mastery with proctors"
+  },
+  {
+   "author": "B.F. Skinner",
+   "work": "The Science of Learning and the Art of Teaching",
+   "year": "1954",
+   "type": "essay",
+   "note": "Linear programmed instruction, teaching machines"
+  },
+  {
+   "author": "Alex Osborn",
+   "work": "Applied Imagination",
+   "year": "1953",
+   "type": "book",
+   "note": "Brainstorming popularised"
+  },
+  {
+   "author": "Ralph Tyler",
+   "work": "Basic Principles of Curriculum and Instruction",
+   "year": "1949",
+   "type": "book",
+   "note": "Objectives-experiences-evaluation triangle"
+  },
+  {
+   "author": "Michael Scriven",
+   "work": "The Methodology of Evaluation",
+   "year": "1967",
+   "type": "essay",
+   "note": "Formative and summative coined"
+  },
+  {
+   "author": "Robert Glaser",
+   "work": "Instructional Technology and the Measurement of Learning Outcomes",
+   "year": "1963",
+   "type": "essay",
+   "note": "Criterion-referenced measurement"
+  },
+  {
+   "author": "Benjamin Bloom",
+   "work": "Learning for Mastery",
+   "year": "1968",
+   "type": "essay",
+   "note": "Mastery learning"
+  },
+  {
+   "author": "Dave Cormier",
+   "work": "Term 'MOOC'",
+   "year": "2008",
+   "type": "concept",
+   "note": "Coined for Siemens-Downes course"
+  },
+  {
+   "author": "Government of India",
+   "work": "SWAYAM and SWAYAM Prabha launch",
+   "year": "2017",
+   "type": "platform",
+   "note": "Launched 9 July 2017"
+  },
+  {
+   "author": "MHRD (IITs and IISc)",
+   "work": "NPTEL",
+   "year": "2003",
+   "type": "programme",
+   "note": "Engineering video courses, SWAYAM coordinator"
+  },
+  {
+   "author": "MHRD",
+   "work": "National Mission on Education through ICT (NMEICT)",
+   "year": "2009",
+   "type": "mission",
+   "note": "Umbrella for e-PG Pathshala, Virtual Labs etc."
+  },
+  {
+   "author": "UGC",
+   "work": "Guidelines on Choice Based Credit System",
+   "year": "2015",
+   "type": "guidelines",
+   "note": "10-point grading, core-elective-AECC-SEC"
+  },
+  {
+   "author": "UGC",
+   "work": "Credit Framework for Online Learning Courses through SWAYAM Regulations",
+   "year": "2016",
+   "type": "regulation",
+   "note": "Credit transfer for SWAYAM courses; revised 2021"
+  },
+  {
+   "author": "Government of India",
+   "work": "National Testing Agency set up",
+   "year": "2017",
+   "type": "agency",
+   "note": "Conducts UGC NET in CBT mode since Dec 2018"
+  },
+  {
+   "author": "Government of India",
+   "work": "National Education Policy 2020",
+   "year": "2020",
+   "type": "policy",
+   "note": "Multiple entry-exit, ABC, 4-year UG"
+  },
+  {
+   "author": "Government of India",
+   "work": "Rights of Persons with Disabilities Act",
+   "year": "2016",
+   "type": "act",
+   "note": "Inclusive education"
+  },
+  {
+   "author": "Ned Flanders",
+   "work": "Analyzing Teaching Behavior",
+   "year": "1970",
+   "type": "book",
+   "note": "10-category interaction analysis"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "Teaching is an intimate contact between a more mature personality and a less mature one which is designed to further the education of the latter.",
+   "by": "H.C. Morrison",
+   "source": "Basic Principles of Education, 1934"
+  },
+  {
+   "quote": "Teaching is a form of interpersonal influence aimed at changing the behaviour potential of another person.",
+   "by": "N.L. Gage",
+   "source": "1963"
+  },
+  {
+   "quote": "Teaching is the stimulation, guidance, direction and encouragement of learning.",
+   "by": "W.H. Burton",
+   "source": "The Guidance of Learning Activities"
+  },
+  {
+   "quote": "Teaching refers to activities that are designed and performed to produce change in student behaviour.",
+   "by": "Leonard H. Clarke",
+   "source": "definition of teaching"
+  },
+  {
+   "quote": "Education is not preparation for life; education is life itself.",
+   "by": "John Dewey",
+   "source": "attributed, pragmatist view"
+  },
+  {
+   "quote": "Learning by doing.",
+   "by": "John Dewey",
+   "source": "pragmatism, basis of project method"
+  },
+  {
+   "quote": "Formative evaluation is done during the development or improvement of a programme; summative evaluation judges it at the end.",
+   "by": "Michael Scriven",
+   "source": "The Methodology of Evaluation, 1967"
+  },
+  {
+   "quote": "Andragogy is the art and science of helping adults learn.",
+   "by": "Malcolm Knowles",
+   "source": "The Modern Practice of Adult Education, 1970"
+  },
+  {
+   "quote": "What a child can do in co-operation today he can do alone tomorrow.",
+   "by": "Lev Vygotsky",
+   "source": "Thought and Language"
+  },
+  {
+   "quote": "Adolescence is a new birth.",
+   "by": "G. Stanley Hall",
+   "source": "Adolescence, 1904"
+  },
+  {
+   "quote": "Evaluation is a systematic process of determining the extent to which educational objectives are achieved by pupils.",
+   "by": "Norman E. Gronlund",
+   "source": "Measurement and Evaluation in Teaching"
+  },
+  {
+   "quote": "Measurement is the quantitative description of pupil behaviour; evaluation adds value judgement to it.",
+   "by": "Gronlund (standard formula: Evaluation = Measurement + Value judgement)",
+   "source": "Measurement and Evaluation in Teaching"
+  },
+  {
+   "quote": "SWAYAM: Study Webs of Active-Learning for Young Aspiring Minds.",
+   "by": "Ministry of Education, Government of India",
+   "source": "SWAYAM, 2017"
+  },
+  {
+   "quote": "The teacher is a facilitator of learning.",
+   "by": "Carl Rogers (non-directive, learner-centred teaching)",
+   "source": "Freedom to Learn, 1969"
+  },
+  {
+   "quote": "Intelligence is the ability to solve problems or fashion products valued in one or more cultural settings.",
+   "by": "Howard Gardner",
+   "source": "Frames of Mind, 1983"
+  },
+  {
+   "quote": "Learning is the process whereby knowledge is created through the transformation of experience.",
+   "by": "David Kolb",
+   "source": "Experiential Learning, 1984"
+  }
+ ],
+ "people": [
+  {
+   "name": "John Dewey",
+   "where": "American pragmatist philosopher, Democracy and Education (1916)",
+   "note": "Learning by doing; inspired project method"
+  },
+  {
+   "name": "Johann Friedrich Herbart",
+   "where": "German educationist",
+   "note": "Memory level teaching; Herbartian steps"
+  },
+  {
+   "name": "Henry C. Morrison",
+   "where": "American educationist",
+   "note": "Understanding level teaching; Morrison plan"
+  },
+  {
+   "name": "Maurice P. Hunt and Morris L. Bigge",
+   "where": "American educationists",
+   "note": "Reflective level teaching"
+  },
+  {
+   "name": "Benjamin Bloom",
+   "where": "Taxonomy of Educational Objectives, 1956",
+   "note": "Cognitive domain taxonomy; mastery learning"
+  },
+  {
+   "name": "David Krathwohl",
+   "where": "Affective taxonomy 1964; revised Bloom 2001",
+   "note": "Co-author with Bloom and Anderson"
+  },
+  {
+   "name": "Lorin Anderson",
+   "where": "Revised taxonomy, 2001",
+   "note": "Changed nouns to verbs, Create on top"
+  },
+  {
+   "name": "R.H. Dave",
+   "where": "Psychomotor taxonomy, 1970",
+   "note": "Imitation to naturalisation"
+  },
+  {
+   "name": "Malcolm Knowles",
+   "where": "The Modern Practice of Adult Education, 1970",
+   "note": "Father of andragogy"
+  },
+  {
+   "name": "G. Stanley Hall",
+   "where": "Adolescence, 1904",
+   "note": "Storm and stress"
+  },
+  {
+   "name": "Jean Piaget",
+   "where": "Swiss psychologist",
+   "note": "Stages of cognitive development; formal operational from about 11"
+  },
+  {
+   "name": "Erik Erikson",
+   "where": "Childhood and Society, 1950",
+   "note": "Identity vs role confusion in adolescence"
+  },
+  {
+   "name": "Lev Vygotsky",
+   "where": "Soviet psychologist",
+   "note": "ZPD and social constructivism"
+  },
+  {
+   "name": "Howard Gardner",
+   "where": "Frames of Mind, 1983",
+   "note": "Multiple Intelligences"
+  },
+  {
+   "name": "Neil Fleming",
+   "where": "VARK model",
+   "note": "Visual, Aural, Read/write, Kinaesthetic learning styles"
+  },
+  {
+   "name": "David Kolb",
+   "where": "Experiential Learning, 1984",
+   "note": "Experiential learning cycle"
+  },
+  {
+   "name": "W.H. Kilpatrick",
+   "where": "The Project Method, 1918",
+   "note": "Project method"
+  },
+  {
+   "name": "H.E. Armstrong",
+   "where": "British chemist-educationist",
+   "note": "Heuristic method"
+  },
+  {
+   "name": "Helen Parkhurst",
+   "where": "Dalton, Massachusetts, 1920",
+   "note": "Dalton Plan"
+  },
+  {
+   "name": "B.F. Skinner",
+   "where": "American behaviourist",
+   "note": "Linear programmed instruction"
+  },
+  {
+   "name": "Norman Crowder",
+   "where": "American psychologist",
+   "note": "Branching programmed instruction"
+  },
+  {
+   "name": "Alex Osborn",
+   "where": "Applied Imagination, 1953",
+   "note": "Brainstorming"
+  },
+  {
+   "name": "Ned Flanders",
+   "where": "Interaction analysis",
+   "note": "10-category system of classroom interaction"
+  },
+  {
+   "name": "Dwight W. Allen",
+   "where": "Stanford University",
+   "note": "Micro-teaching pioneer"
+  },
+  {
+   "name": "D.D. Tiwari",
+   "where": "CPI Allahabad, 1967",
+   "note": "Introduced micro-teaching in India"
+  },
+  {
+   "name": "Edgar Dale",
+   "where": "Ohio State University, 1946",
+   "note": "Cone of Experience"
+  },
+  {
+   "name": "Michael Scriven",
+   "where": "Evaluation theorist, 1967",
+   "note": "Formative and summative evaluation"
+  },
+  {
+   "name": "Robert Glaser",
+   "where": "Basic teaching model; 1963",
+   "note": "Criterion-referenced testing"
+  },
+  {
+   "name": "Ralph Tyler",
+   "where": "Basic Principles of Curriculum and Instruction, 1949",
+   "note": "Father of educational evaluation; Tyler rationale"
+  },
+  {
+   "name": "Carl Rogers",
+   "where": "Freedom to Learn, 1969",
+   "note": "Learner-centred, non-directive teaching"
+  },
+  {
+   "name": "David Ausubel",
+   "where": "American psychologist",
+   "note": "Advance organiser model, meaningful learning"
+  },
+  {
+   "name": "Jerome Bruner",
+   "where": "The Process of Education, 1960",
+   "note": "Discovery learning, concept attainment, spiral curriculum"
+  },
+  {
+   "name": "Dave Cormier",
+   "where": "Canadian educator",
+   "note": "Coined MOOC, 2008"
+  },
+  {
+   "name": "UGC",
+   "where": "University Grants Commission (statutory body, Act of 1956)",
+   "note": "CBCS guidelines; NET; SWAYAM credit regulations"
+  },
+  {
+   "name": "NTA",
+   "where": "National Testing Agency (2017)",
+   "note": "Conducts UGC NET in CBT mode"
+  },
+  {
+   "name": "INFLIBNET",
+   "where": "Information and Library Network Centre, Gandhinagar",
+   "note": "Shodhganga, e-PG Pathshala, SWAYAM Prabha support"
+  },
+  {
+   "name": "NPTEL",
+   "where": "IITs and IISc programme (2003)",
+   "note": "Engineering MOOCs; SWAYAM coordinator"
+  },
+  {
+   "name": "CEC",
+   "where": "Consortium for Educational Communication (UGC)",
+   "note": "SWAYAM coordinator for undergraduate courses"
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "Who is associated with the 'memory level' of teaching?",
+   "options": [
+    "Bigge",
+    "Morrison",
+    "Hunt",
+    "Herbart"
+   ],
+   "answer": 3,
+   "exp": "Memory level - Herbart."
+  },
+  {
+   "q": "At which level of teaching is the teacher's role least dominant?",
+   "options": [
+    "Understanding level",
+    "Memory level",
+    "Equal at all levels",
+    "Reflective level"
+   ],
+   "answer": 3,
+   "exp": "At reflective level teacher is a facilitator."
+  },
+  {
+   "q": "The 'understanding level' of teaching is also called:",
+   "options": [
+    "Upper thoughtful level",
+    "Thoughtful level",
+    "Thoughtless level",
+    "Autonomous level"
+   ],
+   "answer": 1,
+   "exp": "Memory = thoughtless, understanding = thoughtful, reflective = upper thoughtful."
+  },
+  {
+   "q": "Which step is the first in Herbart's teaching steps?",
+   "options": [
+    "Application",
+    "Presentation",
+    "Generalisation",
+    "Preparation"
+   ],
+   "answer": 3,
+   "exp": "Preparation comes first."
+  },
+  {
+   "q": "Teaching is a 'tripolar process' according to:",
+   "options": [
+    "John Adams",
+    "Jean Piaget",
+    "John Dewey",
+    "B.F. Skinner"
+   ],
+   "answer": 2,
+   "exp": "Dewey: teacher, learner, social environment."
+  },
+  {
+   "q": "In Jackson's phases of teaching, evaluation of learning outcomes and reflection belong to:",
+   "options": [
+    "Planning phase",
+    "Pre-active phase",
+    "Post-active phase",
+    "Interactive phase"
+   ],
+   "answer": 2,
+   "exp": "Post-active = after teaching."
+  },
+  {
+   "q": "Revised Bloom's taxonomy was proposed in:",
+   "options": [
+    "2001",
+    "1992",
+    "1964",
+    "1956"
+   ],
+   "answer": 0,
+   "exp": "Anderson and Krathwohl, 2001."
+  },
+  {
+   "q": "'Valuing' is a level in which domain?",
+   "options": [
+    "Affective",
+    "Psychomotor",
+    "Cognitive",
+    "Conative only"
+   ],
+   "answer": 0,
+   "exp": "Affective: receiving, responding, valuing, organisation, characterisation."
+  },
+  {
+   "q": "Which is the highest level of the affective domain?",
+   "options": [
+    "Responding",
+    "Characterisation by a value",
+    "Valuing",
+    "Organisation"
+   ],
+   "answer": 1,
+   "exp": "Characterisation is the top."
+  },
+  {
+   "q": "The highest level of Bloom's original (1956) cognitive taxonomy is:",
+   "options": [
+    "Evaluation",
+    "Synthesis",
+    "Analysis",
+    "Create"
+   ],
+   "answer": 0,
+   "exp": "Original top is Evaluation."
+  },
+  {
+   "q": "Which of the following is the lowest level in R.H. Dave's psychomotor taxonomy?",
+   "options": [
+    "Articulation",
+    "Imitation",
+    "Naturalisation",
+    "Precision"
+   ],
+   "answer": 1,
+   "exp": "Dave starts with Imitation."
+  },
+  {
+   "q": "Andragogy assumes that adult learners are mainly:",
+   "options": [
+    "Self-directed and problem-centred",
+    "Dependent and subject-centred",
+    "Externally motivated by grades only",
+    "Without useful experience"
+   ],
+   "answer": 0,
+   "exp": "Knowles' assumptions."
+  },
+  {
+   "q": "'Self-determined learning' is the core of:",
+   "options": [
+    "Pedagogy",
+    "Behaviourism",
+    "Andragogy",
+    "Heutagogy"
+   ],
+   "answer": 3,
+   "exp": "Hase and Kenyon, 2000."
+  },
+  {
+   "q": "According to Piaget, the formal operational stage begins at about:",
+   "options": [
+    "18 years",
+    "7 years",
+    "11-12 years",
+    "2 years"
+   ],
+   "answer": 2,
+   "exp": "Formal operations from about 11."
+  },
+  {
+   "q": "Erikson's stage typical of adolescence is:",
+   "options": [
+    "Identity vs role confusion",
+    "Trust vs mistrust",
+    "Integrity vs despair",
+    "Intimacy vs isolation"
+   ],
+   "answer": 0,
+   "exp": "Ages about 12-18."
+  },
+  {
+   "q": "Howard Gardner proposed Multiple Intelligences in:",
+   "options": [
+    "Frames of Mind (1983)",
+    "Mind in Society (1978)",
+    "Experiential Learning (1984)",
+    "Emotional Intelligence (1995)"
+   ],
+   "answer": 0,
+   "exp": "Frames of Mind, 1983."
+  },
+  {
+   "q": "VARK learning style model was given by:",
+   "options": [
+    "Howard Gardner",
+    "Neil Fleming",
+    "David Kolb",
+    "Carl Rogers"
+   ],
+   "answer": 1,
+   "exp": "Fleming's VARK."
+  },
+  {
+   "q": "The 'Zone of Proximal Development' was proposed by:",
+   "options": [
+    "Jean Piaget",
+    "Lev Vygotsky",
+    "B.F. Skinner",
+    "Jerome Bruner"
+   ],
+   "answer": 1,
+   "exp": "Vygotsky."
+  },
+  {
+   "q": "Which of the following is an intrinsic motivator?",
+   "options": [
+    "Fear of punishment",
+    "Curiosity about the topic",
+    "Parents' pressure",
+    "Prize for top marks"
+   ],
+   "answer": 1,
+   "exp": "Intrinsic comes from within."
+  },
+  {
+   "q": "Which of these is a factor related to 'instructional facilities'?",
+   "options": [
+    "Teacher's personality",
+    "Learner's IQ",
+    "Learner's family income",
+    "Availability of projector and lab"
+   ],
+   "answer": 3,
+   "exp": "Facilities = physical teaching resources."
+  },
+  {
+   "q": "Which method was developed by Helen Parkhurst?",
+   "options": [
+    "Project method",
+    "Dalton Plan",
+    "Keller Plan",
+    "Heuristic method"
+   ],
+   "answer": 1,
+   "exp": "Dalton Plan, 1920."
+  },
+  {
+   "q": "Linear programmed instruction is based on the work of:",
+   "options": [
+    "Thomas Gilbert",
+    "Norman Crowder",
+    "Ivan Pavlov",
+    "B.F. Skinner"
+   ],
+   "answer": 3,
+   "exp": "Skinner; branching is Crowder."
+  },
+  {
+   "q": "Brainstorming as a group creative technique was popularised by:",
+   "options": [
+    "Edward de Bono",
+    "Alex Osborn",
+    "Kurt Lewin",
+    "J.P. Guilford"
+   ],
+   "answer": 1,
+   "exp": "Osborn, Applied Imagination."
+  },
+  {
+   "q": "A meeting in which several experts present different aspects of one topic one after another is a:",
+   "options": [
+    "Tutorial",
+    "Workshop",
+    "Brainstorming session",
+    "Symposium"
+   ],
+   "answer": 3,
+   "exp": "Symposium = several speakers on one theme."
+  },
+  {
+   "q": "Heuristic method of teaching was advocated by:",
+   "options": [
+    "Maria Montessori",
+    "Froebel",
+    "H.E. Armstrong",
+    "W.H. Kilpatrick"
+   ],
+   "answer": 2,
+   "exp": "Armstrong."
+  },
+  {
+   "q": "In a flipped classroom:",
+   "options": [
+    "Content is studied at home and activities are done in class",
+    "Only examinations are online",
+    "The teacher lectures and gives homework",
+    "Students teach the teacher"
+   ],
+   "answer": 0,
+   "exp": "Flipped = reversed order."
+  },
+  {
+   "q": "The term MOOC was coined in:",
+   "options": [
+    "2008",
+    "2017",
+    "2001",
+    "2012"
+   ],
+   "answer": 0,
+   "exp": "Dave Cormier, 2008."
+  },
+  {
+   "q": "Which agency is the SWAYAM national coordinator for engineering courses?",
+   "options": [
+    "NCERT",
+    "NPTEL",
+    "IGNOU",
+    "CEC"
+   ],
+   "answer": 1,
+   "exp": "NPTEL handles engineering."
+  },
+  {
+   "q": "Which agency coordinates undergraduate courses on SWAYAM?",
+   "options": [
+    "IIM Bangalore",
+    "NIOS",
+    "AICTE",
+    "CEC"
+   ],
+   "answer": 3,
+   "exp": "Consortium for Educational Communication."
+  },
+  {
+   "q": "SWAYAM Prabha is primarily a:",
+   "options": [
+    "Digital library",
+    "MOOC for school only",
+    "Group of DTH educational TV channels",
+    "Research database"
+   ],
+   "answer": 2,
+   "exp": "DTH channels launched 2017."
+  },
+  {
+   "q": "Shodhganga is a repository of:",
+   "options": [
+    "Indian theses and dissertations",
+    "School textbooks",
+    "Online exams",
+    "Video lectures"
+   ],
+   "answer": 0,
+   "exp": "INFLIBNET's thesis repository."
+  },
+  {
+   "q": "Which of the following is a non-projected aid?",
+   "options": [
+    "Slide projector",
+    "Chalkboard",
+    "Overhead projector",
+    "LCD projector"
+   ],
+   "answer": 1,
+   "exp": "Chalkboard is non-projected."
+  },
+  {
+   "q": "Edgar Dale's Cone of Experience was first presented in:",
+   "options": [
+    "1956",
+    "1983",
+    "1964",
+    "1946"
+   ],
+   "answer": 3,
+   "exp": "Audio-Visual Methods in Teaching, 1946."
+  },
+  {
+   "q": "Evaluation = Measurement + ?",
+   "options": [
+    "Ranking",
+    "Value judgement",
+    "Testing",
+    "Grading"
+   ],
+   "answer": 1,
+   "exp": "Evaluation adds value judgement."
+  },
+  {
+   "q": "Placement evaluation is conducted:",
+   "options": [
+    "Only at the end of the year",
+    "After instruction",
+    "During instruction",
+    "Before instruction begins"
+   ],
+   "answer": 3,
+   "exp": "To judge entry behaviour."
+  },
+  {
+   "q": "Criterion-referenced testing as a term is associated with:",
+   "options": [
+    "Michael Scriven",
+    "Robert Glaser",
+    "Ralph Tyler",
+    "Lee Cronbach"
+   ],
+   "answer": 1,
+   "exp": "Glaser, 1963."
+  },
+  {
+   "q": "Which characteristic means a test is free from the scorer's personal bias?",
+   "options": [
+    "Validity",
+    "Objectivity",
+    "Reliability",
+    "Usability"
+   ],
+   "answer": 1,
+   "exp": "Objectivity."
+  },
+  {
+   "q": "The proportion of students who answer an item correctly is its:",
+   "options": [
+    "Difficulty index",
+    "Discrimination index",
+    "Validity index",
+    "Reliability coefficient"
+   ],
+   "answer": 0,
+   "exp": "Difficulty index (p-value)."
+  },
+  {
+   "q": "Under UGC CBCS, grade 'P' carries how many grade points?",
+   "options": [
+    "5",
+    "0",
+    "4",
+    "3"
+   ],
+   "answer": 2,
+   "exp": "P (Pass) = 4."
+  },
+  {
+   "q": "A student gets grade points 8 in a 4-credit course and 6 in a 2-credit course. SGPA is:",
+   "options": [
+    "7.33",
+    "7.00",
+    "7.50",
+    "6.67"
+   ],
+   "answer": 0,
+   "exp": "(32+12)/6 = 44/6 = 7.33."
+  },
+  {
+   "q": "AECC in CBCS stands for:",
+   "options": [
+    "Applied Education Credit Course",
+    "Advanced Elective Core Course",
+    "Ability Enhancement Compulsory Course",
+    "Academic Evaluation Compulsory Credit"
+   ],
+   "answer": 2,
+   "exp": "Ability Enhancement Compulsory Courses."
+  },
+  {
+   "q": "The Academic Bank of Credits was launched in:",
+   "options": [
+    "2021",
+    "2015",
+    "2023",
+    "2017"
+   ],
+   "answer": 0,
+   "exp": "Launched July 2021 under NEP 2020."
+  },
+  {
+   "q": "Match the following:\nList I (Method): (a) Project method (b) Dalton Plan (c) Keller Plan (d) Branching programme\nList II (Proponent): (i) Fred Keller (ii) Norman Crowder (iii) W.H. Kilpatrick (iv) Helen Parkhurst",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "answer": 1,
+   "exp": "Kilpatrick, Parkhurst, Keller, Crowder."
+  },
+  {
+   "q": "Match the following:\nList I (Evaluation): (a) Placement (b) Formative (c) Diagnostic (d) Summative\nList II (Purpose): (i) Certify achievement at end (ii) Find causes of persistent difficulty (iii) Monitor progress during teaching (iv) Judge entry behaviour",
+   "options": [
+    "a-iv, b-ii, c-iii, d-i",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-iii, c-ii, d-i",
+    "a-i, b-iii, c-ii, d-iv"
+   ],
+   "answer": 2,
+   "exp": "Before, during, cause-finding, end."
+  },
+  {
+   "q": "Match the following:\nList I (Thinker): (a) Malcolm Knowles (b) Howard Gardner (c) G. Stanley Hall (d) Lev Vygotsky\nList II (Idea): (i) Storm and stress (ii) ZPD (iii) Andragogy (iv) Multiple Intelligences",
+   "options": [
+    "a-iii, b-i, c-iv, d-ii",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "answer": 3,
+   "exp": "Knowles-andragogy, Gardner-MI, Hall-storm, Vygotsky-ZPD."
+  },
+  {
+   "q": "Match the following:\nList I (SWAYAM coordinator): (a) NPTEL (b) CEC (c) IGNOU (d) NITTTR\nList II (Area): (i) Teacher training (ii) Out-of-school students (iii) Undergraduate courses (iv) Engineering",
+   "options": [
+    "a-iv, b-ii, c-iii, d-i",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-i, b-iii, c-ii, d-iv",
+    "a-iv, b-iii, c-ii, d-i"
+   ],
+   "answer": 3,
+   "exp": "As per SWAYAM coordinator list."
+  },
+  {
+   "q": "Match the following:\nList I (Grade): (a) O (b) A+ (c) B+ (d) C\nList II (Grade point): (i) 5 (ii) 7 (iii) 9 (iv) 10",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-iv, b-iii, c-ii, d-i"
+   ],
+   "answer": 3,
+   "exp": "10, 9, 7, 5."
+  },
+  {
+   "q": "Match the following:\nList I (Aid): (a) Chalkboard (b) Television (c) Smart board with internet (d) Radio\nList II (Type): (i) Audio (ii) Traditional visual (iii) Audio-visual (iv) ICT-based",
+   "options": [
+    "a-ii, b-iv, c-iii, d-i",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iii, b-ii, c-iv, d-i",
+    "a-i, b-iii, c-iv, d-ii"
+   ],
+   "answer": 1,
+   "exp": "Chalkboard traditional, TV audio-visual, smart board ICT, radio audio."
+  },
+  {
+   "q": "Match the following:\nList I (Revised Bloom level): (a) Remember (b) Apply (c) Evaluate (d) Create\nList II (Action verb): (i) Design (ii) Recall (iii) Judge (iv) Use",
+   "options": [
+    "a-ii, b-iv, c-iii, d-i",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-ii, b-iv, c-i, d-iii"
+   ],
+   "answer": 0,
+   "exp": "Recall, use, judge, design."
+  },
+  {
+   "q": "Match the following:\nList I (Phase): (a) Pre-active (b) Interactive (c) Post-active (d) Micro-teaching feedback\nList II (Activity): (i) Evaluating learning after class (ii) Planning lesson (iii) Delivering in classroom (iv) Supervisor's comments on a skill",
+   "options": [
+    "a-ii, b-iii, c-i, d-iv",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-ii, b-i, c-iii, d-iv"
+   ],
+   "answer": 0,
+   "exp": "Plan, teach, evaluate, feedback."
+  },
+  {
+   "q": "Match the following:\nList I (Term): (a) Validity (b) Reliability (c) Objectivity (d) Usability\nList II (Meaning): (i) Practical ease of administering (ii) Free from scorer bias (iii) Consistency (iv) Measures what it should",
+   "options": [
+    "a-iv, b-iii, c-ii, d-i",
+    "a-iv, b-ii, c-iii, d-i",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-iii, c-i, d-ii"
+   ],
+   "answer": 0,
+   "exp": "Standard definitions."
+  },
+  {
+   "q": "Assertion (A): Memory level teaching is a prerequisite for understanding level teaching. Reason (R): Facts must be retained before relationships among them can be understood.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "R explains A."
+  },
+  {
+   "q": "Assertion (A): Formative evaluation helps in improving the teaching-learning process. Reason (R): Formative evaluation is conducted only at the end of a course.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "Formative is during instruction, so R is false."
+  },
+  {
+   "q": "Assertion (A): SWAYAM courses can earn academic credits. Reason (R): UGC regulations permit credit transfer for SWAYAM courses.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Credit framework regulations explain A."
+  },
+  {
+   "q": "Assertion (A): Criterion-referenced tests rank students in order of merit. Reason (R): Criterion-referenced tests compare performance with a fixed standard.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "They compare with a standard, not rank, so A is false."
+  },
+  {
+   "q": "Assertion (A): Learner-centred methods promote active participation. Reason (R): In learner-centred methods the teacher acts as a facilitator.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Facilitator role explains active participation."
+  },
+  {
+   "q": "Assertion (A): Computer Adaptive Tests may present different items to different candidates. Reason (R): In CAT the next item depends on the candidate's previous responses.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "R explains A."
+  },
+  {
+   "q": "Assertion (A): Lecture method is suitable for large classes. Reason (R): Lecture method ensures maximum interaction of every student.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "Lecture allows little interaction, so R is false."
+  },
+  {
+   "q": "Assertion (A): Adolescents can think abstractly and hypothetically. Reason (R): According to Piaget they are in the concrete operational stage.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "They are in formal operational stage; R is false."
+  },
+  {
+   "q": "Arrange in chronological order: (a) Gardner's Frames of Mind (b) Knowles' Modern Practice of Adult Education (c) Hall's Adolescence (d) Kolb's Experiential Learning",
+   "options": [
+    "c, b, d, a",
+    "c, b, a, d",
+    "c, a, b, d",
+    "b, c, a, d"
+   ],
+   "answer": 1,
+   "exp": "1904, 1970, 1983, 1984."
+  },
+  {
+   "q": "Arrange in chronological order: (a) Launch of SWAYAM (b) NPTEL (c) UGC CBCS guidelines (d) NEP 2020",
+   "options": [
+    "c, b, a, d",
+    "b, c, a, d",
+    "a, b, c, d",
+    "b, a, c, d"
+   ],
+   "answer": 1,
+   "exp": "2003, 2015, 2017, 2020."
+  },
+  {
+   "q": "Arrange in the correct sequence of Herbartian steps: (a) Generalisation (b) Preparation (c) Application (d) Presentation (e) Comparison",
+   "options": [
+    "b, d, e, a, c",
+    "b, e, d, a, c",
+    "b, d, a, e, c",
+    "d, b, e, a, c"
+   ],
+   "answer": 0,
+   "exp": "Preparation, presentation, comparison, generalisation, application."
+  },
+  {
+   "q": "Arrange the original Bloom cognitive levels from lowest to highest: (a) Analysis (b) Comprehension (c) Evaluation (d) Application (e) Synthesis",
+   "options": [
+    "b, a, d, e, c",
+    "d, b, a, e, c",
+    "b, d, e, a, c",
+    "b, d, a, e, c"
+   ],
+   "answer": 3,
+   "exp": "Knowledge, comprehension, application, analysis, synthesis, evaluation."
+  },
+  {
+   "q": "Arrange the micro-teaching cycle in order: (a) Re-teach (b) Teach (c) Feedback (d) Re-plan (e) Plan",
+   "options": [
+    "b, e, c, d, a",
+    "e, c, b, d, a",
+    "e, b, c, d, a",
+    "e, b, d, c, a"
+   ],
+   "answer": 2,
+   "exp": "Plan, teach, feedback, re-plan, re-teach."
+  },
+  {
+   "q": "Arrange the affective domain levels from lowest to highest: (a) Valuing (b) Receiving (c) Organisation (d) Responding",
+   "options": [
+    "d, b, a, c",
+    "b, a, d, c",
+    "b, d, c, a",
+    "b, d, a, c"
+   ],
+   "answer": 3,
+   "exp": "Receiving, responding, valuing, organisation."
+  },
+  {
+   "q": "Arrange in chronological order: (a) Scriven's formative-summative terms (b) Tyler's Basic Principles (c) Bloom's Handbook I (d) Revised Bloom taxonomy",
+   "options": [
+    "b, c, d, a",
+    "c, b, a, d",
+    "b, c, a, d",
+    "b, a, c, d"
+   ],
+   "answer": 2,
+   "exp": "1949, 1956, 1967, 2001."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "Reflective level teaching is problem-centred",
+    "Understanding level is associated with Hunt",
+    "Reflective level is the lowest level",
+    "Memory level teaching develops critical thinking best"
+   ],
+   "answer": 0,
+   "exp": "Only the first is right."
+  },
+  {
+   "q": "Identify the correct statement about SWAYAM:",
+   "options": [
+    "It offers only paid courses",
+    "It has four quadrants including a discussion forum",
+    "It was launched in 2012",
+    "It is a private company's platform"
+   ],
+   "answer": 1,
+   "exp": "Government platform, free, 2017."
+  },
+  {
+   "q": "Identify the correct statement about evaluation:",
+   "options": [
+    "A valid test need not be reliable",
+    "Objectivity concerns the learner's bias",
+    "Validity and reliability mean the same",
+    "A test can be reliable without being valid"
+   ],
+   "answer": 3,
+   "exp": "Reliability is necessary but not sufficient for validity."
+  },
+  {
+   "q": "Which statement about andragogy is correct?",
+   "options": [
+    "It assumes learners depend fully on the teacher",
+    "It is meant mainly for primary school children",
+    "It treats the learner's experience as a rich resource",
+    "It was proposed by B.F. Skinner"
+   ],
+   "answer": 2,
+   "exp": "Knowles' assumption."
+  }
+ ]
+}

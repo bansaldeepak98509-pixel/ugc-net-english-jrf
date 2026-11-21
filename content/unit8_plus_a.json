@@ -1,0 +1,1658 @@
+{
+ "id": 8,
+ "pyq_focus": [
+  "Unit 8 mein NET sabse zyada 'critic - book - term' match poochta hai: Aristotle - Poetics - catharsis, Longinus - On the Sublime, Sidney - An Apology for Poetry.",
+  "Indian aesthetics har saal aata hai: Bharata ka Natyashastra aur rasa sutra, Anandavardhana ka Dhvanyaloka, Kuntaka ka vakrokti, Kshemendra ka auchitya, Vamana ka riti.",
+  "Eliot ke terms bahut pakke karo: objective correlative, dissociation of sensibility, impersonality, tradition - aur kaun sa term kis essay ka hai.",
+  "Romantic criticism: Wordsworth ka Preface (1800/1802) definition of poetry, Coleridge ki Biographia Literaria (1817) - fancy vs imagination, willing suspension of disbelief.",
+  "Arnold (touchstone method, criticism of life, 'disinterestedness'), Pater (gem-like flame), Johnson (Preface to Shakespeare, Lives of the Poets) - quotes ke through poochte hain.",
+  "New Criticism: Brooks (Well Wrought Urn, heresy of paraphrase), Wimsatt-Beardsley (intentional aur affective fallacy), Ransom (The New Criticism 1941), Richards (Practical Criticism 1929, four kinds of meaning), Empson (Seven Types of Ambiguity 1930).",
+  "Frye ka Anatomy of Criticism (1957) - four mythoi aur seasons; Russian Formalism - Shklovsky ka defamiliarization, fabula-syuzhet, Jakobson ka literariness.",
+  "Chronology questions ke liye saal yaad karo: Apology 1595, Essay of Dramatic Poesy 1668, Essay on Criticism 1711, Preface to Shakespeare 1765, Biographia 1817, Defence 1821 (pub. 1840), Tradition 1919, Practical Criticism 1929, Anatomy 1957.",
+  "Tayyari: har critic ka ek card banao - book + saal + 2 terms + 1 famous quote; Assertion-Reason ke liye term ka matlab bhi samjho, sirf naam nahi."
+ ],
+ "easy": [
+  {
+   "title": "Plato (c. 428-348 BCE): Poetry as Imitation",
+   "story": "Plato kehte the asli cheez 'Idea' hai, jo upar ek perfect duniya mein hai. Carpenter jo kursi banata hai woh Idea ki copy hai. Painter ya poet us kursi ki tasveer banata hai, toh woh copy ki copy hai - 'twice removed from truth'. Isliye Plato ne Republic (Book III aur X) mein poets ko apne ideal state se nikal diya. Unhe lagta tha poetry emotions bhadkati hai aur log bigad jaate hain. Ion mein unhone kaha poet 'divine madness' mein likhta hai, gyaan se nahi.",
+   "trick": "Plato = 'Photocopy ki Photocopy' - Idea > kursi > tasveer; Republic X = poets ko 'eXit'."
+  },
+  {
+   "title": "Aristotle (384-322 BCE): Poetics",
+   "story": "Aristotle Plato ke student the, par unhone guru se ulta kaha: imitation (mimesis) toh insaan ki natural aadat hai aur usse hum seekhte hain. Poetics mein tragedy ki definition di aur uske 6 parts bataye: plot, character, thought, diction, song, spectacle - plot sabse important, 'soul of tragedy'. Tragedy pity aur fear jagakar catharsis karti hai, jaise ro kar mann halka ho jaata hai. Hero mein ek galti hoti hai - hamartia. Peripeteia (ulti kismat) aur anagnorisis (pehchaan) best plot banate hain.",
+   "trick": "Tragedy ke 6 parts: 'PCT DSS' - Plot Character Thought, Diction Song Spectacle; catharsis = rone ke baad halka mann."
+  },
+  {
+   "title": "Horace (65-8 BCE) and Longinus (1st century CE)",
+   "story": "Horace Roman poet the, unki Ars Poetica ek letter (Epistle to the Pisos) hai. Woh kehte hain poetry ko 'dulce et utile' hona chahiye - meethi bhi aur kaam ki bhi, jaise mithai mein dawai. Decorum, in medias res (kahani beech se shuru karo) aur 5 acts ka rule unhi ka hai. Longinus ne On the Sublime (Peri Hupsous) likha - badi soch, gehra josh wali writing jo humein 'transport' kar deti hai, sirf samjhati nahi. Unhone sublimity ke 5 sources bataye.",
+   "trick": "Horace = 'Halwa + Health' (delight and instruct); Longinus = 'Long-in-us' feeling jo andar tak le jaaye - sublime."
+  },
+  {
+   "title": "Bharata and the Rasa Theory",
+   "story": "Bharata Muni ne Natyashastra likha, jise 'panchama veda' bhi kehte hain. Unka rasa sutra: vibhava, anubhava aur vyabhicari bhava ke sanyog se rasa ki nishpatti hoti hai. Jaise dal, masala, tadka mil kar swad banta hai, waise hi in sab se rasa banta hai. Bharata ne 8 rasa bataye, baad mein shanta ko 9th maana gaya. Har rasa ka ek sthayi bhava hota hai, jaise shringara ka rati, karuna ka shoka. Rasa sutra ke chaar famous commentators: Bhatta Lollata, Shankuka, Bhatta Nayaka, Abhinavagupta.",
+   "trick": "Rasa = khaana ka swaad; 'Vi-Anu-Vya' = Vibhava (cause), Anubhava (effect), Vyabhichari (passing mood); commentators 'Lo-Sha-Na-Abhi'."
+  },
+  {
+   "title": "Dhvani: Anandavardhana and Abhinavagupta",
+   "story": "Anandavardhana ne Dhvanyaloka (9th century) mein kaha: 'kavyasyatma dhvanih' - kavya ki aatma dhvani (suggestion) hai. Jaise koi kahe 'suraj doob gaya' aur matlab ho 'ghar chalo', wahi chhupa arth dhvani hai. Word ki teen shaktiyan: abhidha (seedha arth), lakshana (indirect arth), vyanjana (suggested arth). Dhvani ke teen types: vastu, alankara aur rasa dhvani - rasa dhvani sabse ooncha. Abhinavagupta ne Dhvanyaloka par Locana aur Natyashastra par Abhinavabharati likhi.",
+   "trick": "Dhvani = 'ishaara samjho'; Ananda-'Dhvanyaloka', Abhinava-'Locana' (lochan = aankh jo dhvani ko dekhe)."
+  },
+  {
+   "title": "Alankara, Riti, Vakrokti and Auchitya Schools",
+   "story": "Alankara school (Bhamaha, Dandin): kavya ki sundarta gehno (alankara) se hai, jaise dulhan gehno se sajti hai. Riti school (Vamana, Kavyalankarasutravritti): 'ritir atma kavyasya' - style hi aatma hai; teen ritis - Vaidarbhi, Gaudi, Panchali. Vakrokti school (Kuntaka, Vakroktijivita): tedhi-meethi, alag tarah se kahi baat hi kavya hai. Auchitya school (Kshemendra, Auchityavicharacharcha): sab kuch 'uchit' yaani proper hona chahiye. Baad mein Mammata (Kavyaprakasha) aur Vishwanatha (Sahityadarpana: 'vakyam rasatmakam kavyam') ne sab ko jodha.",
+   "trick": "'BhaDa - Va - Ku - Kshe': Bhamaha-Dandin Alankara, Vamana Riti, Kuntaka Vakrokti, Kshemendra Auchitya."
+  },
+  {
+   "title": "Sir Philip Sidney: An Apology for Poetry",
+   "story": "Stephen Gosson ne The School of Abuse (1579) mein poetry ko gandi cheez kaha. Sidney ne jawab mein An Apology for Poetry (Defence of Poesie) likha, jo 1595 mein chhapa. Unhone kaha poet philosopher (sirf theory) aur historian (sirf facts) dono se upar hai, kyunki poet 'golden world' banata hai. Poetry 'teach and delight' karti hai. Woh English drama mein unities todne ki shikayat bhi karte hain.",
+   "trick": "Sidney = 'Sidhi Defence' - Gosson ka gussa, Sidney ka jawab; poet = sone ki duniya banane wala sunar."
+  },
+  {
+   "title": "John Dryden: Father of English Criticism",
+   "story": "Dr Johnson ne Dryden ko 'father of English criticism' kaha. Unka An Essay of Dramatic Poesy (1668) ek dialogue hai jisme chaar log Thames par boat mein baat karte hain: Crites, Eugenius, Lisideius aur Neander. Neander (Dryden khud) English drama aur Shakespeare ka paksh leta hai. Dryden ne Shakespeare ko 'the largest and most comprehensive soul' kaha aur Chaucer ke liye 'here is God's plenty'. Unhone rhyme in drama ka bhi defence kiya.",
+   "trick": "Boat ke 4 yatri 'CELN' - Crites (Ancients), Eugenius (Moderns), Lisideius (French), Neander (English = Dryden)."
+  },
+  {
+   "title": "Alexander Pope and Samuel Johnson",
+   "story": "Pope ne An Essay on Criticism (1711) poem ki form mein likha - 'Follow Nature', 'A little learning is a dangerous thing', 'To err is human, to forgive divine'. Woh Neoclassical the, rules aur ancients ko maante the. Dr Johnson ne Preface to Shakespeare (1765) mein Shakespeare ko 'poet of nature' kaha aur unities of time-place ko bekaar bataya. Lives of the English Poets (1779-81) mein Metaphysical poets ke liye kaha 'heterogeneous ideas yoked by violence together'. Rasselas mein 'streaks of the tulip' wali line bhi unki hai.",
+   "trick": "Pope = poem mein criticism; Johnson = Dictionary wala dada jo Shakespeare ko 'nature ka poet' bole."
+  },
+  {
+   "title": "William Wordsworth and S. T. Coleridge",
+   "story": "Wordsworth ne Lyrical Ballads ke Preface (1800, badha hua 1802) mein kaha poetry 'spontaneous overflow of powerful feelings' hai jo 'emotion recollected in tranquillity' se aati hai. Unhone aam logon ki bhasha ('language really used by men') ki baat ki. Coleridge ne Biographia Literaria (1817) mein imagination (primary, secondary) aur fancy ka fark samjhaya. Imagination naya banati hai, fancy sirf jodti hai - jaise chef vs sandwich jodne wala. 'Willing suspension of disbelief' bhi unka hai.",
+   "trick": "Words-worth = feelings ka overflow; Cole-ridge = Imagination ki 'ridge' (oonchai), fancy neeche."
+  },
+  {
+   "title": "P. B. Shelley, Matthew Arnold and Walter Pater",
+   "story": "Shelley ki A Defence of Poetry (1821 mein likhi, 1840 mein chhapi) Peacock ke The Four Ages of Poetry ka jawab thi; famous line: 'Poets are the unacknowledged legislators of the world'. Arnold ne poetry ko 'criticism of life' kaha aur 'touchstone method' diya - mahaan kaviyon ki lines se nayi poetry ko jaancho. The Function of Criticism at the Present Time mein 'disinterestedness' aur 'the best that is known and thought' ki baat ki. Pater ne The Renaissance (1873) ke Conclusion mein kaha 'burn always with this hard, gem-like flame' - art for art's sake.",
+   "trick": "Shelley = 'unacknowledged MLA' (legislator); Arnold = touchstone (sona parakhne ka pathar); Pater = gem-like flame."
+  },
+  {
+   "title": "T. S. Eliot as Critic",
+   "story": "Eliot ne Tradition and the Individual Talent (1919) mein kaha poet ko 'historical sense' chahiye aur poetry 'escape from emotion' hai, emotion ka bahaav nahi - impersonality. Unhone poet ke mind ko catalyst (platinum ka tukda) jaisa kaha. Hamlet and His Problems (1919) mein 'objective correlative' diya - emotion dikhane ke liye objects, situation, events ka set. The Metaphysical Poets (1921) mein 'dissociation of sensibility' - 17th century ke baad soch aur feeling alag ho gaye. Ye essays The Sacred Wood (1920) aur Selected Essays mein hain.",
+   "trick": "Eliot ka 'TOD': Tradition (1919), Objective correlative (Hamlet 1919), Dissociation (Metaphysical Poets 1921); platinum = catalyst."
+  },
+  {
+   "title": "I. A. Richards and William Empson",
+   "story": "I. A. Richards ne Cambridge mein students ko bina naam ke poems diye aur unke jawab par Practical Criticism (1929) likhi. Principles of Literary Criticism (1924) mein emotive vs referential language aur poetry ko 'pseudo-statement' kaha. Meaning ke chaar kind: sense, feeling, tone, intention. The Philosophy of Rhetoric mein metaphor ke tenor aur vehicle diye. Unke student William Empson ne Seven Types of Ambiguity (1930) likhi - ek line ke kai matlab hona poetry ki taakat hai.",
+   "trick": "Richards = 'STFI' (Sense Tone Feeling Intention) + Tenor-Vehicle; Empson = 7 ka chakkar (Seven Types)."
+  },
+  {
+   "title": "F. R. Leavis",
+   "story": "F. R. Leavis Cambridge ke critic the aur Scrutiny (1932-53) magazine chalate the. The Great Tradition (1948) mein kaha English novel ki mahaan parampara Jane Austen, George Eliot, Henry James aur Joseph Conrad hai (baad mein D. H. Lawrence bhi). New Bearings in English Poetry (1932) aur Revaluation (1936) bhi unki hain. Woh literature ko moral seriousness aur 'life' se jodte the. C. P. Snow ke 'Two Cultures' par unka bada jhagda famous hai.",
+   "trick": "Leavis ki 'Great Tradition' team: 'A-GE-HJ-C' - Austen, George Eliot, Henry James, Conrad; Scrutiny = unka akhbaar."
+  },
+  {
+   "title": "New Criticism: Ransom, Brooks, Tate, Wimsatt and Beardsley",
+   "story": "New Critics kehte the - poem ko 'close reading' se padho, poet ki life ya reader ka feeling mat dekho. Naam John Crowe Ransom ki book The New Criticism (1941) se aaya. Cleanth Brooks ne The Well Wrought Urn (1947) mein paradox, irony aur 'heresy of paraphrase' samjhaye. Wimsatt aur Beardsley ne 'intentional fallacy' aur 'affective fallacy' diye - The Verbal Icon (1954). Allen Tate ne 'tension' term diya. Brooks aur Warren ki Understanding Poetry (1938) college textbook bani.",
+   "trick": "Poem = bandh dabba (urn); andar dekho, bahar nahi - 'IA fallacy': Intentional (poet ki niyat) aur Affective (reader ka asar) dono mana."
+  },
+  {
+   "title": "Northrop Frye: Archetypal Criticism",
+   "story": "Canadian critic Northrop Frye ne Anatomy of Criticism (1957) likhi. Unhone kaha poori literature ek system hai jisme baar baar aane wale patterns - archetypes - hain. Chaar mythoi seasons se jude hain: comedy = spring, romance = summer, tragedy = autumn, irony/satire = winter. Book mein chaar essays hain: historical (modes), ethical (symbols), archetypal (myths), rhetorical (genres). Jaise har saal mausam ghoomte hain, waise kahaniyan bhi ghoomti hain.",
+   "trick": "Frye ka mausam: 'Spring-Comedy (Holi ka mazaa), Summer-Romance, Autumn-Tragedy (patte girna), Winter-Irony'."
+  },
+  {
+   "title": "Russian Formalism",
+   "story": "Russian Formalists (1910s-20s) kehte the literature ko 'kaise likha' se samjho, 'kya likha' se nahi. Viktor Shklovsky ne 'Art as Technique' (1917) mein 'ostranenie' yaani defamiliarization diya - jaani-pehchani cheez ko ajnabi bana kar dikhana, taaki 'make the stone stony'. Roman Jakobson ne 'literariness' ko study ka asli object kaha. Fabula (ghatnaon ka asli kram) aur syuzhet (kahani mein dikhaya gaya kram) ka fark bhi inka hai. Groups: OPOYAZ (St Petersburg) aur Moscow Linguistic Circle; Vladimir Propp ne folktale ke 31 functions diye.",
+   "trick": "Shklovsky = 'Shock-lovsky' - roz ki cheez ko shock bana do (defamiliarize); fabula = asli film, syuzhet = editing wala version."
+  }
+ ],
+ "works": [
+  {
+   "author": "Plato",
+   "work": "Ion",
+   "year": "",
+   "type": "dialogue",
+   "note": "Poet inspired by divine madness, not knowledge"
+  },
+  {
+   "author": "Plato",
+   "work": "Republic (Books II, III, X)",
+   "year": "",
+   "type": "dialogue",
+   "note": "Poets banished; art twice removed from truth"
+  },
+  {
+   "author": "Plato",
+   "work": "Phaedrus",
+   "year": "",
+   "type": "dialogue",
+   "note": "Discussion of rhetoric, love and poetic madness"
+  },
+  {
+   "author": "Plato",
+   "work": "Symposium",
+   "year": "",
+   "type": "dialogue",
+   "note": "Dialogue on love; Diotima's ladder of beauty"
+  },
+  {
+   "author": "Aristotle",
+   "work": "Poetics",
+   "year": "c. 335 BCE",
+   "type": "treatise",
+   "note": "Tragedy defined; mimesis, catharsis, hamartia, six parts"
+  },
+  {
+   "author": "Aristotle",
+   "work": "Rhetoric",
+   "year": "",
+   "type": "treatise",
+   "note": "Ethos, pathos, logos: modes of persuasion"
+  },
+  {
+   "author": "Horace",
+   "work": "Ars Poetica (Epistle to the Pisos)",
+   "year": "c. 19 BCE",
+   "type": "verse epistle",
+   "note": "Dulce et utile; decorum; in medias res"
+  },
+  {
+   "author": "Longinus",
+   "work": "On the Sublime (Peri Hupsous)",
+   "year": "1st century CE",
+   "type": "treatise",
+   "note": "Five sources of sublimity; transport, not persuasion"
+  },
+  {
+   "author": "Quintilian",
+   "work": "Institutio Oratoria",
+   "year": "c. 95 CE",
+   "type": "treatise",
+   "note": "Roman manual on training the orator"
+  },
+  {
+   "author": "Cicero",
+   "work": "De Oratore",
+   "year": "55 BCE",
+   "type": "dialogue",
+   "note": "Ideal orator; Roman rhetorical theory"
+  },
+  {
+   "author": "Dante Alighieri",
+   "work": "De Vulgari Eloquentia",
+   "year": "c. 1305",
+   "type": "treatise",
+   "note": "Defence of vernacular as literary language"
+  },
+  {
+   "author": "Bharata Muni",
+   "work": "Natyashastra",
+   "year": "",
+   "type": "treatise",
+   "note": "Rasa sutra; eight rasas; fifth Veda of drama"
+  },
+  {
+   "author": "Bhamaha",
+   "work": "Kavyalankara",
+   "year": "",
+   "type": "treatise",
+   "note": "Founder text of Alankara school"
+  },
+  {
+   "author": "Dandin",
+   "work": "Kavyadarsha",
+   "year": "",
+   "type": "treatise",
+   "note": "Alankara school; defines gunas and margas"
+  },
+  {
+   "author": "Vamana",
+   "work": "Kavyalankarasutravritti",
+   "year": "",
+   "type": "treatise",
+   "note": "Riti school: 'ritir atma kavyasya'"
+  },
+  {
+   "author": "Udbhata",
+   "work": "Kavyalankarasarasangraha",
+   "year": "",
+   "type": "treatise",
+   "note": "Alankara school text"
+  },
+  {
+   "author": "Rudrata",
+   "work": "Kavyalankara",
+   "year": "",
+   "type": "treatise",
+   "note": "Alankara school; adds rasa discussion"
+  },
+  {
+   "author": "Anandavardhana",
+   "work": "Dhvanyaloka",
+   "year": "9th century",
+   "type": "treatise",
+   "note": "Dhvani is the soul of poetry"
+  },
+  {
+   "author": "Abhinavagupta",
+   "work": "Locana (Dhvanyalokalocana)",
+   "year": "",
+   "type": "commentary",
+   "note": "Commentary on Dhvanyaloka; rasa-dhvani supreme"
+  },
+  {
+   "author": "Abhinavagupta",
+   "work": "Abhinavabharati",
+   "year": "",
+   "type": "commentary",
+   "note": "Commentary on Natyashastra; abhivyakti theory of rasa"
+  },
+  {
+   "author": "Kuntaka",
+   "work": "Vakroktijivita",
+   "year": "",
+   "type": "treatise",
+   "note": "Vakrokti, oblique expression, is life of poetry"
+  },
+  {
+   "author": "Kshemendra",
+   "work": "Auchityavicharacharcha",
+   "year": "",
+   "type": "treatise",
+   "note": "Auchitya, propriety, as the life of rasa"
+  },
+  {
+   "author": "Mahimabhatta",
+   "work": "Vyaktiviveka",
+   "year": "",
+   "type": "treatise",
+   "note": "Attacks dhvani; reduces it to inference (anumana)"
+  },
+  {
+   "author": "Bhatta Nayaka",
+   "work": "Hridayadarpana",
+   "year": "",
+   "type": "treatise",
+   "note": "Bhuktivada; sadharanikarana (generalisation) of rasa"
+  },
+  {
+   "author": "Rajashekhara",
+   "work": "Kavyamimamsa",
+   "year": "",
+   "type": "treatise",
+   "note": "Poetics manual; kavi-shiksha, poetic training"
+  },
+  {
+   "author": "Mammata",
+   "work": "Kavyaprakasha",
+   "year": "",
+   "type": "treatise",
+   "note": "Synthesis of schools; follows dhvani theory"
+  },
+  {
+   "author": "Vishwanatha",
+   "work": "Sahityadarpana",
+   "year": "",
+   "type": "treatise",
+   "note": "'Vakyam rasatmakam kavyam' definition of poetry"
+  },
+  {
+   "author": "Jagannatha",
+   "work": "Rasagangadhara",
+   "year": "17th century",
+   "type": "treatise",
+   "note": "Poetry as words expressing charming meaning"
+  },
+  {
+   "author": "Bhoja",
+   "work": "Shringaraprakasha",
+   "year": "",
+   "type": "treatise",
+   "note": "Shringara as the one root rasa"
+  },
+  {
+   "author": "Stephen Gosson",
+   "work": "The School of Abuse",
+   "year": "1579",
+   "type": "pamphlet",
+   "note": "Puritan attack on poetry; dedicated to Sidney"
+  },
+  {
+   "author": "Sir Philip Sidney",
+   "work": "An Apology for Poetry (The Defence of Poesy)",
+   "year": "1595",
+   "type": "essay",
+   "note": "Poet's golden world; poet above philosopher, historian"
+  },
+  {
+   "author": "George Puttenham",
+   "work": "The Arte of English Poesie",
+   "year": "1589",
+   "type": "treatise",
+   "note": "Elizabethan manual of figures and metre"
+  },
+  {
+   "author": "Ben Jonson",
+   "work": "Timber, or Discoveries",
+   "year": "1641",
+   "type": "notes",
+   "note": "Neoclassical notes; 'I loved the man' on Shakespeare"
+  },
+  {
+   "author": "Thomas Campion",
+   "work": "Observations in the Art of English Poesie",
+   "year": "1602",
+   "type": "treatise",
+   "note": "Attack on rhyme, favours quantitative verse"
+  },
+  {
+   "author": "Samuel Daniel",
+   "work": "A Defence of Ryme",
+   "year": "1603",
+   "type": "essay",
+   "note": "Reply to Campion defending rhyme"
+  },
+  {
+   "author": "John Dryden",
+   "work": "An Essay of Dramatic Poesy",
+   "year": "1668",
+   "type": "dialogue",
+   "note": "Crites, Eugenius, Lisideius, Neander on the Thames"
+  },
+  {
+   "author": "John Dryden",
+   "work": "Preface to Fables Ancient and Modern",
+   "year": "1700",
+   "type": "preface",
+   "note": "Chaucer: 'here is God's plenty'"
+  },
+  {
+   "author": "John Dryden",
+   "work": "A Discourse Concerning the Original and Progress of Satire",
+   "year": "1693",
+   "type": "essay",
+   "note": "Compares Horace and Juvenal"
+  },
+  {
+   "author": "John Dryden",
+   "work": "Preface to All for Love",
+   "year": "1678",
+   "type": "preface",
+   "note": "Defends imitation of Shakespeare's style"
+  },
+  {
+   "author": "Thomas Rymer",
+   "work": "A Short View of Tragedy",
+   "year": "1693",
+   "type": "criticism",
+   "note": "Calls Othello 'a bloody farce'; poetic justice"
+  },
+  {
+   "author": "Joseph Addison",
+   "work": "The Pleasures of the Imagination (Spectator essays)",
+   "year": "1712",
+   "type": "essays",
+   "note": "Primary and secondary pleasures of imagination"
+  },
+  {
+   "author": "Alexander Pope",
+   "work": "An Essay on Criticism",
+   "year": "1711",
+   "type": "verse essay",
+   "note": "'To err is human'; 'Follow Nature'"
+  },
+  {
+   "author": "Alexander Pope",
+   "work": "Preface to The Works of Shakespeare",
+   "year": "1725",
+   "type": "preface",
+   "note": "Pope's edition of Shakespeare"
+  },
+  {
+   "author": "Edmund Burke",
+   "work": "A Philosophical Enquiry into the Sublime and Beautiful",
+   "year": "1757",
+   "type": "treatise",
+   "note": "Sublime rooted in terror; beautiful in pleasure"
+  },
+  {
+   "author": "Edward Young",
+   "work": "Conjectures on Original Composition",
+   "year": "1759",
+   "type": "essay",
+   "note": "Praises originality and genius over imitation"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "Preface to Shakespeare",
+   "year": "1765",
+   "type": "preface",
+   "note": "Shakespeare 'poet of nature'; rejects unities of time and place"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "Lives of the English Poets",
+   "year": "1779-81",
+   "type": "biography-criticism",
+   "note": "Metaphysicals: 'heterogeneous ideas yoked by violence'"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "Rasselas",
+   "year": "1759",
+   "type": "prose fable",
+   "note": "Imlac: poet does not number streaks of tulip"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "A Dictionary of the English Language",
+   "year": "1755",
+   "type": "dictionary",
+   "note": "Famous dictionary; Johnson as lexicographer"
+  },
+  {
+   "author": "William Wordsworth",
+   "work": "Preface to Lyrical Ballads",
+   "year": "1800 (enlarged 1802)",
+   "type": "preface",
+   "note": "'Spontaneous overflow of powerful feelings'"
+  },
+  {
+   "author": "William Wordsworth and S. T. Coleridge",
+   "work": "Lyrical Ballads",
+   "year": "1798",
+   "type": "poems",
+   "note": "Manifesto of English Romanticism"
+  },
+  {
+   "author": "William Wordsworth",
+   "work": "Essay, Supplementary to the Preface",
+   "year": "1815",
+   "type": "essay",
+   "note": "Every great poet must create the taste"
+  },
+  {
+   "author": "S. T. Coleridge",
+   "work": "Biographia Literaria",
+   "year": "1817",
+   "type": "criticism",
+   "note": "Primary/secondary imagination, fancy; suspension of disbelief"
+  },
+  {
+   "author": "S. T. Coleridge",
+   "work": "Shakespearean Criticism (Lectures)",
+   "year": "",
+   "type": "lectures",
+   "note": "Hamlet as over-intellectual; organic form"
+  },
+  {
+   "author": "William Hazlitt",
+   "work": "The Spirit of the Age",
+   "year": "1825",
+   "type": "essays",
+   "note": "Portraits of contemporaries"
+  },
+  {
+   "author": "William Hazlitt",
+   "work": "Characters of Shakespeare's Plays",
+   "year": "1817",
+   "type": "criticism",
+   "note": "Romantic character criticism"
+  },
+  {
+   "author": "Charles Lamb",
+   "work": "On the Tragedies of Shakespeare",
+   "year": "1811",
+   "type": "essay",
+   "note": "Lear cannot be acted on stage"
+  },
+  {
+   "author": "John Keats",
+   "work": "Letters",
+   "year": "1817-1820",
+   "type": "letters",
+   "note": "Negative capability; chameleon poet"
+  },
+  {
+   "author": "Thomas Love Peacock",
+   "work": "The Four Ages of Poetry",
+   "year": "1820",
+   "type": "essay",
+   "note": "Satirical attack provoking Shelley's Defence"
+  },
+  {
+   "author": "P. B. Shelley",
+   "work": "A Defence of Poetry",
+   "year": "1821 (pub. 1840)",
+   "type": "essay",
+   "note": "Poets 'unacknowledged legislators of the world'"
+  },
+  {
+   "author": "Thomas Carlyle",
+   "work": "On Heroes, Hero-Worship and the Heroic in History",
+   "year": "1841",
+   "type": "lectures",
+   "note": "The Hero as Poet: Dante and Shakespeare"
+  },
+  {
+   "author": "John Ruskin",
+   "work": "Modern Painters (vol. III)",
+   "year": "1856",
+   "type": "criticism",
+   "note": "Coins 'pathetic fallacy'"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "Preface to Poems",
+   "year": "1853",
+   "type": "preface",
+   "note": "Rejects Empedocles; choice of great action"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "On Translating Homer",
+   "year": "1861",
+   "type": "lectures",
+   "note": "Homer rapid, plain, direct, noble"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "Essays in Criticism (First Series)",
+   "year": "1865",
+   "type": "essays",
+   "note": "Includes The Function of Criticism at the Present Time"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "The Function of Criticism at the Present Time",
+   "year": "1864",
+   "type": "essay",
+   "note": "Disinterestedness; 'best that is known and thought'"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "Culture and Anarchy",
+   "year": "1869",
+   "type": "book",
+   "note": "Sweetness and light; Barbarians, Philistines, Populace"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "The Study of Poetry",
+   "year": "1880",
+   "type": "essay",
+   "note": "Touchstone method; poetry as criticism of life"
+  },
+  {
+   "author": "Matthew Arnold",
+   "work": "Essays in Criticism (Second Series)",
+   "year": "1888",
+   "type": "essays",
+   "note": "Includes The Study of Poetry"
+  },
+  {
+   "author": "Walter Pater",
+   "work": "Studies in the History of the Renaissance",
+   "year": "1873",
+   "type": "essays",
+   "note": "Conclusion: 'hard, gem-like flame'; aestheticism"
+  },
+  {
+   "author": "Walter Pater",
+   "work": "Appreciations, with an Essay on Style",
+   "year": "1889",
+   "type": "essays",
+   "note": "Essay on Style; prose as fine art"
+  },
+  {
+   "author": "Oscar Wilde",
+   "work": "Intentions",
+   "year": "1891",
+   "type": "essays",
+   "note": "The Decay of Lying; The Critic as Artist"
+  },
+  {
+   "author": "Henry James",
+   "work": "The Art of Fiction",
+   "year": "1884",
+   "type": "essay",
+   "note": "Novel as personal impression of life"
+  },
+  {
+   "author": "A. C. Bradley",
+   "work": "Shakespearean Tragedy",
+   "year": "1904",
+   "type": "criticism",
+   "note": "Character-based study of four great tragedies"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "Tradition and the Individual Talent",
+   "year": "1919",
+   "type": "essay",
+   "note": "Impersonality; historical sense; catalyst analogy"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "Hamlet and His Problems",
+   "year": "1919",
+   "type": "essay",
+   "note": "Objective correlative; Hamlet 'an artistic failure'"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "The Sacred Wood",
+   "year": "1920",
+   "type": "essays",
+   "note": "First collection; includes Tradition essay"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "The Metaphysical Poets",
+   "year": "1921",
+   "type": "essay",
+   "note": "Dissociation of sensibility"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "The Function of Criticism",
+   "year": "1923",
+   "type": "essay",
+   "note": "Criticism as 'elucidation of works of art'"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "Selected Essays",
+   "year": "1932",
+   "type": "essays",
+   "note": "Standard collection of Eliot's criticism"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "The Use of Poetry and the Use of Criticism",
+   "year": "1933",
+   "type": "lectures",
+   "note": "Harvard Norton lectures"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "What Is a Classic?",
+   "year": "1944",
+   "type": "lecture",
+   "note": "Virgil as the classic; maturity"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "Notes Towards the Definition of Culture",
+   "year": "1948",
+   "type": "book",
+   "note": "Culture as whole way of life"
+  },
+  {
+   "author": "T. S. Eliot",
+   "work": "The Three Voices of Poetry",
+   "year": "1953",
+   "type": "lecture",
+   "note": "Three voices of the poet"
+  },
+  {
+   "author": "T. E. Hulme",
+   "work": "Romanticism and Classicism",
+   "year": "",
+   "type": "essay",
+   "note": "Romanticism as 'spilt religion'; dry hard classical verse"
+  },
+  {
+   "author": "Ezra Pound",
+   "work": "ABC of Reading",
+   "year": "1934",
+   "type": "book",
+   "note": "'Literature is news that stays news'"
+  },
+  {
+   "author": "C. K. Ogden and I. A. Richards",
+   "work": "The Meaning of Meaning",
+   "year": "1923",
+   "type": "book",
+   "note": "Semantic triangle: symbol, thought, referent"
+  },
+  {
+   "author": "I. A. Richards",
+   "work": "Principles of Literary Criticism",
+   "year": "1924",
+   "type": "book",
+   "note": "Emotive vs referential language; synaesthesis"
+  },
+  {
+   "author": "I. A. Richards",
+   "work": "Science and Poetry",
+   "year": "1926",
+   "type": "book",
+   "note": "Poetry as pseudo-statement"
+  },
+  {
+   "author": "I. A. Richards",
+   "work": "Practical Criticism",
+   "year": "1929",
+   "type": "book",
+   "note": "Protocols experiment; four kinds of meaning"
+  },
+  {
+   "author": "I. A. Richards",
+   "work": "The Philosophy of Rhetoric",
+   "year": "1936",
+   "type": "book",
+   "note": "Tenor and vehicle of metaphor"
+  },
+  {
+   "author": "I. A. Richards",
+   "work": "Coleridge on Imagination",
+   "year": "1934",
+   "type": "book",
+   "note": "Revaluation of Coleridge's imagination theory"
+  },
+  {
+   "author": "William Empson",
+   "work": "Seven Types of Ambiguity",
+   "year": "1930",
+   "type": "book",
+   "note": "Ambiguity as richness of poetic language"
+  },
+  {
+   "author": "William Empson",
+   "work": "Some Versions of Pastoral",
+   "year": "1935",
+   "type": "book",
+   "note": "Pastoral as putting complex into simple"
+  },
+  {
+   "author": "William Empson",
+   "work": "The Structure of Complex Words",
+   "year": "1951",
+   "type": "book",
+   "note": "Semantics of key words"
+  },
+  {
+   "author": "William Empson",
+   "work": "Milton's God",
+   "year": "1961",
+   "type": "book",
+   "note": "Attacks Milton's God as tyrannical"
+  },
+  {
+   "author": "F. R. Leavis",
+   "work": "Mass Civilisation and Minority Culture",
+   "year": "1930",
+   "type": "pamphlet",
+   "note": "Culture kept by a minority"
+  },
+  {
+   "author": "F. R. Leavis",
+   "work": "New Bearings in English Poetry",
+   "year": "1932",
+   "type": "book",
+   "note": "Champions Eliot, Pound, Hopkins"
+  },
+  {
+   "author": "F. R. Leavis and Denys Thompson",
+   "work": "Culture and Environment",
+   "year": "1933",
+   "type": "book",
+   "note": "Training critical awareness against mass culture"
+  },
+  {
+   "author": "F. R. Leavis",
+   "work": "Revaluation",
+   "year": "1936",
+   "type": "book",
+   "note": "Re-maps English poetry tradition; demotes Milton"
+  },
+  {
+   "author": "F. R. Leavis",
+   "work": "The Great Tradition",
+   "year": "1948",
+   "type": "book",
+   "note": "Austen, George Eliot, James, Conrad"
+  },
+  {
+   "author": "F. R. Leavis",
+   "work": "The Common Pursuit",
+   "year": "1952",
+   "type": "essays",
+   "note": "Title from Eliot's phrase on criticism"
+  },
+  {
+   "author": "F. R. Leavis",
+   "work": "D. H. Lawrence: Novelist",
+   "year": "1955",
+   "type": "book",
+   "note": "Lawrence added to the great tradition"
+  },
+  {
+   "author": "F. R. Leavis",
+   "work": "Two Cultures? The Significance of C. P. Snow",
+   "year": "1962",
+   "type": "lecture",
+   "note": "Attack on C. P. Snow's Two Cultures"
+  },
+  {
+   "author": "Q. D. Leavis",
+   "work": "Fiction and the Reading Public",
+   "year": "1932",
+   "type": "book",
+   "note": "Sociology of popular reading"
+  },
+  {
+   "author": "John Crowe Ransom",
+   "work": "The World's Body",
+   "year": "1938",
+   "type": "essays",
+   "note": "Poetry restores the world's body"
+  },
+  {
+   "author": "John Crowe Ransom",
+   "work": "The New Criticism",
+   "year": "1941",
+   "type": "book",
+   "note": "Gave the movement its name"
+  },
+  {
+   "author": "John Crowe Ransom",
+   "work": "Criticism, Inc.",
+   "year": "1937",
+   "type": "essay",
+   "note": "Calls for professional, objective criticism"
+  },
+  {
+   "author": "Cleanth Brooks and Robert Penn Warren",
+   "work": "Understanding Poetry",
+   "year": "1938",
+   "type": "textbook",
+   "note": "Spread close reading in classrooms"
+  },
+  {
+   "author": "Cleanth Brooks",
+   "work": "Modern Poetry and the Tradition",
+   "year": "1939",
+   "type": "book",
+   "note": "Links modern and metaphysical poetry"
+  },
+  {
+   "author": "Cleanth Brooks",
+   "work": "The Well Wrought Urn",
+   "year": "1947",
+   "type": "book",
+   "note": "Language of paradox; heresy of paraphrase"
+  },
+  {
+   "author": "Allen Tate",
+   "work": "Tension in Poetry",
+   "year": "1938",
+   "type": "essay",
+   "note": "Tension from extension and intension"
+  },
+  {
+   "author": "Allen Tate",
+   "work": "Reason in Madness",
+   "year": "1941",
+   "type": "essays",
+   "note": "Southern Agrarian New Critic's essays"
+  },
+  {
+   "author": "R. P. Blackmur",
+   "work": "Language as Gesture",
+   "year": "1952",
+   "type": "essays",
+   "note": "New Critical close readings"
+  },
+  {
+   "author": "Yvor Winters",
+   "work": "In Defense of Reason",
+   "year": "1947",
+   "type": "essays",
+   "note": "Moral, rational criticism of poetry"
+  },
+  {
+   "author": "W. K. Wimsatt and Monroe C. Beardsley",
+   "work": "The Intentional Fallacy",
+   "year": "1946",
+   "type": "essay",
+   "note": "Author's intention irrelevant to judging poem"
+  },
+  {
+   "author": "W. K. Wimsatt and Monroe C. Beardsley",
+   "work": "The Affective Fallacy",
+   "year": "1949",
+   "type": "essay",
+   "note": "Confusing poem with its emotional effects"
+  },
+  {
+   "author": "W. K. Wimsatt",
+   "work": "The Verbal Icon",
+   "year": "1954",
+   "type": "essays",
+   "note": "Collects both fallacy essays"
+  },
+  {
+   "author": "René Wellek and Austin Warren",
+   "work": "Theory of Literature",
+   "year": "1949",
+   "type": "book",
+   "note": "Intrinsic vs extrinsic approaches"
+  },
+  {
+   "author": "Northrop Frye",
+   "work": "Fearful Symmetry",
+   "year": "1947",
+   "type": "book",
+   "note": "Study of William Blake"
+  },
+  {
+   "author": "Northrop Frye",
+   "work": "Anatomy of Criticism",
+   "year": "1957",
+   "type": "book",
+   "note": "Four essays; modes, symbols, myths, genres"
+  },
+  {
+   "author": "Northrop Frye",
+   "work": "The Archetypes of Literature",
+   "year": "1951",
+   "type": "essay",
+   "note": "Myth criticism tied to seasonal cycle"
+  },
+  {
+   "author": "Northrop Frye",
+   "work": "The Great Code",
+   "year": "1982",
+   "type": "book",
+   "note": "Bible and literature"
+  },
+  {
+   "author": "Northrop Frye",
+   "work": "The Educated Imagination",
+   "year": "1963",
+   "type": "lectures",
+   "note": "CBC Massey lectures on literature"
+  },
+  {
+   "author": "Maud Bodkin",
+   "work": "Archetypal Patterns in Poetry",
+   "year": "1934",
+   "type": "book",
+   "note": "Jungian archetypes in poetry"
+  },
+  {
+   "author": "James George Frazer",
+   "work": "The Golden Bough",
+   "year": "1890",
+   "type": "anthropology",
+   "note": "Myth and ritual source for myth criticism"
+  },
+  {
+   "author": "Carl Gustav Jung",
+   "work": "The Archetypes and the Collective Unconscious",
+   "year": "",
+   "type": "psychology",
+   "note": "Collective unconscious; archetypes"
+  },
+  {
+   "author": "Viktor Shklovsky",
+   "work": "Art as Technique",
+   "year": "1917",
+   "type": "essay",
+   "note": "Defamiliarization (ostranenie); 'make the stone stony'"
+  },
+  {
+   "author": "Viktor Shklovsky",
+   "work": "Theory of Prose",
+   "year": "1925",
+   "type": "book",
+   "note": "Fabula and syuzhet; Tristram Shandy as typical novel"
+  },
+  {
+   "author": "Roman Jakobson",
+   "work": "Linguistics and Poetics",
+   "year": "1960",
+   "type": "essay",
+   "note": "Six functions of language; poetic function"
+  },
+  {
+   "author": "Roman Jakobson",
+   "work": "Two Aspects of Language and Two Types of Aphasic Disturbances",
+   "year": "1956",
+   "type": "essay",
+   "note": "Metaphor and metonymy poles"
+  },
+  {
+   "author": "Boris Eichenbaum",
+   "work": "The Theory of the Formal Method",
+   "year": "1926",
+   "type": "essay",
+   "note": "Account of Formalist method"
+  },
+  {
+   "author": "Boris Tomashevsky",
+   "work": "Thematics",
+   "year": "1925",
+   "type": "essay",
+   "note": "Free and bound motifs; fabula and syuzhet"
+  },
+  {
+   "author": "Yury Tynyanov",
+   "work": "On Literary Evolution",
+   "year": "1927",
+   "type": "essay",
+   "note": "Literature as evolving system of functions"
+  },
+  {
+   "author": "Vladimir Propp",
+   "work": "Morphology of the Folktale",
+   "year": "1928",
+   "type": "book",
+   "note": "31 functions, seven spheres of action"
+  },
+  {
+   "author": "Mikhail Bakhtin",
+   "work": "Problems of Dostoevsky's Poetics",
+   "year": "1929",
+   "type": "book",
+   "note": "Polyphony; dialogism"
+  },
+  {
+   "author": "Victor Erlich",
+   "work": "Russian Formalism: History, Doctrine",
+   "year": "1955",
+   "type": "book",
+   "note": "Standard history of Russian Formalism"
+  },
+  {
+   "author": "Leon Trotsky",
+   "work": "Literature and Revolution",
+   "year": "1924",
+   "type": "book",
+   "note": "Marxist critique of Formalism"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "Tragedy, then, is an imitation of an action that is serious, complete, and of a certain magnitude ... through pity and fear effecting the proper purgation of these emotions.",
+   "by": "Aristotle",
+   "source": "Poetics (c. 335 BCE)"
+  },
+  {
+   "quote": "Plot is the first principle and, as it were, the soul of a tragedy.",
+   "by": "Aristotle",
+   "source": "Poetics"
+  },
+  {
+   "quote": "Poetry is more philosophical and of higher import than history.",
+   "by": "Aristotle",
+   "source": "Poetics"
+  },
+  {
+   "quote": "Art is twice removed from truth (the imitation of an imitation).",
+   "by": "Plato",
+   "source": "Republic, Book X"
+  },
+  {
+   "quote": "Omne tulit punctum qui miscuit utile dulci (He has won every vote who has blended the useful with the sweet).",
+   "by": "Horace",
+   "source": "Ars Poetica"
+  },
+  {
+   "quote": "Sublimity is the echo of a great soul.",
+   "by": "Longinus",
+   "source": "On the Sublime"
+  },
+  {
+   "quote": "Vibhavanubhavavyabhicharisamyogad rasanishpattih (Rasa arises from the union of vibhava, anubhava and vyabhicharibhava).",
+   "by": "Bharata Muni",
+   "source": "Natyashastra"
+  },
+  {
+   "quote": "Kavyasyatma dhvanih (Dhvani is the soul of poetry).",
+   "by": "Anandavardhana",
+   "source": "Dhvanyaloka"
+  },
+  {
+   "quote": "Ritir atma kavyasya (Riti is the soul of poetry).",
+   "by": "Vamana",
+   "source": "Kavyalankarasutravritti"
+  },
+  {
+   "quote": "Vakyam rasatmakam kavyam (Poetry is a sentence whose soul is rasa).",
+   "by": "Vishwanatha",
+   "source": "Sahityadarpana"
+  },
+  {
+   "quote": "Vakroktih kavyajivitam (Vakrokti is the life of poetry).",
+   "by": "Kuntaka",
+   "source": "Vakroktijivita"
+  },
+  {
+   "quote": "Nature never set forth the earth in so rich tapestry as divers poets have done ... Her world is brazen, the poets only deliver a golden.",
+   "by": "Sir Philip Sidney",
+   "source": "An Apology for Poetry (1595)"
+  },
+  {
+   "quote": "Now for the poet, he nothing affirms, and therefore never lieth.",
+   "by": "Sir Philip Sidney",
+   "source": "An Apology for Poetry (1595)"
+  },
+  {
+   "quote": "He was the man who of all modern, and perhaps ancient poets, had the largest and most comprehensive soul.",
+   "by": "John Dryden (on Shakespeare)",
+   "source": "An Essay of Dramatic Poesy (1668)"
+  },
+  {
+   "quote": "A just and lively image of human nature.",
+   "by": "John Dryden (Lisideius's definition of a play)",
+   "source": "An Essay of Dramatic Poesy (1668)"
+  },
+  {
+   "quote": "Here is God's plenty.",
+   "by": "John Dryden (on Chaucer)",
+   "source": "Preface to Fables Ancient and Modern (1700)"
+  },
+  {
+   "quote": "A little learning is a dangerous thing; / Drink deep, or taste not the Pierian spring.",
+   "by": "Alexander Pope",
+   "source": "An Essay on Criticism (1711)"
+  },
+  {
+   "quote": "True wit is Nature to advantage dressed, / What oft was thought, but ne'er so well expressed.",
+   "by": "Alexander Pope",
+   "source": "An Essay on Criticism (1711)"
+  },
+  {
+   "quote": "To err is human, to forgive divine.",
+   "by": "Alexander Pope",
+   "source": "An Essay on Criticism (1711)"
+  },
+  {
+   "quote": "For fools rush in where angels fear to tread.",
+   "by": "Alexander Pope",
+   "source": "An Essay on Criticism (1711)"
+  },
+  {
+   "quote": "Shakespeare is above all writers, at least above all modern writers, the poet of nature.",
+   "by": "Samuel Johnson",
+   "source": "Preface to Shakespeare (1765)"
+  },
+  {
+   "quote": "The most heterogeneous ideas are yoked by violence together.",
+   "by": "Samuel Johnson (on the Metaphysical poets)",
+   "source": "Life of Cowley, Lives of the English Poets (1779-81)"
+  },
+  {
+   "quote": "The business of a poet is to examine, not the individual, but the species ... he does not number the streaks of the tulip.",
+   "by": "Samuel Johnson",
+   "source": "Rasselas (1759)"
+  },
+  {
+   "quote": "Poetry is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquillity.",
+   "by": "William Wordsworth",
+   "source": "Preface to Lyrical Ballads (1802)"
+  },
+  {
+   "quote": "Poetry is the breath and finer spirit of all knowledge.",
+   "by": "William Wordsworth",
+   "source": "Preface to Lyrical Ballads (1802)"
+  },
+  {
+   "quote": "A man speaking to men.",
+   "by": "William Wordsworth (definition of the poet)",
+   "source": "Preface to Lyrical Ballads (1802)"
+  },
+  {
+   "quote": "That willing suspension of disbelief for the moment, which constitutes poetic faith.",
+   "by": "S. T. Coleridge",
+   "source": "Biographia Literaria (1817), ch. XIV"
+  },
+  {
+   "quote": "The primary Imagination I hold to be the living power and prime agent of all human perception.",
+   "by": "S. T. Coleridge",
+   "source": "Biographia Literaria (1817), ch. XIII"
+  },
+  {
+   "quote": "Prose = words in their best order; poetry = the best words in the best order.",
+   "by": "S. T. Coleridge",
+   "source": "Table Talk (1827)"
+  },
+  {
+   "quote": "Negative capability, that is, when a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason.",
+   "by": "John Keats",
+   "source": "Letter to his brothers (December 1817)"
+  },
+  {
+   "quote": "Poets are the unacknowledged legislators of the world.",
+   "by": "P. B. Shelley",
+   "source": "A Defence of Poetry (1821)"
+  },
+  {
+   "quote": "Poetry is at bottom a criticism of life.",
+   "by": "Matthew Arnold",
+   "source": "Wordsworth (1879); developed in The Study of Poetry (1880)"
+  },
+  {
+   "quote": "A disinterested endeavour to learn and propagate the best that is known and thought in the world.",
+   "by": "Matthew Arnold",
+   "source": "The Function of Criticism at the Present Time (1864)"
+  },
+  {
+   "quote": "To burn always with this hard, gem-like flame, to maintain this ecstasy, is success in life.",
+   "by": "Walter Pater",
+   "source": "Conclusion, The Renaissance (1873)"
+  },
+  {
+   "quote": "All art constantly aspires towards the condition of music.",
+   "by": "Walter Pater",
+   "source": "The School of Giorgione, The Renaissance"
+  },
+  {
+   "quote": "Poetry is not a turning loose of emotion, but an escape from emotion; it is not the expression of personality, but an escape from personality.",
+   "by": "T. S. Eliot",
+   "source": "Tradition and the Individual Talent (1919)"
+  },
+  {
+   "quote": "The progress of an artist is a continual self-sacrifice, a continual extinction of personality.",
+   "by": "T. S. Eliot",
+   "source": "Tradition and the Individual Talent (1919)"
+  },
+  {
+   "quote": "The only way of expressing emotion in the form of art is by finding an 'objective correlative'.",
+   "by": "T. S. Eliot",
+   "source": "Hamlet and His Problems (1919)"
+  },
+  {
+   "quote": "In the seventeenth century a dissociation of sensibility set in, from which we have never recovered.",
+   "by": "T. S. Eliot",
+   "source": "The Metaphysical Poets (1921)"
+  },
+  {
+   "quote": "Romanticism, then, ... is spilt religion.",
+   "by": "T. E. Hulme",
+   "source": "Romanticism and Classicism"
+  },
+  {
+   "quote": "Poetry is a pseudo-statement.",
+   "by": "I. A. Richards",
+   "source": "Science and Poetry (1926)"
+  },
+  {
+   "quote": "Literature is news that stays news.",
+   "by": "Ezra Pound",
+   "source": "ABC of Reading (1934)"
+  },
+  {
+   "quote": "The great English novelists are Jane Austen, George Eliot, Henry James and Joseph Conrad.",
+   "by": "F. R. Leavis",
+   "source": "The Great Tradition (1948)"
+  },
+  {
+   "quote": "The language of poetry is the language of paradox.",
+   "by": "Cleanth Brooks",
+   "source": "The Well Wrought Urn (1947)"
+  },
+  {
+   "quote": "The design or intention of the author is neither available nor desirable as a standard for judging the success of a work of literary art.",
+   "by": "W. K. Wimsatt and Monroe C. Beardsley",
+   "source": "The Intentional Fallacy (1946)"
+  },
+  {
+   "quote": "Art exists that one may recover the sensation of life; it exists to make one feel things, to make the stone stony.",
+   "by": "Viktor Shklovsky",
+   "source": "Art as Technique (1917)"
+  },
+  {
+   "quote": "The object of the science of literature is not literature but literariness.",
+   "by": "Roman Jakobson",
+   "source": "Recent Russian Poetry (1921)"
+  },
+  {
+   "quote": "A poem should not mean / But be.",
+   "by": "Archibald MacLeish",
+   "source": "Ars Poetica (1926)"
+  }
+ ],
+ "people": [
+  {
+   "name": "Plato",
+   "where": "Republic, Ion; c. 428-348 BCE",
+   "note": "Greek philosopher; poetry as imitation twice removed from truth"
+  },
+  {
+   "name": "Aristotle",
+   "where": "Poetics; 384-322 BCE",
+   "note": "Plato's pupil; defined tragedy, catharsis, hamartia"
+  },
+  {
+   "name": "Horace",
+   "where": "Ars Poetica; 65-8 BCE",
+   "note": "Roman poet; dulce et utile, decorum"
+  },
+  {
+   "name": "Longinus",
+   "where": "On the Sublime; 1st century CE",
+   "note": "Five sources of the sublime; authorship disputed"
+  },
+  {
+   "name": "Socrates",
+   "where": "Speaker in Plato's dialogues",
+   "note": "Plato's teacher; main voice of Republic and Ion"
+  },
+  {
+   "name": "Ion",
+   "where": "Plato's dialogue Ion",
+   "note": "Rhapsode questioned by Socrates on poetic inspiration"
+  },
+  {
+   "name": "Bharata Muni",
+   "where": "Natyashastra",
+   "note": "Father of rasa theory and Indian dramaturgy"
+  },
+  {
+   "name": "Bhamaha",
+   "where": "Kavyalankara",
+   "note": "Earliest known Alankara school theorist"
+  },
+  {
+   "name": "Dandin",
+   "where": "Kavyadarsha",
+   "note": "Alankara theorist; also author of Dashakumaracharita"
+  },
+  {
+   "name": "Vamana",
+   "where": "Kavyalankarasutravritti",
+   "note": "Founder of Riti school; three ritis"
+  },
+  {
+   "name": "Anandavardhana",
+   "where": "Dhvanyaloka; 9th century, Kashmir",
+   "note": "Founder of Dhvani school"
+  },
+  {
+   "name": "Abhinavagupta",
+   "where": "Locana, Abhinavabharati; c. 10th-11th century, Kashmir",
+   "note": "Greatest commentator; rasa-dhvani and abhivyaktivada"
+  },
+  {
+   "name": "Bhatta Lollata",
+   "where": "Commentator on Natyashastra",
+   "note": "Utpattivada: rasa produced, located in original character"
+  },
+  {
+   "name": "Shri Shankuka",
+   "where": "Commentator on Natyashastra",
+   "note": "Anumitivada: rasa inferred, citraturaga (painted horse) analogy"
+  },
+  {
+   "name": "Bhatta Nayaka",
+   "where": "Hridayadarpana",
+   "note": "Bhuktivada; sadharanikarana (generalisation)"
+  },
+  {
+   "name": "Kuntaka",
+   "where": "Vakroktijivita",
+   "note": "Founder of Vakrokti school"
+  },
+  {
+   "name": "Kshemendra",
+   "where": "Auchityavicharacharcha",
+   "note": "Founder of Auchitya school"
+  },
+  {
+   "name": "Mahimabhatta",
+   "where": "Vyaktiviveka",
+   "note": "Opponent of dhvani; argued for anumana"
+  },
+  {
+   "name": "Mammata",
+   "where": "Kavyaprakasha",
+   "note": "Synthesiser; upheld dhvani theory"
+  },
+  {
+   "name": "Vishwanatha",
+   "where": "Sahityadarpana",
+   "note": "Defined poetry as sentence with rasa as soul"
+  },
+  {
+   "name": "Jagannatha",
+   "where": "Rasagangadhara",
+   "note": "Panditaraja; late great alankarika"
+  },
+  {
+   "name": "Rajashekhara",
+   "where": "Kavyamimamsa",
+   "note": "Poet-critic; theory of poetic training"
+  },
+  {
+   "name": "Stephen Gosson",
+   "where": "The School of Abuse (1579)",
+   "note": "Puritan attacker of poetry Sidney answered"
+  },
+  {
+   "name": "Sir Philip Sidney",
+   "where": "An Apology for Poetry (1595)",
+   "note": "Defender of poetry; poet's golden world"
+  },
+  {
+   "name": "Ben Jonson",
+   "where": "Timber, or Discoveries (1641)",
+   "note": "Neoclassical dramatist-critic"
+  },
+  {
+   "name": "John Dryden",
+   "where": "An Essay of Dramatic Poesy (1668)",
+   "note": "'Father of English criticism' (Johnson's phrase)"
+  },
+  {
+   "name": "Neander",
+   "where": "Dryden's An Essay of Dramatic Poesy (1668)",
+   "note": "Dryden's mouthpiece; defends English drama"
+  },
+  {
+   "name": "Crites",
+   "where": "Dryden's An Essay of Dramatic Poesy (1668)",
+   "note": "Defends the Ancients; usually linked to Sir Robert Howard"
+  },
+  {
+   "name": "Eugenius",
+   "where": "Dryden's An Essay of Dramatic Poesy (1668)",
+   "note": "Defends the Moderns; usually linked to Lord Buckhurst"
+  },
+  {
+   "name": "Lisideius",
+   "where": "Dryden's An Essay of Dramatic Poesy (1668)",
+   "note": "Defends French drama; usually linked to Sir Charles Sedley"
+  },
+  {
+   "name": "Thomas Rymer",
+   "where": "A Short View of Tragedy (1693)",
+   "note": "Coined 'poetic justice'; attacked Othello"
+  },
+  {
+   "name": "Alexander Pope",
+   "where": "An Essay on Criticism (1711)",
+   "note": "Neoclassical poet-critic; 'Follow Nature'"
+  },
+  {
+   "name": "Samuel Johnson",
+   "where": "Preface to Shakespeare (1765); Lives of the Poets (1779-81)",
+   "note": "Neoclassical critic; popularised the label 'metaphysical poets'"
+  },
+  {
+   "name": "Imlac",
+   "where": "Johnson's Rasselas (1759)",
+   "note": "Poet-sage; 'streaks of the tulip' speech"
+  },
+  {
+   "name": "William Wordsworth",
+   "where": "Preface to Lyrical Ballads (1800/1802)",
+   "note": "Romantic theory of poetry and poetic diction"
+  },
+  {
+   "name": "S. T. Coleridge",
+   "where": "Biographia Literaria (1817)",
+   "note": "Imagination vs fancy; organic form"
+  },
+  {
+   "name": "John Keats",
+   "where": "Letters (1817-1820)",
+   "note": "Negative capability; 'egotistical sublime' on Wordsworth"
+  },
+  {
+   "name": "P. B. Shelley",
+   "where": "A Defence of Poetry (1821)",
+   "note": "Poets as unacknowledged legislators"
+  },
+  {
+   "name": "Thomas Love Peacock",
+   "where": "The Four Ages of Poetry (1820)",
+   "note": "Provoked Shelley's Defence"
+  },
+  {
+   "name": "Matthew Arnold",
+   "where": "The Study of Poetry (1880); Culture and Anarchy (1869)",
+   "note": "Touchstone method; sweetness and light"
+  },
+  {
+   "name": "Walter Pater",
+   "where": "The Renaissance (1873)",
+   "note": "Aesthetic critic; art for art's sake"
+  },
+  {
+   "name": "T. E. Hulme",
+   "where": "Romanticism and Classicism; Speculations (1924)",
+   "note": "Anti-Romantic; influenced Imagism and Eliot"
+  },
+  {
+   "name": "T. S. Eliot",
+   "where": "Tradition and the Individual Talent (1919)",
+   "note": "Impersonality, objective correlative, dissociation of sensibility"
+  },
+  {
+   "name": "Washington Allston",
+   "where": "Coined 'objective correlative' (c. 1840)",
+   "note": "Painter; Eliot made the term famous"
+  },
+  {
+   "name": "I. A. Richards",
+   "where": "Practical Criticism (1929)",
+   "note": "Father of practical criticism; tenor and vehicle"
+  },
+  {
+   "name": "C. K. Ogden",
+   "where": "The Meaning of Meaning (1923), with Richards",
+   "note": "Co-author; Basic English"
+  },
+  {
+   "name": "William Empson",
+   "where": "Seven Types of Ambiguity (1930)",
+   "note": "Richards's pupil; ambiguity in poetry"
+  },
+  {
+   "name": "F. R. Leavis",
+   "where": "The Great Tradition (1948); Scrutiny",
+   "note": "Moral, evaluative Cambridge critic"
+  },
+  {
+   "name": "Q. D. Leavis",
+   "where": "Fiction and the Reading Public (1932)",
+   "note": "Co-editor of Scrutiny; F. R. Leavis's wife"
+  },
+  {
+   "name": "C. P. Snow",
+   "where": "The Two Cultures (1959)",
+   "note": "Novelist-scientist attacked by Leavis"
+  },
+  {
+   "name": "John Crowe Ransom",
+   "where": "The New Criticism (1941)",
+   "note": "Named New Criticism; edited Kenyon Review"
+  },
+  {
+   "name": "Cleanth Brooks",
+   "where": "The Well Wrought Urn (1947)",
+   "note": "Paradox, irony, heresy of paraphrase"
+  },
+  {
+   "name": "Robert Penn Warren",
+   "where": "Understanding Poetry (1938), with Brooks",
+   "note": "New Critic; also novelist, All the King's Men"
+  },
+  {
+   "name": "Allen Tate",
+   "where": "Tension in Poetry (1938)",
+   "note": "Southern New Critic; concept of tension"
+  },
+  {
+   "name": "W. K. Wimsatt",
+   "where": "The Verbal Icon (1954)",
+   "note": "Intentional and affective fallacies with Beardsley"
+  },
+  {
+   "name": "Monroe C. Beardsley",
+   "where": "The Intentional Fallacy (1946), with Wimsatt",
+   "note": "Philosopher of aesthetics"
+  },
+  {
+   "name": "R. P. Blackmur",
+   "where": "Language as Gesture (1952)",
+   "note": "American New Critic"
+  },
+  {
+   "name": "René Wellek",
+   "where": "Theory of Literature (1949), with Austin Warren",
+   "note": "Intrinsic study; A History of Modern Criticism"
+  },
+  {
+   "name": "Northrop Frye",
+   "where": "Anatomy of Criticism (1957)",
+   "note": "Archetypal criticism; four mythoi"
+  },
+  {
+   "name": "Maud Bodkin",
+   "where": "Archetypal Patterns in Poetry (1934)",
+   "note": "Early Jungian archetypal critic"
+  },
+  {
+   "name": "Carl Gustav Jung",
+   "where": "Collective unconscious",
+   "note": "Psychologist; source of archetype idea"
+  },
+  {
+   "name": "James George Frazer",
+   "where": "The Golden Bough (1890)",
+   "note": "Anthropologist behind myth criticism"
+  },
+  {
+   "name": "Viktor Shklovsky",
+   "where": "Art as Technique (1917)",
+   "note": "Defamiliarization (ostranenie); OPOYAZ founder member"
+  },
+  {
+   "name": "Roman Jakobson",
+   "where": "Linguistics and Poetics (1960)",
+   "note": "Literariness; Moscow Linguistic Circle; later Prague"
+  },
+  {
+   "name": "Boris Eichenbaum",
+   "where": "The Theory of the Formal Method (1926)",
+   "note": "Formalist historian of the method"
+  },
+  {
+   "name": "Boris Tomashevsky",
+   "where": "Thematics (1925)",
+   "note": "Fabula/syuzhet; bound and free motifs"
+  },
+  {
+   "name": "Yury Tynyanov",
+   "where": "On Literary Evolution (1927)",
+   "note": "Literary system and dominant"
+  },
+  {
+   "name": "Vladimir Propp",
+   "where": "Morphology of the Folktale (1928)",
+   "note": "31 functions of folktale"
+  },
+  {
+   "name": "Mikhail Bakhtin",
+   "where": "Problems of Dostoevsky's Poetics (1929)",
+   "note": "Dialogism, polyphony; critic of Formalism"
+  }
+ ]
+}

@@ -1,0 +1,1634 @@
+{
+ "id": 10,
+ "pyq_focus": [
+  "NET mein Unit 10 se har paper mein 8-10 sawal aate hain, aur sabse zyada MLA Handbook se poochha jaata hai.",
+  "MLA 9th edition (2021) ke 9 core elements ka order ratna zaroori hai: Author, Title of source, Title of container, Other contributors, Version, Number, Publisher, Publication date, Location.",
+  "Works Cited entry mein punctuation, italics vs quotation marks, et al. ka use, aur 'Works Cited' heading jaise chhote details baar baar poochhe gaye hain.",
+  "In-text citation (author-page, jaise (Said 23)), hanging indent half inch, double spacing aur 1 inch margins yaad rakho.",
+  "Latin abbreviations (ibid., op. cit., loc. cit., et al., sic, viz., cf.) ke meaning par direct aur match-the-following sawal aate hain.",
+  "Plagiarism par UGC Regulations 2018 ke levels (0-10%, 10-40%, 40-60%, above 60%) aur unki penalties zaroor padho.",
+  "Research types (fundamental, applied, action, historical, descriptive), hypothesis, primary vs secondary sources aur research process ke steps ka order poochha jaata hai.",
+  "APA, Chicago, MHRA jaise dusre style manuals kis subject mein use hote hain, aur MLA ka kaunsa edition kab aaya, yeh chronology sawalon mein aata hai.",
+  "Preparation: MLA 9 ke sample entries khud likh kar practice karo, abbreviations ki list roz revise karo, aur pichhle 5 saal ke Unit 10 PYQ solve karo."
+ ],
+ "easy": [
+  {
+   "title": "What is Research: Types and Approaches",
+   "story": "Research matlab kisi sawal ka jawab dhang se, step by step dhoondhna. Jaise mummy ko pata karna ho ki doodh kyon phat gaya, to woh check karti hai: bartan, garmi, doodh ki date. Fundamental research sirf samajhne ke liye hoti hai, applied research kisi problem ko solve karne ke liye. Action research teacher apni hi class sudharne ke liye karta hai. Literary research mein hum texts, authors aur contexts ko dhyan se padhkar naya point nikaalte hain.",
+   "trick": "FAAD yaad rakho: Fundamental, Applied, Action, Descriptive. 'Research FAAD ke karo!'"
+  },
+  {
+   "title": "Steps of the Research Process",
+   "story": "Research ek recipe jaisi hai. Pehle decide karo kya banana hai (problem chunna), phir purani recipes dekho (review of literature). Phir guess karo ki kya result aayega (hypothesis), phir saaman jodo (data collection). Phir pakao aur chakho (analysis), aur aakhir mein sabko batao (report writing).",
+   "trick": "'Pyaar Ro Har Din Aaj Raat': Problem, Review, Hypothesis, Data, Analysis, Report."
+  },
+  {
+   "title": "Hypothesis",
+   "story": "Hypothesis ek samajhdaar andaza hai jise baad mein test kiya jaata hai. Jaise tum kaho, 'Shayad baarish ki wajah se Raju school nahi aaya,' aur phir pata karo ki sach hai ya nahi. Null hypothesis kehti hai ki koi farak ya rishta nahi hai. Alternative hypothesis kehti hai ki farak hai. Achhi hypothesis clear, testable aur chhoti honi chahiye.",
+   "trick": "Null = 'Nil', yaani kuch nahi; koi relation nahi. H0 ka zero yaad rakho."
+  },
+  {
+   "title": "Primary, Secondary and Tertiary Sources",
+   "story": "Primary source asli cheez hai, jaise khud Hamlet ka text ya kisi lekhak ki diary. Secondary source woh hai jo us asli cheez ke baare mein likha gaya, jaise Hamlet par critic ka essay. Tertiary source sab ko jama karke batata hai, jaise encyclopedia ya bibliography. Jaise mela khud dekhna primary hai, dost se sunna secondary, aur akhbaar ki list tertiary.",
+   "trick": "1-2-3: Asli, Asli ke baare mein, Sab ka summary (encyclopedia)."
+  },
+  {
+   "title": "Review of Literature",
+   "story": "Review of literature matlab tumhare topic par pehle kya kya likha ja chuka hai, uska jaayza lena. Jaise naya dukaan kholne se pehle dekhte ho ki gali mein kaunsi dukaanein pehle se hain. Isse research gap milta hai, yaani woh jagah jahan abhi kisi ne kaam nahi kiya. Review se repetition bhi bachta hai.",
+   "trick": "Review ka kaam: 'Gap dhoondo, gappe nahi.'"
+  },
+  {
+   "title": "MLA Handbook 9th Edition: Core Elements",
+   "story": "MLA 9th edition 2021 mein aaya. Ismein har source ko 9 core elements ki ek list se likhte hain, jaise tiffin ke 9 dabbe ek order mein. Author, Title of source, Title of container, Other contributors, Version, Number, Publisher, Publication date, Location. Container woh bada dabba hai jismein source rakha hai, jaise journal ya website.",
+   "trick": "'A Teacher Takes Our Village Near Pune Daily Lunch': Author, Title, Title of container, Other contributors, Version, Number, Publisher, Date, Location."
+  },
+  {
+   "title": "MLA 9: Works Cited Format and Examples",
+   "story": "Works Cited paper ke aakhir mein sources ki list hai, author ke surname ke alphabetical order mein. Har entry ki pehli line left mein, baaki lines aadha inch andar, isse hanging indent kehte hain. Kitab ka naam italics mein, aur essay ya poem ka naam quotation marks mein. Jaise class register mein naam surname se line mein lagte hain.",
+   "trick": "'Bada naam tircha, chhota naam quotes mein': book italics, article quotes."
+  },
+  {
+   "title": "MLA 9: In-text Citation and Manuscript Format",
+   "story": "Jab tum kisi ki baat apne paper mein likhte ho, to bracket mein uska naam aur page number dete ho, jaise (Eliot 47). Comma nahi lagta, aur 'p.' bhi nahi. Paper double spaced, 1 inch margin, aur readable font jaise Times New Roman 12 mein hota hai. Yeh sab thank you note jaisa hai, jo batata hai ki baat kiski hai.",
+   "trick": "(Naam Page), na comma na p: 'Naam page, bas itna hi kaafi!'"
+  },
+  {
+   "title": "APA, Chicago and Other Style Manuals",
+   "story": "Har subject ka apna citation ka tareeka hai, jaise har school ki apni uniform. MLA literature aur humanities ke liye, APA psychology aur social sciences ke liye, Chicago history aur publishing ke liye. APA mein saal bracket mein author ke baad aata hai, jaise (Smith, 2020). MHRA British humanities mein chalta hai.",
+   "trick": "'MLA Mein Literature, APA Mein Psychology, Chicago Mein History'."
+  },
+  {
+   "title": "Latin Abbreviations and Notes",
+   "story": "Purane scholar Latin ke chhote shabd use karte the taaki baar baar poora naam na likhna pade. Ibid. matlab wahi source jo abhi upar diya. Op. cit. matlab pehle diya gaya kaam. Et al. matlab aur log, sic matlab galti original mein hi hai. Jaise ghar mein 'wahi wala' bolkar kaam chala lete hain.",
+   "trick": "'Ibid = Isi Book mein Dobara'; 'Sic = Sach mein aisa hi likha tha'."
+  },
+  {
+   "title": "Plagiarism and UGC Regulations",
+   "story": "Plagiarism matlab kisi aur ka likha apna bata dena, jaise dost ka homework copy karke apne naam se dena. UGC ne 2018 mein regulations banaye. 10% tak similarity chalti hai, 10-40% par Level 1, 40-60% par Level 2, 60% se upar Level 3 penalty. Isse bachne ke liye har idea ka source batao.",
+   "trick": "'10 tak theek, 40 par chetavni, 60 par saza, upar to bada saza.'"
+  },
+  {
+   "title": "Research and Publication Ethics",
+   "story": "Ethics matlab research mein imaandaari. Data banana (fabrication), data badalna (falsification) aur copy karna (plagiarism) teen bade paap hain, inhe FFP kehte hain. Predatory journals paise lekar kuch bhi chhaap dete hain, unse bacho. COPE jaisi bodies publication ethics ke rules batati hain.",
+   "trick": "FFP: 'Fake, Fiddle, Pinch' = Fabrication, Falsification, Plagiarism."
+  },
+  {
+   "title": "Bibliography and Textual Criticism",
+   "story": "Bibliography sirf kitabon ki list nahi, kitab ko ek cheez ki tarah padhna bhi hai: kagaz, chhapai, editions. Textual criticism ka kaam hai lekhak ka asli text dhoondhna jab alag copies mein farak ho. Jaise Shakespeare ke Quarto aur Folio mein alag shabd milte hain. Greg ne 'copy-text' ka idea diya.",
+   "trick": "Greg ka 'copy-text' = 'sabse bharosemand copy ko base banao'."
+  },
+  {
+   "title": "Annotation, Abstract and Note-taking",
+   "story": "Annotation matlab kitab ke margin mein chhote notes likhna. Abstract research paper ka chhota summary hai, aam taur par 150-300 words, jo paper se pehle aata hai. Note-taking mein hum card ya app par quotes aur page number likhte hain. Jaise exam se pehle chhoti chit mein important points.",
+   "trick": "Abstract = 'Aage ka trailer', poori film nahi."
+  },
+  {
+   "title": "Structure of Thesis and Research Paper",
+   "story": "Thesis ek ghar ki tarah banta hai. Pehle title page, declaration, certificate, acknowledgement, phir abstract aur contents. Phir Introduction, chapters, aur Conclusion. Aakhir mein Works Cited ya Bibliography aur appendices. Har hissa apni jagah par hona chahiye.",
+   "trick": "IMRaD science paper ke liye: Introduction, Methods, Results and Discussion."
+  },
+  {
+   "title": "Archives and Archival Research",
+   "story": "Archive woh jagah hai jahan purane documents, letters, manuscripts sambhal kar rakhe jaate hain. Jaise dadi ka purana sandook jismein purani chitthiyan hoti hain. Archival research mein hum in asli papers ko padhkar itihaas ya lekhak ki zindagi samajhte hain. India mein National Archives of India New Delhi mein hai.",
+   "trick": "Archive = 'Dadi ka sandook', jahan sab asli aur purana."
+  },
+  {
+   "title": "Digital Humanities and Research Tools",
+   "story": "Digital Humanities matlab computer se literature padhna. Hazaaron novels ek saath computer se scan karke patterns dhoondhna, jaise Franco Moretti ka 'distant reading'. Zotero, Mendeley jaise tools references sambhalte hain. JSTOR, Project Gutenberg, Shodhganga jaise sites se papers aur books milti hain.",
+   "trick": "Shodhganga = Indian theses ki Ganga; Moretti = 'door se padho'."
+  },
+  {
+   "title": "Qualitative and Quantitative Methods",
+   "story": "Quantitative research numbers mein baat karti hai, jaise kitne students ne kitne marks liye. Qualitative research shabdon aur arth mein baat karti hai, jaise students kaisa mehsoos karte hain. Interview, case study qualitative hain, survey aur statistics quantitative. Dono milao to mixed method bante hain.",
+   "trick": "Quantity = Kitna (number); Quality = Kaisa (meaning)."
+  }
+ ],
+ "works": [
+  {
+   "author": "Modern Language Association",
+   "work": "MLA Handbook, 9th edition",
+   "year": "2021",
+   "type": "style manual",
+   "note": "Current edition; 9 core elements, containers; first since 8th"
+  },
+  {
+   "author": "Modern Language Association",
+   "work": "MLA Handbook, 8th edition",
+   "year": "2016",
+   "type": "style manual",
+   "note": "Introduced core elements and containers; one universal format"
+  },
+  {
+   "author": "Modern Language Association",
+   "work": "MLA Handbook for Writers of Research Papers, 7th edition",
+   "year": "2009",
+   "type": "style manual",
+   "note": "Added medium of publication (Print, Web); URLs optional"
+  },
+  {
+   "author": "Modern Language Association",
+   "work": "MLA Handbook for Writers of Research Papers, 6th edition",
+   "year": "2003",
+   "type": "style manual",
+   "note": "Edited by Joseph Gibaldi"
+  },
+  {
+   "author": "Modern Language Association",
+   "work": "MLA Handbook for Writers of Research Papers, 5th edition",
+   "year": "1999",
+   "type": "style manual",
+   "note": "Edited by Joseph Gibaldi"
+  },
+  {
+   "author": "Modern Language Association",
+   "work": "MLA Handbook for Writers of Research Papers, 4th edition",
+   "year": "1995",
+   "type": "style manual",
+   "note": "Edited by Joseph Gibaldi"
+  },
+  {
+   "author": "Modern Language Association",
+   "work": "MLA Handbook for Writers of Research Papers, 3rd edition",
+   "year": "1988",
+   "type": "style manual",
+   "note": "Gibaldi and Achtert"
+  },
+  {
+   "author": "Modern Language Association",
+   "work": "MLA Handbook for Writers of Research Papers, 2nd edition",
+   "year": "1984",
+   "type": "style manual",
+   "note": "Shifted MLA to parenthetical author-page citation"
+  },
+  {
+   "author": "Joseph Gibaldi and Walter S. Achtert",
+   "work": "MLA Handbook for Writers of Research Papers, Theses, and Dissertations (1st ed.)",
+   "year": "1977",
+   "type": "style manual",
+   "note": "First edition of the MLA Handbook"
+  },
+  {
+   "author": "William Riley Parker (comp.)",
+   "work": "The MLA Style Sheet",
+   "year": "1951",
+   "type": "style sheet",
+   "note": "Earliest MLA style guide, published in PMLA"
+  },
+  {
+   "author": "Walter S. Achtert and Joseph Gibaldi",
+   "work": "The MLA Style Manual",
+   "year": "1985",
+   "type": "style manual",
+   "note": "MLA's guide for scholars and graduate writers"
+  },
+  {
+   "author": "Modern Language Association",
+   "work": "MLA Style Manual and Guide to Scholarly Publishing, 3rd edition",
+   "year": "2008",
+   "type": "style manual",
+   "note": "Last edition; MLA later discontinued the Style Manual"
+  },
+  {
+   "author": "American Psychological Association",
+   "work": "Publication Manual of the APA, 7th edition",
+   "year": "2019",
+   "type": "style manual",
+   "note": "Current APA; author-date (Smith, 2020); social sciences"
+  },
+  {
+   "author": "American Psychological Association",
+   "work": "Publication Manual of the APA, 6th edition",
+   "year": "2009",
+   "type": "style manual",
+   "note": "Previous APA edition; DOI emphasised"
+  },
+  {
+   "author": "American Psychological Association",
+   "work": "Publication Manual of the APA, 1st edition",
+   "year": "1952",
+   "type": "style manual",
+   "note": "First standalone APA manual (guidelines began as 1929 article)"
+  },
+  {
+   "author": "University of Chicago Press",
+   "work": "The Chicago Manual of Style, 18th edition",
+   "year": "2024",
+   "type": "style manual",
+   "note": "Latest CMOS; notes-bibliography and author-date systems"
+  },
+  {
+   "author": "University of Chicago Press",
+   "work": "The Chicago Manual of Style, 17th edition",
+   "year": "2017",
+   "type": "style manual",
+   "note": "Used in history, publishing; footnotes and bibliography"
+  },
+  {
+   "author": "University of Chicago Press",
+   "work": "The Chicago Manual of Style, 16th edition",
+   "year": "2010",
+   "type": "style manual",
+   "note": "Earlier CMOS edition"
+  },
+  {
+   "author": "University of Chicago Press",
+   "work": "Manual of Style (1st ed. of Chicago Manual)",
+   "year": "1906",
+   "type": "style manual",
+   "note": "First Chicago style guide; oldest major US manual"
+  },
+  {
+   "author": "Kate L. Turabian",
+   "work": "A Manual for Writers of Research Papers, Theses, and Dissertations",
+   "year": "1937",
+   "type": "style manual",
+   "note": "Turabian style: student version of Chicago"
+  },
+  {
+   "author": "Kate L. Turabian",
+   "work": "A Manual for Writers ..., 9th edition",
+   "year": "2018",
+   "type": "style manual",
+   "note": "Turabian 9th ed., based on Chicago 17th"
+  },
+  {
+   "author": "Modern Humanities Research Association",
+   "work": "MHRA Style Guide, 3rd edition",
+   "year": "2013",
+   "type": "style manual",
+   "note": "British humanities style; footnote referencing"
+  },
+  {
+   "author": "Horace Hart",
+   "work": "Hart's Rules for Compositors and Readers",
+   "year": "1893",
+   "type": "style manual",
+   "note": "Oxford University Press house rules; origin of Oxford style"
+  },
+  {
+   "author": "R. M. Ritter",
+   "work": "The Oxford Guide to Style",
+   "year": "2002",
+   "type": "style manual",
+   "note": "Successor of Hart's Rules"
+  },
+  {
+   "author": "Oxford University Press",
+   "work": "New Hart's Rules",
+   "year": "2005",
+   "type": "style manual",
+   "note": "Oxford style handbook; Oxford comma tradition"
+  },
+  {
+   "author": "Council of Science Editors",
+   "work": "Scientific Style and Format, 8th edition",
+   "year": "2014",
+   "type": "style manual",
+   "note": "CSE style for sciences"
+  },
+  {
+   "author": "American Medical Association",
+   "work": "AMA Manual of Style, 11th edition",
+   "year": "2020",
+   "type": "style manual",
+   "note": "Medical journals; numbered references"
+  },
+  {
+   "author": "William Strunk Jr. and E. B. White",
+   "work": "The Elements of Style",
+   "year": "1959",
+   "type": "usage guide",
+   "note": "'Omit needless words'; White revised Strunk's 1918 booklet"
+  },
+  {
+   "author": "H. W. Fowler",
+   "work": "A Dictionary of Modern English Usage",
+   "year": "1926",
+   "type": "usage guide",
+   "note": "Classic British guide to English usage"
+  },
+  {
+   "author": "Lynne Truss",
+   "work": "Eats, Shoots & Leaves",
+   "year": "2003",
+   "type": "book",
+   "note": "Popular book on punctuation"
+  },
+  {
+   "author": "George Orwell",
+   "work": "Politics and the English Language",
+   "year": "1946",
+   "type": "essay",
+   "note": "Six rules of clear writing"
+  },
+  {
+   "author": "Richard D. Altick",
+   "work": "The Art of Literary Research",
+   "year": "1963",
+   "type": "research methods book",
+   "note": "Classic guide to literary research; later with John J. Fenstermaker"
+  },
+  {
+   "author": "Richard D. Altick",
+   "work": "The Scholar Adventurers",
+   "year": "1950",
+   "type": "book",
+   "note": "Stories of literary detective scholarship"
+  },
+  {
+   "author": "Jacques Barzun and Henry F. Graff",
+   "work": "The Modern Researcher",
+   "year": "1957",
+   "type": "research methods book",
+   "note": "Classic guide to historical research and writing"
+  },
+  {
+   "author": "James Thorpe (ed.)",
+   "work": "The Aims and Methods of Scholarship in Modern Languages and Literatures",
+   "year": "1963",
+   "type": "essay collection",
+   "note": "MLA volume on scholarly methods"
+  },
+  {
+   "author": "George Watson",
+   "work": "The Literary Thesis: A Guide to Research",
+   "year": "1970",
+   "type": "research methods book",
+   "note": "Guide for English literature thesis writers"
+  },
+  {
+   "author": "Gabriele Griffin (ed.)",
+   "work": "Research Methods for English Studies",
+   "year": "2005",
+   "type": "research methods book",
+   "note": "Methods specific to English studies; 2nd ed 2013"
+  },
+  {
+   "author": "Wayne C. Booth, Gregory G. Colomb and Joseph M. Williams",
+   "work": "The Craft of Research",
+   "year": "1995",
+   "type": "research methods book",
+   "note": "Research as asking questions and making arguments"
+  },
+  {
+   "author": "Umberto Eco",
+   "work": "How to Write a Thesis (Come si fa una tesi di laurea)",
+   "year": "1977",
+   "type": "research methods book",
+   "note": "Italian original 1977; English translation 2015"
+  },
+  {
+   "author": "C. R. Kothari",
+   "work": "Research Methodology: Methods and Techniques",
+   "year": "1985",
+   "type": "research methods book",
+   "note": "Most used Indian research methodology textbook"
+  },
+  {
+   "author": "Ranjit Kumar",
+   "work": "Research Methodology: A Step-by-Step Guide for Beginners",
+   "year": "1996",
+   "type": "research methods book",
+   "note": "Popular beginners' guide to research steps"
+  },
+  {
+   "author": "John W. Creswell",
+   "work": "Research Design: Qualitative and Quantitative Approaches",
+   "year": "1994",
+   "type": "research methods book",
+   "note": "Later editions add mixed methods"
+  },
+  {
+   "author": "John W. Creswell",
+   "work": "Qualitative Inquiry and Research Design",
+   "year": "1998",
+   "type": "research methods book",
+   "note": "Five qualitative approaches"
+  },
+  {
+   "author": "Norman K. Denzin and Yvonna S. Lincoln (eds.)",
+   "work": "Handbook of Qualitative Research",
+   "year": "1994",
+   "type": "handbook",
+   "note": "Standard reference on qualitative research"
+  },
+  {
+   "author": "Yvonna S. Lincoln and Egon G. Guba",
+   "work": "Naturalistic Inquiry",
+   "year": "1985",
+   "type": "research methods book",
+   "note": "Trustworthiness criteria in qualitative research"
+  },
+  {
+   "author": "Fred N. Kerlinger",
+   "work": "Foundations of Behavioral Research",
+   "year": "1964",
+   "type": "research methods book",
+   "note": "Famous definitions of research and hypothesis"
+  },
+  {
+   "author": "John W. Best",
+   "work": "Research in Education",
+   "year": "1959",
+   "type": "research methods book",
+   "note": "Classic education research text; later with James V. Kahn"
+  },
+  {
+   "author": "Earl Babbie",
+   "work": "The Practice of Social Research",
+   "year": "1975",
+   "type": "research methods book",
+   "note": "Standard social research textbook"
+  },
+  {
+   "author": "William J. Goode and Paul K. Hatt",
+   "work": "Methods in Social Research",
+   "year": "1952",
+   "type": "research methods book",
+   "note": "Hypothesis definition often quoted"
+  },
+  {
+   "author": "Pauline V. Young",
+   "work": "Scientific Social Surveys and Research",
+   "year": "1939",
+   "type": "research methods book",
+   "note": "Classic definition of social research"
+  },
+  {
+   "author": "L. L. Redman and A. V. H. Mory",
+   "work": "The Romance of Research",
+   "year": "1923",
+   "type": "book",
+   "note": "Research as 'systematized effort to gain new knowledge'"
+  },
+  {
+   "author": "Barney Glaser and Anselm Strauss",
+   "work": "The Discovery of Grounded Theory",
+   "year": "1967",
+   "type": "research methods book",
+   "note": "Founded grounded theory method"
+  },
+  {
+   "author": "Robert K. Yin",
+   "work": "Case Study Research: Design and Methods",
+   "year": "1984",
+   "type": "research methods book",
+   "note": "Standard guide to case study method"
+  },
+  {
+   "author": "Clifford Geertz",
+   "work": "The Interpretation of Cultures",
+   "year": "1973",
+   "type": "book",
+   "note": "'Thick description' in qualitative research"
+  },
+  {
+   "author": "Chris Hart",
+   "work": "Doing a Literature Review",
+   "year": "1998",
+   "type": "research methods book",
+   "note": "Guide to writing a review of literature"
+  },
+  {
+   "author": "Mortimer J. Adler",
+   "work": "How to Read a Book",
+   "year": "1940",
+   "type": "book",
+   "note": "Active reading and marking a book (annotation)"
+  },
+  {
+   "author": "Gerald Graff and Cathy Birkenstein",
+   "work": "They Say / I Say",
+   "year": "2006",
+   "type": "writing guide",
+   "note": "Templates for entering academic conversation"
+  },
+  {
+   "author": "Paul Oliver",
+   "work": "The Student's Guide to Research Ethics",
+   "year": "2003",
+   "type": "book",
+   "note": "Introductory guide to research ethics"
+  },
+  {
+   "author": "Thomas Mallon",
+   "work": "Stolen Words",
+   "year": "1989",
+   "type": "book",
+   "note": "History of plagiarism in literature"
+  },
+  {
+   "author": "Francis Bacon",
+   "work": "Novum Organum",
+   "year": "1620",
+   "type": "philosophical treatise",
+   "note": "Inductive scientific method; 'idols of the mind'"
+  },
+  {
+   "author": "Rene Descartes",
+   "work": "Discourse on Method",
+   "year": "1637",
+   "type": "philosophical treatise",
+   "note": "Method of doubt; 'I think, therefore I am'"
+  },
+  {
+   "author": "John Stuart Mill",
+   "work": "A System of Logic",
+   "year": "1843",
+   "type": "philosophical treatise",
+   "note": "Mill's methods of induction (agreement, difference)"
+  },
+  {
+   "author": "John Dewey",
+   "work": "How We Think",
+   "year": "1910",
+   "type": "book",
+   "note": "Steps of reflective thinking; basis of research process"
+  },
+  {
+   "author": "John Dewey",
+   "work": "Logic: The Theory of Inquiry",
+   "year": "1938",
+   "type": "philosophical treatise",
+   "note": "Theory of inquiry"
+  },
+  {
+   "author": "Karl Popper",
+   "work": "The Logic of Scientific Discovery",
+   "year": "1959",
+   "type": "philosophical treatise",
+   "note": "Falsifiability; German original Logik der Forschung 1934"
+  },
+  {
+   "author": "Karl Popper",
+   "work": "Conjectures and Refutations",
+   "year": "1963",
+   "type": "philosophical treatise",
+   "note": "Science grows by conjecture and refutation"
+  },
+  {
+   "author": "Thomas S. Kuhn",
+   "work": "The Structure of Scientific Revolutions",
+   "year": "1962",
+   "type": "philosophical treatise",
+   "note": "Paradigm and paradigm shift"
+  },
+  {
+   "author": "R. B. McKerrow",
+   "work": "An Introduction to Bibliography for Literary Students",
+   "year": "1927",
+   "type": "bibliography manual",
+   "note": "Founding text of analytical bibliography"
+  },
+  {
+   "author": "R. B. McKerrow",
+   "work": "Prolegomena for the Oxford Shakespeare",
+   "year": "1939",
+   "type": "textual study",
+   "note": "Editorial principles for Shakespeare"
+  },
+  {
+   "author": "A. W. Pollard",
+   "work": "Shakespeare's Folios and Quartos",
+   "year": "1909",
+   "type": "bibliographical study",
+   "note": "Distinguished 'good' and 'bad' quartos"
+  },
+  {
+   "author": "A. W. Pollard and G. R. Redgrave",
+   "work": "A Short-Title Catalogue of Books Printed in England ... 1475-1640",
+   "year": "1926",
+   "type": "reference bibliography",
+   "note": "The STC; standard early English book catalogue"
+  },
+  {
+   "author": "Donald Wing",
+   "work": "Short-Title Catalogue ... 1641-1700",
+   "year": "1945",
+   "type": "reference bibliography",
+   "note": "Wing STC; continues Pollard and Redgrave"
+  },
+  {
+   "author": "W. W. Greg",
+   "work": "The Editorial Problem in Shakespeare",
+   "year": "1942",
+   "type": "textual study",
+   "note": "Shakespeare's text and its transmission"
+  },
+  {
+   "author": "W. W. Greg",
+   "work": "The Rationale of Copy-Text",
+   "year": "1950",
+   "type": "essay",
+   "note": "Copy-text theory: accidentals vs substantives"
+  },
+  {
+   "author": "Fredson Bowers",
+   "work": "Principles of Bibliographical Description",
+   "year": "1949",
+   "type": "bibliography manual",
+   "note": "Standard for descriptive bibliography"
+  },
+  {
+   "author": "Fredson Bowers",
+   "work": "Textual and Literary Criticism",
+   "year": "1959",
+   "type": "essay collection",
+   "note": "Link between textual and literary criticism"
+  },
+  {
+   "author": "A. E. Housman",
+   "work": "The Application of Thought to Textual Criticism",
+   "year": "1921",
+   "type": "lecture/essay",
+   "note": "Textual criticism as science and art"
+  },
+  {
+   "author": "Paul Maas",
+   "work": "Textual Criticism (Textkritik)",
+   "year": "1927",
+   "type": "textual study",
+   "note": "Stemmatics; English translation 1958"
+  },
+  {
+   "author": "Charlton Hinman",
+   "work": "The Printing and Proof-Reading of the First Folio of Shakespeare",
+   "year": "1963",
+   "type": "bibliographical study",
+   "note": "Used the Hinman Collator"
+  },
+  {
+   "author": "Philip Gaskell",
+   "work": "A New Introduction to Bibliography",
+   "year": "1972",
+   "type": "bibliography manual",
+   "note": "Replaced McKerrow as standard guide"
+  },
+  {
+   "author": "Philip Gaskell",
+   "work": "From Writer to Reader",
+   "year": "1978",
+   "type": "textual study",
+   "note": "Studies in editorial method"
+  },
+  {
+   "author": "Jerome J. McGann",
+   "work": "A Critique of Modern Textual Criticism",
+   "year": "1983",
+   "type": "textual study",
+   "note": "Social theory of the text; challenged Greg-Bowers"
+  },
+  {
+   "author": "Jerome J. McGann",
+   "work": "The Textual Condition",
+   "year": "1991",
+   "type": "textual study",
+   "note": "Texts as social events"
+  },
+  {
+   "author": "Jerome J. McGann",
+   "work": "Radiant Textuality",
+   "year": "2001",
+   "type": "digital humanities book",
+   "note": "Literature after the World Wide Web"
+  },
+  {
+   "author": "D. F. McKenzie",
+   "work": "Bibliography and the Sociology of Texts",
+   "year": "1986",
+   "type": "bibliographical study",
+   "note": "Panizzi Lectures; sociology of texts"
+  },
+  {
+   "author": "G. Thomas Tanselle",
+   "work": "A Rationale of Textual Criticism",
+   "year": "1989",
+   "type": "textual study",
+   "note": "Defence of authorial intention in editing"
+  },
+  {
+   "author": "James Thorpe",
+   "work": "Principles of Textual Criticism",
+   "year": "1972",
+   "type": "textual study",
+   "note": "Textual criticism for literary scholars"
+  },
+  {
+   "author": "Peter Shillingsburg",
+   "work": "Scholarly Editing in the Computer Age",
+   "year": "1984",
+   "type": "textual study",
+   "note": "Editing theory and practice"
+  },
+  {
+   "author": "Hilary Jenkinson",
+   "work": "A Manual of Archive Administration",
+   "year": "1922",
+   "type": "archival manual",
+   "note": "Classic British archive theory; custody of records"
+  },
+  {
+   "author": "T. R. Schellenberg",
+   "work": "Modern Archives: Principles and Techniques",
+   "year": "1956",
+   "type": "archival manual",
+   "note": "American archival appraisal theory"
+  },
+  {
+   "author": "Michel Foucault",
+   "work": "The Archaeology of Knowledge",
+   "year": "1969",
+   "type": "theory text",
+   "note": "Archive as 'law of what can be said'"
+  },
+  {
+   "author": "Jacques Derrida",
+   "work": "Archive Fever (Mal d'archive)",
+   "year": "1995",
+   "type": "theory text",
+   "note": "Archive, memory and power; English 1996"
+  },
+  {
+   "author": "Carolyn Steedman",
+   "work": "Dust: The Archive and Cultural History",
+   "year": "2001",
+   "type": "book",
+   "note": "Historian's experience of the archive"
+  },
+  {
+   "author": "Roberto Busa",
+   "work": "Index Thomisticus",
+   "year": "1974",
+   "type": "computational concordance",
+   "note": "Begun 1949 with IBM; founding DH project"
+  },
+  {
+   "author": "Franco Moretti",
+   "work": "Conjectures on World Literature",
+   "year": "2000",
+   "type": "essay",
+   "note": "Coined 'distant reading' (New Left Review)"
+  },
+  {
+   "author": "Franco Moretti",
+   "work": "Graphs, Maps, Trees",
+   "year": "2005",
+   "type": "digital humanities book",
+   "note": "Quantitative models of literary history"
+  },
+  {
+   "author": "Franco Moretti",
+   "work": "Distant Reading",
+   "year": "2013",
+   "type": "essay collection",
+   "note": "Collected essays on distant reading"
+  },
+  {
+   "author": "Matthew L. Jockers",
+   "work": "Macroanalysis: Digital Methods and Literary History",
+   "year": "2013",
+   "type": "digital humanities book",
+   "note": "Text mining thousands of novels"
+  },
+  {
+   "author": "Susan Schreibman, Ray Siemens and John Unsworth (eds.)",
+   "work": "A Companion to Digital Humanities",
+   "year": "2004",
+   "type": "handbook",
+   "note": "Key DH reference volume"
+  },
+  {
+   "author": "Matthew K. Gold (ed.)",
+   "work": "Debates in the Digital Humanities",
+   "year": "2012",
+   "type": "essay collection",
+   "note": "Debates on the scope of DH"
+  },
+  {
+   "author": "Stephen Ramsay",
+   "work": "Reading Machines: Toward an Algorithmic Criticism",
+   "year": "2011",
+   "type": "digital humanities book",
+   "note": "Algorithmic criticism"
+  },
+  {
+   "author": "N. Katherine Hayles",
+   "work": "How We Think: Digital Media and Contemporary Technogenesis",
+   "year": "2012",
+   "type": "theory text",
+   "note": "Close, hyper and machine reading"
+  },
+  {
+   "author": "Willard McCarty",
+   "work": "Humanities Computing",
+   "year": "2005",
+   "type": "digital humanities book",
+   "note": "Theory of humanities computing"
+  },
+  {
+   "author": "Text Encoding Initiative",
+   "work": "TEI Guidelines",
+   "year": "1987",
+   "type": "encoding standard",
+   "note": "TEI founded 1987; XML encoding of texts (P5 2007)"
+  },
+  {
+   "author": "Michael S. Hart",
+   "work": "Project Gutenberg",
+   "year": "1971",
+   "type": "digital library",
+   "note": "First digital library of free e-books"
+  },
+  {
+   "author": "JSTOR",
+   "work": "JSTOR digital journal archive",
+   "year": "1995",
+   "type": "digital archive",
+   "note": "Archive of scholarly journals"
+  },
+  {
+   "author": "Google",
+   "work": "Google Scholar",
+   "year": "2004",
+   "type": "search engine",
+   "note": "Scholarly literature search; citation counts"
+  },
+  {
+   "author": "Samuel Johnson",
+   "work": "A Dictionary of the English Language",
+   "year": "1755",
+   "type": "dictionary",
+   "note": "First major English dictionary"
+  },
+  {
+   "author": "Noah Webster",
+   "work": "An American Dictionary of the English Language",
+   "year": "1828",
+   "type": "dictionary",
+   "note": "American spelling standard"
+  },
+  {
+   "author": "James Murray et al. (eds.)",
+   "work": "Oxford English Dictionary (A New English Dictionary on Historical Principles)",
+   "year": "1928",
+   "type": "dictionary",
+   "note": "Completed 1884-1928; 2nd ed 1989"
+  },
+  {
+   "author": "Peter Mark Roget",
+   "work": "Thesaurus of English Words and Phrases",
+   "year": "1852",
+   "type": "thesaurus",
+   "note": "Roget's Thesaurus"
+  },
+  {
+   "author": "Leslie Stephen (ed.)",
+   "work": "Dictionary of National Biography",
+   "year": "1885",
+   "type": "biographical dictionary",
+   "note": "Published 1885-1900; Oxford DNB 2004"
+  },
+  {
+   "author": "A. W. Ward and A. R. Waller (eds.)",
+   "work": "The Cambridge History of English Literature",
+   "year": "1907",
+   "type": "literary history",
+   "note": "Published 1907-1927 in 15 volumes"
+  },
+  {
+   "author": "F. W. Bateson (ed.)",
+   "work": "The Cambridge Bibliography of English Literature",
+   "year": "1940",
+   "type": "reference bibliography",
+   "note": "CBEL; New CBEL ed. George Watson 1969-77"
+  },
+  {
+   "author": "Paul Harvey (ed.)",
+   "work": "The Oxford Companion to English Literature",
+   "year": "1932",
+   "type": "literary reference",
+   "note": "Later eds by Drabble (2000) and Birch (2009)"
+  },
+  {
+   "author": "M. H. Abrams",
+   "work": "A Glossary of Literary Terms",
+   "year": "1957",
+   "type": "literary reference",
+   "note": "Standard glossary for NET literary terms"
+  },
+  {
+   "author": "J. A. Cuddon",
+   "work": "A Dictionary of Literary Terms",
+   "year": "1977",
+   "type": "literary reference",
+   "note": "Later Penguin Dictionary of Literary Terms and Literary Theory"
+  },
+  {
+   "author": "M. H. Abrams (gen. ed.)",
+   "work": "The Norton Anthology of English Literature",
+   "year": "1962",
+   "type": "anthology",
+   "note": "Standard anthology for English studies"
+  },
+  {
+   "author": "Modern Language Association",
+   "work": "MLA International Bibliography",
+   "year": "1921",
+   "type": "reference bibliography",
+   "note": "Began 1921 as American Bibliography in PMLA; annual"
+  },
+  {
+   "author": "Modern Humanities Research Association",
+   "work": "Annual Bibliography of English Language and Literature (ABELL)",
+   "year": "1920",
+   "type": "reference bibliography",
+   "note": "Annual since 1920"
+  },
+  {
+   "author": "English Association",
+   "work": "The Year's Work in English Studies",
+   "year": "1921",
+   "type": "reference review",
+   "note": "Annual survey of English scholarship"
+  },
+  {
+   "author": "Encyclopaedia Britannica",
+   "work": "Encyclopaedia Britannica (1st ed.)",
+   "year": "1768",
+   "type": "encyclopedia",
+   "note": "Tertiary source; first ed. 1768-1771 Edinburgh"
+  },
+  {
+   "author": "Nuremberg Military Tribunal",
+   "work": "The Nuremberg Code",
+   "year": "1947",
+   "type": "ethics code",
+   "note": "Voluntary informed consent essential"
+  },
+  {
+   "author": "World Medical Association",
+   "work": "Declaration of Helsinki",
+   "year": "1964",
+   "type": "ethics code",
+   "note": "Ethics of research on human subjects"
+  },
+  {
+   "author": "US National Commission",
+   "work": "The Belmont Report",
+   "year": "1979",
+   "type": "ethics report",
+   "note": "Respect for persons, beneficence, justice"
+  },
+  {
+   "author": "University Grants Commission",
+   "work": "UGC (Promotion of Academic Integrity and Prevention of Plagiarism in HEIs) Regulations",
+   "year": "2018",
+   "type": "regulation",
+   "note": "Plagiarism levels 0-10, 10-40, 40-60, above 60 percent"
+  },
+  {
+   "author": "University Grants Commission",
+   "work": "UGC (Minimum Standards and Procedures for Award of PhD Degree) Regulations",
+   "year": "2022",
+   "type": "regulation",
+   "note": "Current PhD rules; replaced 2016 regulations"
+  },
+  {
+   "author": "University Grants Commission",
+   "work": "UGC (Minimum Standards and Procedure for Award of M.Phil./Ph.D. Degree) Regulations",
+   "year": "2016",
+   "type": "regulation",
+   "note": "Earlier PhD regulations"
+  },
+  {
+   "author": "University Grants Commission",
+   "work": "UGC-CARE Reference List",
+   "year": "2019",
+   "type": "journal list",
+   "note": "Consortium for Academic and Research Ethics journal list"
+  },
+  {
+   "author": "University Grants Commission",
+   "work": "Research and Publication Ethics (RPE) course",
+   "year": "2019",
+   "type": "course",
+   "note": "Made compulsory in PhD coursework"
+  },
+  {
+   "author": "Parliament of the UK",
+   "work": "Statute of Anne",
+   "year": "1710",
+   "type": "law",
+   "note": "First copyright statute"
+  },
+  {
+   "author": "Berne Convention",
+   "work": "Berne Convention for the Protection of Literary and Artistic Works",
+   "year": "1886",
+   "type": "international treaty",
+   "note": "International copyright protection"
+  },
+  {
+   "author": "Government of India",
+   "work": "The Copyright Act",
+   "year": "1957",
+   "type": "law",
+   "note": "Indian copyright law; amended 2012"
+  },
+  {
+   "author": "Budapest Open Access Initiative",
+   "work": "Budapest Open Access Initiative",
+   "year": "2002",
+   "type": "declaration",
+   "note": "Defined open access"
+  },
+  {
+   "author": "US Office of Science and Technology Policy",
+   "work": "Federal Research Misconduct Policy",
+   "year": "2000",
+   "type": "policy",
+   "note": "Defined misconduct as FFP"
+  },
+  {
+   "author": "World Conference on Research Integrity",
+   "work": "Singapore Statement on Research Integrity",
+   "year": "2010",
+   "type": "ethics statement",
+   "note": "Global principles of research integrity"
+  },
+  {
+   "author": "American Society for Cell Biology et al.",
+   "work": "San Francisco Declaration on Research Assessment (DORA)",
+   "year": "2012",
+   "type": "declaration",
+   "note": "Against journal impact factor for evaluating researchers"
+  },
+  {
+   "author": "Eugene Garfield",
+   "work": "Science Citation Index",
+   "year": "1964",
+   "type": "citation index",
+   "note": "Basis of impact factor; Web of Science"
+  },
+  {
+   "author": "S. R. Ranganathan",
+   "work": "The Five Laws of Library Science",
+   "year": "1931",
+   "type": "library science text",
+   "note": "'Books are for use'"
+  },
+  {
+   "author": "S. R. Ranganathan",
+   "work": "Colon Classification",
+   "year": "1933",
+   "type": "classification scheme",
+   "note": "Faceted library classification"
+  },
+  {
+   "author": "Melvil Dewey",
+   "work": "Dewey Decimal Classification",
+   "year": "1876",
+   "type": "classification scheme",
+   "note": "Library classification by numbers"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "Research is a systematized effort to gain new knowledge.",
+   "by": "L. L. Redman and A. V. H. Mory",
+   "source": "The Romance of Research, 1923"
+  },
+  {
+   "quote": "Research comprises defining and redefining problems, formulating hypothesis or suggested solutions; collecting, organising and evaluating data; making deductions and reaching conclusions; and at last carefully testing the conclusions to determine whether they fit the formulating hypothesis.",
+   "by": "Clifford Woody",
+   "source": "quoted in C. R. Kothari, Research Methodology"
+  },
+  {
+   "quote": "Scientific research is systematic, controlled, empirical, and critical investigation of hypothetical propositions about the presumed relations among natural phenomena.",
+   "by": "Fred N. Kerlinger",
+   "source": "Foundations of Behavioral Research, 1964"
+  },
+  {
+   "quote": "A hypothesis is a conjectural statement of the relation between two or more variables.",
+   "by": "Fred N. Kerlinger",
+   "source": "Foundations of Behavioral Research, 1964"
+  },
+  {
+   "quote": "A hypothesis is a proposition which can be put to a test to determine its validity.",
+   "by": "William J. Goode and Paul K. Hatt",
+   "source": "Methods in Social Research, 1952"
+  },
+  {
+   "quote": "A hypothesis is a tentative generalization, the validity of which remains to be tested.",
+   "by": "George A. Lundberg",
+   "source": "Social Research"
+  },
+  {
+   "quote": "Social research is a systematic method of discovering new facts or verifying old facts, their sequence, interrelationships, causal explanations and the natural laws which govern them.",
+   "by": "Pauline V. Young",
+   "source": "Scientific Social Surveys and Research, 1939"
+  },
+  {
+   "quote": "Research is a careful investigation or inquiry specially through search for new facts in any branch of knowledge.",
+   "by": "Advanced Learner's Dictionary of Current English",
+   "source": "dictionary definition of research"
+  },
+  {
+   "quote": "Research is simply gathering the information you need to answer a question and thereby help you solve a problem.",
+   "by": "Wayne C. Booth, Gregory G. Colomb and Joseph M. Williams",
+   "source": "The Craft of Research, 1995"
+  },
+  {
+   "quote": "Research is formalized curiosity. It is poking and prying with a purpose.",
+   "by": "Zora Neale Hurston",
+   "source": "Dust Tracks on a Road, 1942"
+  },
+  {
+   "quote": "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends.",
+   "by": "John Dewey",
+   "source": "How We Think, 1910 (definition of reflective thought)"
+  },
+  {
+   "quote": "The criterion of the scientific status of a theory is its falsifiability, or refutability, or testability.",
+   "by": "Karl Popper",
+   "source": "Conjectures and Refutations, 1963"
+  },
+  {
+   "quote": "Paradigms are universally recognized scientific achievements that for a time provide model problems and solutions to a community of practitioners.",
+   "by": "Thomas S. Kuhn",
+   "source": "The Structure of Scientific Revolutions, 1962"
+  },
+  {
+   "quote": "If I have seen further it is by standing on the shoulders of Giants.",
+   "by": "Isaac Newton",
+   "source": "letter to Robert Hooke, 1675 (often used for review of literature)"
+  },
+  {
+   "quote": "Knowledge is of two kinds. We know a subject ourselves, or we know where we can find information upon it.",
+   "by": "Samuel Johnson",
+   "source": "in James Boswell, The Life of Samuel Johnson, 1791"
+  },
+  {
+   "quote": "Lexicographer: a writer of dictionaries; a harmless drudge.",
+   "by": "Samuel Johnson",
+   "source": "A Dictionary of the English Language, 1755"
+  },
+  {
+   "quote": "Qualitative research is an approach for exploring and understanding the meaning individuals or groups ascribe to a social or human problem.",
+   "by": "John W. Creswell",
+   "source": "Research Design, 3rd ed., 2009"
+  },
+  {
+   "quote": "Quantitative research is an approach for testing objective theories by examining the relationship among variables.",
+   "by": "John W. Creswell",
+   "source": "Research Design, 3rd ed., 2009"
+  },
+  {
+   "quote": "Man is an animal suspended in webs of significance he himself has spun.",
+   "by": "Clifford Geertz",
+   "source": "The Interpretation of Cultures, 1973"
+  },
+  {
+   "quote": "Plagiarism means the practice of taking someone else's work or idea and passing them as one's own.",
+   "by": "University Grants Commission",
+   "source": "UGC Plagiarism Regulations, 2018"
+  },
+  {
+   "quote": "Plagiarism is presenting another person's ideas, information, expressions, or entire work as one's own.",
+   "by": "Modern Language Association",
+   "source": "MLA Handbook"
+  },
+  {
+   "quote": "Research misconduct is defined as fabrication, falsification, or plagiarism in proposing, performing, or reviewing research, or in reporting research results.",
+   "by": "US Office of Science and Technology Policy",
+   "source": "Federal Research Misconduct Policy, 2000"
+  },
+  {
+   "quote": "The voluntary consent of the human subject is absolutely essential.",
+   "by": "The Nuremberg Code",
+   "source": "Nuremberg Code, 1947 (first principle)"
+  },
+  {
+   "quote": "Three basic ethical principles: respect for persons, beneficence and justice.",
+   "by": "US National Commission for the Protection of Human Subjects",
+   "source": "The Belmont Report, 1979"
+  },
+  {
+   "quote": "Immature poets imitate; mature poets steal.",
+   "by": "T. S. Eliot",
+   "source": "essay on Philip Massinger, The Sacred Wood, 1920"
+  },
+  {
+   "quote": "Textual criticism is a science, and, since it comprises recension and emendation, it is also an art. It is the science of discovering error in texts and the art of removing it.",
+   "by": "A. E. Housman",
+   "source": "The Application of Thought to Textual Criticism, 1921"
+  },
+  {
+   "quote": "The copy-text should govern (generally) in the matter of accidentals, but the choice between substantive readings belongs to the general theory of textual criticism.",
+   "by": "W. W. Greg",
+   "source": "The Rationale of Copy-Text, 1950"
+  },
+  {
+   "quote": "Bibliography is the discipline that studies texts as recorded forms, and the processes of their transmission, including their production and reception.",
+   "by": "D. F. McKenzie",
+   "source": "Bibliography and the Sociology of Texts, 1986"
+  },
+  {
+   "quote": "Distance, let me repeat it, is a condition of knowledge: it allows you to focus on units that are much smaller or much larger than the text.",
+   "by": "Franco Moretti",
+   "source": "Conjectures on World Literature, 2000"
+  },
+  {
+   "quote": "The archive is first the law of what can be said.",
+   "by": "Michel Foucault",
+   "source": "The Archaeology of Knowledge, 1969"
+  },
+  {
+   "quote": "There is no political power without control of the archive, if not of memory.",
+   "by": "Jacques Derrida",
+   "source": "Archive Fever, 1995"
+  },
+  {
+   "quote": "Omit needless words.",
+   "by": "William Strunk Jr.",
+   "source": "The Elements of Style"
+  },
+  {
+   "quote": "Never use a long word where a short one will do.",
+   "by": "George Orwell",
+   "source": "Politics and the English Language, 1946"
+  },
+  {
+   "quote": "Books are for use.",
+   "by": "S. R. Ranganathan",
+   "source": "The Five Laws of Library Science, 1931 (first law)"
+  },
+  {
+   "quote": "Ibid. (ibidem) means 'in the same place': the same source as the note immediately before.",
+   "by": "Latin abbreviation",
+   "source": "standard scholarly usage"
+  },
+  {
+   "quote": "Op. cit. (opere citato) means 'in the work cited' earlier; loc. cit. (loco citato) means 'in the place cited'.",
+   "by": "Latin abbreviations",
+   "source": "standard scholarly usage"
+  },
+  {
+   "quote": "Et al. (et alii) means 'and others'; MLA 9 uses it for a source with three or more authors.",
+   "by": "Latin abbreviation",
+   "source": "MLA Handbook, 9th ed., 2021"
+  },
+  {
+   "quote": "Sic means 'thus': the error is in the original quotation.",
+   "by": "Latin term",
+   "source": "standard scholarly usage"
+  },
+  {
+   "quote": "Cf. (confer) means 'compare'; viz. (videlicet) means 'namely'; passim means 'here and there throughout'.",
+   "by": "Latin abbreviations",
+   "source": "standard scholarly usage"
+  },
+  {
+   "quote": "A container is the larger whole that holds a source, such as a journal holding an article or a website holding a page.",
+   "by": "Modern Language Association",
+   "source": "MLA Handbook, 8th ed. 2016 and 9th ed. 2021 (concept)"
+  },
+  {
+   "quote": "Distant reading: understanding literature not by studying particular texts but by aggregating and analysing massive amounts of data.",
+   "by": "Franco Moretti",
+   "source": "concept from Conjectures on World Literature, 2000"
+  }
+ ],
+ "people": [
+  {
+   "name": "Modern Language Association (MLA)",
+   "where": "Founded 1883, USA; publishes MLA Handbook (9th ed. 2021) and PMLA",
+   "note": "Body behind MLA style, the standard for literature and humanities"
+  },
+  {
+   "name": "American Psychological Association (APA)",
+   "where": "Founded 1892, USA; Publication Manual (7th ed. 2019)",
+   "note": "Author-date style used in psychology and social sciences"
+  },
+  {
+   "name": "University of Chicago Press",
+   "where": "Founded 1891; The Chicago Manual of Style (1906; 18th ed. 2024)",
+   "note": "Publisher of Chicago style: notes-bibliography and author-date"
+  },
+  {
+   "name": "Modern Humanities Research Association (MHRA)",
+   "where": "Founded 1918, UK; MHRA Style Guide; ABELL",
+   "note": "British humanities body and style"
+  },
+  {
+   "name": "Joseph Gibaldi",
+   "where": "MLA Handbook, eds. 1-6 (1977-2003)",
+   "note": "Long-time editor/author of the MLA Handbook"
+  },
+  {
+   "name": "Walter S. Achtert",
+   "where": "MLA Handbook 1977 (with Gibaldi); The MLA Style Manual 1985",
+   "note": "Co-author of the first MLA Handbook"
+  },
+  {
+   "name": "William Riley Parker",
+   "where": "The MLA Style Sheet, 1951",
+   "note": "Compiled the first MLA style sheet"
+  },
+  {
+   "name": "Kate L. Turabian",
+   "where": "A Manual for Writers of Research Papers, Theses, and Dissertations, 1937",
+   "note": "University of Chicago dissertation secretary; Turabian style"
+  },
+  {
+   "name": "William Strunk Jr. and E. B. White",
+   "where": "The Elements of Style, 1959",
+   "note": "Classic guide on concise English writing"
+  },
+  {
+   "name": "H. W. Fowler",
+   "where": "A Dictionary of Modern English Usage, 1926",
+   "note": "Authority on English usage"
+  },
+  {
+   "name": "Horace Hart",
+   "where": "Hart's Rules, 1893",
+   "note": "Printer to Oxford University; Oxford house style"
+  },
+  {
+   "name": "Richard D. Altick",
+   "where": "The Art of Literary Research, 1963; The Scholar Adventurers, 1950",
+   "note": "American scholar of literary research method"
+  },
+  {
+   "name": "Jacques Barzun",
+   "where": "The Modern Researcher, 1957 (with Henry F. Graff)",
+   "note": "Historian; classic guide to research and writing"
+  },
+  {
+   "name": "Gabriele Griffin",
+   "where": "Research Methods for English Studies, 2005",
+   "note": "Editor of key methods book for English studies"
+  },
+  {
+   "name": "Wayne C. Booth",
+   "where": "The Craft of Research, 1995 (with Colomb and Williams)",
+   "note": "Chicago critic; also The Rhetoric of Fiction 1961"
+  },
+  {
+   "name": "Umberto Eco",
+   "where": "How to Write a Thesis, 1977",
+   "note": "Italian semiotician and novelist; famous thesis guide"
+  },
+  {
+   "name": "C. R. Kothari",
+   "where": "Research Methodology: Methods and Techniques, 1985",
+   "note": "Indian author of the standard methodology textbook"
+  },
+  {
+   "name": "John W. Creswell",
+   "where": "Research Design, 1994",
+   "note": "Known for qualitative, quantitative and mixed methods"
+  },
+  {
+   "name": "Fred N. Kerlinger",
+   "where": "Foundations of Behavioral Research, 1964",
+   "note": "Classic definitions of research and hypothesis"
+  },
+  {
+   "name": "Norman K. Denzin and Yvonna S. Lincoln",
+   "where": "Handbook of Qualitative Research, 1994",
+   "note": "Leading theorists of qualitative research"
+  },
+  {
+   "name": "Egon G. Guba",
+   "where": "Naturalistic Inquiry, 1985 (with Lincoln)",
+   "note": "Trustworthiness: credibility, transferability, dependability, confirmability"
+  },
+  {
+   "name": "Barney Glaser and Anselm Strauss",
+   "where": "The Discovery of Grounded Theory, 1967",
+   "note": "Founders of grounded theory"
+  },
+  {
+   "name": "Robert K. Yin",
+   "where": "Case Study Research, 1984",
+   "note": "Authority on case study method"
+  },
+  {
+   "name": "Clifford Geertz",
+   "where": "The Interpretation of Cultures, 1973",
+   "note": "Anthropologist; 'thick description' (term from Gilbert Ryle)"
+  },
+  {
+   "name": "Francis Bacon",
+   "where": "Novum Organum, 1620",
+   "note": "Father of empiricism and inductive method"
+  },
+  {
+   "name": "Rene Descartes",
+   "where": "Discourse on Method, 1637",
+   "note": "Deductive rationalism and method of doubt"
+  },
+  {
+   "name": "John Stuart Mill",
+   "where": "A System of Logic, 1843",
+   "note": "Mill's methods of inductive inquiry"
+  },
+  {
+   "name": "John Dewey",
+   "where": "How We Think, 1910",
+   "note": "Five steps of reflective thinking, basis of research steps"
+  },
+  {
+   "name": "Karl Popper",
+   "where": "The Logic of Scientific Discovery, 1959",
+   "note": "Falsifiability as test of science"
+  },
+  {
+   "name": "Thomas S. Kuhn",
+   "where": "The Structure of Scientific Revolutions, 1962",
+   "note": "Paradigm shift; normal science"
+  },
+  {
+   "name": "W. W. Greg",
+   "where": "The Rationale of Copy-Text, 1950",
+   "note": "Copy-text theory; giant of Shakespeare bibliography"
+  },
+  {
+   "name": "Fredson Bowers",
+   "where": "Principles of Bibliographical Description, 1949",
+   "note": "Developed Greg's theory; Greg-Bowers school"
+  },
+  {
+   "name": "R. B. McKerrow",
+   "where": "An Introduction to Bibliography for Literary Students, 1927",
+   "note": "Pioneer of analytical bibliography"
+  },
+  {
+   "name": "A. W. Pollard",
+   "where": "Shakespeare's Folios and Quartos, 1909; STC 1926",
+   "note": "'Good' and 'bad' quartos; Short-Title Catalogue"
+  },
+  {
+   "name": "Charlton Hinman",
+   "where": "First Folio study, 1963",
+   "note": "Invented the Hinman Collator for comparing copies"
+  },
+  {
+   "name": "Karl Lachmann",
+   "where": "German philologist (1793-1851)",
+   "note": "Father of stemmatic (genealogical) method of textual criticism"
+  },
+  {
+   "name": "A. E. Housman",
+   "where": "The Application of Thought to Textual Criticism, 1921",
+   "note": "Poet-classicist; textual criticism as science and art"
+  },
+  {
+   "name": "Paul Maas",
+   "where": "Textkritik, 1927",
+   "note": "Systematised stemmatics"
+  },
+  {
+   "name": "Philip Gaskell",
+   "where": "A New Introduction to Bibliography, 1972",
+   "note": "Standard modern guide to bibliography"
+  },
+  {
+   "name": "Jerome J. McGann",
+   "where": "A Critique of Modern Textual Criticism, 1983",
+   "note": "Social text theory; Rossetti Archive"
+  },
+  {
+   "name": "D. F. McKenzie",
+   "where": "Bibliography and the Sociology of Texts, 1986",
+   "note": "Sociology of texts"
+  },
+  {
+   "name": "G. Thomas Tanselle",
+   "where": "A Rationale of Textual Criticism, 1989",
+   "note": "Defender of authorial intention in editing"
+  },
+  {
+   "name": "Hilary Jenkinson",
+   "where": "A Manual of Archive Administration, 1922",
+   "note": "British archivist; moral defence of the archive"
+  },
+  {
+   "name": "T. R. Schellenberg",
+   "where": "Modern Archives, 1956",
+   "note": "American archivist; theory of appraisal"
+  },
+  {
+   "name": "Michel Foucault",
+   "where": "The Archaeology of Knowledge, 1969",
+   "note": "Archive as system of what can be said"
+  },
+  {
+   "name": "Jacques Derrida",
+   "where": "Archive Fever, 1995",
+   "note": "Archive, memory and power"
+  },
+  {
+   "name": "Roberto Busa",
+   "where": "Index Thomisticus (1949-1974/80)",
+   "note": "Jesuit priest; pioneer of humanities computing"
+  },
+  {
+   "name": "Franco Moretti",
+   "where": "Conjectures on World Literature, 2000; Graphs, Maps, Trees, 2005",
+   "note": "Coined 'distant reading'; Stanford Literary Lab"
+  },
+  {
+   "name": "Matthew L. Jockers",
+   "where": "Macroanalysis, 2013",
+   "note": "Text mining and macroanalysis of novels"
+  },
+  {
+   "name": "Michael S. Hart",
+   "where": "Project Gutenberg, 1971",
+   "note": "Founder of the first digital library"
+  },
+  {
+   "name": "Eugene Garfield",
+   "where": "Science Citation Index, 1964",
+   "note": "Founder of citation indexing and impact factor"
+  },
+  {
+   "name": "Jeffrey Beall",
+   "where": "Beall's List",
+   "note": "Librarian who coined 'predatory open-access publishing'"
+  },
+  {
+   "name": "Samuel Johnson",
+   "where": "A Dictionary of the English Language, 1755",
+   "note": "First great English dictionary"
+  },
+  {
+   "name": "James Murray",
+   "where": "Oxford English Dictionary (1884-1928)",
+   "note": "Chief editor of the OED"
+  },
+  {
+   "name": "Leslie Stephen",
+   "where": "Dictionary of National Biography, 1885-1900",
+   "note": "First editor of the DNB"
+  },
+  {
+   "name": "S. R. Ranganathan",
+   "where": "Five Laws of Library Science, 1931; Colon Classification, 1933",
+   "note": "Father of library science in India"
+  },
+  {
+   "name": "Melvil Dewey",
+   "where": "Dewey Decimal Classification, 1876",
+   "note": "Library classification system"
+  },
+  {
+   "name": "Martial",
+   "where": "Roman poet, Epigrams (1st century AD)",
+   "note": "Used 'plagiarius' (kidnapper) for a literary thief; root of 'plagiarism'"
+  },
+  {
+   "name": "University Grants Commission (UGC)",
+   "where": "Inaugurated 1953; statutory body under UGC Act 1956",
+   "note": "Plagiarism Regulations 2018, PhD Regulations 2022, UGC-CARE"
+  },
+  {
+   "name": "UGC-CARE",
+   "where": "Consortium for Academic and Research Ethics, launched 2019",
+   "note": "Maintains UGC-CARE list of quality journals"
+  },
+  {
+   "name": "INFLIBNET Centre",
+   "where": "Gandhinagar; UGC inter-university centre (1991)",
+   "note": "Runs Shodhganga (Indian theses) and plagiarism software for universities"
+  },
+  {
+   "name": "National Testing Agency (NTA)",
+   "where": "Established 2017",
+   "note": "Conducts UGC NET"
+  },
+  {
+   "name": "Committee on Publication Ethics (COPE)",
+   "where": "Founded 1997, UK",
+   "note": "Guidelines on publication ethics and misconduct"
+  },
+  {
+   "name": "ICMJE",
+   "where": "International Committee of Medical Journal Editors (Vancouver group, 1978)",
+   "note": "Authorship criteria; Vancouver referencing"
+  },
+  {
+   "name": "Text Encoding Initiative (TEI)",
+   "where": "Founded 1987",
+   "note": "Standard for digital encoding of literary texts"
+  },
+  {
+   "name": "National Archives of India",
+   "where": "New Delhi; began 1891 as Imperial Record Department, Calcutta",
+   "note": "Largest archive of Indian official records"
+  }
+ ]
+}

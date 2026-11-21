@@ -1,0 +1,2496 @@
+{
+ "id": 6,
+ "pyq_focus": [
+  "Is unit se NET mein sabse zyada 'kisne likha / kis saal' wale sawal aate hain: Macaulay's Minute (2 Feb 1835), Wood's Despatch (1854), Charter Act (1813).",
+  "Commissions aur unke chairman (Hunter 1882, Raleigh 1902, Sadler 1917-19, Radhakrishnan 1948-49, Kothari 1964-66) ka match-the-following bahut common hai.",
+  "Kachru ke Three Circles (Inner, Outer, Expanding) aur India = Outer Circle, norm-developing - ye almost har saal kisi na kisi roop mein aata hai.",
+  "Indian English ke features (isn't it?, itself, only, prepone, reduplication) aur Hobson-Jobson jaise words par direct sawal aate hain.",
+  "Writers aur unki books ka match: Derozio, Toru Dutt, Naidu, Ezekiel, Ramanujan, Kamala Das, Mahapatra, Kolatkar; novelists Anand, Narayan, Raja Rao.",
+  "Novel ke characters (Bakha, Munoo, Raju, Moorthy, Saleem Sinai, Velutha, Balram) aur opening lines / famous quotes pucche jaate hain.",
+  "Translation wale hisse se: translator-text pairs (Samskara - Ramanujan, Draupadi - Spivak, Karukku - Holmstrom) aur theorists (Devy, Niranjana, Sujit Mukherjee).",
+  "Awards: pehla Sahitya Akademi English winner (Narayan), pehla poet (Mahapatra), pehla playwright (Dattani), Booker aur International Booker winners - chronology bhi banti hai.",
+  "Taiyari ka tareeka: har topic ki saal wali list banao, chronology roz ek baar padho, aur match-the-following ke liye author-work-character teeno ek saath yaad karo."
+ ],
+ "easy": [
+  {
+   "title": "Colonial Language Policy: Charter Act 1813 to Macaulay's Minute 1835",
+   "story": "Socho ek school ke paas thoda sa paisa aaya aur do teacher lad rahe hain ki bachchon ko Sanskrit padhayein ya English. Charter Act 1813 ne pehli baar padhai ke liye ek lakh rupaye saal ke rakhe. Orientalists bole Sanskrit, Arabic, Persian padhao; Anglicists bole English padhao. Raja Ram Mohan Roy ne 1823 mein Lord Amherst ko letter likh kar Western science aur English maangi. Phir Macaulay ne 2 February 1835 ko apna Minute likha aur kaha ki ek European library ki ek shelf poore Indian aur Arabic sahitya ke barabar hai. Lord Bentinck ne 7 March 1835 ko English Education Act laga diya. Plan tha ki upar ke kuch log English seekhein aur gyaan neeche 'filter' ho - jaise chhanni se paani tapakta hai.",
+   "trick": "'1813 ka lakh, 1823 ka letter, 1835 ka Minute' - 13, 23, 35 ko 'ek lakh, ek letter, ek Macaulay' bolo. Macaulay = 'Mac ka Minute, Feb ka do'."
+  },
+  {
+   "title": "Wood's Despatch 1854 and Later Commissions",
+   "story": "Wood's Despatch ek bade principal ki chitthi jaisa hai jisne poori school system ka naksha bana diya. Charles Wood ne 1854 mein Dalhousie ke time ye bheja, isliye ise 'Magna Carta of English Education in India' kehte hain. Isne kaha: chhote bachche apni bhasha mein padhein, bade college mein English. Calcutta, Bombay, Madras ki universities 1857 mein London University jaisi bani. Baad mein Hunter (1882, Ripon), Raleigh (1902, Curzon), Sadler (1917-19) jaise commissions aaye jo check karte rahe ki padhai kaisi chal rahi hai.",
+   "trick": "'Wood ne Despatch bheja, Dalhousie ne daak li' - 1854. Commissions ka order: 'Hunter Raja Sadak par' = Hunter 1882, Raleigh 1902, Sadler 1917."
+  },
+  {
+   "title": "English in Independent India: Language Policy",
+   "story": "Azadi ke baad sawal tha - desh ki official bhasha kya ho? Constitution ke Article 343 ne kaha Hindi Devanagari mein, aur English sirf 15 saal aur. Lekin South India, khaas kar Tamil Nadu, mein virodh hua, to Official Languages Act 1963 ne English ko saath-saath chalne diya. Schools ke liye Three-Language Formula aaya - jaise ghar mein Hindi, school mein English, aur ek aur Indian bhasha. Hyderabad mein English teachers ke liye CIE (1958) bana jo aaj EFLU hai. NEP 2020 kehta hai Class 5 tak mother tongue mein padhao.",
+   "trick": "'343 = Hindi, 348 = Court ki English' - 3-4-3 mein beech mein 4 hai jaise Hindi beech mein; 1963 Act = 'English ko extension mila'."
+  },
+  {
+   "title": "Indian English as a Variety",
+   "story": "Jaise mummy ki dal aur dhabe ki dal dono dal hain par swad alag, waise hi British English aur Indian English dono English hain par flavour alag. Indian English ek 'variety' hai jo humare court, school, akhbaar mein chalti hai. Braj Kachru ne kaha ye galti nahi, apni pehchan hai - isse 'nativization' kehte hain. Raja Rao ne Kanthapura ke Foreword mein likha ki apni aatma ko paraayi bhasha mein kehna padta hai. Kamala Das ne kaha meri English adhi English adhi Indian hai, par imaandar hai. Hobson-Jobson (1886) ek purani dictionary hai jismein Anglo-Indian shabd hain.",
+   "trick": "'Kachru ne kaha - kachcha nahi, pakka Indian English!' Hobson-Jobson ke liye: 'Yule-Burnell ne 1886 mein Hobson-Jobson ka jhola bhara'."
+  },
+  {
+   "title": "Kachru's Three Concentric Circles and Models of World Englishes",
+   "story": "Ek pathar talaab mein phenko to teen gol ghere bante hain - Kachru ka model bhi aisa hi hai. Beech wala Inner Circle: UK, USA jahan English maa-boli hai; ye niyam banate hain (norm-providing). Doosra Outer Circle: India, Nigeria, Singapore jahan English angrezon se aayi aur official kaam mein chalti hai; ye apne niyam bana rahe hain (norm-developing). Teesra Expanding Circle: China, Japan jahan English foreign language hai; ye doosron ke niyam maante hain (norm-dependent). Schneider ne 2003 mein Dynamic Model diya jismein paanch phases hain.",
+   "trick": "'I-O-E = Provide, Develop, Depend' - 'India Outer mein Develop karta hai'. Schneider ke phases: 'Fir Ek Nayi Engine Dauri' = Foundation, Exonormative, Nativization, Endonormative, Differentiation."
+  },
+  {
+   "title": "Features of Indian English: Sounds, Grammar and Vocabulary",
+   "story": "Indian English bolne ka apna andaaz hai. Hum 'thin' ko 'tin' jaisa bolte hain aur 'v' aur 'w' mein fark kam karte hain. Grammar mein hum har jagah 'isn't it?' laga dete hain, 'today itself' aur 'like that only' bolte hain, aur 'hot hot chai' jaisi doubling karte hain. Humne naye shabd bhi banaye: prepone, cousin-brother, do the needful, eve-teasing. Aur humare shabd English mein chale gaye: bungalow, jungle, pyjama, shampoo, thug, guru. Hindi-English mix ko Hinglish kehte hain, jaise 'Yeh Dil Maange More'.",
+   "trick": "'Prepone karo, today itself, hot hot chai, isn't it?' - ek line mein chaaron feature: coinage, emphatic itself, reduplication, invariant tag."
+  },
+  {
+   "title": "Beginnings of Indian Writing in English (1794-1900)",
+   "story": "Socho pehli baar kisi Indian ne English mein diary likhi - wo the Sake Dean Mahomet, 1794 mein 'Travels'. Phir Calcutta ke young teacher Derozio aaye jo Hindu College mein padhate the aur desh par sonnet likhte the; 22 saal mein hi chal base. Krishna Mohan Banerjee ne pehla English play 'The Persecuted' (1831) likha. Bankim ne pehla English novel 'Rajmohan's Wife' (1864) likha, phir Bangla mein likhne lage. Toru Dutt ne French kavitaon ka anuvaad kiya aur 'Our Casuarina Tree' likhi - sirf 21 saal ki umar mein chali gayi.",
+   "trick": "'94 ki yatra, 27 ke Poems, 31 ka Play, 64 ka Novel' - D-D-B-B: Dean, Derozio, Banerjee, Bankim."
+  },
+  {
+   "title": "Poetry before Independence: Tagore, Naidu, Aurobindo",
+   "story": "Ye teen bade naam hain jinhone azadi se pehle English kavita ko duniya tak pahunchaya. Tagore ne apni Bangla kavitaon ka English 'Gitanjali' (1912) banaya, Yeats ne introduction likha, aur 1913 mein Nobel mila - pehla Asian. Sarojini Naidu 'Nightingale of India' kehlayi; unki 'Golden Threshold' (1905) mein palki uthane wale, bunkar, Hyderabad ka bazaar - sab rangeen tasveerein hain. Sri Aurobindo ne 'Savitri' likhi, Mahabharata ki Savitri-Satyavan katha par 24,000 lines ki lambi epic, blank verse mein.",
+   "trick": "'Gita-Nobel-Yeats' = 1912-13; 'Naidu ki Golden Chidiya' = Golden Threshold, Bird of Time, Broken Wing; 'Aurobindo ki Savitri, lambi jaise rail gaadi'."
+  },
+  {
+   "title": "Modern Indian English Poetry (1950 onwards)",
+   "story": "1952 mein Nissim Ezekiel ki 'A Time to Change' aayi aur modern poetry shuru hui - jaise naya season. Ezekiel ne Bombay ki zindagi aur 'Night of the Scorpion' jaisi kavita likhi, aur Indian English ka mazaak bhi udaya. A.K. Ramanujan ne parivaar aur yaadon par likha, aur Tamil-Kannada kavitaon ka anuvaad bhi kiya. Kamala Das ne aurat ke mann ki baat bina daro likhi. Jayanta Mahapatra pehle English poet the jinhe Sahitya Akademi mila (Relationship). Arun Kolatkar ki 'Jejuri' ek mandir-shahar ki yatra hai. P. Lal ne 1958 mein Writers Workshop khola.",
+   "trick": "'EZ-RAM-KAMAL-MAHA-KOLA' = Ezekiel, Ramanujan, Kamala Das, Mahapatra, Kolatkar; 'Mahapatra ka Rishta (Relationship) pehla Akademi wala'."
+  },
+  {
+   "title": "Fiction: The Big Three - Anand, Narayan, Raja Rao",
+   "story": "Ye teen dost jaise teen alag dukaan wale hain. Mulk Raj Anand ki dukaan gareebon ka dard bechti hai - Bakha jhaadu wala (Untouchable), Munoo (Coolie). R.K. Narayan ki dukaan ek chhote shahar Malgudi ki mithi kahaniyan - Swami, Raju guide, Margayya, Jagan mithai wala. Raja Rao ki dukaan darshan aur Gandhi - Kanthapura gaon ki katha ek budhi Achakka sunati hai. Narayan ki 'The Guide' pehla English novel tha jise Sahitya Akademi mila (1960).",
+   "trick": "'Anand = Andolan (social), Narayan = Nagar Malgudi (comedy), Raja Rao = Rishi (philosophy)'. Saal: 'Untouchable aur Swami dono 1935 mein paida hue, Kanthapura 1938'."
+  },
+  {
+   "title": "Fiction 1940s-1980s",
+   "story": "Azadi ke aas paas ke novel jaise purane album ki photos hain. Ahmed Ali ki 'Twilight in Delhi' purani Dilli ki dhalti shaam dikhati hai. Bhabani Bhattacharya ka 'So Many Hungers!' Bengal ke akaal ka dard hai. Kamala Markandaya ki 'Nectar in a Sieve' mein kisan aurat Rukmani hai. Khushwant Singh ka 'Train to Pakistan' Partition ke waqt Mano Majra gaon ki kahani hai. Anita Desai ne aurat ke andar ke akelepan par likha, aur Jhabvala ko 'Heat and Dust' par 1975 ka Booker mila.",
+   "trick": "'Twilight 40, Hungers 47, Hatterr 48, Nectar 54, Train 56' - 'Shaam, Bhookh, Hatterr, Shahad, Train' ki kahani banao."
+  },
+  {
+   "title": "Contemporary Fiction: Rushdie and After",
+   "story": "1981 mein Rushdie ka 'Midnight's Children' aaya aur jaise Indian English novel ne naya rang pakda - jadoo bhara realism aur chutney jaisi bhasha. Iska hero Saleem Sinai thik 15 August 1947 ki aadhi raat ko paida hota hai. Phir Vikram Seth ka mota novel 'A Suitable Boy', Amitav Ghosh ka 'The Shadow Lines', Arundhati Roy ka 'The God of Small Things' (Booker 1997) aaye. Kiran Desai (2006) aur Aravind Adiga (2008) ne bhi Booker jeeta. Ghosh 2018 mein Jnanpith paane wale pehle English writer bane.",
+   "trick": "Booker ladder: 'Ruth-Rushdie-Roy-Desai-Adiga' = 75, 81, 97, 06, 08 - 'R-R-R-D-A, Ravi Raja Roj Dukaan Aaye'."
+  },
+  {
+   "title": "Indian English and Indian Drama in Translation",
+   "story": "Indian English drama ek chhota bhai hai, isliye Indian bhashaon ke naatak anuvaad hokar stage par chhaa gaye. Girish Karnad ne Kannada mein likh kar khud English mein kiya - Tughlaq, Hayavadana, Naga-Mandala. Vijay Tendulkar ne Marathi mein 'Silence! The Court Is in Session' aur 'Ghashiram Kotwal' diye. Badal Sircar ne Bengali mein 'Evam Indrajit' aur 'Third Theatre' diya - galiyon mein bina bade stage ka natak. Mahesh Dattani seedha English mein likhte hain aur Sahitya Akademi paane wale pehle English playwright bane.",
+   "trick": "'Karnad-Kannada, Tendulkar-Marathi, Sircar-Bangla, Rakesh-Hindi, Dattani-English' - 'K-K, T-M, S-B, R-H, D-E' jaise jodi wale chappal."
+  },
+  {
+   "title": "Translation in India: History and Theory",
+   "story": "Translation India mein bahut purana hai, jaise naani ki kahaniyan ek gaon se doosre gaon jaati hain. Panchatantra Pahlavi mein gaya aur Bidpai ki kahani bana. Akbar ke time Mahabharata Persian mein 'Razmnama' bana, aur Dara Shikoh ne Upanishads ka 'Sirr-i-Akbar' kiya. William Jones ne Asiatic Society (1784) banayi aur Shakuntala ka anuvaad kiya; Wilkins ne Gita (1785) ko English mein laaya. Aaj ke theorists jaise G.N. Devy, Sujit Mukherjee aur Tejaswini Niranjana kehte hain translation mein power aur pehchan dono chhupi hain.",
+   "trick": "'Wilkins 85 ki Gita, Jones 89 ki Shakuntala' - pehle Gita phir Shakuntala, jaise pehle puja phir prem. 'Niranjana ne Translation ko Site kiya' = Siting Translation."
+  },
+  {
+   "title": "Indian Writing in Translation: Key Texts",
+   "story": "Jaise achhi mithai doosre shahar bhejni ho to dabbe mein pack karte hain, waise hi bhasha ki kitaabein translation ke dabbe mein duniya tak jaati hain. Ananthamurthy ki Kannada 'Samskara' ko Ramanujan ne English mein kiya. Mahasweta Devi ki 'Draupadi' ko Spivak ne. Dalit lekhakon - Bama (Karukku, Tamil), Omprakash Valmiki (Joothan, Hindi), Limbale (Akkarmashi, Marathi) - ne apna dard likha. Geetanjali Shree ki 'Ret Samadhi' Daisy Rockwell ke anuvaad 'Tomb of Sand' ke roop mein 2022 ka International Booker jeeti, aur Banu Mushtaq ki 'Heart Lamp' ne 2025 mein.",
+   "trick": "'Samskara-Ramanujan, Draupadi-Spivak, Karukku-Holmstrom, Tomb-Rockwell, Heart-Bhasthi' - 'Ram ne Spice di, Holmes ne Rock pe Basti banayi'."
+  },
+  {
+   "title": "Sahitya Akademi and Literary Awards",
+   "story": "Sahitya Akademi desh ka sahitya wala school hai jo har saal achhi kitaabon ko inaam deta hai. Ye 1954 mein shuru hua aur Nehru iske pehle President the. Ye 24 bhashaon ko maanta hai - 22 schedule wali plus English aur Rajasthani. Jnanpith sabse bada sahitya award hai; pehla 1965 mein G. Sankara Kurup ko mila. Booker, Nobel, JCB, DSC jaise awards bhi NET mein pooche jaate hain.",
+   "trick": "'22+2 = 24' (English + Rajasthani); 'Nehru ne 54 mein Akademi ka darwaza khola'; pehle winners: 'Kurup-Jnanpith, Bachchan-Saraswati, Naqvi-DSC, Benyamin-JCB'."
+  },
+  {
+   "title": "Criticism, Histories and Futures of Indian English",
+   "story": "Jaise cricket ke scorer itihaas likhte hain, waise hi critics ne Indian English sahitya ka itihaas likha. K.R. Srinivasa Iyengar ne 1943 mein 'Indo-Anglian Literature' aur 1962 mein 'Indian Writing in English' likhi. M.K. Naik ne History likhi, Meenakshi Mukherjee ne 'The Twice Born Fiction'. Gauri Viswanathan ne bataya ki English literature ki padhai angrezon ka control ka hathiyar thi. Aage ka future: Hinglish, digital English, aur bhasha sahitya ke translations ka badhta zor.",
+   "trick": "'Iyengar ne naam rakha Indo-Anglian (43), Naik ne History (82), Meenakshi ne Twice Born (71)' - 'I-N-M = Itihaas Na Mitao'."
+  }
+ ],
+ "works": [
+  {
+   "author": "Charles Grant",
+   "work": "Observations on the State of Society among the Asiatic Subjects of Great Britain",
+   "year": "1792",
+   "type": "treatise",
+   "note": "Early argument for English education and Christian morals in India"
+  },
+  {
+   "author": "Raja Ram Mohan Roy",
+   "work": "Letter to Lord Amherst",
+   "year": "1823",
+   "type": "letter",
+   "note": "Opposed Sanskrit College; pleaded for Western science and English"
+  },
+  {
+   "author": "Thomas Babington Macaulay",
+   "work": "Minute on Indian Education",
+   "year": "1835",
+   "type": "minute",
+   "note": "Dated 2 February 1835; 'single shelf'; class of interpreters"
+  },
+  {
+   "author": "Lord William Bentinck",
+   "work": "English Education Act (Resolution of 7 March)",
+   "year": "1835",
+   "type": "government resolution",
+   "note": "Funds for English education alone; accepted Macaulay's Minute"
+  },
+  {
+   "author": "Charles Trevelyan",
+   "work": "On the Education of the People of India",
+   "year": "1838",
+   "type": "book",
+   "note": "Anglicist defence of English education; Macaulay's brother-in-law"
+  },
+  {
+   "author": "Sir Charles Wood",
+   "work": "Wood's Despatch",
+   "year": "1854",
+   "type": "despatch",
+   "note": "Magna Carta of English Education; universities model of London"
+  },
+  {
+   "author": "W.W. Hunter (chair)",
+   "work": "Report of the Indian Education Commission (Hunter Commission)",
+   "year": "1882",
+   "type": "commission report",
+   "note": "Appointed under Lord Ripon; primary and secondary education"
+  },
+  {
+   "author": "Thomas Raleigh (chair)",
+   "work": "Indian Universities Commission (Raleigh Commission)",
+   "year": "1902",
+   "type": "commission report",
+   "note": "Led to Indian Universities Act 1904 under Curzon"
+  },
+  {
+   "author": "Michael Sadler (chair)",
+   "work": "Calcutta University Commission (Sadler Commission)",
+   "year": "1917-19",
+   "type": "commission report",
+   "note": "Reviewed university education; recommended intermediate stage"
+  },
+  {
+   "author": "John Sargent",
+   "work": "Post-War Educational Development in India (Sargent Plan)",
+   "year": "1944",
+   "type": "education plan",
+   "note": "Forty-year national education scheme before Independence"
+  },
+  {
+   "author": "S. Radhakrishnan (chair)",
+   "work": "Report of the University Education Commission",
+   "year": "1948-49",
+   "type": "commission report",
+   "note": "First education commission of independent India"
+  },
+  {
+   "author": "D.S. Kothari (chair)",
+   "work": "Education and National Development (Kothari Commission)",
+   "year": "1964-66",
+   "type": "commission report",
+   "note": "Endorsed Three-Language Formula; led to NPE 1968"
+  },
+  {
+   "author": "Government of India",
+   "work": "National Policy on Education",
+   "year": "1968",
+   "type": "policy document",
+   "note": "Adopted Three-Language Formula"
+  },
+  {
+   "author": "Parliament of India",
+   "work": "Official Languages Act",
+   "year": "1963",
+   "type": "act",
+   "note": "English continues as associate official language; amended 1967"
+  },
+  {
+   "author": "Government of India",
+   "work": "National Education Policy",
+   "year": "2020",
+   "type": "policy document",
+   "note": "Mother tongue medium till at least Class 5"
+  },
+  {
+   "author": "Henry Yule and A.C. Burnell",
+   "work": "Hobson-Jobson",
+   "year": "1886",
+   "type": "glossary",
+   "note": "Glossary of Anglo-Indian words and phrases"
+  },
+  {
+   "author": "Braj B. Kachru (ed.)",
+   "work": "The Other Tongue: English across Cultures",
+   "year": "1982",
+   "type": "edited book",
+   "note": "Founding text of World Englishes studies"
+  },
+  {
+   "author": "Braj B. Kachru",
+   "work": "The Indianization of English",
+   "year": "1983",
+   "type": "book",
+   "note": "Indian English as nativised variety"
+  },
+  {
+   "author": "Braj B. Kachru",
+   "work": "Standards, Codification and Sociolinguistic Realism",
+   "year": "1985",
+   "type": "essay",
+   "note": "Proposed the Three Concentric Circles of English"
+  },
+  {
+   "author": "Braj B. Kachru",
+   "work": "The Alchemy of English",
+   "year": "1986",
+   "type": "book",
+   "note": "Spread, functions and models of non-native Englishes"
+  },
+  {
+   "author": "Tom McArthur",
+   "work": "The Circle of World English",
+   "year": "1987",
+   "type": "article",
+   "note": "World Standard English at the centre of a circle"
+  },
+  {
+   "author": "Edgar W. Schneider",
+   "work": "Postcolonial English: Varieties around the World",
+   "year": "2007",
+   "type": "book",
+   "note": "Dynamic Model of five phases"
+  },
+  {
+   "author": "Robert Phillipson",
+   "work": "Linguistic Imperialism",
+   "year": "1992",
+   "type": "book",
+   "note": "English spread as linguistic imperialism"
+  },
+  {
+   "author": "Gauri Viswanathan",
+   "work": "Masks of Conquest: Literary Study and British Rule in India",
+   "year": "1989",
+   "type": "criticism",
+   "note": "English literary studies as instrument of colonial control"
+  },
+  {
+   "author": "Homi K. Bhabha",
+   "work": "Of Mimicry and Man",
+   "year": "1984",
+   "type": "essay",
+   "note": "Colonial mimicry: almost the same, but not quite"
+  },
+  {
+   "author": "Homi K. Bhabha",
+   "work": "The Location of Culture",
+   "year": "1994",
+   "type": "theory text",
+   "note": "Hybridity, third space, mimicry"
+  },
+  {
+   "author": "Gayatri Chakravorty Spivak",
+   "work": "Can the Subaltern Speak?",
+   "year": "1988",
+   "type": "essay",
+   "note": "Subaltern voice; sati debate"
+  },
+  {
+   "author": "Aijaz Ahmad",
+   "work": "In Theory: Classes, Nations, Literatures",
+   "year": "1992",
+   "type": "criticism",
+   "note": "Marxist critique of postcolonial theory"
+  },
+  {
+   "author": "Salman Rushdie",
+   "work": "Imaginary Homelands",
+   "year": "1991",
+   "type": "essay collection",
+   "note": "Remaking English; 'Commonwealth Literature Does Not Exist'"
+  },
+  {
+   "author": "Salman Rushdie and Elizabeth West (eds.)",
+   "work": "The Vintage Book of Indian Writing 1947-1997",
+   "year": "1997",
+   "type": "anthology",
+   "note": "Controversial claim that English writing beats bhasha writing"
+  },
+  {
+   "author": "Sake Dean Mahomet",
+   "work": "The Travels of Dean Mahomet",
+   "year": "1794",
+   "type": "travel narrative",
+   "note": "First book written by an Indian in English"
+  },
+  {
+   "author": "Henry Louis Vivian Derozio",
+   "work": "Poems",
+   "year": "1827",
+   "type": "poetry",
+   "note": "Includes patriotic sonnet 'To India - My Native Land'"
+  },
+  {
+   "author": "Henry Louis Vivian Derozio",
+   "work": "The Fakeer of Jungheera",
+   "year": "1828",
+   "type": "narrative poem",
+   "note": "Long romantic metrical tale"
+  },
+  {
+   "author": "Kashiprasad Ghosh",
+   "work": "The Shair and Other Poems",
+   "year": "1830",
+   "type": "poetry",
+   "note": "Early verse by a Hindu Bengali in English"
+  },
+  {
+   "author": "Krishna Mohan Banerjee",
+   "work": "The Persecuted",
+   "year": "1831",
+   "type": "play",
+   "note": "First Indian play in English"
+  },
+  {
+   "author": "Kylas Chunder Dutt",
+   "work": "A Journal of Forty-Eight Hours of the Year 1945",
+   "year": "1835",
+   "type": "prose fiction",
+   "note": "Early futuristic fiction imagining revolt against British"
+  },
+  {
+   "author": "Michael Madhusudan Dutt",
+   "work": "The Captive Ladie",
+   "year": "1849",
+   "type": "narrative poem",
+   "note": "His English poem before turning to Bengali"
+  },
+  {
+   "author": "Bankim Chandra Chatterjee",
+   "work": "Rajmohan's Wife",
+   "year": "1864",
+   "type": "novel",
+   "note": "First Indian novel in English, serialised"
+  },
+  {
+   "author": "Toru Dutt",
+   "work": "A Sheaf Gleaned in French Fields",
+   "year": "1876",
+   "type": "translations (poetry)",
+   "note": "English versions of French poems, in her lifetime"
+  },
+  {
+   "author": "Toru Dutt",
+   "work": "Ancient Ballads and Legends of Hindustan",
+   "year": "1882",
+   "type": "poetry",
+   "note": "Posthumous; Gosse's introduction; 'Our Casuarina Tree'"
+  },
+  {
+   "author": "Krupabai Satthianadhan",
+   "work": "Kamala: A Story of Hindu Life",
+   "year": "1894",
+   "type": "novel",
+   "note": "Early novel by an Indian woman in English"
+  },
+  {
+   "author": "Sarojini Naidu",
+   "work": "The Golden Threshold",
+   "year": "1905",
+   "type": "poetry",
+   "note": "Her first collection; 'Palanquin Bearers'"
+  },
+  {
+   "author": "Sarojini Naidu",
+   "work": "The Bird of Time",
+   "year": "1912",
+   "type": "poetry",
+   "note": "Second collection; Gosse's introduction"
+  },
+  {
+   "author": "Sarojini Naidu",
+   "work": "The Broken Wing",
+   "year": "1917",
+   "type": "poetry",
+   "note": "Third collection of lyrics"
+  },
+  {
+   "author": "M.K. Gandhi",
+   "work": "Hind Swaraj",
+   "year": "1909",
+   "type": "political tract",
+   "note": "Written in Gujarati; critique of modern civilisation and English"
+  },
+  {
+   "author": "M.K. Gandhi",
+   "work": "An Autobiography or The Story of My Experiments with Truth",
+   "year": "1927-29",
+   "type": "autobiography",
+   "note": "Gujarati original; English tr. Mahadev Desai"
+  },
+  {
+   "author": "Rabindranath Tagore",
+   "work": "Gora",
+   "year": "1910",
+   "type": "novel (Bengali)",
+   "note": "Identity and nationalism; Irish-born hero raised Hindu"
+  },
+  {
+   "author": "Rabindranath Tagore",
+   "work": "Gitanjali: Song Offerings",
+   "year": "1912",
+   "type": "poetry",
+   "note": "Yeats's introduction; Nobel Prize 1913"
+  },
+  {
+   "author": "Rabindranath Tagore",
+   "work": "The Post Office",
+   "year": "1914",
+   "type": "play",
+   "note": "English version of Dak Ghar; sick boy Amal"
+  },
+  {
+   "author": "Rabindranath Tagore",
+   "work": "The Home and the World",
+   "year": "1919",
+   "type": "novel (translation)",
+   "note": "Ghare Baire; tr. Surendranath Tagore; Nikhil, Bimala, Sandip"
+  },
+  {
+   "author": "Sri Aurobindo",
+   "work": "The Future Poetry",
+   "year": "1917-20",
+   "type": "criticism",
+   "note": "Serialised in Arya; idea of mantric poetry"
+  },
+  {
+   "author": "Sri Aurobindo",
+   "work": "Savitri: A Legend and a Symbol",
+   "year": "1950-51",
+   "type": "epic",
+   "note": "About 24,000 lines of blank verse"
+  },
+  {
+   "author": "Jawaharlal Nehru",
+   "work": "The Discovery of India",
+   "year": "1946",
+   "type": "history",
+   "note": "Written in Ahmednagar Fort prison"
+  },
+  {
+   "author": "Nirad C. Chaudhuri",
+   "work": "The Autobiography of an Unknown Indian",
+   "year": "1951",
+   "type": "autobiography",
+   "note": "Famous dedication to the memory of the British Empire"
+  },
+  {
+   "author": "Nissim Ezekiel",
+   "work": "A Time to Change",
+   "year": "1952",
+   "type": "poetry",
+   "note": "Beginning of modern Indian English poetry"
+  },
+  {
+   "author": "Nissim Ezekiel",
+   "work": "The Unfinished Man",
+   "year": "1960",
+   "type": "poetry",
+   "note": "Includes 'Enterprise'"
+  },
+  {
+   "author": "Nissim Ezekiel",
+   "work": "The Exact Name",
+   "year": "1965",
+   "type": "poetry",
+   "note": "Includes 'Night of the Scorpion'"
+  },
+  {
+   "author": "Nissim Ezekiel",
+   "work": "Hymns in Darkness",
+   "year": "1976",
+   "type": "poetry",
+   "note": "Includes 'Very Indian Poems in Indian English'"
+  },
+  {
+   "author": "Nissim Ezekiel",
+   "work": "Latter-Day Psalms",
+   "year": "1982",
+   "type": "poetry",
+   "note": "Sahitya Akademi Award 1983"
+  },
+  {
+   "author": "A.K. Ramanujan",
+   "work": "The Striders",
+   "year": "1966",
+   "type": "poetry",
+   "note": "First collection; Poetry Society recommendation"
+  },
+  {
+   "author": "A.K. Ramanujan",
+   "work": "Relations",
+   "year": "1971",
+   "type": "poetry",
+   "note": "Family and memory; 'Small-Scale Reflections on a Great House'"
+  },
+  {
+   "author": "A.K. Ramanujan",
+   "work": "Second Sight",
+   "year": "1986",
+   "type": "poetry",
+   "note": "Third collection"
+  },
+  {
+   "author": "Kamala Das",
+   "work": "Summer in Calcutta",
+   "year": "1965",
+   "type": "poetry",
+   "note": "First collection; includes 'An Introduction'"
+  },
+  {
+   "author": "Kamala Das",
+   "work": "The Descendants",
+   "year": "1967",
+   "type": "poetry",
+   "note": "Second collection; confessional"
+  },
+  {
+   "author": "Kamala Das",
+   "work": "The Old Playhouse and Other Poems",
+   "year": "1973",
+   "type": "poetry",
+   "note": "Title poem on loveless marriage"
+  },
+  {
+   "author": "Kamala Das",
+   "work": "My Story",
+   "year": "1976",
+   "type": "autobiography",
+   "note": "Frank autobiography; Malayalam Ente Katha"
+  },
+  {
+   "author": "P. Lal (ed.)",
+   "work": "Modern Indian Poetry in English: An Anthology and a Credo",
+   "year": "1969",
+   "type": "anthology",
+   "note": "Writers Workshop anthology with poets' credos"
+  },
+  {
+   "author": "Jayanta Mahapatra",
+   "work": "Close the Sky, Ten by Ten",
+   "year": "1971",
+   "type": "poetry",
+   "note": "First collection"
+  },
+  {
+   "author": "Jayanta Mahapatra",
+   "work": "A Rain of Rites",
+   "year": "1976",
+   "type": "poetry",
+   "note": "Odisha landscape and ritual"
+  },
+  {
+   "author": "Jayanta Mahapatra",
+   "work": "Relationship",
+   "year": "1980",
+   "type": "long poem",
+   "note": "First Indian English poetry Sahitya Akademi Award, 1981"
+  },
+  {
+   "author": "Arun Kolatkar",
+   "work": "Jejuri",
+   "year": "1976",
+   "type": "poem sequence",
+   "note": "Commonwealth Poetry Prize 1977; pilgrimage town"
+  },
+  {
+   "author": "Dom Moraes",
+   "work": "A Beginning",
+   "year": "1957",
+   "type": "poetry",
+   "note": "Hawthornden Prize 1958"
+  },
+  {
+   "author": "Keki N. Daruwalla",
+   "work": "The Keeper of the Dead",
+   "year": "1982",
+   "type": "poetry",
+   "note": "Sahitya Akademi Award 1984"
+  },
+  {
+   "author": "R. Parthasarathy (ed.)",
+   "work": "Ten Twentieth-Century Indian Poets",
+   "year": "1976",
+   "type": "anthology",
+   "note": "Influential Oxford anthology"
+  },
+  {
+   "author": "R. Parthasarathy",
+   "work": "Rough Passage",
+   "year": "1977",
+   "type": "long poem",
+   "note": "Exile, love, homecoming in three sections"
+  },
+  {
+   "author": "Mulk Raj Anand",
+   "work": "Untouchable",
+   "year": "1935",
+   "type": "novel",
+   "note": "Bakha the sweeper; one day; Forster's preface"
+  },
+  {
+   "author": "Mulk Raj Anand",
+   "work": "Coolie",
+   "year": "1936",
+   "type": "novel",
+   "note": "Orphan Munoo's journey"
+  },
+  {
+   "author": "Mulk Raj Anand",
+   "work": "Two Leaves and a Bud",
+   "year": "1937",
+   "type": "novel",
+   "note": "Gangu on an Assam tea plantation"
+  },
+  {
+   "author": "Mulk Raj Anand",
+   "work": "Morning Face",
+   "year": "1968",
+   "type": "novel",
+   "note": "Sahitya Akademi Award 1971"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "Swami and Friends",
+   "year": "1935",
+   "type": "novel",
+   "note": "First Malgudi novel; Graham Greene helped publish"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "The Bachelor of Arts",
+   "year": "1937",
+   "type": "novel",
+   "note": "Chandran's college years"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "The Dark Room",
+   "year": "1938",
+   "type": "novel",
+   "note": "Savitri, oppressed wife"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "Malgudi Days",
+   "year": "1943",
+   "type": "short stories",
+   "note": "Story collection set in Malgudi"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "The English Teacher",
+   "year": "1945",
+   "type": "novel",
+   "note": "Krishna; based on his wife's death"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "The Financial Expert",
+   "year": "1952",
+   "type": "novel",
+   "note": "Margayya the moneylender"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "The Guide",
+   "year": "1958",
+   "type": "novel",
+   "note": "Raju, Rosie, Marco; Sahitya Akademi 1960"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "The Man-Eater of Malgudi",
+   "year": "1961",
+   "type": "novel",
+   "note": "Nataraj and taxidermist Vasu"
+  },
+  {
+   "author": "R.K. Narayan",
+   "work": "The Vendor of Sweets",
+   "year": "1967",
+   "type": "novel",
+   "note": "Jagan and son Mali"
+  },
+  {
+   "author": "Raja Rao",
+   "work": "Kanthapura",
+   "year": "1938",
+   "type": "novel",
+   "note": "Gandhian village; Achakka narrates; Moorthy; sthala-purana"
+  },
+  {
+   "author": "Raja Rao",
+   "work": "The Serpent and the Rope",
+   "year": "1960",
+   "type": "novel",
+   "note": "Ramaswamy and Madeleine; Sahitya Akademi 1964"
+  },
+  {
+   "author": "Raja Rao",
+   "work": "The Cat and Shakespeare",
+   "year": "1965",
+   "type": "novel",
+   "note": "Metaphysical comedy; Ramakrishna Pai and Govindan Nair"
+  },
+  {
+   "author": "Ahmed Ali",
+   "work": "Twilight in Delhi",
+   "year": "1940",
+   "type": "novel",
+   "note": "Mir Nihal; decline of Muslim Delhi"
+  },
+  {
+   "author": "Bhabani Bhattacharya",
+   "work": "So Many Hungers!",
+   "year": "1947",
+   "type": "novel",
+   "note": "Bengal famine of 1943"
+  },
+  {
+   "author": "G.V. Desani",
+   "work": "All About H. Hatterr",
+   "year": "1948",
+   "type": "novel",
+   "note": "Comic linguistic play; precursor of Rushdie"
+  },
+  {
+   "author": "Kamala Markandaya",
+   "work": "Nectar in a Sieve",
+   "year": "1954",
+   "type": "novel",
+   "note": "Rukmani and Nathan; title from Coleridge"
+  },
+  {
+   "author": "Khushwant Singh",
+   "work": "Train to Pakistan",
+   "year": "1956",
+   "type": "novel",
+   "note": "Partition in Mano Majra; Jugga and Nooran"
+  },
+  {
+   "author": "Anita Desai",
+   "work": "Cry, the Peacock",
+   "year": "1963",
+   "type": "novel",
+   "note": "Maya's neurosis; first novel"
+  },
+  {
+   "author": "Arun Joshi",
+   "work": "The Foreigner",
+   "year": "1968",
+   "type": "novel",
+   "note": "Rootless Sindi Oberoi"
+  },
+  {
+   "author": "Arun Joshi",
+   "work": "The Strange Case of Billy Biswas",
+   "year": "1971",
+   "type": "novel",
+   "note": "Billy leaves civilisation for tribals"
+  },
+  {
+   "author": "Anita Desai",
+   "work": "Clear Light of Day",
+   "year": "1980",
+   "type": "novel",
+   "note": "Old Delhi family; Bim and Tara"
+  },
+  {
+   "author": "Arun Joshi",
+   "work": "The Last Labyrinth",
+   "year": "1981",
+   "type": "novel",
+   "note": "Som Bhaskar; Sahitya Akademi 1982"
+  },
+  {
+   "author": "Anita Desai",
+   "work": "In Custody",
+   "year": "1984",
+   "type": "novel",
+   "note": "Deven and Urdu poet Nur"
+  },
+  {
+   "author": "Nayantara Sahgal",
+   "work": "Rich Like Us",
+   "year": "1985",
+   "type": "novel",
+   "note": "Emergency; Sahitya Akademi 1986"
+  },
+  {
+   "author": "Shashi Deshpande",
+   "work": "That Long Silence",
+   "year": "1988",
+   "type": "novel",
+   "note": "Jaya's silence; Sahitya Akademi 1990"
+  },
+  {
+   "author": "Salman Rushdie",
+   "work": "Midnight's Children",
+   "year": "1981",
+   "type": "novel",
+   "note": "Saleem Sinai; Booker 1981, Booker of Bookers 1993"
+  },
+  {
+   "author": "Salman Rushdie",
+   "work": "Shame",
+   "year": "1983",
+   "type": "novel",
+   "note": "Allegory of Pakistan"
+  },
+  {
+   "author": "Salman Rushdie",
+   "work": "The Satanic Verses",
+   "year": "1988",
+   "type": "novel",
+   "note": "Fatwa by Khomeini, 1989"
+  },
+  {
+   "author": "Vikram Seth",
+   "work": "The Golden Gate",
+   "year": "1986",
+   "type": "verse novel",
+   "note": "590 Onegin stanzas; Sahitya Akademi 1988"
+  },
+  {
+   "author": "Vikram Seth",
+   "work": "A Suitable Boy",
+   "year": "1993",
+   "type": "novel",
+   "note": "Mrs Rupa Mehra seeks a husband for Lata"
+  },
+  {
+   "author": "Amitav Ghosh",
+   "work": "The Shadow Lines",
+   "year": "1988",
+   "type": "novel",
+   "note": "Borders, memory; Sahitya Akademi 1989"
+  },
+  {
+   "author": "Amitav Ghosh",
+   "work": "The Hungry Tide",
+   "year": "2004",
+   "type": "novel",
+   "note": "Sundarbans; Piya and Fokir"
+  },
+  {
+   "author": "Upamanyu Chatterjee",
+   "work": "English, August: An Indian Story",
+   "year": "1988",
+   "type": "novel",
+   "note": "IAS trainee Agastya Sen in Madna"
+  },
+  {
+   "author": "Shashi Tharoor",
+   "work": "The Great Indian Novel",
+   "year": "1989",
+   "type": "novel",
+   "note": "Mahabharata retold as Indian politics"
+  },
+  {
+   "author": "Rohinton Mistry",
+   "work": "A Fine Balance",
+   "year": "1995",
+   "type": "novel",
+   "note": "Emergency; four lives in Bombay"
+  },
+  {
+   "author": "Arundhati Roy",
+   "work": "The God of Small Things",
+   "year": "1997",
+   "type": "novel",
+   "note": "Estha, Rahel, Velutha; Booker 1997"
+  },
+  {
+   "author": "Jhumpa Lahiri",
+   "work": "Interpreter of Maladies",
+   "year": "1999",
+   "type": "short stories",
+   "note": "Pulitzer Prize 2000"
+  },
+  {
+   "author": "Kiran Desai",
+   "work": "The Inheritance of Loss",
+   "year": "2006",
+   "type": "novel",
+   "note": "Sai, the judge, Biju; Booker 2006"
+  },
+  {
+   "author": "Aravind Adiga",
+   "work": "The White Tiger",
+   "year": "2008",
+   "type": "novel",
+   "note": "Balram Halwai's letters to Wen Jiabao; Booker 2008"
+  },
+  {
+   "author": "Girish Karnad",
+   "work": "Tughlaq",
+   "year": "1964",
+   "type": "play (Kannada)",
+   "note": "Muhammad bin Tughlaq; Nehru-era idealism"
+  },
+  {
+   "author": "Girish Karnad",
+   "work": "Hayavadana",
+   "year": "1971",
+   "type": "play (Kannada)",
+   "note": "Transposed heads; Devadatta, Kapila, Padmini"
+  },
+  {
+   "author": "Girish Karnad",
+   "work": "Naga-Mandala",
+   "year": "1988",
+   "type": "play (Kannada)",
+   "note": "Rani and the cobra Naga"
+  },
+  {
+   "author": "Vijay Tendulkar",
+   "work": "Silence! The Court Is in Session",
+   "year": "1967",
+   "type": "play (Marathi)",
+   "note": "Leela Benare's mock trial"
+  },
+  {
+   "author": "Vijay Tendulkar",
+   "work": "Ghashiram Kotwal",
+   "year": "1972",
+   "type": "play (Marathi)",
+   "note": "Nana Phadnavis and Ghashiram in Peshwa Pune"
+  },
+  {
+   "author": "Vijay Tendulkar",
+   "work": "Sakharam Binder",
+   "year": "1972",
+   "type": "play (Marathi)",
+   "note": "Bookbinder who keeps abandoned women"
+  },
+  {
+   "author": "Mohan Rakesh",
+   "work": "Ashadh Ka Ek Din",
+   "year": "1958",
+   "type": "play (Hindi)",
+   "note": "Kalidasa and Mallika"
+  },
+  {
+   "author": "Mohan Rakesh",
+   "work": "Adhe Adhure",
+   "year": "1969",
+   "type": "play (Hindi)",
+   "note": "Incomplete middle-class family"
+  },
+  {
+   "author": "Badal Sircar",
+   "work": "Evam Indrajit",
+   "year": "1963",
+   "type": "play (Bengali)",
+   "note": "Existential Indrajit; Sircar's Third Theatre"
+  },
+  {
+   "author": "Mahesh Dattani",
+   "work": "Tara",
+   "year": "1990",
+   "type": "play",
+   "note": "Conjoined twins Tara and Chandan"
+  },
+  {
+   "author": "Mahesh Dattani",
+   "work": "Final Solutions",
+   "year": "1993",
+   "type": "play",
+   "note": "Communal riots; Hindu-Muslim tension"
+  },
+  {
+   "author": "Charles Wilkins",
+   "work": "The Bhagavad Gita (Bhagvat-Geeta)",
+   "year": "1785",
+   "type": "translation",
+   "note": "First direct English translation from Sanskrit; Hastings' preface"
+  },
+  {
+   "author": "Sir William Jones",
+   "work": "Sacontala, or The Fatal Ring",
+   "year": "1789",
+   "type": "translation",
+   "note": "Kalidasa's Abhijnanasakuntalam into English"
+  },
+  {
+   "author": "A.K. Ramanujan",
+   "work": "The Interior Landscape",
+   "year": "1967",
+   "type": "translation",
+   "note": "Classical Tamil Sangam akam poems"
+  },
+  {
+   "author": "A.K. Ramanujan",
+   "work": "Speaking of Siva",
+   "year": "1973",
+   "type": "translation",
+   "note": "Kannada vachanas of Basavanna and others"
+  },
+  {
+   "author": "A.K. Ramanujan",
+   "work": "Is There an Indian Way of Thinking?",
+   "year": "1989",
+   "type": "essay",
+   "note": "Context-sensitive versus context-free thinking"
+  },
+  {
+   "author": "A.K. Ramanujan",
+   "work": "Three Hundred Ramayanas",
+   "year": "1991",
+   "type": "essay",
+   "note": "Many tellings of the Ramayana"
+  },
+  {
+   "author": "Sujit Mukherjee",
+   "work": "Translation as Discovery",
+   "year": "1981",
+   "type": "criticism",
+   "note": "Translation as discovery of Indian literature"
+  },
+  {
+   "author": "G.N. Devy",
+   "work": "After Amnesia",
+   "year": "1992",
+   "type": "criticism",
+   "note": "Indian criticism's loss of memory; translating consciousness"
+  },
+  {
+   "author": "Tejaswini Niranjana",
+   "work": "Siting Translation",
+   "year": "1992",
+   "type": "theory text",
+   "note": "Translation and colonial power"
+  },
+  {
+   "author": "Saadat Hasan Manto",
+   "work": "Toba Tek Singh",
+   "year": "1955",
+   "type": "short story (Urdu)",
+   "note": "Bishan Singh; asylum exchange after Partition"
+  },
+  {
+   "author": "U.R. Ananthamurthy",
+   "work": "Samskara",
+   "year": "1965",
+   "type": "novel (Kannada)",
+   "note": "Praneshacharya; tr. A.K. Ramanujan 1976"
+  },
+  {
+   "author": "Mahasweta Devi",
+   "work": "Hajar Churashir Maa",
+   "year": "1974",
+   "type": "novel (Bengali)",
+   "note": "Mother of 1084; Naxalite son Brati"
+  },
+  {
+   "author": "Mahasweta Devi",
+   "work": "Imaginary Maps",
+   "year": "1995",
+   "type": "stories (translation)",
+   "note": "Tr. Gayatri Chakravorty Spivak"
+  },
+  {
+   "author": "Bama",
+   "work": "Karukku",
+   "year": "1992",
+   "type": "autobiography (Tamil)",
+   "note": "Dalit Christian woman; tr. Lakshmi Holmstrom 2000"
+  },
+  {
+   "author": "Omprakash Valmiki",
+   "work": "Joothan",
+   "year": "1997",
+   "type": "autobiography (Hindi)",
+   "note": "Dalit life; tr. Arun Prabha Mukherjee 2003"
+  },
+  {
+   "author": "Geetanjali Shree",
+   "work": "Ret Samadhi",
+   "year": "2018",
+   "type": "novel (Hindi)",
+   "note": "Tomb of Sand; International Booker 2022"
+  },
+  {
+   "author": "Banu Mushtaq",
+   "work": "Heart Lamp",
+   "year": "2025",
+   "type": "stories (translation)",
+   "note": "Kannada stories; tr. Deepa Bhasthi; International Booker 2025"
+  },
+  {
+   "author": "K.R. Srinivasa Iyengar",
+   "work": "Indo-Anglian Literature",
+   "year": "1943",
+   "type": "literary history",
+   "note": "Popularised the term Indo-Anglian"
+  },
+  {
+   "author": "K.R. Srinivasa Iyengar",
+   "work": "Indian Writing in English",
+   "year": "1962",
+   "type": "literary history",
+   "note": "Pioneering full history"
+  },
+  {
+   "author": "C.D. Narasimhaiah",
+   "work": "The Swan and the Eagle",
+   "year": "1969",
+   "type": "criticism",
+   "note": "Essays on Indian English writing"
+  },
+  {
+   "author": "Meenakshi Mukherjee",
+   "work": "The Twice Born Fiction",
+   "year": "1971",
+   "type": "criticism",
+   "note": "Themes and techniques of Indian English novel"
+  },
+  {
+   "author": "M.K. Naik",
+   "work": "A History of Indian English Literature",
+   "year": "1982",
+   "type": "literary history",
+   "note": "Sahitya Akademi standard history"
+  }
+ ],
+ "quotes": [
+  {
+   "quote": "A single shelf of a good European library was worth the whole native literature of India and Arabia.",
+   "by": "Thomas Babington Macaulay",
+   "source": "Minute on Indian Education, 2 February 1835"
+  },
+  {
+   "quote": "We must at present do our best to form a class who may be interpreters between us and the millions whom we govern; a class of persons, Indian in blood and colour, but English in taste, in opinions, in morals, and in intellect.",
+   "by": "Thomas Babington Macaulay",
+   "source": "Minute on Indian Education, 1835"
+  },
+  {
+   "quote": "All the historical information which has been collected from all the books written in the Sanskrit language is less valuable than what may be found in the most paltry abridgments used at preparatory schools in England.",
+   "by": "Thomas Babington Macaulay",
+   "source": "Minute on Indian Education, 1835"
+  },
+  {
+   "quote": "The great object of the British Government ought to be the promotion of European literature and science amongst the natives of India; and all the funds appropriated for the purpose of education would be best employed on English education alone.",
+   "by": "Lord William Bentinck",
+   "source": "English Education Act, Resolution of 7 March 1835"
+  },
+  {
+   "quote": "The education which we desire to see extended in India is that which has for its object the diffusion of the improved arts, science, philosophy and literature of Europe; in short, of European knowledge.",
+   "by": "Sir Charles Wood",
+   "source": "Wood's Despatch, 1854"
+  },
+  {
+   "quote": "To give millions a knowledge of English is to enslave them.",
+   "by": "M.K. Gandhi",
+   "source": "Hind Swaraj, 1909"
+  },
+  {
+   "quote": "One has to convey in a language that is not one's own the spirit that is one's own.",
+   "by": "Raja Rao",
+   "source": "Foreword to Kanthapura, 1938"
+  },
+  {
+   "quote": "English is not really an alien language to us. It is the language of our intellectual make-up, like Sanskrit or Persian was before, but not of our emotional make-up.",
+   "by": "Raja Rao",
+   "source": "Foreword to Kanthapura, 1938"
+  },
+  {
+   "quote": "We cannot write like the English. We should not. We cannot write only as Indians.",
+   "by": "Raja Rao",
+   "source": "Foreword to Kanthapura, 1938"
+  },
+  {
+   "quote": "Our method of expression therefore has to be a dialect which will some day prove to be as distinctive and colourful as the Irish or the American.",
+   "by": "Raja Rao",
+   "source": "Foreword to Kanthapura, 1938"
+  },
+  {
+   "quote": "There is no village in India, however mean, that has not a rich sthala-purana, or legendary history, of its own.",
+   "by": "Raja Rao",
+   "source": "Foreword to Kanthapura, 1938"
+  },
+  {
+   "quote": "The tempo of Indian life must be infused into our English expression.",
+   "by": "Raja Rao",
+   "source": "Foreword to Kanthapura, 1938"
+  },
+  {
+   "quote": "Episode follows episode, and when our thoughts stop our breath stops, and we move on to another thought. This was and still is the ordinary style of our story-telling.",
+   "by": "Raja Rao",
+   "source": "Foreword to Kanthapura, 1938"
+  },
+  {
+   "quote": "I am Indian, very brown, born in Malabar, I speak three languages, write in two, dream in one.",
+   "by": "Kamala Das",
+   "source": "An Introduction, Summer in Calcutta, 1965"
+  },
+  {
+   "quote": "The language I speak becomes mine, its distortions, its queernesses all mine, mine alone. It is half English, half Indian, funny perhaps, but it is honest.",
+   "by": "Kamala Das",
+   "source": "An Introduction, Summer in Calcutta, 1965"
+  },
+  {
+   "quote": "Don't write in English, they said, English is not your mother-tongue.",
+   "by": "Kamala Das",
+   "source": "An Introduction, Summer in Calcutta, 1965"
+  },
+  {
+   "quote": "I am sinner, I am saint.",
+   "by": "Kamala Das",
+   "source": "An Introduction, Summer in Calcutta, 1965"
+  },
+  {
+   "quote": "I have made my commitments now. This is one: to stay where I am.",
+   "by": "Nissim Ezekiel",
+   "source": "Background, Casually, Hymns in Darkness, 1976"
+  },
+  {
+   "quote": "I went to Roman Catholic school, a mugging Jew among the wolves.",
+   "by": "Nissim Ezekiel",
+   "source": "Background, Casually, Hymns in Darkness, 1976"
+  },
+  {
+   "quote": "I remember the night my mother was stung by a scorpion.",
+   "by": "Nissim Ezekiel",
+   "source": "Night of the Scorpion, The Exact Name, 1965"
+  },
+  {
+   "quote": "Home is where we have to gather grace.",
+   "by": "Nissim Ezekiel",
+   "source": "Enterprise, The Unfinished Man, 1960"
+  },
+  {
+   "quote": "The best poets wait for words.",
+   "by": "Nissim Ezekiel",
+   "source": "Poet, Lover, Birdwatcher, The Exact Name, 1965"
+  },
+  {
+   "quote": "Friends, our dear sister is departing for foreign in two three days.",
+   "by": "Nissim Ezekiel",
+   "source": "Goodbye Party for Miss Pushpa T.S., Hymns in Darkness, 1976"
+  },
+  {
+   "quote": "I am standing for peace and non-violence.",
+   "by": "Nissim Ezekiel",
+   "source": "The Patriot (Very Indian Poems in Indian English), Hymns in Darkness, 1976"
+  },
+  {
+   "quote": "I was born in the city of Bombay ... once upon a time.",
+   "by": "Salman Rushdie",
+   "source": "Midnight's Children, 1981 (opening line)"
+  },
+  {
+   "quote": "At the precise instant of India's arrival at independence, I tumbled forth into the world.",
+   "by": "Salman Rushdie",
+   "source": "Midnight's Children, 1981"
+  },
+  {
+   "quote": "I had been mysteriously handcuffed to history, my destinies indissolubly chained to those of my country.",
+   "by": "Salman Rushdie",
+   "source": "Midnight's Children, 1981"
+  },
+  {
+   "quote": "To conquer English may be to complete the process of making ourselves free.",
+   "by": "Salman Rushdie",
+   "source": "'Commonwealth Literature' Does Not Exist, in Imaginary Homelands, 1991"
+  },
+  {
+   "quote": "It may be that writers in my position, exiles or emigrants or expatriates, are haunted by some sense of loss.",
+   "by": "Salman Rushdie",
+   "source": "Imaginary Homelands (title essay), 1991"
+  },
+  {
+   "quote": "The prose writing created in this period by Indian writers working in English is proving to be a stronger and more important body of work than most of what has been produced in the 16 'official languages' of India.",
+   "by": "Salman Rushdie",
+   "source": "Introduction, The Vintage Book of Indian Writing 1947-1997, 1997"
+  },
+  {
+   "quote": "Our village - I don't think you have ever heard about it - Kanthapura is its name, and it is in the province of Kara.",
+   "by": "Raja Rao",
+   "source": "Kanthapura, 1938 (opening line)"
+  },
+  {
+   "quote": "The outcastes' colony was a group of mud-walled houses that clustered together in two rows, under the shadow of the town and the cantonment.",
+   "by": "Mulk Raj Anand",
+   "source": "Untouchable, 1935 (opening line)"
+  },
+  {
+   "quote": "It was Monday morning. Swaminathan was reluctant to open his eyes.",
+   "by": "R.K. Narayan",
+   "source": "Swami and Friends, 1935 (opening line)"
+  },
+  {
+   "quote": "Raju welcomed the intrusion - something to relieve the loneliness of the place.",
+   "by": "R.K. Narayan",
+   "source": "The Guide, 1958 (opening line)"
+  },
+  {
+   "quote": "The summer of 1947 was not like other Indian summers.",
+   "by": "Khushwant Singh",
+   "source": "Train to Pakistan, 1956 (opening line)"
+  },
+  {
+   "quote": "May in Ayemenem is a hot, brooding month.",
+   "by": "Arundhati Roy",
+   "source": "The God of Small Things, 1997 (opening line)"
+  },
+  {
+   "quote": "The Love Laws. That lay down who should be loved, and how. And how much.",
+   "by": "Arundhati Roy",
+   "source": "The God of Small Things, 1997"
+  },
+  {
+   "quote": "Mr. Premier, Sir. Neither you nor I speak English, but there are some things that can be said only in English.",
+   "by": "Aravind Adiga",
+   "source": "The White Tiger, 2008 (opening)"
+  },
+  {
+   "quote": "You too will marry a boy I choose, said Mrs Rupa Mehra firmly to her younger daughter.",
+   "by": "Vikram Seth",
+   "source": "A Suitable Boy, 1993 (opening line)"
+  },
+  {
+   "quote": "My country! in thy day of glory past a beauteous halo circled round thy brow.",
+   "by": "Henry Louis Vivian Derozio",
+   "source": "To India - My Native Land, Poems, 1827"
+  },
+  {
+   "quote": "Like a huge Python, winding round and round the rugged trunk.",
+   "by": "Toru Dutt",
+   "source": "Our Casuarina Tree, Ancient Ballads and Legends of Hindustan, 1882"
+  },
+  {
+   "quote": "Lightly, O lightly we bear her along, she sways like a flower in the wind of our song.",
+   "by": "Sarojini Naidu",
+   "source": "Palanquin Bearers, The Golden Threshold, 1905"
+  },
+  {
+   "quote": "Where the mind is without fear and the head is held high.",
+   "by": "Rabindranath Tagore",
+   "source": "Gitanjali (Song Offerings), poem 35, 1912"
+  },
+  {
+   "quote": "I resemble everyone but myself.",
+   "by": "A.K. Ramanujan",
+   "source": "Self-Portrait, The Striders, 1966"
+  },
+  {
+   "quote": "To the memory of the British Empire in India, which conferred subjecthood on us but withheld citizenship.",
+   "by": "Nirad C. Chaudhuri",
+   "source": "Dedication, The Autobiography of an Unknown Indian, 1951"
+  },
+  {
+   "quote": "At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom.",
+   "by": "Jawaharlal Nehru",
+   "source": "Tryst with Destiny speech, 14-15 August 1947"
+  }
+ ],
+ "people": [
+  {
+   "name": "Charles Grant",
+   "where": "Observations on the State of Society among the Asiatic Subjects of Great Britain, 1792",
+   "note": "Early evangelical voice urging English education in India"
+  },
+  {
+   "name": "Warren Hastings",
+   "where": "Founded Calcutta Madrasa, 1781",
+   "note": "Governor-General; patron of Orientalist learning"
+  },
+  {
+   "name": "Sir William Jones",
+   "where": "Founded the Asiatic Society of Bengal, 1784; Sacontala, 1789",
+   "note": "Orientalist; translated Shakuntala into English"
+  },
+  {
+   "name": "Jonathan Duncan",
+   "where": "Founded Benares Sanskrit College, 1791",
+   "note": "Orientalist Resident at Benares"
+  },
+  {
+   "name": "Raja Ram Mohan Roy",
+   "where": "Letter to Lord Amherst, 1823",
+   "note": "Asked for Western science and English instead of a new Sanskrit College"
+  },
+  {
+   "name": "Thomas Babington Macaulay",
+   "where": "Minute on Indian Education, 2 February 1835",
+   "note": "Anglicist; 'single shelf'; class of interpreters"
+  },
+  {
+   "name": "Lord William Bentinck",
+   "where": "English Education Act, Resolution of 7 March 1835",
+   "note": "Governor-General who accepted Macaulay's Minute"
+  },
+  {
+   "name": "H.T. Prinsep",
+   "where": "Orientalist member of the General Committee of Public Instruction, 1835",
+   "note": "Opposed Macaulay's Minute"
+  },
+  {
+   "name": "H.H. Wilson",
+   "where": "Orientalist Sanskrit scholar, Calcutta",
+   "note": "Leading Orientalist in the Anglicist-Orientalist debate"
+  },
+  {
+   "name": "Lord Auckland",
+   "where": "Minute of 1839",
+   "note": "Governor-General; compromise restoring some funds to Oriental learning"
+  },
+  {
+   "name": "Sir Charles Wood",
+   "where": "Wood's Despatch, 1854",
+   "note": "President of the Board of Control; Magna Carta of English Education"
+  },
+  {
+   "name": "Lord Dalhousie",
+   "where": "Governor-General when Wood's Despatch came, 1854",
+   "note": "Universities of Calcutta, Bombay, Madras set up 1857 after it"
+  },
+  {
+   "name": "W.W. Hunter",
+   "where": "Indian Education Commission, 1882",
+   "note": "Chaired the commission appointed under Lord Ripon"
+  },
+  {
+   "name": "Lord Curzon",
+   "where": "Indian Universities Act, 1904",
+   "note": "Followed the Raleigh Commission of 1902"
+  },
+  {
+   "name": "Michael Sadler",
+   "where": "Calcutta University Commission, 1917-19",
+   "note": "Chaired commission on university education"
+  },
+  {
+   "name": "S. Radhakrishnan",
+   "where": "University Education Commission, 1948-49",
+   "note": "First education commission of independent India"
+  },
+  {
+   "name": "D.S. Kothari",
+   "where": "Education Commission, 1964-66",
+   "note": "Report 'Education and National Development'; led to NPE 1968"
+  },
+  {
+   "name": "Braj B. Kachru",
+   "where": "The Indianization of English, 1983; Three Circles, 1985",
+   "note": "Inner, Outer, Expanding Circles; India in Outer Circle"
+  },
+  {
+   "name": "Henry Yule and A.C. Burnell",
+   "where": "Hobson-Jobson, 1886",
+   "note": "Glossary of Anglo-Indian words and phrases"
+  },
+  {
+   "name": "Tom McArthur",
+   "where": "The Circle of World English, 1987",
+   "note": "Circle model of World Englishes"
+  },
+  {
+   "name": "Edgar W. Schneider",
+   "where": "Postcolonial English, 2007",
+   "note": "Dynamic Model: five phases from foundation to differentiation"
+  },
+  {
+   "name": "Robert Phillipson",
+   "where": "Linguistic Imperialism, 1992",
+   "note": "Critique of the global spread of English"
+  },
+  {
+   "name": "Gauri Viswanathan",
+   "where": "Masks of Conquest, 1989",
+   "note": "English literary study as a tool of British rule in India"
+  },
+  {
+   "name": "Homi K. Bhabha",
+   "where": "Of Mimicry and Man, 1984; The Location of Culture, 1994",
+   "note": "Mimicry, hybridity; reads Macaulay's 'class of interpreters'"
+  },
+  {
+   "name": "Gayatri Chakravorty Spivak",
+   "where": "Can the Subaltern Speak?, 1988",
+   "note": "Translated Mahasweta Devi's Draupadi and Imaginary Maps"
+  },
+  {
+   "name": "K.R. Srinivasa Iyengar",
+   "where": "Indo-Anglian Literature, 1943; Indian Writing in English, 1962",
+   "note": "Pioneer historian of Indian English literature"
+  },
+  {
+   "name": "M.K. Naik",
+   "where": "A History of Indian English Literature, 1982",
+   "note": "Standard Sahitya Akademi history"
+  },
+  {
+   "name": "Meenakshi Mukherjee",
+   "where": "The Twice Born Fiction, 1971",
+   "note": "Critic of the Indian English novel; 'The Anxiety of Indianness'"
+  },
+  {
+   "name": "C.D. Narasimhaiah",
+   "where": "The Swan and the Eagle, 1969",
+   "note": "Critic; founded the journal The Literary Criterion"
+  },
+  {
+   "name": "P. Lal",
+   "where": "Writers Workshop, Calcutta, founded 1958",
+   "note": "Publisher of new Indian English poets; anthology 1969"
+  },
+  {
+   "name": "G.N. Devy",
+   "where": "After Amnesia, 1992",
+   "note": "Indian critical traditions forgotten under colonial criticism"
+  },
+  {
+   "name": "Tejaswini Niranjana",
+   "where": "Siting Translation, 1992",
+   "note": "Post-structuralist view of translation in the colonial context"
+  },
+  {
+   "name": "Sujit Mukherjee",
+   "where": "Translation as Discovery, 1981",
+   "note": "Pioneer of translation studies in India"
+  },
+  {
+   "name": "A.K. Ramanujan",
+   "where": "Speaking of Siva, 1973; Samskara translation, 1976",
+   "note": "Poet, translator, folklorist; 'Three Hundred Ramayanas'"
+  },
+  {
+   "name": "Bakha",
+   "where": "Untouchable, Mulk Raj Anand, 1935",
+   "note": "Sweeper boy; novel covers one day of his life"
+  },
+  {
+   "name": "Munoo",
+   "where": "Coolie, Mulk Raj Anand, 1936",
+   "note": "Orphan hill boy exploited across India; dies of TB"
+  },
+  {
+   "name": "Swaminathan",
+   "where": "Swami and Friends, R.K. Narayan, 1935",
+   "note": "Schoolboy of Malgudi; first Malgudi novel"
+  },
+  {
+   "name": "Krishna",
+   "where": "The English Teacher, R.K. Narayan, 1945",
+   "note": "Lecturer whose wife Susila dies; autobiographical"
+  },
+  {
+   "name": "Margayya",
+   "where": "The Financial Expert, R.K. Narayan, 1952",
+   "note": "Money-lender under the banyan tree in Malgudi"
+  },
+  {
+   "name": "Raju",
+   "where": "The Guide, R.K. Narayan, 1958",
+   "note": "Railway Raju, tourist guide who becomes a swami; Rosie's lover"
+  },
+  {
+   "name": "Rosie",
+   "where": "The Guide, R.K. Narayan, 1958",
+   "note": "Dancer, wife of Marco; becomes Nalini"
+  },
+  {
+   "name": "Vasu",
+   "where": "The Man-Eater of Malgudi, R.K. Narayan, 1961",
+   "note": "Taxidermist who troubles Nataraj the printer"
+  },
+  {
+   "name": "Jagan",
+   "where": "The Vendor of Sweets, R.K. Narayan, 1967",
+   "note": "Gandhian sweet-seller; son Mali"
+  },
+  {
+   "name": "Moorthy",
+   "where": "Kanthapura, Raja Rao, 1938",
+   "note": "Gandhian youth who leads the village struggle"
+  },
+  {
+   "name": "Achakka",
+   "where": "Kanthapura, Raja Rao, 1938",
+   "note": "Old Brahmin widow who narrates the story"
+  },
+  {
+   "name": "Rama (Ramaswamy)",
+   "where": "The Serpent and the Rope, Raja Rao, 1960",
+   "note": "Brahmin scholar married to Madeleine; metaphysical novel"
+  },
+  {
+   "name": "Juggut Singh",
+   "where": "Train to Pakistan, Khushwant Singh, 1956",
+   "note": "Jugga, village badmash of Mano Majra who saves the train"
+  },
+  {
+   "name": "Rukmani",
+   "where": "Nectar in a Sieve, Kamala Markandaya, 1954",
+   "note": "Peasant woman narrator; husband Nathan"
+  },
+  {
+   "name": "Saleem Sinai",
+   "where": "Midnight's Children, Salman Rushdie, 1981",
+   "note": "Born at midnight 15 August 1947; telepathic narrator"
+  },
+  {
+   "name": "Shiva",
+   "where": "Midnight's Children, Salman Rushdie, 1981",
+   "note": "Saleem's rival, switched with him at birth"
+  },
+  {
+   "name": "Velutha",
+   "where": "The God of Small Things, Arundhati Roy, 1997",
+   "note": "Paravan carpenter; Ammu's lover, killed by police"
+  },
+  {
+   "name": "Estha and Rahel",
+   "where": "The God of Small Things, Arundhati Roy, 1997",
+   "note": "Twins of Ammu in Ayemenem"
+  },
+  {
+   "name": "Ammu",
+   "where": "The God of Small Things, Arundhati Roy, 1997",
+   "note": "Mother of the twins; breaks the Love Laws"
+  },
+  {
+   "name": "Balram Halwai",
+   "where": "The White Tiger, Aravind Adiga, 2008",
+   "note": "Driver who kills his master Ashok; writes to Wen Jiabao"
+  },
+  {
+   "name": "Sai and Biju",
+   "where": "The Inheritance of Loss, Kiran Desai, 2006",
+   "note": "Sai in Kalimpong; Biju, cook's son, illegal worker in New York"
+  },
+  {
+   "name": "Gogol Ganguli",
+   "where": "The Namesake, Jhumpa Lahiri, 2003",
+   "note": "Son of Bengali immigrants named after Nikolai Gogol"
+  },
+  {
+   "name": "Bimala",
+   "where": "The Home and the World, Rabindranath Tagore, 1919 (English)",
+   "note": "Wife of Nikhil, drawn to Sandip during Swadeshi"
+  },
+  {
+   "name": "Amal",
+   "where": "The Post Office, Rabindranath Tagore, 1914 (English)",
+   "note": "Sick boy waiting for the king's letter"
+  },
+  {
+   "name": "Praneshacharya",
+   "where": "Samskara, U.R. Ananthamurthy, 1965; tr. A.K. Ramanujan, 1976",
+   "note": "Brahmin scholar of Durvasapura facing a moral crisis"
+  },
+  {
+   "name": "Naranappa",
+   "where": "Samskara, U.R. Ananthamurthy, 1965",
+   "note": "Rebel Brahmin whose death and cremation start the crisis"
+  },
+  {
+   "name": "Bishan Singh",
+   "where": "Toba Tek Singh, Saadat Hasan Manto, 1955",
+   "note": "Sikh inmate of Lahore asylum; dies in no-man's land"
+  },
+  {
+   "name": "Dopdi Mehjen",
+   "where": "Draupadi, Mahasweta Devi; tr. Gayatri Spivak, 1981",
+   "note": "Santhal tribal rebel woman who defies Senanayak"
+  },
+  {
+   "name": "Billy Biswas",
+   "where": "The Strange Case of Billy Biswas, Arun Joshi, 1971",
+   "note": "Upper-class man who escapes to tribal life"
+  },
+  {
+   "name": "Jaya",
+   "where": "That Long Silence, Shashi Deshpande, 1988",
+   "note": "Middle-class housewife breaking her silence"
+  },
+  {
+   "name": "H. Hatterr",
+   "where": "All About H. Hatterr, G.V. Desani, 1948",
+   "note": "Anglo-Malay narrator in comic hybrid English"
+  },
+  {
+   "name": "Tara and Chandan",
+   "where": "Tara, Mahesh Dattani, 1990",
+   "note": "Conjoined twins; gender bias in their separation"
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "The Charter Act that first set aside a sum of not less than one lakh rupees a year for education in India was passed in:",
+   "options": [
+    "1813",
+    "1833",
+    "1853",
+    "1793"
+   ],
+   "answer": 0,
+   "exp": "Charter Act 1813 ne pehli baar ek lakh rupaye education ke liye rakhe."
+  },
+  {
+   "q": "The English Education Act of 7 March 1835 was passed by the Governor-General:",
+   "options": [
+    "Lord Auckland",
+    "Lord William Bentinck",
+    "Lord Dalhousie",
+    "Lord Cornwallis"
+   ],
+   "answer": 1,
+   "exp": "Bentinck ne Macaulay ka Minute maan kar resolution pass kiya."
+  },
+  {
+   "q": "Wood's Despatch (1854) reached India during the Governor-Generalship of:",
+   "options": [
+    "Lord Canning",
+    "Lord Ripon",
+    "Lord Dalhousie",
+    "Lord Curzon"
+   ],
+   "answer": 2,
+   "exp": "1854 mein Dalhousie Governor-General the."
+  },
+  {
+   "q": "The Indian Education Commission of 1882 chaired by W.W. Hunter was appointed under:",
+   "options": [
+    "Lord Lytton",
+    "Lord Curzon",
+    "Lord Minto",
+    "Lord Ripon"
+   ],
+   "answer": 3,
+   "exp": "Hunter Commission - Lord Ripon ke time."
+  },
+  {
+   "q": "The Indian Universities Act of 1904 was passed under:",
+   "options": [
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Hardinge",
+    "Lord Chelmsford"
+   ],
+   "answer": 0,
+   "exp": "Raleigh Commission 1902 ke baad Curzon ne 1904 Act laaya."
+  },
+  {
+   "q": "Which Article of the Indian Constitution declares Hindi in Devanagari script the official language of the Union?",
+   "options": [
+    "Article 351",
+    "Article 343",
+    "Article 345",
+    "Article 348"
+   ],
+   "answer": 1,
+   "exp": "Article 343 = Hindi in Devanagari, Union ki official language."
+  },
+  {
+   "q": "The Official Languages Act, which allowed English to continue alongside Hindi, was passed in:",
+   "options": [
+    "1950",
+    "1956",
+    "1963",
+    "1968"
+   ],
+   "answer": 2,
+   "exp": "Official Languages Act 1963."
+  },
+  {
+   "q": "'Hobson-Jobson', the glossary of Anglo-Indian words, was compiled by:",
+   "options": [
+    "William Jones and Charles Wilkins",
+    "Braj Kachru and Tom McArthur",
+    "H.H. Wilson and H.T. Prinsep",
+    "Henry Yule and A.C. Burnell"
+   ],
+   "answer": 3,
+   "exp": "Yule aur Burnell, 1886."
+  },
+  {
+   "q": "Kachru's model of the Three Concentric Circles was set out in his 1985 essay:",
+   "options": [
+    "Standards, Codification and Sociolinguistic Realism",
+    "The Alchemy of English",
+    "The Circle of World English",
+    "English Next"
+   ],
+   "answer": 0,
+   "exp": "1985 essay 'Standards, Codification and Sociolinguistic Realism'."
+  },
+  {
+   "q": "'Linguistic Imperialism' (1992) was written by:",
+   "options": [
+    "David Graddol",
+    "Robert Phillipson",
+    "Edgar Schneider",
+    "Tom McArthur"
+   ],
+   "answer": 1,
+   "exp": "Phillipson ne English ke global spread ko imperialism kaha."
+  },
+  {
+   "q": "'Masks of Conquest: Literary Study and British Rule in India' (1989) is by:",
+   "options": [
+    "Gayatri Spivak",
+    "Meenakshi Mukherjee",
+    "Gauri Viswanathan",
+    "Rajeswari Sunder Rajan"
+   ],
+   "answer": 2,
+   "exp": "Gauri Viswanathan: English literature as tool of colonial control."
+  },
+  {
+   "q": "In many varieties of Indian English the alveolar stops /t/ and /d/ of RP are typically pronounced as:",
+   "options": [
+    "dental fricatives",
+    "glottal stops",
+    "aspirated velars",
+    "retroflex stops"
+   ],
+   "answer": 3,
+   "exp": "Indian English mein /t/ /d/ retroflex ho jaate hain."
+  },
+  {
+   "q": "The invariant tag question typical of Indian English is:",
+   "options": [
+    "isn't it?",
+    "doesn't he?",
+    "won't they?",
+    "shall we?"
+   ],
+   "answer": 0,
+   "exp": "'You are coming, isn't it?' - har subject ke saath same tag."
+  },
+  {
+   "q": "The students of Derozio at Hindu College, Calcutta, came to be known as:",
+   "options": [
+    "Brahmo Samaj",
+    "Young Bengal",
+    "Bengal Renaissance Circle",
+    "Anushilan Samiti"
+   ],
+   "answer": 1,
+   "exp": "Derozio ke radical students = Young Bengal."
+  },
+  {
+   "q": "'The Captive Ladie' (1849) is a long poem in English by:",
+   "options": [
+    "Kashiprasad Ghosh",
+    "Toru Dutt",
+    "Michael Madhusudan Dutt",
+    "Manmohan Ghose"
+   ],
+   "answer": 2,
+   "exp": "Madhusudan Dutt ne pehle English mein likha, phir Bengali mein."
+  },
+  {
+   "q": "Toru Dutt's 'Our Casuarina Tree' appears in:",
+   "options": [
+    "A Sheaf Gleaned in French Fields",
+    "The Golden Threshold",
+    "The Bird of Time",
+    "Ancient Ballads and Legends of Hindustan"
+   ],
+   "answer": 3,
+   "exp": "Ancient Ballads (1882, posthumous) mein Casuarina Tree hai."
+  },
+  {
+   "q": "Sri Aurobindo's 'Savitri: A Legend and a Symbol' is an epic written in:",
+   "options": [
+    "blank verse",
+    "heroic couplets",
+    "terza rima",
+    "free verse"
+   ],
+   "answer": 0,
+   "exp": "Savitri lambi blank verse epic hai."
+  },
+  {
+   "q": "Writers Workshop, Calcutta, the publisher of many new Indian English poets, was founded in 1958 by:",
+   "options": [
+    "Nissim Ezekiel",
+    "P. Lal",
+    "A.K. Ramanujan",
+    "R. Parthasarathy"
+   ],
+   "answer": 1,
+   "exp": "P. Lal ne 1958 mein Writers Workshop shuru kiya."
+  },
+  {
+   "q": "Nissim Ezekiel's 'Night of the Scorpion' was first collected in:",
+   "options": [
+    "A Time to Change",
+    "Hymns in Darkness",
+    "The Exact Name",
+    "Latter-Day Psalms"
+   ],
+   "answer": 2,
+   "exp": "Night of the Scorpion - The Exact Name (1965)."
+  },
+  {
+   "q": "Kamala Das's autobiography 'My Story' was first serialised in Malayalam as:",
+   "options": [
+    "Balyakala Smaranakal",
+    "Neermathalam Pootha Kalam",
+    "Chandana Marangal",
+    "Ente Katha"
+   ],
+   "answer": 3,
+   "exp": "My Story ka Malayalam roop Ente Katha."
+  },
+  {
+   "q": "A.K. Ramanujan's 'Speaking of Siva' (1973) translates:",
+   "options": [
+    "Kannada vachanas of Virashaiva saints",
+    "Tamil Sangam love poems",
+    "Tamil hymns to Vishnu by Nammalvar",
+    "Telugu padams of Kshetrayya"
+   ],
+   "answer": 0,
+   "exp": "Speaking of Siva = Basavanna, Akka Mahadevi aadi ke vachanas."
+  },
+  {
+   "q": "Keki N. Daruwalla won the Sahitya Akademi Award for:",
+   "options": [
+    "Under Orion",
+    "The Keeper of the Dead",
+    "Apparition in April",
+    "Crossing of Rivers"
+   ],
+   "answer": 1,
+   "exp": "Daruwalla - The Keeper of the Dead, SA 1984."
+  },
+  {
+   "q": "Arun Kolatkar's 'Jejuri' is set in a pilgrim town in Maharashtra sacred to:",
+   "options": [
+    "Vithoba",
+    "Ganapati",
+    "Khandoba",
+    "Tulja Bhavani"
+   ],
+   "answer": 2,
+   "exp": "Jejuri = Khandoba ka mandir town."
+  },
+  {
+   "q": "The action of Mulk Raj Anand's 'Untouchable' covers:",
+   "options": [
+    "Bakha's whole childhood",
+    "one year in a hill village",
+    "the Quit India movement",
+    "a single day in Bakha's life"
+   ],
+   "answer": 3,
+   "exp": "Untouchable ek din ki kahani hai."
+  },
+  {
+   "q": "Margayya is the protagonist of R.K. Narayan's:",
+   "options": [
+    "The Financial Expert",
+    "Mr. Sampath",
+    "The Vendor of Sweets",
+    "The Dark Room"
+   ],
+   "answer": 0,
+   "exp": "Margayya - banyan tree ke neeche money-lender."
+  },
+  {
+   "q": "The young Gandhian hero of Raja Rao's 'Kanthapura' is:",
+   "options": [
+    "Ramaswamy",
+    "Moorthy",
+    "Bhatta",
+    "Range Gowda"
+   ],
+   "answer": 1,
+   "exp": "Moorthy village ko Gandhi ke raaste le jaata hai."
+  },
+  {
+   "q": "In 1993 'Midnight's Children' was named the:",
+   "options": [
+    "Commonwealth Novel of the Century",
+    "Nobel Laureate's Choice",
+    "Booker of Bookers",
+    "Jnanpith Book of the Decade"
+   ],
+   "answer": 2,
+   "exp": "1993 Booker of Bookers; 2008 Best of the Booker bhi."
+  },
+  {
+   "q": "In 'Midnight's Children', the boy whose name-tag is switched with Saleem's at birth is:",
+   "options": [
+    "Padma",
+    "Aadam",
+    "Picture Singh",
+    "Shiva"
+   ],
+   "answer": 3,
+   "exp": "Mary Pereira ne Saleem aur Shiva ko badal diya."
+  },
+  {
+   "q": "'The God of Small Things' is set mainly in:",
+   "options": [
+    "Ayemenem, Kerala",
+    "Kalimpong, Darjeeling",
+    "Mano Majra, Punjab",
+    "Malgudi, South India"
+   ],
+   "answer": 0,
+   "exp": "Ayemenem, Kerala."
+  },
+  {
+   "q": "In 'The White Tiger', Balram Halwai drives for and later murders his master:",
+   "options": [
+    "Mukesh",
+    "Ashok",
+    "Vitiligo-Lips",
+    "the Great Socialist"
+   ],
+   "answer": 1,
+   "exp": "Balram apne master Ashok ko maar deta hai."
+  },
+  {
+   "q": "Khushwant Singh's 'Train to Pakistan' is set in the border village of:",
+   "options": [
+    "Kanthapura",
+    "Laxmangarh",
+    "Mano Majra",
+    "Ayemenem"
+   ],
+   "answer": 2,
+   "exp": "Mano Majra on the Sutlej."
+  },
+  {
+   "q": "The narrator of Kamala Markandaya's 'Nectar in a Sieve' is:",
+   "options": [
+    "Ira",
+    "Kunthi",
+    "Janaki",
+    "Rukmani"
+   ],
+   "answer": 3,
+   "exp": "Rukmani, peasant woman."
+  },
+  {
+   "q": "In Ananthamurthy's 'Samskara' the crisis begins with the death of:",
+   "options": [
+    "Naranappa",
+    "Praneshacharya",
+    "Chandri",
+    "Putta"
+   ],
+   "answer": 0,
+   "exp": "Naranappa ki death - cremation kaun kare?"
+  },
+  {
+   "q": "Bishan Singh, who dies in no-man's land between India and Pakistan, is the central figure of:",
+   "options": [
+    "Lihaaf",
+    "Toba Tek Singh",
+    "Pinjar",
+    "Thanda Gosht"
+   ],
+   "answer": 1,
+   "exp": "Manto ki Toba Tek Singh (Urdu)."
+  },
+  {
+   "q": "Geetanjali Shree's 'Ret Samadhi', which won the International Booker Prize in 2022, was translated as 'Tomb of Sand' by:",
+   "options": [
+    "Deepa Bhasthi",
+    "Jason Grunebaum",
+    "Daisy Rockwell",
+    "Arunava Sinha"
+   ],
+   "answer": 2,
+   "exp": "Daisy Rockwell ne Hindi se translate kiya."
+  },
+  {
+   "q": "Banu Mushtaq's 'Heart Lamp', winner of the International Booker Prize 2025, was originally written in:",
+   "options": [
+    "Malayalam",
+    "Urdu",
+    "Tamil",
+    "Kannada"
+   ],
+   "answer": 3,
+   "exp": "Heart Lamp - Kannada stories, tr. Deepa Bhasthi."
+  },
+  {
+   "q": "'Ghashiram Kotwal' (1972) was originally written in Marathi by:",
+   "options": [
+    "Vijay Tendulkar",
+    "Mahesh Elkunchwar",
+    "Satish Alekar",
+    "P.L. Deshpande"
+   ],
+   "answer": 0,
+   "exp": "Tendulkar ka famous Marathi play."
+  },
+  {
+   "q": "'After Amnesia' (1992), which argues that Indian criticism forgot its own traditions under colonialism, is by:",
+   "options": [
+    "Harish Trivedi",
+    "G.N. Devy",
+    "Aijaz Ahmad",
+    "Sujit Mukherjee"
+   ],
+   "answer": 1,
+   "exp": "G.N. Devy, SA award winner."
+  },
+  {
+   "q": "'The Twice Born Fiction' (1971) was written by:",
+   "options": [
+    "K.R. Srinivasa Iyengar",
+    "M.K. Naik",
+    "Meenakshi Mukherjee",
+    "C.D. Narasimhaiah"
+   ],
+   "answer": 2,
+   "exp": "Meenakshi Mukherjee - Indian English novel par."
+  },
+  {
+   "q": "The dedication 'To the memory of the British Empire in India, which conferred subjecthood on us but withheld citizenship' opens:",
+   "options": [
+    "The Discovery of India",
+    "An Area of Darkness",
+    "Hind Swaraj",
+    "The Autobiography of an Unknown Indian"
+   ],
+   "answer": 3,
+   "exp": "Nirad C. Chaudhuri, 1951."
+  },
+  {
+   "q": "Match the commission with its year: (a) Hunter Commission (b) Raleigh Commission (c) Sadler Commission (d) Radhakrishnan Commission -- (i) 1948-49 (ii) 1882 (iii) 1917-19 (iv) 1902",
+   "options": [
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iv, b-ii, c-i, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 0,
+   "exp": "Hunter 1882, Raleigh 1902, Sadler 1917-19, Radhakrishnan 1948-49."
+  },
+  {
+   "q": "Match the character with the novel: (a) Munoo (b) Margayya (c) Moorthy (d) Juggut Singh -- (i) Kanthapura (ii) Train to Pakistan (iii) Coolie (iv) The Financial Expert",
+   "options": [
+    "a-iv, b-iii, c-ii, d-i",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-iv, c-i, d-iii"
+   ],
+   "answer": 1,
+   "exp": "Munoo-Coolie, Margayya-Financial Expert, Moorthy-Kanthapura, Jugga-Train to Pakistan."
+  },
+  {
+   "q": "Match the poet with the collection: (a) Nissim Ezekiel (b) Kamala Das (c) A.K. Ramanujan (d) Jayanta Mahapatra -- (i) Summer in Calcutta (ii) Relations (iii) A Rain of Rites (iv) The Unfinished Man",
+   "options": [
+    "a-i, b-iv, c-iii, d-ii",
+    "a-iv, b-ii, c-i, d-iii",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-ii, b-i, c-iv, d-iii"
+   ],
+   "answer": 2,
+   "exp": "Ezekiel-Unfinished Man, Das-Summer in Calcutta, Ramanujan-Relations, Mahapatra-A Rain of Rites."
+  },
+  {
+   "q": "Match the scholar with the idea: (a) Braj Kachru (b) Robert Phillipson (c) Edgar Schneider (d) Tom McArthur -- (i) Dynamic Model (ii) Circle of World English (iii) Three Concentric Circles (iv) Linguistic Imperialism",
+   "options": [
+    "a-iv, b-iii, c-ii, d-i",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-ii, b-iv, c-i, d-iii",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "answer": 3,
+   "exp": "Kachru-Circles, Phillipson-Imperialism, Schneider-Dynamic Model, McArthur-Circle of World English."
+  },
+  {
+   "q": "Match the work with its English translator: (a) Samskara (b) Tomb of Sand (c) Heart Lamp (d) Imaginary Maps -- (i) Gayatri Spivak (ii) Deepa Bhasthi (iii) A.K. Ramanujan (iv) Daisy Rockwell",
+   "options": [
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-ii, c-iv, d-i",
+    "a-i, b-iv, c-ii, d-iii"
+   ],
+   "answer": 0,
+   "exp": "Samskara-Ramanujan, Tomb of Sand-Rockwell, Heart Lamp-Bhasthi, Imaginary Maps-Spivak."
+  },
+  {
+   "q": "Match the play with the playwright: (a) Evam Indrajit (b) Adhe Adhure (c) Tughlaq (d) Sakharam Binder -- (i) Mohan Rakesh (ii) Vijay Tendulkar (iii) Badal Sircar (iv) Girish Karnad",
+   "options": [
+    "a-i, b-iii, c-ii, d-iv",
+    "a-iii, b-i, c-iv, d-ii",
+    "a-iii, b-iv, c-i, d-ii",
+    "a-iv, b-i, c-iii, d-ii"
+   ],
+   "answer": 1,
+   "exp": "Evam Indrajit-Sircar, Adhe Adhure-Rakesh, Tughlaq-Karnad, Sakharam Binder-Tendulkar."
+  },
+  {
+   "q": "Match the critic with the book: (a) Meenakshi Mukherjee (b) C.D. Narasimhaiah (c) G.N. Devy (d) Tejaswini Niranjana -- (i) Siting Translation (ii) The Twice Born Fiction (iii) After Amnesia (iv) The Swan and the Eagle",
+   "options": [
+    "a-iv, b-ii, c-i, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 2,
+   "exp": "Mukherjee-Twice Born, CDN-Swan and Eagle, Devy-After Amnesia, Niranjana-Siting Translation."
+  },
+  {
+   "q": "Match the opening line with the novel: (a) 'May in Ayemenem is a hot, brooding month.' (b) 'The summer of 1947 was not like other Indian summers.' (c) 'Raju welcomed the intrusion...' (d) 'It was Monday morning. Swaminathan was reluctant to open his eyes.' -- (i) Swami and Friends (ii) The Guide (iii) The God of Small Things (iv) Train to Pakistan",
+   "options": [
+    "a-iv, b-iii, c-i, d-ii",
+    "a-iii, b-ii, c-iv, d-i",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iii, b-iv, c-ii, d-i"
+   ],
+   "answer": 3,
+   "exp": "Ayemenem-GoST, summer 1947-Train to Pakistan, Raju-Guide, Monday morning-Swami."
+  },
+  {
+   "q": "Match the early writer with the work: (a) Derozio (b) Bankim Chandra Chatterjee (c) Kylas Chunder Dutt (d) Krupabai Satthianadhan -- (i) Kamala (ii) The Fakeer of Jungheera (iii) Rajmohan's Wife (iv) A Journal of Forty-Eight Hours of the Year 1945",
+   "options": [
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iv, b-iii, c-ii, d-i"
+   ],
+   "answer": 0,
+   "exp": "Derozio-Fakeer, Bankim-Rajmohan's Wife, Kylas Chunder-Journal, Krupabai-Kamala."
+  },
+  {
+   "q": "Match Amitav Ghosh's novel with its subject: (a) The Hungry Tide (b) The Glass Palace (c) Sea of Poppies (d) The Calcutta Chromosome -- (i) Burma and the fall of Mandalay (ii) the opium trade and the ship Ibis (iii) Ronald Ross and malaria research (iv) the Sundarbans",
+   "options": [
+    "a-i, b-iv, c-iii, d-ii",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-iv, b-ii, c-i, d-iii",
+    "a-ii, b-i, c-iv, d-iii"
+   ],
+   "answer": 1,
+   "exp": "Hungry Tide-Sundarbans, Glass Palace-Burma, Sea of Poppies-Ibis/opium, Calcutta Chromosome-malaria."
+  },
+  {
+   "q": "Assertion (A): Macaulay's Minute recommended that the education funds be spent on English education. Reason (R): Macaulay held that Sanskrit and Arabic learning were far inferior to European learning.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Macaulay ki 'single shelf' wali soch hi uski recommendation ka kaaran thi."
+  },
+  {
+   "q": "Assertion (A): Wood's Despatch is called the Magna Carta of English Education in India. Reason (R): Wood's Despatch was issued by Lord Curzon in 1904.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "A sahi; R galat - Despatch 1854 ka hai, Charles Wood ka; 1904 Curzon ka Universities Act hai."
+  },
+  {
+   "q": "Assertion (A): In Kachru's model India belongs to the Expanding Circle. Reason (R): In India English has an official and institutional role.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "India Outer Circle mein hai, isliye A galat; R sahi hai."
+  },
+  {
+   "q": "Assertion (A): Kamala Das called her English 'half English, half Indian, funny perhaps, but it is honest'. Reason (R): Kamala Das also wrote fiction in Malayalam under the name Madhavikutty.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sahi, par Madhavikutty naam A ko explain nahi karta."
+  },
+  {
+   "q": "Assertion (A): Raja Rao's Kanthapura tries to carry Indian speech rhythms into English. Reason (R): In its Foreword Raja Rao says that the tempo of Indian life must be infused into our English expression.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "exp": "Foreword ka idea hi novel ki style ko explain karta hai."
+  },
+  {
+   "q": "Assertion (A): Nissim Ezekiel was born into the Bene Israel Jewish community of Bombay. Reason (R): Ezekiel won the Sahitya Akademi Award for The Exact Name.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "exp": "A sahi; R galat - SA 1983 'Latter-Day Psalms' ke liye mila."
+  },
+  {
+   "q": "Assertion (A): Manto's Toba Tek Singh was originally written in English. Reason (R): Saadat Hasan Manto is best known for his stories of the Partition.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 3,
+   "exp": "Toba Tek Singh Urdu mein hai, isliye A galat; R sahi."
+  },
+  {
+   "q": "Assertion (A): Aravind Adiga's The White Tiger won the Booker Prize in 2008. Reason (R): Its narrator Balram writes letters to the Chinese Premier Wen Jiabao.",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "exp": "Dono sahi, par letters wali baat Booker jeetne ka kaaran nahi."
+  },
+  {
+   "q": "Arrange in chronological order: I. Macaulay's Minute II. Charter Act of 1813 III. Hunter Commission IV. Ram Mohan Roy's letter to Lord Amherst",
+   "options": [
+    "IV, II, I, III",
+    "II, I, IV, III",
+    "II, IV, I, III",
+    "II, IV, III, I"
+   ],
+   "answer": 2,
+   "exp": "1813, 1823, 1835, 1882."
+  },
+  {
+   "q": "Arrange in chronological order: I. National Policy on Education II. Sargent Plan III. Official Languages Act IV. Secondary Education Commission (Mudaliar)",
+   "options": [
+    "IV, II, III, I",
+    "II, IV, I, III",
+    "II, III, IV, I",
+    "II, IV, III, I"
+   ],
+   "answer": 3,
+   "exp": "Sargent 1944, Mudaliar 1952-53, OLA 1963, NPE 1968."
+  },
+  {
+   "q": "Arrange in chronological order: I. Gitanjali (English) II. Rajmohan's Wife III. The Golden Threshold IV. A Sheaf Gleaned in French Fields",
+   "options": [
+    "II, IV, III, I",
+    "IV, II, III, I",
+    "II, III, IV, I",
+    "II, IV, I, III"
+   ],
+   "answer": 0,
+   "exp": "1864, 1876, 1905, 1912."
+  },
+  {
+   "q": "Arrange Nissim Ezekiel's collections in chronological order: I. The Exact Name II. Hymns in Darkness III. A Time to Change IV. The Unfinished Man",
+   "options": [
+    "IV, III, I, II",
+    "III, IV, I, II",
+    "III, I, IV, II",
+    "III, IV, II, I"
+   ],
+   "answer": 1,
+   "exp": "1952, 1960, 1965, 1976."
+  },
+  {
+   "q": "Arrange Salman Rushdie's novels in chronological order: I. The Satanic Verses II. Shame III. The Moor's Last Sigh IV. Midnight's Children",
+   "options": [
+    "II, IV, I, III",
+    "IV, I, II, III",
+    "IV, II, I, III",
+    "IV, II, III, I"
+   ],
+   "answer": 2,
+   "exp": "1981, 1983, 1988, 1995."
+  },
+  {
+   "q": "Arrange the plays in chronological order of composition: I. Tughlaq II. Ghashiram Kotwal III. Ashadh Ka Ek Din IV. Evam Indrajit",
+   "options": [
+    "IV, III, I, II",
+    "III, I, IV, II",
+    "III, IV, II, I",
+    "III, IV, I, II"
+   ],
+   "answer": 3,
+   "exp": "1958, 1963, 1964, 1972."
+  },
+  {
+   "q": "Arrange Amitav Ghosh's novels in chronological order: I. The Glass Palace II. The Shadow Lines III. The Hungry Tide IV. The Circle of Reason",
+   "options": [
+    "IV, II, I, III",
+    "II, IV, I, III",
+    "IV, I, II, III",
+    "IV, II, III, I"
+   ],
+   "answer": 0,
+   "exp": "1986, 1988, 2000, 2004."
+  },
+  {
+   "q": "Which of the following statements is correct?",
+   "options": [
+    "English is one of the languages listed in the Eighth Schedule.",
+    "Article 343 makes Hindi in Devanagari script the official language of the Union.",
+    "The Official Languages Act of 1963 ended the use of English for official purposes.",
+    "The Kothari Commission submitted its report in 1949."
+   ],
+   "answer": 1,
+   "exp": "343 sahi; English Eighth Schedule mein nahi; OLA ne English continue ki; Kothari 1964-66."
+  },
+  {
+   "q": "Which of the following statements about Wood's Despatch is correct?",
+   "options": [
+    "It was written by Macaulay in 1835.",
+    "It rejected any role for vernacular languages in education.",
+    "It recommended universities at Calcutta, Bombay and Madras on the model of London University.",
+    "It was issued after the Hunter Commission."
+   ],
+   "answer": 2,
+   "exp": "Wood's Despatch 1854 ne London model universities sujhaayi; vernacular schools bhi chahiye the."
+  },
+  {
+   "q": "Which of the following statements about Kachru's model is correct?",
+   "options": [
+    "Inner Circle varieties are norm-dependent.",
+    "Expanding Circle countries use English as an official second language.",
+    "China is placed in the Outer Circle.",
+    "Outer Circle varieties such as Indian English are norm-developing."
+   ],
+   "answer": 3,
+   "exp": "Inner norm-providing, Outer norm-developing, Expanding norm-dependent."
+  },
+  {
+   "q": "Which of the following statements about 'Samskara' is correct?",
+   "options": [
+    "It was written in Kannada by U.R. Ananthamurthy and translated by A.K. Ramanujan.",
+    "It was written in Malayalam by Thakazhi Sivasankara Pillai.",
+    "It was translated into English by Gayatri Spivak.",
+    "Its protagonist is the Paravan carpenter Velutha."
+   ],
+   "answer": 0,
+   "exp": "Samskara: Kannada, Ananthamurthy (1965), tr. Ramanujan (1976); hero Praneshacharya."
+  },
+  {
+   "q": "Which of the following statements about 'Hobson-Jobson' is correct?",
+   "options": [
+    "It is a novel by G.V. Desani written in hybrid English.",
+    "It is a glossary of Anglo-Indian words and phrases by Yule and Burnell, published in 1886.",
+    "It is Kachru's study of the Indianization of English.",
+    "It was compiled by William Jones for the Asiatic Society in 1784."
+   ],
+   "answer": 1,
+   "exp": "Hobson-Jobson 1886, Yule and Burnell."
+  }
+ ]
+}
